@@ -1,0 +1,31 @@
+<!-- Pagination -->
+<div class="blog-pagination" data-aos="fade-up">
+  <ul class="justify-content-center">
+    {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <li><a href="{{ site.url }}"><i class="icofont-rounded-left"></i></a></a>
+    {% else %}
+    <li><a href="/blog/page-{{ paginator.previous_page }}/"><i class="icofont-rounded-left"></i></a></li>
+    {% endif %}
+    {% endif %}
+    {% for i in (1..paginator.total_pages) %}
+    {% if i == 1 %}
+    {% if paginator.page == i %}
+    <li class="active"><a href="#">{{ i }}</a></li>
+    {% else %}
+    <li><a href="/">{{ i }}</a></li>
+    {% endif %}
+    {% else %}
+    {% if paginator.page == i %}
+    <li class="active"><a href="#">{{ i }}</a></li>
+    {% else %}
+    <li><a href="/blog/page-{{ i }}/">{{ i }}</a></li>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+    {% if paginator.next_page %}
+    <li><a href="/blog/page-{{ paginator.next_page }}/"><i class="icofont-rounded-right"></a></li>
+    {% else %}
+    {% endif %}
+  </ul>
+</div>

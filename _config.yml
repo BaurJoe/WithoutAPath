@@ -1,0 +1,137 @@
+title: Without A Path
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+disqus: "withoutapath"
+
+kramdown:
+  html_to_native: true
+
+gems:
+  - jekyll-paginate-v2
+
+# plugins
+plugins:
+  - jekyll-feed
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-target-blank
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/:num/'
+  title: ':title | :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+ # extension: htm
+ # indexpage: 'default'
+  trail: 
+    before: 2
+    after: 2
+
+# jekyll-seo-tag
+twitter:
+  username: benbalter
+  card: summary
+facebook:
+  app_id: 1234
+  publisher: 1234
+  admins: 1234
+social:
+  name: Ben Balter
+  links:
+    - https://instagram.com/BaurJoe
+    - https://twitter.com/BaurJoe
+    - https://www.facebook.com/BaurJoe
+    - http://www.youtube.com/user/MildlyRelevant/
+webmaster_verifications:
+  google: 1234
+  bing: 1234
+  alexa: 1234
+  yandex: 1234
+  baidu: 1234
+lang: en_US
+google-analytics: UA-1234567890
+
+# post permalinks
+permalink: /:title/
+permalink: pretty
+
+# jekyll-archives
+jekyll-archives:
+  enabled: []
+  layout: page
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+    slug_mode: latin
+
+# jekyll-cloudinary
+cloudinary:
+  cloud_name: <put here your Cloudinary "Cloud name">
+  verbose: false
+  presets:
+    default:
+      min_width: 320
+      max_width: 1600
+      fallback_max_width: 800
+      steps: 5
+      sizes: '(min-width: 50rem) 50rem, 90vw'
+      figure: always
+    logo:
+      min_width: 80
+      max_width: 400
+      fallback_max_width: 200
+      steps: 3
+      sizes: '(min-width: 50rem) 13rem, (min-width: 40rem) 25vw, 45vw'
+      figure: never
+      attributes:
+        class: logo
+
+# jekyll-feed
+feed:
+  path: atom.xml
+  excerpt_only: true
+
+include:
+ - _pages
+
+# defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: "joebaur"
+      layout: "page"
+      image: /assets/img/grumpy.jpg
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "joebaur"
+      layout: "post"
+      image: /assets/img/grumpy.jpg
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
+# collections
+collections:
+  authors:
+    output: false
+  travel-guides:
+    output: true
+  category:
+    output: true

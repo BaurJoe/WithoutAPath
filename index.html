@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{% if page.url == "/" %}
+
+{% include homepage-hero.html %}
+
+{% endif %}
+
+<main id="main">
+
+{% if page.url == "/" %}
+
+	{% include homepage-about.html %}
+
+	{% include homepage-clients.html %}
+
+	{% include homepage-services.html %}
+
+	{% include homepage-portfolio.html %}
+
+{% endif %}
+
+	{% include homepage-blog.html %}
+
+</main><!-- End #main -->

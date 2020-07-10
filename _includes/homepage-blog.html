@@ -1,0 +1,24 @@
+<!-- ======= Blog Section ======= -->
+<section id="blog" class="blog">
+  <div class="container">
+
+    <div class="section-title">
+      <h2>Blog</h2>
+      <p>Recent articles</p>
+    </div>
+
+  	<div class="row">
+      {% if page.url == "/" %}
+        {% for post in paginator.posts limit:6 %}
+          {% include postbox-vertical.html %}
+        {% endfor %}
+      {% else %}
+        {% for post in paginator.posts %}
+          {% include postbox-vertical.html %}
+        {% endfor %}
+      {% endif %}
+    </div>
+    {% include pagination.html %}
+
+  </div>
+</section>
