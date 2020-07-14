@@ -20,6 +20,13 @@ layout: default
     </div>
   </section><!-- End Breadcrumbs -->
 
-	{{ content }}
+
+<section id="{{ page.title | lowercase }}" class="{{ page.title | lowercase}}">
+  <div class="container">
+
+  	{{ content }}
+
+  </div>
+</section>
 
 </main>

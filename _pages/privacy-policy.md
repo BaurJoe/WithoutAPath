@@ -3,9 +3,10 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
+
 ## Who we are
 
-Our website address is: https://WithoutAPath.com.
+Our website address is: {{ site.url }}
 
 ## What personal data we collect and why we collect it
 

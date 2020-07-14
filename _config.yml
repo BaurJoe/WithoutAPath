@@ -77,6 +77,7 @@ feed:
 
 include:
  - _pages
+ - _travel-guides
 
 # defaults
 defaults:
@@ -84,12 +85,6 @@ defaults:
       path: ""
     values:
       author: "joebaur"
-      layout: "page"
-      image: /assets/img/grumpy.jpg
-  - scope:
-      path: ""
-      type: "_pages"
-    values:
       layout: "page"
       image: /assets/img/grumpy.jpg
   - scope:
@@ -103,13 +98,15 @@ defaults:
 collections:
   authors:
     output: false
+  travel-guides:
+    output: true
 
 autopages:
   enabled: enabled
   categories: 
     layouts: 
       - 'blog.html'
-    title: 'Posts in category :cat'
+    title: ':cat'
     permalink: '/category/:cat'
     slugify:
       mode: 'default'
@@ -117,7 +114,7 @@ autopages:
   collections:
     layouts: 
       - 'blog.html'
-    title: 'Posts in collection :coll'
+    title: ':coll'
     permalink: '/collection/:coll'
     slugify:
       mode: 'default'
@@ -125,7 +122,7 @@ autopages:
   tags:
     layouts: 
       - 'blog.html'
-    title: 'Posts tagged with :tag'
+    title: ':tag'
     permalink: '/tag/:tag'
     slugify:
       mode: 'default'
@@ -142,5 +139,5 @@ pagination:
 email: joe@joebaur.com
 address: A108 Adam Street, New York, NY 535022
 phone: +1 559 554 8855
-google-maps-embed: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38842.872214853356!2d13.368744298832484!3d52.52113878672291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e373f035901%3A0x42120465b5e3b70!2sBerlin!5e0!3m2!1sen!2sde!4v1594716411672!5m2!1sen!2sde
+google-maps-embed: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d77672.07668705504!2d13.334068693876274!3d52.52886744871557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sde!4v1594751666546!5m2!1sen!2sde
 formspree: mbjzpoqw
