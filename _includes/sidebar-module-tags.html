@@ -4,11 +4,11 @@
   {% assign sortedTags = site.tags %}  
     {% if sortedTags.first[0] == null %}
       {% for tag in sortedTags %} 
-        <li><a href="{{ site.url }}/tag/">{{ tag | camelcase }}</a></li>
+        <li><a href="{{ site.url }}/tag/{{ tag | slugify }}">{{ tag | camelcase }}</a></li>
       {% endfor %}
     {% else %}
       {% for tag in sortedTags %} 
-        <li><a href="{{ site.url }}/tag/">{{ tag[0] | camelcase }}</a></li>
+        <li><a href="{{ site.url }}/tag/{{ tag[0] | slugify }}">{{ tag[0] | camelcase }}</a></li>
       {% endfor %}
     {% endif %}
   {% assign sortedTags = nil %}

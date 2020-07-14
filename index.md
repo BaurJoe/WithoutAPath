@@ -1,22 +1,16 @@
 ---
+title: Home
 layout: default
 ---
 
-{% if page.url == "/" %}
 
-	{% include homepage-hero.html %}
-
-{% endif %}
+{% include homepage-hero.html %}
 
 <main id="main">
-
-{% if page.url == "/" %}
 
 	{% include homepage-about.html %}
 
 	{% include homepage-clients.html %}
-
-{% endif %}
 
 	{% include homepage-blog.html %}
 

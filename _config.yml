@@ -5,6 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://withoutapath.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  BaurJoe
 disqus: "withoutapath"
 locale: en_US
 
@@ -87,6 +88,12 @@ defaults:
       image: /assets/img/grumpy.jpg
   - scope:
       path: ""
+      type: "_pages"
+    values:
+      layout: "page"
+      image: /assets/img/grumpy.jpg
+  - scope:
+      path: ""
       type: "posts"
     values:
       layout: "post"
@@ -101,7 +108,7 @@ autopages:
   enabled: enabled
   categories: 
     layouts: 
-      - 'autopage_category.html'
+      - 'blog.html'
     title: 'Posts in category :cat'
     permalink: '/category/:cat'
     slugify:
@@ -109,7 +116,7 @@ autopages:
       case: true
   collections:
     layouts: 
-      - 'autopage_collection.html'
+      - 'blog.html'
     title: 'Posts in collection :coll'
     permalink: '/collection/:coll'
     slugify:
@@ -117,23 +124,19 @@ autopages:
       case: true 
   tags:
     layouts: 
-      - 'autopage_tags.html'
+      - 'blog.html'
     title: 'Posts tagged with :tag'
     permalink: '/tag/:tag'
     slugify:
       mode: 'default'
       case: true
 
-# Pagination Settings
+# Pagination Settings https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md
 pagination:
   enabled: true
-  collection: 'posts'
   per_page: 9
   permalink: '/page-:num/'
   title: ':title'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
 
 # contact info 
 email: joe@joebaur.com

@@ -1,31 +1,17 @@
 <!-- Pagination -->
 <div class="blog-pagination" data-aos="fade-up">
+  {% if paginator.total_pages > 1 %}
   <ul class="justify-content-center">
     {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-    <li><a href="{{ site.url }}"><i class="icofont-rounded-left"></i></a></a>
-    {% else %}
-    <li><a href="/blog/page-{{ paginator.previous_page }}/"><i class="icofont-rounded-left"></i></a></li>
+    <li class="previous">
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
     {% endif %}
-    {% endif %}
-    {% for i in (1..paginator.total_pages) %}
-    {% if i == 1 %}
-    {% if paginator.page == i %}
-    <li class="active"><a href="#">{{ i }}</a></li>
-    {% else %}
-    <li><a href="/">{{ i }}</a></li>
-    {% endif %}
-    {% else %}
-    {% if paginator.page == i %}
-    <li class="active"><a href="#">{{ i }}</a></li>
-    {% else %}
-    <li><a href="/blog/page-{{ i }}/">{{ i }}</a></li>
-    {% endif %}
-    {% endif %}
-    {% endfor %}
     {% if paginator.next_page %}
-    <li><a href="/blog/page-{{ paginator.next_page }}/"><i class="icofont-rounded-right"></a></li>
-    {% else %}
+    <li class="next">
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
     {% endif %}
   </ul>
+  {% endif %}
 </div>

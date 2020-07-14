@@ -1,6 +1,9 @@
 ---
 title: Blog
 permalink: /blog/
+layout: blog
+pagination: 
+  enabled: true
 ---
 
 
@@ -9,7 +12,7 @@ permalink: /blog/
 
     <div class="row">
 
-      {% for post in site.posts limit:9 %}
+      {% for post in site.posts %}
       {% include postbox-vertical.html %}
       {% endfor %}
 

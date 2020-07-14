@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+
+<section id="blog" class="blog">
+  <div class="container">
+
+    <h1 class="page-heading">{% if page.autopages %}{{page.autopages.display_name}} {% endif %}Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</h1>
+
+    {{ content | markdownify }}
+
+    <div class="row">
+      {% for post in paginator.posts %}
+      {% include postbox-vertical.html %}
+      {% endfor %}
+    </div>
+
+    {% include pagination.html %}
+
+  </div>
+</section>

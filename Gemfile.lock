@@ -54,8 +54,6 @@ GEM
       nokogiri (~> 1.6)
       progressbar (~> 1.9)
       verbal_expressions (~> 0.1.5)
-    jekyll-archives (2.2.1)
-      jekyll (>= 3.6, < 5.0)
     jekyll-cloudinary (1.14.1)
       fastimage (~> 2.0)
       jekyll (>= 3.6, < 5)
@@ -133,7 +131,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.1.1)
   jekyll-algolia
-  jekyll-archives
   jekyll-cloudinary
   jekyll-feed
   jekyll-paginate-v2
