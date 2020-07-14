@@ -4,7 +4,7 @@ categories:
 - Europe
 ---
 
-![Brewery De Halve Maan - Brugse Zot Dinner](https://withoutapath.com/wp-content/uploads/2018/07/Brewery-De-Halve-Maan-Brugse-Zot-Dinner-1024x768.jpeg)
+![Brewery De Halve Maan - Brugse Zot Dinner]({{ site.url }}/assets/img/2018/07/Brewery-De-Halve-Maan-Brugse-Zot-Dinner.jpeg)
 
 _**Disclaimer:** Visit Bruges partly supported this visit. As always, all opinions are my own._
 
@@ -20,12 +20,12 @@ The exception to this seems to be Belgium where craft beer never stopped being a
 
 ## Belgian Beer in Bruges
 
-![Bruges View from Belfry](https://withoutapath.com/wp-content/uploads/2018/07/Bruges-View-from-Belfry.jpeg)
+![Bruges View from Belfry]({{ site.url }}/assets/img/2018/07/Bruges-View-from-Belfry.jpeg)
 
 If you look for it, you can find craft beer. But the truth is, craft beer can be underwhelming when matched up against the classics. There’s the saison that’s missing a little sweetness or the IPA that’s perfectly enjoyable, but nothing remarkable compared to something you’d find in the Pacific Northwest where hops don’t have to travel far before meeting their brewer.
 When you wise up and switch to the classics, the traditional representatives of the nation, it seems impossible to be disappointed if you have anything resembling a moderately discernible palate. The La Trappe Blond is a standard bearer for the style, OMER continues to be the bartender recommendation for a Stronger Golden Ale, and then there’s anything that Brugse Zot or Straffe Hendrik decides to brew.
 
-**![Viven Belgian Craft Beer Bruges](https://withoutapath.com/wp-content/uploads/2018/07/Viven-Belgian-Craft-Beer-Bruges-826x1024.jpeg)Tip:** Brugse Zot and Staffe Hendrik are brewed at De Halve Maan. They offer a full menu paired with their beer. The Belgian Blonde goes with the shrimp croquette appetizer, the Straffe Hendrik Tripel with the farmhouse chicken, and the heavy Quadrupel – with 11 percent ABV – with the poached peach dessert. Under a blue sky during the July Belgian National Holiday, it was mercifully less touristy as the city center with manageable crowds and still the distinct sound of the Flemish language in the air.
+**![Viven Belgian Craft Beer Bruges]({{ site.url }}/assets/img/2018/07/Viven-Belgian-Craft-Beer-Bruges.jpeg)Tip:** Brugse Zot and Staffe Hendrik are brewed at De Halve Maan. They offer a full menu paired with their beer. The Belgian Blonde goes with the shrimp croquette appetizer, the Straffe Hendrik Tripel with the farmhouse chicken, and the heavy Quadrupel – with 11 percent ABV – with the poached peach dessert. Under a blue sky during the July Belgian National Holiday, it was mercifully less touristy as the city center with manageable crowds and still the distinct sound of the Flemish language in the air.
 
 Best of all, you can usually find these beers anywhere you go in Bruges. It’s a stark contrast [coming from Germany](https://withoutapath.com/craft-beer-berlin/) where bars usually only sell the style of their city alongside maybe one Hefeweizen (if you’re outside of Bavaria) or North America where you generally have to go to a specialty beer bar for Belgian treats. In Belgium, and certainly Bruges, the best beer in the world is regularly available to everyone for a reasonable price.
 

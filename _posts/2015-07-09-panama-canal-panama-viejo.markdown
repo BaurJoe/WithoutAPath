@@ -19,7 +19,7 @@ Next was what Melanie had most anticipated (and I a normal, reasonable amount) i
 
 ## **The Panama Canal**
 
-[![A Panama Canal customer approaches the Gatun lock.](https://withoutapath.com/wp-content/uploads/2015/05/Panama-Canal-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Panama-Canal-JoeBaur.jpg){: .img-fluid}
+[![A Panama Canal customer approaches the Gatun lock.]({{ site.url }}/assets/img/2015/05/Panama-Canal-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Panama-Canal-JoeBaur.jpg){: .img-fluid}
 
 The amount of material created by the Panama Canal -- its construction, politics, and aftermath -- could probably stretch the length of the actual canal and then some. PBS has a good documentary on it and David McCullough hit every detail in _The Path Between the Seas_*. Here are the main takeaways.
 
@@ -49,7 +49,7 @@ Our two final stops came at the Palacio Presidencial back in Casco and then at P
 
 We fittingly ended where Panama City as we know it today technically began -- at Panama Viejo where the original location of Panama City was burned to the ground in 1671 by the Englishman Henry Morgan, known as a pirate to the Spanish and descendants of its historic settlements. Reconstruction started further south in Casco as it was believed to be easier to defend. Today the area, north of downtown Panama City, shares World Heritage Site honors with Casco.
 
-[![Panama Vieja, burned to the ground by the pirate Henry Morgan.](/wp-content/uploads/2015/05/_d_improd_/Panama-Viejo-Skyline-JoeBaur-1024x683_f_improf_672x448.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Panama-Viejo-Skyline-JoeBaur.jpg){: .img-fluid}
+[![Panama Vieja, burned to the ground by the pirate Henry Morgan.](/wp-content/uploads/2015/05/_d_improd_/Panama-Viejo-Skyline-JoeBaur-1024x683_f_improf_672x448.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Panama-Viejo-Skyline-JoeBaur.jpg){: .img-fluid}
 
 Walking the grounds of the fallen city was actually quite remarkable. Much of the original framework remained intact -- dirt footpaths, stone towers and all -- accompanied with the fresh air that tends to circulate in an unpopulated town, much less ruins. Beyond the ruins, the hyper-modern Panama City skyline stood perfectly visible with scaffolds surrounding new skyscrapers under construction.
 

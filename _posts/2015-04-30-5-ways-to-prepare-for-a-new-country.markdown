@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Thai Sunset - JOE BAUR](https://withoutapath.com/wp-content/uploads/2015/04/Thai-Sunset-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/04/Thai-Sunset-JOE-BAUR.jpg){: .img-fluid}
+[![Thai Sunset - JOE BAUR]({{ site.url }}/assets/img/2015/04/Thai-Sunset-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/04/Thai-Sunset-JOE-BAUR.jpg){: .img-fluid}
 
 If you're traveling someplace, I pray to the powers that be that you have at least a general interest in where you're going. I simply cannot understand how someone can go someplace and not wonder how this place got there, what the history is, and for Americans, have we at some point funded a military coup where I'm traveling?*
 

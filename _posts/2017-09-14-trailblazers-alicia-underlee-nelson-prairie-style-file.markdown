@@ -4,7 +4,7 @@ categories:
 - Trailblazers
 ---
 
-![Painted Canyon Near Medora North Dakota](https://withoutapath.com/wp-content/uploads/2017/09/Painted-Canyon-Near-Medora-North-Dakota-1024x768.jpg){: .img-fluid}
+![Painted Canyon Near Medora North Dakota]({{ site.url }}/assets/img/2017/09/Painted-Canyon-Near-Medora-North-Dakota.jpg){: .img-fluid}
 
 Off the beaten path travel is increasingly difficult to find as time marches on. Mass tourism is impacting everything from our favorite cities to the seas that surround them. All the while locals and the environment are often an afterthought. This series, [Trailblazers](http://withoutapath.com/category/trailblazers/), checks in with writers, photographers, filmmakers, activists and environmentalists who are passionate about off the beaten path travel. 
 
@@ -20,7 +20,7 @@ Alicia Underlee Nelson is a freelance writer and photographer with a thing for h
 
 I have a fondness for people and places that most people don’t know much about. There are so many places in the world that are overlooked by travelers, simply because they’re remote or evolving or don’t promote themselves as aggressively as their neighbors. (I should know – I live in one of them.) I love shining a light on unusual spots and unconventional people and taking the time to really go deep into a story or a place I’m visiting. If the stories I tell tempt people away from more conventional trips and encourage them to take a chance and explore somewhere new, that’s even better.
 
-![San Juan Puerto Rico El Escambron](https://withoutapath.com/wp-content/uploads/2017/09/San-Juan-Puerto-Rico-El-Escambron-1024x576.jpg){: .img-fluid}
+![San Juan Puerto Rico El Escambron]({{ site.url }}/assets/img/2017/09/San-Juan-Puerto-Rico-El-Escambron.jpg){: .img-fluid}
 
 **WAP **_What inspired you to start writing about off the beaten path destinations?_
 
@@ -32,7 +32,7 @@ I have a fondness for people and places that most people don’t know much about
 
 We’re not dependent on a handful of recommended hotels and tour guides anymore. Apps, blogs, social media, specialized magazines and websites and navigation tools can help us go beyond the marquee attractions, get out of the tourist zones and actually connect with local people. That’s empowering for travelers and makes it easy to get a local perspective.
 
-![Winnipeg Manitoba Exchange District](https://withoutapath.com/wp-content/uploads/2017/09/Winnipeg-Manitoba-Exchange-District-By-Alicia-Underlee-Nelson-1024x689.jpg){: .img-fluid}
+![Winnipeg Manitoba Exchange District]({{ site.url }}/assets/img/2017/09/Winnipeg-Manitoba-Exchange-District-By-Alicia-Underlee-Nelson.jpg){: .img-fluid}
 
 **WAP **_What’s been the biggest surprise you’ve experienced since getting started?_
 
@@ -44,7 +44,7 @@ I don’t think this is unique to me or to my part of the world. Most travelers 
 
 But if my work has taught me anything, it’s that experiencing the attractions within a few hundred miles of your home base can keep you busy for years, which is great news for people with limited time and money. And it’s environmentally responsible to start where you are and work your way out, rather than jetting all over the world for a few days.
 
-![Oxbow Overlook Landscape at Theodore Roosevelt National Park North Unit](https://withoutapath.com/wp-content/uploads/2017/09/Oxbow-Overlook-Landscape-at-Theodore-Roosevelt-National-Park-North-Unit.jpg){: .img-fluid}
+![Oxbow Overlook Landscape at Theodore Roosevelt National Park North Unit]({{ site.url }}/assets/img/2017/09/Oxbow-Overlook-Landscape-at-Theodore-Roosevelt-National-Park-North-Unit.jpg){: .img-fluid}
 
 **WAP **_Do you have a favorite off the beaten path travel destination?_
 
@@ -56,7 +56,7 @@ I also have a huge soft spot for the side streets and little villages of Spain. 
 
 **WAP **_How can the travel industry both preserve off the beaten path travel destinations and help those areas that have been negatively impacted by mass tourism?_
 
-**![Alicia Underlee Nelson of Prairie Style File](https://withoutapath.com/wp-content/uploads/2017/09/Alicia-Underlee-Nelson-of-Prairie-Style-File-820x1024.jpg){: .img-fluid}AN **I’m all for limiting attendance at places that are suffering from too many visitors, whether it’s by starting a lottery system for tickets, staggering visits, shortening the season or charging travelers more to visit. I’m fine with paying more, as long as the locals don’t have to.  (Tourists getting access when locals don’t drives me nuts.) 
+**![Alicia Underlee Nelson of Prairie Style File]({{ site.url }}/assets/img/2017/09/Alicia-Underlee-Nelson-of-Prairie-Style-File.jpg){: .img-fluid}AN **I’m all for limiting attendance at places that are suffering from too many visitors, whether it’s by starting a lottery system for tickets, staggering visits, shortening the season or charging travelers more to visit. I’m fine with paying more, as long as the locals don’t have to.  (Tourists getting access when locals don’t drives me nuts.) 
 
 The travel industry – including travel writers – can help alleviate pressure on popular destinations and promote off the beaten path spots by encouraging travelers to think about what they really want to _experience_ on their trip -- not just what they want to see. Some people taking selfies from the Eiffel Tower are thrilled to be there. This is both what they came to see and what they wanted to experience. They want the anticipation, the view, the chance to actually stand inside a monument they’ve seen on postcards since they were kids.
 

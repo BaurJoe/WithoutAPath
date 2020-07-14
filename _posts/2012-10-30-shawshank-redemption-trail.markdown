@@ -28,7 +28,7 @@ Further in, I saw a town center with shops and restaurants scattered along walka
 
 ## **On Your Mark**
 
-![Mid Ohio Sports Car Course](https://withoutapath.com/wp-content/uploads/2012/10/Mid-Ohio-Sports-Car-Course.jpg){: .img-fluid}
+![Mid Ohio Sports Car Course]({{ site.url }}/assets/img/2012/10/Mid-Ohio-Sports-Car-Course.jpg){: .img-fluid}
 
 Our first stop was the Mid-Ohio Sports Car Course, founded and built in 1962 just outside of Mansfield. The track features a permanent road-racing circuit with two primary configurations: a 2.4-mile, 15-turn, and a 2.25-mile, 13-turn circuit. Everyone from amateurs to professionals are welcome to partake in a variety of locally, regionally and nationally sanctioned events throughout the year. New to the sport? Sign up for the driving school.
 
@@ -36,14 +36,14 @@ The rain let up prior to our arrival, leaving us a slick but drivable course. 19
 
 Next, we met up with fellow travel writers, Jamie and Rich, before heading to Snow Trails for a behind-the-scenes look at operations before the winter season. Here I learned that making snow is a bitch and a costly bitch at that.
 
-![Snow Trails Last Run Bar](https://withoutapath.com/wp-content/uploads/2012/10/Snow-Trails-Last-Run-Bar.jpg){: .img-fluid}
+![Snow Trails Last Run Bar]({{ site.url }}/assets/img/2012/10/Snow-Trails-Last-Run-Bar.jpg){: .img-fluid}
 
 Nate, our young host who's no stranger to just about any athletic endeavor, showed us around the 200-acre facility featuring a sizable rustic lodge with the hole-in-the-wall Last Run drinking establishment. You don't even need to be a winter adventurer to enjoy the wide-open view of the slopes surrounded by good company and drinks. I'll be back this winter to fully embarrass myself by falling with style from the top of their rolling hills. Or maybe I'll stick to tubing.
 
 ## **"The Big House"
 **
 
-![Louis Bromfield Big House](https://withoutapath.com/wp-content/uploads/2012/10/Louis-Bromfield-Big-House.jpg){: .img-fluid}
+![Louis Bromfield Big House]({{ site.url }}/assets/img/2012/10/Louis-Bromfield-Big-House.jpg){: .img-fluid}
 
 Our afternoon and early evening were spent at Malabar Farm State Park. 875 acres of public land provided the perfect vantage point for a sweeping view of Ohio's fall colors. It's also the home of Pulitzer Prize-winning author Louis Bromfield's extravagant mid-20th Century home that just-so-happens to also be where legendary actors Humphrey Bogart and Lauren Bacall exchanged nuptials in 1945. You may remember Mr. Bromfield himself from such works as Early  Autumn, The Rains Came and Mrs. Parkington -- of which the latter two were made into successful feature films.
 
@@ -60,7 +60,7 @@ Dinner couldn't have come at a better time or at a better place. Everything abou
 ## **A Haunted Show at the Ohio State Reformatory
 **
 
-![Shawshank-Redemption-Trail-and-Haunted-Houses-in-Mansfield](https://withoutapath.com/wp-content/uploads/2012/10/Shawshank-Redemption-Trail-and-Haunted-Houses-in-Mansfield.jpg){: .img-fluid}
+![Shawshank-Redemption-Trail-and-Haunted-Houses-in-Mansfield]({{ site.url }}/assets/img/2012/10/Shawshank-Redemption-Trail-and-Haunted-Houses-in-Mansfield.jpg){: .img-fluid}
 
 This prison was designed to intimidate. Designed to torture the mind and soul. So why not walk around in the dark, while zombies try to harvest your flesh? That's the story behind this year's Haunted X experience at the Ohio State Reformatory.
 

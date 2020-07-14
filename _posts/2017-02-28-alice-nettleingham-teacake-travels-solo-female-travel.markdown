@@ -11,4 +11,4 @@ If you've ever wanted to travel to Venice but have been intimidated by its reput
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-![Alice-Nettleingham-of-Teacake-Travels-Talks-Solo-Female-Travel](https://withoutapath.com/wp-content/uploads/2017/04/Alice-Nettleingham-of-Teacake-Travels-Talks-Solo-Female-Travel-683x1024.jpg){: .img-fluid}
+![Alice-Nettleingham-of-Teacake-Travels-Talks-Solo-Female-Travel]({{ site.url }}/assets/img/2017/04/Alice-Nettleingham-of-Teacake-Travels-Talks-Solo-Female-Travel.jpg){: .img-fluid}

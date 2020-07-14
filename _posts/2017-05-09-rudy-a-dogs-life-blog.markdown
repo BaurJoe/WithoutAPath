@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![Rudy A Dog's Life](https://withoutapath.com/wp-content/uploads/2017/05/Rudy-A-Dogs-Life.jpg){: .img-fluid}
+![Rudy A Dog's Life]({{ site.url }}/assets/img/2017/05/Rudy-A-Dogs-Life.jpg){: .img-fluid}
 
 I remember picking him up at the farm. It was the summer of 2001, going into my freshman year of high school. Like any kid, I had always wanted a dog. We had one when I was little, but my best recollection is that I was a bit afraid of him.
 
@@ -30,7 +30,7 @@ And when he played, _he played_. He'd hold on tight to chew toys to the point w
 
 Everyone knows when they get a dog that they live but a fraction of a human life. Rat terriers, due to their size, come with a longer life expectancy. I've seen anywhere between 15 and 20 years. But whether it's 5 years or 20 years, you never think about that in the moment. The connection between man and dog grows faster than between two humans. Case in point, you're much more likely to start hugging and letting a dog kiss you at first sight than you are another person. (No judgments if that's your bag.)
 
-![Rudy A Dog's Life 2](https://withoutapath.com/wp-content/uploads/2017/05/Rudy-A-Dogs-Life-2.jpg){: .img-fluid}
+![Rudy A Dog's Life 2]({{ site.url }}/assets/img/2017/05/Rudy-A-Dogs-Life-2.jpg){: .img-fluid}
 
 The same held true for Rudy. As soon as he entered our lives, I never imagined him not in it even though I rationally knew he wouldn't be some day. I remember him being the lone bright spot on 9/11 when he came trotting out of the car after football practice (ignorance truly is bliss) and he always came on our family trips, plopped firmly on the pillow on my mother's lap, barking uncontrollably when he could somehow sense that my dad was pulling into a gas station.
 
@@ -58,4 +58,4 @@ Rudy brought overwhelming joy to our lives. Sure there were those mornings when 
 
 He was a good dog. He was family. And as my dad said, I'll miss that tough little bugger.
 
-![Rudy A Dog's Life Story](https://withoutapath.com/wp-content/uploads/2017/05/Rudy-A-Dogs-Life-Story-683x1024.jpg){: .img-fluid}
+![Rudy A Dog's Life Story]({{ site.url }}/assets/img/2017/05/Rudy-A-Dogs-Life-Story.jpg){: .img-fluid}

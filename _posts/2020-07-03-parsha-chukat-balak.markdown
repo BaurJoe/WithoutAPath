@@ -2,9 +2,10 @@
 title: Parsha Chukat-Balak | Worst Torah Portion Ever
 categories:
 - Essays
+homepage: false
 ---
 
-![](https://withoutapath.com/wp-content/uploads/2020/07/sharon-mccutcheon-IdRuL0Fb5Kc-unsplash-1024x683.jpg){: .img-fluid}Photo by [Sharon McCutcheon](https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bored-at-home?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![]({{ site.url }}/assets/img/2020/07/sharon-mccutcheon-IdRuL0Fb5Kc-unsplash.jpg){: .img-fluid}Photo by [Sharon McCutcheon](https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bored-at-home?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Chukat-Balak, Numbers 19:1 – 25:9. [Click here to read the previous portion, Parsha Korach.](https://withoutapath.com/parsha-korach/)_
 

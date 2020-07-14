@@ -12,4 +12,4 @@ Rocker [Kaila Yu](http://kailayu.com/) from [Nylon Pink](http://www.nylonpink.tv
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Kaila-Yu-of-Nylon-Pink-Talks-Beauty-Blogging-and-Travels-on-Tour.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Kaila-Yu-of-Nylon-Pink-Talks-Beauty-Blogging-and-Travels-on-Tour.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Kaila-Yu-of-Nylon-Pink-Talks-Beauty-Blogging-and-Travels-on-Tour.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Kaila-Yu-of-Nylon-Pink-Talks-Beauty-Blogging-and-Travels-on-Tour.jpg){: .img-fluid}

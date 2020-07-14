@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Praying and Chatting - JOE BAUR](https://withoutapath.com/wp-content/uploads/2015/05/Praying-and-Chatting-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Praying-and-Chatting-JOE-BAUR.jpg){: .img-fluid}
+[![Praying and Chatting - JOE BAUR]({{ site.url }}/assets/img/2015/05/Praying-and-Chatting-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Praying-and-Chatting-JOE-BAUR.jpg){: .img-fluid}
 
 The world is huge. There's so much to see in a lifetime, that you could easily avoid the rougher edges if you wish. Foreign excursions can be limited to all inclusive resorts or just Canada.* That's fine if that's your bag.
 

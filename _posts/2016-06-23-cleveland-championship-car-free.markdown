@@ -11,7 +11,7 @@ I've already written about [what it's like to live in a championship city](https
 
 ## "I HAVE OPTIONS"
 
-[![Lorain-Carnegie Bridge during Cleveland Cavaliers championship parade](https://withoutapath.com/wp-content/uploads/2016/06/Lorain-Carnegie-Bridge-during-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/Lorain-Carnegie-Bridge-during-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}
+[![Lorain-Carnegie Bridge during Cleveland Cavaliers championship parade]({{ site.url }}/assets/img/2016/06/Lorain-Carnegie-Bridge-during-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/Lorain-Carnegie-Bridge-during-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}
 
 I started the morning with a three-mile run around 6 a.m. Running from my Ohio City neighborhood, over the Lorain-Carnegie Bridge, through Downtown, and back over the Detroit-Superior Bridge completed a perfect three-mile loop. It also gave me an opportunity to scope out the crowd.
 
@@ -25,7 +25,7 @@ For so many others, it was an introduction to the sorry state of public transpor
 
 ## DECIMATED BY THE CAR
 
-[![Cleveland skyline during Cleveland Cavaliers championship parade](https://withoutapath.com/wp-content/uploads/2016/06/Cleveland-skyline-during-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/Cleveland-skyline-during-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}
+[![Cleveland skyline during Cleveland Cavaliers championship parade]({{ site.url }}/assets/img/2016/06/Cleveland-skyline-during-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/Cleveland-skyline-during-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}
 
 While my family and I were enjoying our scenic walk over the Lorain-Carnegie Bridge with some of the best views of the Cleveland skyline, others were stuck in multi-hour lines trying to board a train. Many tweeted their frustrations to RTA, who to their credit, [admitted their failure and used it as an opportunity](http://www.citylab.com/commute/2016/06/the-cavaliers-victory-is-the-cleveland-transit-authoritys-nightmare/488339/) to point out to first-time users that [they are embarrassingly underfunded](http://www.clevescene.com/scene-and-heard/archives/2016/06/22/rta-is-using-todays-championship-parade-craziness-to-remind-northeast-ohio-that-its-underfunded).
 
@@ -49,7 +49,7 @@ At least, that's what I used to think.
 
 ## OPEN STREETS CHAMPIONSHIP
 
-[![Aerial view of the Cleveland Cavaliers championship parade](https://withoutapath.com/wp-content/uploads/2016/06/Aerial-view-of-the-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/Aerial-view-of-the-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}
+[![Aerial view of the Cleveland Cavaliers championship parade]({{ site.url }}/assets/img/2016/06/Aerial-view-of-the-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/Aerial-view-of-the-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}
 
 It turns out that a championship parade is another way to give folks in car-centric cities a taste of a multi-modal, walkable city. Major thoroughfares were closed to pedestrian and bike traffic only throughout Downtown Cleveland. People who would usually make a fuss about walking three blocks from a parking space to the office were happily walking over a mile to get to the parade, spending the entire day on foot. City cyclists reported feeling safer than they've ever felt, having strength in numbers against those who (stupidly) decided to attempt driving into the parade. I can certainly concur as a pedestrian yesterday.
 
@@ -59,7 +59,7 @@ So often we hear people complain about parking and worry how they're going to ge
 
 That's when I knew what I'd do with my GoPro footage. Not only would I chronicle a Cleveland championship for personal reasons -- because God only knows when we'll experience this joy again -- but also to document for my suburban and car-first friends how much more enjoyable a city is when it puts people first.
 
-[![The Cleveland Mall at the Cleveland Cavaliers championship parade](https://withoutapath.com/wp-content/uploads/2016/06/The-Cleveland-Mall-at-the-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/The-Cleveland-Mall-at-the-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}
+[![The Cleveland Mall at the Cleveland Cavaliers championship parade]({{ site.url }}/assets/img/2016/06/The-Cleveland-Mall-at-the-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/The-Cleveland-Mall-at-the-Cleveland-Cavaliers-championship-parade.jpg){: .img-fluid}
 
 For those who missed the parade because of record lines at RTA stations or wondered why the system isn't nearly as expansive as it should be, perhaps they'll think about those who rely on an underfunded system facing fare hikes next time politicians and state officials purpose yet another highway extension or boulevard widening project. Perhaps they'll consider that we need to go back to a Cleveland that puts pedestrians, cyclists, and transit riders first -- y'know, the Cleveland that was once the sixth largest in population.
 
@@ -67,4 +67,4 @@ Watch my video or any other video of the Cleveland championship parade. Watch an
 
 Here's hoping we throughout the globe continue to find reasons to give our streets back to people and that we in Cleveland don't have to wait another 52 years to see it happen again.
 
-[![How a Cavaliers championship made Cleveland virtually car-free pinterest](https://withoutapath.com/wp-content/uploads/2016/06/How-a-Cavaliers-championship-made-Cleveland-virtually-car-free-pinterest.png)](https://withoutapath.com/wp-content/uploads/2016/06/How-a-Cavaliers-championship-made-Cleveland-virtually-car-free-pinterest.png)
+[![How a Cavaliers championship made Cleveland virtually car-free pinterest]({{ site.url }}/assets/img/2016/06/How-a-Cavaliers-championship-made-Cleveland-virtually-car-free-pinterest.png)]({{ site.url }}/assets/img/2016/06/How-a-Cavaliers-championship-made-Cleveland-virtually-car-free-pinterest.png)

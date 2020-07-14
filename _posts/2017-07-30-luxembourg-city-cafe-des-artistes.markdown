@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![](https://withoutapath.com/wp-content/uploads/2017/07/Luxembourg-City-View.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2017/07/Luxembourg-City-View.jpg){: .img-fluid}
 
 ###### **DISCLOSURE:** Travel to Luxembourg was supported by [Visit Luxembourg](http://www.visitluxembourg.com/en). As always, all opinions remain my own.
 

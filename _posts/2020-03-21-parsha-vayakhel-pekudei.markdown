@@ -2,9 +2,10 @@
 title: Parsha Vayakhel-Pekudei | Finishing The Tabernacle
 categories:
 - Essays
+homepage: false
 ---
 
-![](https://withoutapath.com/wp-content/uploads/2020/03/james-ballard-aJNyKBJVUqI-unsplash.jpg){: .img-fluid}Photo by [james ballard](https://unsplash.com/@jamesballard79?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/negev?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![]({{ site.url }}/assets/img/2020/03/james-ballard-aJNyKBJVUqI-unsplash.jpg){: .img-fluid}Photo by [james ballard](https://unsplash.com/@jamesballard79?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/negev?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Vayakhel-Pekudei, Exodus 35:1 – 40:38. [Click here to read last week’s, Parsha Ki Tisa](https://withoutapath.com/parsha-ki-tisa/)._
 

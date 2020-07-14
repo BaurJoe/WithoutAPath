@@ -13,4 +13,4 @@ It seems like 2017 is going to fly by with trips planned well through summer. [B
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-![Erick-van-Til-Finds-a-Home-in-Southeast-Asia-and-the-Peninsula-Outdoor-School](https://withoutapath.com/wp-content/uploads/2017/04/Erick-van-Til-Finds-a-Home-in-Southeast-Asia-and-the-Peninsula-Outdoor-School-683x1024.jpg){: .img-fluid}
+![Erick-van-Til-Finds-a-Home-in-Southeast-Asia-and-the-Peninsula-Outdoor-School]({{ site.url }}/assets/img/2017/04/Erick-van-Til-Finds-a-Home-in-Southeast-Asia-and-the-Peninsula-Outdoor-School.jpg){: .img-fluid}

@@ -5,7 +5,7 @@ categories:
 - Podcast
 ---
 
-![Arturo Castro Nogueras Playing Classical Guitar](https://withoutapath.com/wp-content/uploads/2018/05/arturo-1024x683.jpg){: .img-fluid}
+![Arturo Castro Nogueras Playing Classical Guitar]({{ site.url }}/assets/img/2018/05/arturo.jpg){: .img-fluid}
 
 ## Immigrant and Classical Guitarist, Arturo Castro Nogueras
 

@@ -11,7 +11,7 @@ We pulled up to a dock, pitch black. I could see hints of a pavilion of sorts wi
 
 ###### "Utter Silence"
 
-[caption id="attachment_1276" align="aligncenter" width="600"][![The entrance to Hotel Tierra Verde looking just a tad sunnier than our pitch black arrival.](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-252-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-252.jpg){: .img-fluid} The entrance to Hotel Tierra Verde looking just a tad sunnier than our pitch black arrival.[/caption]
+[caption id="attachment_1276" align="aligncenter" width="600"][![The entrance to Hotel Tierra Verde looking just a tad sunnier than our pitch black arrival.]({{ site.url }}/assets/img/2014/11/Bocas-252.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/11/Bocas-252.jpg){: .img-fluid} The entrance to Hotel Tierra Verde looking just a tad sunnier than our pitch black arrival.[/caption]
 
 Moving from stone step to stone step, our hosts greeted us out on the patio.
 
@@ -29,7 +29,7 @@ Sitting on the patio out on the sea, we finally had a moment to take in our surr
 
 ###### "Mixing It Up"
 
-[caption id="attachment_1277" align="aligncenter" width="600"][![Quiet pedestrian and bike traffic early on this Saturday morning.](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-74-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-74.jpg){: .img-fluid} Quiet pedestrian and bike traffic early on this Saturday morning.[/caption]
+[caption id="attachment_1277" align="aligncenter" width="600"][![Quiet pedestrian and bike traffic early on this Saturday morning.]({{ site.url }}/assets/img/2014/11/Bocas-74.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/11/Bocas-74.jpg){: .img-fluid} Quiet pedestrian and bike traffic early on this Saturday morning.[/caption]
 
 The next morning, we headed into Bocas Town for our first real walk around the small Caribbean city with no plan in mind other than a noon yoga appointment with Laura Kay at [Bocas Yoga](http://www.bocasyoga.com/).
 
@@ -37,7 +37,7 @@ It doesn't take long to feel like you're in a beach town. But Bocas is, thankfu
 
 Hostels, hotels, restaurants,  and tourists shops line the streets of Bocas Town center, open and ready to serve. Drivers and trip leaders track you down.
 
-[caption id="attachment_1278" align="aligncenter" width="600"][![Hotels and hostels galore in Bocas del Toro.](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-66-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-66.jpg){: .img-fluid} Hotels and hostels galore in Bocas del Toro.[/caption]
+[caption id="attachment_1278" align="aligncenter" width="600"][![Hotels and hostels galore in Bocas del Toro.]({{ site.url }}/assets/img/2014/11/Bocas-66.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/11/Bocas-66.jpg){: .img-fluid} Hotels and hostels galore in Bocas del Toro.[/caption]
 
 "Hola! ¿Cómo está? ¿Inglés? What's the plan today, man?"
 
@@ -45,7 +45,7 @@ The aggressiveness can be a bit off-putting, but you have to understand that thi
 
 ###### "The Old Good Times"
 
-[caption id="attachment_1279" align="aligncenter" width="600"][![Locals can see the development heading their way.](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-94-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-94.jpg){: .img-fluid} Locals can see the development heading their way.[/caption]
+[caption id="attachment_1279" align="aligncenter" width="600"][![Locals can see the development heading their way.]({{ site.url }}/assets/img/2014/11/Bocas-94.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/11/Bocas-94.jpg){: .img-fluid} Locals can see the development heading their way.[/caption]
 
 With nothing but time, we walked a bit off the main strip to find a different kind of Bocas. Here you find an even greater contrast between the freshly painted caribbean-style wooden buildings of Main Street and the homes of bocatoreños in the backdrop of ongoing development projects. But Angie Whittemore of Bocas tourism, who graciously helped plan this little Panamanian adventure, tells me that most locals welcome the tourism after the banana economy crashed at the turn of the 20th Century thanks to the "Panama disease," which issued a devastating blow to Bocas. The fungus wiped out an entire type of banana from the world, outside Asia.
 
@@ -57,7 +57,7 @@ Tourism came slowly but surely to Bocas starting the 1980s.
 
 "It all started when Tito Thomas, owner of Gran Hotel Bahia, the oldest building in Bocas Town and ex-headquarters of the old United Fruit Company started brining groups from the old Canal Zone [US military personal] on planes to Bocas for the Feria del Mar," Angie explained.
 
-[![Backpacking Bocas - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-76-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-76.jpg){: .img-fluid}
+[![Backpacking Bocas - JoeBaur]({{ site.url }}/assets/img/2014/11/Bocas-76.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/11/Bocas-76.jpg){: .img-fluid}
 
 Backpackers followed suit in the following decade, and even tourism favorite Costa Rica started marketing the island chain as a destination. Angie herself came in the 90s when there was just one disco, a supermarket, and a handful of hostels.
 
@@ -67,7 +67,7 @@ There's always the question of finding the right mix of development while mainta
 
 ###### Yoga Epiphany
 
-[caption id="attachment_1281" align="aligncenter" width="600"][![Heading into a session with Bocas Yoga.](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-145-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-145.jpg){: .img-fluid} Heading into a session with Bocas Yoga.[/caption]
+[caption id="attachment_1281" align="aligncenter" width="600"][![Heading into a session with Bocas Yoga.]({{ site.url }}/assets/img/2014/11/Bocas-145.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/11/Bocas-145.jpg){: .img-fluid} Heading into a session with Bocas Yoga.[/caption]
 
 The grey skies of the morning had turned to rain toward the end of our aimless jaunt around town. Luckily it was just about time for our session at Bocas Yoga.
 
@@ -79,13 +79,13 @@ The purpose of partner yoga, I'm guessing from recollection, was to mirror the p
 
 ###### Impressive
 
-[caption id="attachment_1283" align="aligncenter" width="600"][![In Hammock Heaven.](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-191-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-191.jpg){: .img-fluid} In Hammock Heaven.[/caption]
+[caption id="attachment_1283" align="aligncenter" width="600"][![In Hammock Heaven.]({{ site.url }}/assets/img/2014/11/Bocas-191.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/11/Bocas-191.jpg){: .img-fluid} In Hammock Heaven.[/caption]
 
 Encroaching on the late afternoon, we purchased a six-pack of Balboa and headed back to the hotel for a little relaxation out on the dock, watching the acuaticos zip back and forth across the sea. Here is when I discovered my love for hammocks. How have I not embraced this before? The gentle swing, the light suspension, the comforting cocoon when the sides begin to slightly wrap around you. Now add a caribbean beer on a humid afternoon, and you're in the proverbial Heaven.
 
 Adding to the enjoyment was watching a group of neighboring bocatoreño kids out on the adjacent dock, spending their time diving into the water and fishing with nothing more than a string and a plastic bottle for a reel. Nice to know we have a recycle-friendly community here.
 
-[caption id="attachment_1284" align="aligncenter" width="600"][![Two neighboring kids fishing like MacGyver would.](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-189-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-189.jpg){: .img-fluid} Two neighboring kids fishing like MacGyver would.[/caption]
+[caption id="attachment_1284" align="aligncenter" width="600"][![Two neighboring kids fishing like MacGyver would.]({{ site.url }}/assets/img/2014/11/Bocas-189.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/11/Bocas-189.jpg){: .img-fluid} Two neighboring kids fishing like MacGyver would.[/caption]
 
 This goes back to what we were talking about earlier in regards to Panamanian well-being. Who's doing better? The American kid playing video games all afternoon, cursing at inanimate objects because they got sniped in an online game of _Call Of Duty,_ or the bocatoreños turning their surroundings into a better playground than Toys 'R Us could ever imagine? I know who I want to hang out with.
 
@@ -97,7 +97,7 @@ Of course the fun sputtered out once the cops showed up. Okay, I don't know for
 
 ###### Playa Zapatillas
 
-[![Playa Zapatillas - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-273-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/11/Bocas-273.jpg){: .img-fluid}
+[![Playa Zapatillas - JoeBaur]({{ site.url }}/assets/img/2014/11/Bocas-273.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/11/Bocas-273.jpg){: .img-fluid}
 
 Our final day on the horizon, we awoke to crystal clear blue skies and a powerful sun just in time for our planned tour around Playa Zapatillas. Evidently a couple of _Naked And Afraid_ contestants had to call it quits after suffering from one too many mosquito bites in this area. Naturally this is where we decided to spend our day of relaxation.
 

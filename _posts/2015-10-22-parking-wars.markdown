@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Parking Wars - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/10/Parking-Wars-JoeBaur.jpeg)](https://withoutapath.com/wp-content/uploads/2015/10/Parking-Wars-JoeBaur.jpeg)
+[![Parking Wars - JoeBaur]({{ site.url }}/assets/img/2015/10/Parking-Wars-JoeBaur.jpeg)]({{ site.url }}/assets/img/2015/10/Parking-Wars-JoeBaur.jpeg)
 
 _Recently I was traveling in [Ireland](https://withoutapath.com/category/travel/international/europe/ireland/) when I came across the reality show [Parking Wars](http://www.aetv.com/shows/parking-wars/video). Struck by its existence, I jotted these notes down following my first and likely last episode._
 

@@ -5,7 +5,7 @@ categories:
 - Outdoors
 ---
 
-![Müggelspree Trail in Löcknitzer Forest](https://withoutapath.com/wp-content/uploads/2020/05/Müggelspree-Trail-1024x683.jpg){: .img-fluid}
+![Müggelspree Trail in Löcknitzer Forest]({{ site.url }}/assets/img/2020/05/Müggelspree-Trail.jpg){: .img-fluid}
 
 I've been on the record as saying that what I'd miss most about living in Düsseldorf is access to the Rhineland. Düsseldorf is as flat as Berlin, but you can get some scenic elevation in [Siebengebirge](https://withoutapath.com/hiking-siebengebirge-schloss-drachenburg-christmas-market/) and the trails along the [Rhine](https://withoutapath.com/germany-rheinsteig-trail/), [Mosel](https://withoutapath.com/mosel-germany/), and [Ahr](https://withoutapath.com/ahrtal/) rivers.
 
@@ -35,7 +35,7 @@ Anywho, [the hike](https://www.strava.com/activities/3498027058).
 
 ## Sorry about the fascism
 
-![Denkmal zum Opfern des Faschismus in Fangscheule](https://withoutapath.com/wp-content/uploads/2020/05/Denkmal-zum-Opfern-des-Faschismus-1024x683.jpg){: .img-fluid}"Sorry about the fascism" - everywhere in Germany
+![Denkmal zum Opfern des Faschismus in Fangscheule]({{ site.url }}/assets/img/2020/05/Denkmal-zum-Opfern-des-Faschismus.jpg){: .img-fluid}"Sorry about the fascism" - everywhere in Germany
 
 The Fangscheule train station sits in the middle of the forest with just one restaurant/Biergarten next door. You only get off here if you're hiking or cycling. 
 
@@ -45,7 +45,7 @@ Jokes aside, I really do appreciate the extensive memory culture in Germany and 
 
 ## All things trout
 
-![Müggelspree Pond](https://withoutapath.com/wp-content/uploads/2020/05/Müggelspree-Pond-1024x683.jpg){: .img-fluid}
+![Müggelspree Pond]({{ site.url }}/assets/img/2020/05/Müggelspree-Pond.jpg){: .img-fluid}
 
 From the monument, it's about five kilometers of hiking to Klein Wall through fairytale forest with tall trees and pillow-soft trails under your feet. We passed only a handful of hiking groups, no more than four at a time, leaving us feeling like we were truly alone in the forest, especially as we trudged deeper into the forest and could no longer hear passing trains or traffic.
 
@@ -53,7 +53,7 @@ Klein Wall markets itself as a _Forelleanlage_––trout facility. "Fishing, re
 
 ## Passing by day drinkers
 
-![Melanie and Moses on the Trail](https://withoutapath.com/wp-content/uploads/2020/05/Melanie-and-Moses-on-the-Trail-1024x683.jpg){: .img-fluid}
+![Melanie and Moses on the Trail]({{ site.url }}/assets/img/2020/05/Melanie-and-Moses-on-the-Trail.jpg){: .img-fluid}
 
 At Klein Wall, we picked up a trail that cut north like a beeline for about two kilometers to a buggy canal that led us to Lake Möllen with a designated camping space overlooking it. We tried to stay out of the camp, full of RVs that looked like they never moved once they were parked, but eventually it didn't seem we could trace the coast any longer and we took the stairs up to camp to try and figure out where the trail continued.
 

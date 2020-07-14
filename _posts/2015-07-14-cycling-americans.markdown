@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Pittsburgh Cycling Track - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Cycling-Track-JoeBaur-1024x576.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Cycling-Track-JoeBaur.jpg){: .img-fluid}
+[![Pittsburgh Cycling Track - JoeBaur]({{ site.url }}/assets/img/2015/07/Pittsburgh-Cycling-Track-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Pittsburgh-Cycling-Track-JoeBaur.jpg){: .img-fluid}
 
 Over years of travel (and well, living), I've come to find that Americans in general have a difficult time grasping bikes and bike travel. Why don't they just drive a car? How did they ride so far? Seriously, why not a car?
 

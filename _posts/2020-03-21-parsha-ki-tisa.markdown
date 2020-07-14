@@ -2,9 +2,10 @@
 title: Parsha Ki Tisa | Coronavirus and the Golden Calf
 categories:
 - Essays
+homepage: false
 ---
 
-![parsha ki tisa golden calf](https://withoutapath.com/wp-content/uploads/2020/03/katie-harp-Em96eDRJPD8-unsplash.jpg){: .img-fluid}Photo by [Katie Harp](https://unsplash.com/@kharp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/gold?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![parsha ki tisa golden calf]({{ site.url }}/assets/img/2020/03/katie-harp-Em96eDRJPD8-unsplash.jpg){: .img-fluid}Photo by [Katie Harp](https://unsplash.com/@kharp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/gold?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Tetzaveh, Exodus 30:11 – 34:35. [Click here to read last week’s, Parsha Tetzaveh](https://withoutapath.com/parsha-tetzaveh/)._
 

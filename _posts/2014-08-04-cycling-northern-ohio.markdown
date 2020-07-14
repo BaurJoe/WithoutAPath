@@ -5,7 +5,7 @@ categories:
 - Outdoors
 ---
 
-[![Cycling the Remains of Northern Ohio Towns - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/08/Cycling-the-Remains-of-Northern-Ohio-Towns-JoeBaur.png)](https://withoutapath.com/wp-content/uploads/2014/08/Cycling-the-Remains-of-Northern-Ohio-Towns-JoeBaur.png)
+[![Cycling the Remains of Northern Ohio Towns - JoeBaur]({{ site.url }}/assets/img/2014/08/Cycling-the-Remains-of-Northern-Ohio-Towns-JoeBaur.png)]({{ site.url }}/assets/img/2014/08/Cycling-the-Remains-of-Northern-Ohio-Towns-JoeBaur.png)
 
 Yesterday my father-in-law Tim and I opted for a change of scenery when it came to planning a long weekend ride. Two nights prior Melanie and I met some nice folks from Vermilion, Ohio, which I had always heard to be a pretty nice lakefront town. A quick Google Maps search confirmed that it's within cycling distance at 30 miles, just a straight shot west along Lake Erie on Route 6.
 
@@ -13,7 +13,7 @@ In order to avoid simply repeating the entire route back, I threw in a little lo
 
 #### Small Town on a Great Lake
 
-[![Scenic Northern Ohio Cycling - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/08/Scenic-Northern-Ohio-Cycling-JoeBaur.png)](https://withoutapath.com/wp-content/uploads/2014/08/Scenic-Northern-Ohio-Cycling-JoeBaur.png)
+[![Scenic Northern Ohio Cycling - JoeBaur]({{ site.url }}/assets/img/2014/08/Scenic-Northern-Ohio-Cycling-JoeBaur.png)]({{ site.url }}/assets/img/2014/08/Scenic-Northern-Ohio-Cycling-JoeBaur.png)
 
 Riding along Lake Erie is filled with plenty of bright greens, especially on a summer day that seemed handcrafted by the powers that be for cycling. Houses are naturally charming considering the prime lakeside real estate, but sometimes overly massive. At least they weren't the cookie cutter nonsense you'll find more inland within some God awful suburban housing complex named something along the lines of, "Flowery Waves."
 
@@ -26,7 +26,7 @@ West of Lorain was less of an enjoyable ride with the road quickly turning from 
 
 The ride into Vermilion is the same sprawling madness that surrounds almost any American town regardless of size. Fast food restaurants, drug stores, car dealerships and so on. This continues until you suddenly find yourself at the beautiful heart of downtown Vermilion. There seems to be much more life in this town of about 11,000 than our pass through Lorain.
 
-[![Vermilion - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/08/Vermilion-JoeBaur.png)](https://withoutapath.com/wp-content/uploads/2014/08/Vermilion-JoeBaur.png)
+[![Vermilion - JoeBaur]({{ site.url }}/assets/img/2014/08/Vermilion-JoeBaur.png)]({{ site.url }}/assets/img/2014/08/Vermilion-JoeBaur.png)
 
 We take a right up Main Street, presuming the lake to be nearby. Indeed it just took a slow roll to find ourselves at the Main Street Beach. Small, but incredible views of our Great Lake are to be had here. But a growling stomach trumps scenery on this occasion, so we head back to our last intersection for a sandwich at the Main Street Soda Grill.
 
@@ -42,7 +42,7 @@ Temperatures warmed noticeably as we cycled away from Lake Erie. But these roads
 
 Our next town was Amherst, whose downtown we missed since its main street is a one-way and we were going in the opposite direction. It looked as if they at least had a block of storefronts lining the street, but it was hard to get a real sense of the vibrancy when you're turning off toward a gas station. However, a follow up search using Google Streetview confirms Amherst has a few consistent blocks with storefronts along the street. It would be dishonest or forced to give an impression beyond that.
 
-[![Amherst - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/08/Amherst-JoeBaur.png)](https://withoutapath.com/wp-content/uploads/2014/08/Amherst-JoeBaur.png)
+[![Amherst - JoeBaur]({{ site.url }}/assets/img/2014/08/Amherst-JoeBaur.png)]({{ site.url }}/assets/img/2014/08/Amherst-JoeBaur.png)
 
 Most notable about the ride was our return through Lorain.
 
@@ -50,7 +50,7 @@ After cycling past Elmwood Cemetery, we turned left up Broadway Avenue. Here we 
 
 Beginning around West 9th Street off Broadway, storefronts begin to line the streets. I kept telling Tim how surprised I was at amount of old infrastructure that has remained. Few if any buildings seemed to be knocked down for parking on the outdated belief that people will come if only they can drive.
 
-[![Downtown Lorain - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/08/Downtown-Lorain-JoeBaur.png)](https://withoutapath.com/wp-content/uploads/2014/08/Downtown-Lorain-JoeBaur.png)
+[![Downtown Lorain - JoeBaur]({{ site.url }}/assets/img/2014/08/Downtown-Lorain-JoeBaur.png)]({{ site.url }}/assets/img/2014/08/Downtown-Lorain-JoeBaur.png)
 
 This consistent stream of storefront buildings, some displaying impressive early 20th Century American architecture, continued for about another half-mile until we returned to our lake route. Unfortunately, Lorain has become the definition of a ghost town. This fact is as glaring as "Cash For Gold" sign upon entering downtown. Cash For Gold: Always the sign of a thriving city.
 

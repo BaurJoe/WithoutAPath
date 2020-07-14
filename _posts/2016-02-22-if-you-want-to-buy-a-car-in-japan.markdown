@@ -21,4 +21,4 @@ Transit is so inclusive in the land of the rising sun that I would seriously que
 
 To put it in perspective, car ownership is as discouraged in Tokyo as walking is in, well, many cities in the United States, unfortunately. Rather than restrict the people of Japan to one form of transportation, they have options, and it's the way it should be around the globe.
 
-[![How to buy a car in Japan](https://withoutapath.com/wp-content/uploads/2016/02/How-to-buy-a-car-in-Japan-200x300.png)](https://withoutapath.com/wp-content/uploads/2016/02/How-to-buy-a-car-in-Japan.png)
+[![How to buy a car in Japan]({{ site.url }}/assets/img/2016/02/How-to-buy-a-car-in-Japan.png)]({{ site.url }}/assets/img/2016/02/How-to-buy-a-car-in-Japan.png)

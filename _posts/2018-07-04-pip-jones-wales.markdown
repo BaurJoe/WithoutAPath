@@ -8,7 +8,7 @@ tags:
 - Wales
 ---
 
-![Portia Jones](https://withoutapath.com/wp-content/uploads/2018/07/Portia-Jones.jpg){: .img-fluid}
+![Portia Jones]({{ site.url }}/assets/img/2018/07/Portia-Jones.jpg){: .img-fluid}
 
 ## Pip Jones, Welsh Travel Writer
 

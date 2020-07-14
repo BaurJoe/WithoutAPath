@@ -17,7 +17,7 @@ In any event, I was now drawn to finding out what was really going on in Hambur
 
 ## "Palpable Calm"
 
-[![Hamburg Hauptbahnhof - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/06/Hamburg-Hauptbahnhof-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/06/Hamburg-Hauptbahnhof-JoeBaur.jpg){: .img-fluid}
+[![Hamburg Hauptbahnhof - JoeBaur]({{ site.url }}/assets/img/2015/06/Hamburg-Hauptbahnhof-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/06/Hamburg-Hauptbahnhof-JoeBaur.jpg){: .img-fluid}
 
 There was a cool mist in the air by the time I arrived to the Hauptbahnhof of Hamburg (main station), which inconveniently turned to a steady drum of rain as I stepped out of the station's shelter. I decided to nix my plan of walking the two kilometers to my hotel in favor of a quick train connection. Although June, the weather had been and would continue to be for my short time in Hamburg unseasonably cool and rainy. More like April in Ireland than summer in Germany.
 
@@ -27,7 +27,7 @@ Compared to Berlin, there was a palpable calm to Hamburg -- not entirely surpris
 
 ## The Consummate Professional
 
-[![Hamburg Cargo Bikes - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/06/Hamburg-Cargo-Bikes-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/06/Hamburg-Cargo-Bikes-JoeBaur.jpg){: .img-fluid}
+[![Hamburg Cargo Bikes - JoeBaur]({{ site.url }}/assets/img/2015/06/Hamburg-Cargo-Bikes-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/06/Hamburg-Cargo-Bikes-JoeBaur.jpg){: .img-fluid}
 
 I knew I had just one full day to film across Hamburg and see the city for myself while making time for a couple of interviews, so I started with a visit to [Ahoi Velo Cargobikes](http://www.ahoi-velo.de/) with René Reckschwardt. He aptly suggested that if I wanted to get a sense of the city's cycling scene, we should go for a ride. But keeping with the theme of his shop, I hopped into the front of his cargobike so I could film along the way. I imagined we looked like an incredibly unthreatening version of the Batman and Robin from the 60s -- as if they weren't unthreatening enough in their spandex.
 
@@ -41,7 +41,7 @@ Closing in on my meeting with Merja, I was spotted by a couple of women filming 
 
 ## Landungsbrücken
 
-[![Hamburg, Germany - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/06/Hamburg-Germany-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/06/Hamburg-Germany-JoeBaur.jpg){: .img-fluid}
+[![Hamburg, Germany - JoeBaur]({{ site.url }}/assets/img/2015/06/Hamburg-Germany-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/06/Hamburg-Germany-JoeBaur.jpg){: .img-fluid}
 
 After chatting with Merja, I was done with interviews for the day. Unlucky for me, the Irish rain decided to kick back in, forcing me to make a beeline for the closest café to kill time until it hopefully went away. That led me to [Max & Consorten](http://maxundconsorten.de/) for a bowl of hot tomato soup and espresso. A few older folks had already staked claim to a bar stool, taking in an afternoon pint as the less-than-favorable weather continued.
 
@@ -53,7 +53,7 @@ Exhausted and a bit damp, I headed back to the hotel to wind down and prepare fo
 
 ## Schanzenstraße
 
-[![Hamburg Le Golden Igel - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/06/Hamburg-Le-Golden-Igel-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/06/Hamburg-Le-Golden-Igel-JoeBaur.jpg){: .img-fluid}
+[![Hamburg Le Golden Igel - JoeBaur]({{ site.url }}/assets/img/2015/06/Hamburg-Le-Golden-Igel-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/06/Hamburg-Le-Golden-Igel-JoeBaur.jpg){: .img-fluid}
 
 Keeping with my consummate professional persona, I rose early to hit the streets and capture the cycling crowd out for morning rush hour over in the Schanzenstraße area. Now, this was a controversial chunk of Hamburg cycling, because the cycle lane _is_ on the sidewalk. Though things seemed to move rather swimmingly during my morning jaunt, Stefan has reported often at his site issues cyclists and pedestrians have with the lane. It was something he reiterated when we chatted later that morning and it fit a constant theme throughout my visit that local politicians are hesitant to take space away from cars because the powers that be drive cars.
 

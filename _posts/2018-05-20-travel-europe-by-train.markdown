@@ -29,7 +29,7 @@ tags:
 - Verona
 ---
 
-![Inside Hamburg German Train Station](https://withoutapath.com/wp-content/uploads/2017/11/Inside-Hamburg-German-Train-Station-1024x683.jpg){: .img-fluid}
+![Inside Hamburg German Train Station]({{ site.url }}/assets/img/2017/11/Inside-Hamburg-German-Train-Station.jpg){: .img-fluid}
 
 Europe is a continent of rails with some of the best opportunities for train travel in the world. Over the years I've been fortunate to ride routes in Ireland, the United Kingdom, France, Spain, Germany, Italy, Switzerland, and plenty more. Despite the ease and affordability (with planning) of train travel in Europe, I'm still surprised to meet people from overseas who treat the continent like they're flying into Phoenix, renting a car as soon as they land. In reality, train travel is often much faster, shedding as much as a few hours off your travel time when compared to automobiles, especially when looking at long distance routes covered by high-speed rail.
 

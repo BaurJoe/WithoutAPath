@@ -3,7 +3,7 @@ title: Costa Rica
 permalink: /travel-guides/costa-rica/
 ---
 
-![Orosi Valley View Costa Rica](https://withoutapath.com/wp-content/uploads/2017/09/Orosi-Valley-View-Costa-Rica-1024x683.jpg){: .img-fluid}
+![Orosi Valley View Costa Rica]({{ site.url }}/assets/img/2017/09/Orosi-Valley-View-Costa-Rica.jpg){: .img-fluid}
 
 Costa Rica was my home for 10 months and as such holds a very special place in my heart, a place typically reserved exclusively for my family, hoppy beer, and chorizo. Millions of travelers flock to Costa Rica every year for their own slice of the utopic narrative that the tourism industry has been so successful at developing over the past couple of decades. Costa Rica is, without a question, the king of Central American tourism.
 
@@ -15,7 +15,7 @@ While most of the country's prime locations for travel have already been written
 
 ## San Jose -- Barrio Escalante
 
-![Feria Verde San Jose Costa Rica](https://withoutapath.com/wp-content/uploads/2017/09/Feria-Verde-San-Jose-Costa-Rica-1024x768.jpg){: .img-fluid}
+![Feria Verde San Jose Costa Rica]({{ site.url }}/assets/img/2017/09/Feria-Verde-San-Jose-Costa-Rica.jpg){: .img-fluid}
 
 San Jose -- or Chepe as Ticos call it -- gets unfairly looked by travelers to Costa Rica. My suspicion is that travel guides typically advise against much travel to the Costa Rican capital. I remember one guide advising me to keep my visit short and never to take my camera out.
 
@@ -37,13 +37,13 @@ Since my visit, El Niño y la Bola [has begun offering tours of the slum](http:/
 
 ## Orosi Valley
 
-![El Salto View Orosi Valley Costa Rica](https://withoutapath.com/wp-content/uploads/2017/09/El-Salto-View-Orosi-Valley-Costa-Rica-1024x683.jpg){: .img-fluid}
+![El Salto View Orosi Valley Costa Rica]({{ site.url }}/assets/img/2017/09/El-Salto-View-Orosi-Valley-Costa-Rica.jpg){: .img-fluid}
 
 The Orosi Valley is one of those places that has everything that draws tourists to Costa Rica, but for one reason or another, travelers don't know about it. I only ended up there because I was deadset on riding San Jose's fledgling commuter train system. One of the lines ends in Cartago, which had at one point been the capital of Costa Rica and remains an important urban hub in the Central Valley. It's mostly known for its European-sized Catholic church, Básilica de Nuestra Señora de los Ángeles -- the endpoint for pilgrims during _la romería_.
 
 Outside of Cartago, I noticed some green on Google Maps. I did some sleuthing on AirBnB and found a too-good-to-be-true option for a long weekend getaway in El Salto. So, we took the train to Cartago (which I do recommend), stopped by the church, and then hopped in a cab up to El Salto where I was immediately treated to a private panoramic view of the valley and one of those long, distant waterfalls that you typically see on a Costa Rican postcard. The only difference? There wasn't a fellow tourist in sight.
 
-![Ruinas de Ujarras Orosi Valley Costa Rica](https://withoutapath.com/wp-content/uploads/2017/09/Ruinas-de-Ujarras-Orosi-Valley-Costa-Rica-1024x683.jpg){: .img-fluid}
+![Ruinas de Ujarras Orosi Valley Costa Rica]({{ site.url }}/assets/img/2017/09/Ruinas-de-Ujarras-Orosi-Valley-Costa-Rica.jpg){: .img-fluid}
 
 El Salto in particular also has its own trail they've carved out down from the hotel to the bottom of the waterfall where you can experience its power up close. Then, you turn through some farms and end up the ruins of Ujarrás -- the most intact colonial ruins in Costa Rica. (While native populations still experienced the wrath of Spanish colonialism, the country, on the whole, was not as ravaged as its other Central American neighbors, so the colonial architecture of Antigua, Granada, León, and even little Suchitoto is next to nonexistent in Costa Rica).
 
@@ -63,7 +63,7 @@ To recap quickly: Go to Finca Rosa Blanca and let them take you up to Braulio Ca
 
 ## Ciudad Colon
 
-![Hiking Ciudad Colon Costa Rica](https://withoutapath.com/wp-content/uploads/2017/09/Hiking-Ciudad-Colon-Costa-Rica-1024x683.jpg){: .img-fluid}
+![Hiking Ciudad Colon Costa Rica]({{ site.url }}/assets/img/2017/09/Hiking-Ciudad-Colon-Costa-Rica.jpg){: .img-fluid}
 
 You've certainly never heard of little ole Ciudad Colon, which recently upgraded from a "village" to a "city" despite still very much looking and operating like the former. Guidebooks might mention it briefly in relation to the University For Peace (Universidad para la Paz) that's just up the road in even smaller El Rodeo. UPEACE is a United Nations graduate school based in Costa Rica because of its comparatively peaceful history and lack of a military. A majority of its students and professors live in Ciudad Colon giving an oddly international flare to what's otherwise firmly a Tico town.
 
@@ -77,7 +77,7 @@ Even though the town is quite small, there are surprisingly a number of good bre
 
 ## Uvita
 
-![Parque Nacional Marino Ballena Beach Uvita Costa Rica](https://withoutapath.com/wp-content/uploads/2017/09/Parque-Nacional-Marino-Ballena-Beach-Uvita-Costa-Rica-1024x683.jpg){: .img-fluid}
+![Parque Nacional Marino Ballena Beach Uvita Costa Rica]({{ site.url }}/assets/img/2017/09/Parque-Nacional-Marino-Ballena-Beach-Uvita-Costa-Rica.jpg){: .img-fluid}
 
 Uvita, Costa Rica sits on the Pacific Ocean and is known primarily for its Parque Nacional Marino Ballena. "Ballena" translates to "whale," and if you look at an aerial image of the region, you'll notice that the beach juts out like a whale's tail.
 
@@ -97,13 +97,13 @@ However, I generally didn't find Costa Rican beach town to be vastly different. 
 
 ## Brasilito -- Guanacaste
 
-![Playa Conchal Brasilito Guanacaste Costa Rica](https://withoutapath.com/wp-content/uploads/2017/09/Playa-Conchal-Brasilito-Guanacaste-Costa-Rica-1024x670.jpg){: .img-fluid}
+![Playa Conchal Brasilito Guanacaste Costa Rica]({{ site.url }}/assets/img/2017/09/Playa-Conchal-Brasilito-Guanacaste-Costa-Rica.jpg){: .img-fluid}
 
 Brasilito might rank as my favorite Costa Rican beach town, largely because of the lodging we chose in the [Conchal Hotel](http://www.conchalcr.com/) -- a 12-room boutique hotel with bright colors over stucco walls. I've published a [_Talking Tico_](https://withoutapath.com/tamarindo-brasilito-guanacaste-costa-rica/) excerpt on Brasilito here, but in a nutshell, you get that remote, isolated beach experience while still maintaining certain comforts. I enjoyed waking up in the morning, having breakfast on the second floor with some airy jazz tracks playing before walking down the quiet street to the beach before the heat became overtly sweltering underneath that infamous Guancasteco sun.
 
 Beach-wise, you're looking at a Jekyll and Hyde scenario. On one hand, you've got Playa Brasilito covered in rough, black rock. It's interesting, but not exactly ideal for throwing a towel over and taking a nap. But right next to Playa Brasilito is its counterpart -- Playa Conchal, a beached covered in finely crushed shells. This is the kind of beach people travel to Costa Rica looking for and where you'll find most people spending the day.
 
-![Conchal Hotel Room Brasilito Guanacaste Costa Rica](https://withoutapath.com/wp-content/uploads/2017/09/Conchal-Hotel-Room-Brasilito-Guanacaste-Costa-Rica-1024x683.jpg){: .img-fluid}
+![Conchal Hotel Room Brasilito Guanacaste Costa Rica]({{ site.url }}/assets/img/2017/09/Conchal-Hotel-Room-Brasilito-Guanacaste-Costa-Rica.jpg){: .img-fluid}
 
 ## White Water Rafting Costa Rica -- Sarapiquí River
 
@@ -113,7 +113,7 @@ This region used to be prime banana growing land, but is now, unfortunately, one
 
 ## Costa Rica Wish List
 
-![Orosi Valley Cota Rica Farm Hiking](https://withoutapath.com/wp-content/uploads/2017/09/Orosi-Valley-Cota-Rica-Farm-Hiking-1024x683.jpg){: .img-fluid}
+![Orosi Valley Cota Rica Farm Hiking]({{ site.url }}/assets/img/2017/09/Orosi-Valley-Cota-Rica-Farm-Hiking.jpg){: .img-fluid}
 
 I was incredibly fortunate to see more of Costa Rica than many Costa Ricans themselves ever have the chance to. I remember sitting at my _Mama Tica's_, talking with her sister about some of the places we had seen and been to, and she laughed saying we were seeing more of the country she had. So, I offer this Costa Rica wish list not because I feel I have been slighted in any way or that I didn't make the most out of my time in Costa Rica, but because these are places I'd like to see on a return visit and perhaps you'd like to know about them up front as you do your own research.
 
@@ -125,7 +125,7 @@ Last but certainly not least -- hiking to Cerro Chirripó. This summit had been
 
 ## Transportation In Costa Rica
 
-![Arenal Volcano Costa Rica](https://withoutapath.com/wp-content/uploads/2017/09/Arenal-Volcano-Costa-Rica-1024x683.jpg){: .img-fluid}
+![Arenal Volcano Costa Rica]({{ site.url }}/assets/img/2017/09/Arenal-Volcano-Costa-Rica.jpg){: .img-fluid}
 
 North Americans generally think that you just rent a car in Costa Rica. In reality, the mass transportation system is more extensive than in most U.S. states. You can get to just about any corner of the country by bus. That hardly means it's perfect. The bus system is privatized, which means you've got bus stations serving different routes placed seemingly at random across San Jose. While I'd definitely recommend traveling by bus to save yourself the headache of renting a car and navigating roads you don't know (plus it's a great way to travel like a local), I would not wait until the last minute to find your bus station. Find it, mark it on your Google Maps, and arrive with time to spare in case you got something wrong. (I offer this advice from personal experience.)
 

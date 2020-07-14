@@ -56,7 +56,7 @@ There were no tears at Brauerei Strate.
 
 ## On the Frontlines of Hops and Barley
 
-![Brauerei Strate Tanks](https://withoutapath.com/wp-content/uploads/2019/04/Brauerei-Strate-Tanks-1024x683.jpg){: .img-fluid}
+![Brauerei Strate Tanks]({{ site.url }}/assets/img/2019/04/Brauerei-Strate-Tanks.jpg){: .img-fluid}
 
 You’d think writing about beer is an easy task. I’m here to tell you that’s patently false. I mean, think about it. Beer intoxicates you. That’s the foundation we’re working off of. Even if you’re drinking beers on the lighter side, like a Pilsner or Kellerbier, there’s still booze in there. And unless you’ve maintained your collegiate stamina (in which case, seek help), you’re going to start feeling it after one or two. Throw into the mix any one of the various creative craft beers out there that laugh in the face of four percent ABV and you’re in for a hazy memory.
 
@@ -70,7 +70,7 @@ It’s cliche in travel writing to declare, “I already want to go back,” but
 
 ## The Next Chapter
 
-![Visiting Hermannsdenkmal and Brauerei Strate in Detmold](https://withoutapath.com/wp-content/uploads/2019/04/Detmold-Sidestreet-1024x683.jpg){: .img-fluid}
+![Visiting Hermannsdenkmal and Brauerei Strate in Detmold]({{ site.url }}/assets/img/2019/04/Detmold-Sidestreet.jpg){: .img-fluid}
 
 I awoke the next morning at the classically elegant Hotel Lippescher Hof after the kind of blissful sleep that good beer in good company can provide. (That chunk of hog’s leg in my belly didn’t hurt either.) Yet after working my way through the initial morning haze, stretching my limbs out across the bed in every which direction, it occurred to me that there were still a number of Brauerei Strate beers that escaped my liver. As an occasional beer writer, it’s not something I’m proud to admit, that I left the story without completing my research.
 

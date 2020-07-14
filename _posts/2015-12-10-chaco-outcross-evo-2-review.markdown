@@ -4,7 +4,7 @@ categories:
 - Outdoors
 ---
 
-[![Chaco OutCross Evo 2 - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/12/Chaco-OutCross-Evo-2-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/12/Chaco-OutCross-Evo-2-JoeBaur.jpg){: .img-fluid}
+[![Chaco OutCross Evo 2 - JoeBaur]({{ site.url }}/assets/img/2015/12/Chaco-OutCross-Evo-2-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/12/Chaco-OutCross-Evo-2-JoeBaur.jpg){: .img-fluid}
 
 You can never place too much of an importance on having a good shoe, especially when it comes to the outdoors. Far too many shoppers would happily sacrifice quality to save a few bucks when you'd be better served to spend _once_ on something that will last and keep your feet happy. In my days of trying various shoes for hiking and running, I can honestly say nothing has made me happier than Chaco's OutCross Evo 2.<!-- more -->
 

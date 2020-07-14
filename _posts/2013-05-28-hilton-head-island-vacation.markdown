@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![](/wp-content/uploads/2013/05/_d_improd_/Ocean-Overlook-JOE-BAUR-1024x768_f_improf_600x450.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Ocean-Overlook-JOE-BAUR.jpg){: .img-fluid}
+[![](/wp-content/uploads/2013/05/_d_improd_/Ocean-Overlook-JOE-BAUR-1024x768_f_improf_600x450.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Ocean-Overlook-JOE-BAUR.jpg){: .img-fluid}
 
 I knew next to nothing about Hilton Head, South Carolina when I was told some months back by Melanie that I would be joining her family for a vacation on the Lowcountry island. Is a tourist trap? Is it anything like I've heard of historic Charleston? Will their be barbecue? All these questions and more were answered over the past week.
 
@@ -19,13 +19,13 @@ It was smooth sailing through New York and Pennsylvania. We played the usual rou
 
 Further through West Virginia, we began noticing signs for "historic" Fayetteville, a town I was recommended to visit after writing about my impressions of the Mountaineer state. It was hardly off our route and we needed a quick caffeine fix. So we followed the signs to what was advertised as their downtown.
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/Downtown-Fayetteville-West-Virginia-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Downtown-Fayetteville-West-Virginia-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/Downtown-Fayetteville-West-Virginia-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Downtown-Fayetteville-West-Virginia-JOE-BAUR.jpg){: .img-fluid}
 
 Driving in on Court Street, it quickly became clear this town had seen better days. But I don't mean that as a criticism. The grit and slightly dilapidated buildings reminded me of my affections for Rust Belt neighborhoods. A nearby abandoned gas station hoisted a sign for $1.19 gas, offering an obvious reminder that time had stood still here for a couple of decades. Sure things could be better, but people were making do and not giving up.
 
 We stopped at the first coffee joint we could find -- Cathedral Café. As the name implies, it was a church converted into a coffee shop equipped with the stain glass windows you'd typically find in a house of worship. Except instead of serving guilt-ridden sermons, we were treated to warm smiles and lattes.
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/Cathedral-Café-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/Cathedral-Cafe-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/05/Cathedral-Café-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/Cathedral-Cafe-JOE-BAUR.jpg){: .img-fluid}
 
 Back on the road, it was again smooth sailing until Charlotte, North Carolina when traffic came to a halt thanks to an accident. To make matters worse, a hard-hitting storm greeted us. This torrential downpour would follow us for the remaining four hours until we crossed into Hilton Head -- an island I later learned seems to evade rain like someone who never falls ill, even with the common cold.
 
@@ -35,7 +35,7 @@ We arrived into Hilton Head about an hour after sundown. The town was pitch blac
 
 ## Hilton Head
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/Broad-Creek-South-Carolina-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Broad-Creek-South-Carolina-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/Broad-Creek-South-Carolina-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Broad-Creek-South-Carolina-JOE-BAUR.jpg){: .img-fluid}
 
 Hilton Head Island gets its name from William Hilton, a 17th Century captain who sailed on the Adventure to explore lands granted by King Charles II of England. It was during his travels that he came to a headland near the entrance of the Port Royal Sound. Like most explorers of any era, he named the island after himself. Also like most explorers of any era, he and those who followed him ignored the Native Americans who had been seasonally inhabiting the island for thousands of years -- a motif in American history.
 
@@ -45,7 +45,7 @@ It wasn't until the morning after our arrival that I could truly take in my new,
 
 In an overused word, the Lowcountry is beautiful. Spanish moss, abundant in these parts, is to me as I've heard green Northeast Ohio is for folks from Mars-like Utah. I later read that the town is known for its eco-friendly development. That's not surprising considering the swath of towering trees largely left in place. A local told us, "It takes an act of Congress just to remove one tree." Good.
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/Spanish-Moss-Lowcountry-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Spanish-Moss-Lowcountry-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/Spanish-Moss-Lowcountry-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Spanish-Moss-Lowcountry-JOE-BAUR.jpg){: .img-fluid}
 
 On the other hand, I have never been to a town with such disdain for pedestrians as Hilton Head. Granted I've been to plenty of places that treat pedestrians like ants who need a good stomping. This is the United Auto States of America, after all. But Hilton Head clearly has the money to develop otherwise.
 
@@ -55,7 +55,7 @@ But again, you can't even get to any of these paths if you don't have a car to g
 
 ## Death Trap Parkway
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/William-Hilton-Parkway-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/William-Hilton-Parkway-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/William-Hilton-Parkway-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/William-Hilton-Parkway-JOE-BAUR.jpg){: .img-fluid}
 
 William Hilton Parkway, the island's main thoroughfare, is a death trap built for high speeds, sudden stops, and close calls. Even my suburban co-travelers agreed the street would make for a perfect set should Hollywood ever opt to develop a movie based on the game Frogger.
 
@@ -75,7 +75,7 @@ I'm not much of a resort traveler, so I suspect Hilton Head is hardly alone in i
 
 ## The Beach
 
-[caption id="attachment_630" align="aligncenter" width="600"][![](https://withoutapath.com/wp-content/uploads/2013/05/Hilton-Head-Beach-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Hilton-Head-Beach-JOE-BAUR.jpg){: .img-fluid} Nothing more zen than yoga on the beach.[/caption]
+[caption id="attachment_630" align="aligncenter" width="600"][![]({{ site.url }}/assets/img/2013/05/Hilton-Head-Beach-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Hilton-Head-Beach-JOE-BAUR.jpg){: .img-fluid} Nothing more zen than yoga on the beach.[/caption]
 
 Now before I seem like an ungrateful wretch dropping a hefty deuce on Hilton Head, let me change course to discuss some of the island's positive attributes.
 
@@ -107,7 +107,7 @@ Unsure of what to do -- we were too far to quickly walk to the beach without rai
 
 ## Stand Up Paddleboarding With Outside Hilton Head
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/Outside-Hilton-Head-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Outside-Hilton-Head-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/Outside-Hilton-Head-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Outside-Hilton-Head-JOE-BAUR.jpg){: .img-fluid}
 
 Without a doubt, Stand Up Paddleboarding (SUP) with [Outside Hilton Head](http://outsidehiltonhead.com/) was the highlight of the trip. I have seen, read, and even written about SUP, but this would be my first time out on the board myself.
 
@@ -115,7 +115,7 @@ I knew my puppy sensibilities could only take so much inactivity on the beach, s
 
 We met at Outside Hilton Head headquarters on Shelter Cove at the instructed 9:45 a.m. arrival. The young Justin Wooten walked us through a brief instruction with his slight southern drawl on how to get on the board, how to paddle, what to do if you fall in, how to get back on the board when you inevitably fall in, etcetera.
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/Outside-Hilton-Head-Dock-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Outside-Hilton-Head-Dock-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/Outside-Hilton-Head-Dock-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Outside-Hilton-Head-Dock-JOE-BAUR.jpg){: .img-fluid}
 
 As we followed Justin to the dock, Melanie's mother noticed our comrades' less than athletic frames.
 
@@ -149,7 +149,7 @@ Justin was right when he told us you just need to fall in once to get over it. A
 
 I can't wait to do it again.
 
-[caption id="attachment_633" align="aligncenter" width="600"][![](https://withoutapath.com/wp-content/uploads/2013/05/Outside-Hilton-Head-Stand-Up-Paddleboarding-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Outside-Hilton-Head-Stand-Up-Paddleboarding-JOE-BAUR.jpg){: .img-fluid} Back on the board post-splash.[/caption]
+[caption id="attachment_633" align="aligncenter" width="600"][![]({{ site.url }}/assets/img/2013/05/Outside-Hilton-Head-Stand-Up-Paddleboarding-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Outside-Hilton-Head-Stand-Up-Paddleboarding-JOE-BAUR.jpg){: .img-fluid} Back on the board post-splash.[/caption]
 
 After our session, I chatted briefly with Justin about how long he had been paddleboarding and instructing. He then handed me a business card revealing he is, in fact, a United States Coast Guard captain. I decided this is probably the coolest designation one can possibly have on their business card. Certainly better than "writer."
 
@@ -179,7 +179,7 @@ His friends finally pulled him away after I took my hat back. Following the song
 
 ## Final Days
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/Hilton-Head-Ocean-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Hilton-Head-Ocean-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/Hilton-Head-Ocean-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Hilton-Head-Ocean-JOE-BAUR.jpg){: .img-fluid}
 
 Our final days on Hilton Head, as you can imagine, involved spending as much time as possible on the beach. The beach was overwhelmingly populated with retirees laying about in rented chairs with the kind of deathly, open-mouth look that would have any stranger to the island wondering why nobody is checking for a pulse.
 
@@ -195,4 +195,4 @@ Shelter Cove at night was lovely. Couples walked hand in hand under a moonlit sk
 
 Meantime, I'll be working on that professional SUP career.
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/Stand-Up-Paddleboarding-JOE-BAUR-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Stand-Up-Paddleboarding-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/Stand-Up-Paddleboarding-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Stand-Up-Paddleboarding-JOE-BAUR.jpg){: .img-fluid}

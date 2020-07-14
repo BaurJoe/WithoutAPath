@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[caption id="attachment_3359" align="aligncenter" width="1920"]![Petra in Jordan](https://withoutapath.com/wp-content/uploads/2016/04/petra03.jpg){: .img-fluid} Photo: Peter Langer[/caption]
+[caption id="attachment_3359" align="aligncenter" width="1920"]![Petra in Jordan]({{ site.url }}/assets/img/2016/04/petra03.jpg){: .img-fluid} Photo: Peter Langer[/caption]
 
 North American travelers know more about Jordan than they think. That is, if they've seen a movie or two.
 
@@ -45,7 +45,7 @@ On top of those reads, I've also been dabbling with some Arabic using [Rocket La
 
 Luckily with this being a cinematic-inspired trip, one of the easiest ways I can prepare for Jordan is by watching some movies. Perhaps a repeat viewing of _Indiana Jones and the Last Crusade_ is in order, because lord knows that I'll inevitably be humming the theme song as I approach those gorgeous columns of Al-Khazneh in Petra.
 
-[![How to prepare for the cinematic sights of Jordan](https://withoutapath.com/wp-content/uploads/2016/04/How-to-prepare-for-the-cinematic-sights-of-Jordan-683x1024.png)](https://withoutapath.com/wp-content/uploads/2016/04/How-to-prepare-for-the-cinematic-sights-of-Jordan.png)
+[![How to prepare for the cinematic sights of Jordan]({{ site.url }}/assets/img/2016/04/How-to-prepare-for-the-cinematic-sights-of-Jordan.png)]({{ site.url }}/assets/img/2016/04/How-to-prepare-for-the-cinematic-sights-of-Jordan.png)
 
 _**Disclosure:** I'm traveling with Bestway Tours & Safaris as a guest blogger. __Book your own tour of Jordan with Bestway Tours & Safaris using the code JOC16/JB and save $100._
 

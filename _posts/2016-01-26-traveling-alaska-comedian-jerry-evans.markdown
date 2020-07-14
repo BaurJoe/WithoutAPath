@@ -10,4 +10,4 @@ Fairbanks, Alaska's own [Jerry Evans](http://alaskacomedy.com) joins Without A P
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![Jerry Evans Pinterest - Without A Path](https://withoutapath.com/wp-content/uploads/2016/01/Jerry-Evans-Pinterest-Without-A-Path1-200x300.png)](https://withoutapath.com/wp-content/uploads/2016/01/Jerry-Evans-Pinterest-Without-A-Path1.png)
+[![Jerry Evans Pinterest - Without A Path]({{ site.url }}/assets/img/2016/01/Jerry-Evans-Pinterest-Without-A-Path1.png)]({{ site.url }}/assets/img/2016/01/Jerry-Evans-Pinterest-Without-A-Path1.png)

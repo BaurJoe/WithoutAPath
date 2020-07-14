@@ -13,7 +13,7 @@ In the aftermath, the villages of Tabacon, Pueblo Nuevo and San Luis were gone. 
 
 **“Casado Con Hugh Jackman”**
 
-[![Arenal Costa Rica - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Arenal-Costa-Rica-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Arenal-Costa-Rica-JoeBaur.jpg){: .img-fluid}
+[![Arenal Costa Rica - JoeBaur]({{ site.url }}/assets/img/2015/05/Arenal-Costa-Rica-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Arenal-Costa-Rica-JoeBaur.jpg){: .img-fluid}
 
 The rain was constant as soon as Melanie, myself, and my visiting Aunt Barb arrived in La Fortuna. We were grateful to have made it in one piece, having made the mistake of hiring Rafael to drive us the two to three hours up to La Fortuna. During a particularly foggy and windy portion of the route, we all noticed he was starting to nod off behind the wheel. There’s not much leeway for error on the narrow roads in Costa Rican mountains, so it was a particularly terrifying experience. And driving is one of those things in life where you’re _never_ allowed to comment on a person’s performance no matter how warranted a “slow down” or “WAKE UP, YOU MANIAC!” might be. It’s like sex to people. Everyone thinks they’re the best and couldn’t possibly have room for improvement.
 
@@ -59,7 +59,7 @@ Despite being, in layman’s terms, an apparent douchebag, Alan was helpful in 
 
 The concept behind Termalitas was completely foreign to me. Apparently you can pipe water out from underground that’s warm due to the volcano, and spill it into man-made pools. They say the water is supposed to be especially good for the skin with its minerals and whatnot, but that part felt like a piece of the sales pitch. Regardless, it was a nice way to kill an afternoon, hopping between a couple of hot pools of volcano-heated water underneath another rainy day.
 
-[![La Fortuna Costa Rica - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/La-Fortuna-Costa-Rica-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/La-Fortuna-Costa-Rica-JoeBaur.jpg){: .img-fluid}
+[![La Fortuna Costa Rica - JoeBaur]({{ site.url }}/assets/img/2015/05/La-Fortuna-Costa-Rica-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/La-Fortuna-Costa-Rica-JoeBaur.jpg){: .img-fluid}
 
 Back in town, we stopped for a coffee at the creatively-named My Coffee as the rain finally took a break. We used the opportunity to take a jaunt around the town square, easily the most beautiful of town squares in Costa Rica. Tall bushes, lilies, palm trees, and monkey grass (yes, that’s a thing) surrounded an impressive fountain right in line with the town church. Small towns across the globe could learn from Costa Rica’s town squares, most of all from La Fortuna.
 
@@ -67,7 +67,7 @@ Peeking into the church, we were reminded of all the churches we had seen throug
 
 **Álvaro Ugalde**
 
-[![Arenal Volcano Costa Rica Vista - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Arenal-Volcano-Costa-Rica-Vista-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Arenal-Volcano-Costa-Rica-Vista-JoeBaur.jpg){: .img-fluid}
+[![Arenal Volcano Costa Rica Vista - JoeBaur]({{ site.url }}/assets/img/2015/05/Arenal-Volcano-Costa-Rica-Vista-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Arenal-Volcano-Costa-Rica-Vista-JoeBaur.jpg){: .img-fluid}
 
 Our visit to one of Costa Rica’s
 
@@ -81,7 +81,7 @@ Unsurprisingly Ugalde continued to see encroaching threats, such as the Institut
 
 **“Will Smith Was Super Nice”**
 
-[![Arenal Volcano View - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Arenal-Volcano-View-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Arenal-Volcano-View-JoeBaur.jpg){: .img-fluid}
+[![Arenal Volcano View - JoeBaur]({{ site.url }}/assets/img/2015/05/Arenal-Volcano-View-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Arenal-Volcano-View-JoeBaur.jpg){: .img-fluid}
 
 Tuesday morning, the clouds had finally parted. We could see the volcano clear as day right outside our living room window. Apparently it had been there the whole time.
 
@@ -93,13 +93,13 @@ The hiking around the observatory was a mixture of what felt like remote trail a
 
 This ended up being our favorite hike at the time in Costa Rica, tied with our venture through the Orosi Valley. There was a mixture of primitive trail that felt like it hadn’t been maintained recently due to the longer than usual winter rains. This eventually led to the lava fields, which sat over a dry river. The trail here was less confined and more about going up however you could. We paused for a moment at one point to watch a small pack of spider monkeys swinging from tree to tree. Our guide admitted to spotting them only because he noticed a little monkey poo underneath a tree in our path. Without dwelling too long on it, it was indeed quite strange looking, even by poo standards.
 
-[![Arenal Lava Fields Hike Costa Rica - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Arenal-Lava-Fields-Hike-Costa-Rica-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Arenal-Lava-Fields-Hike-Costa-Rica-JoeBaur.jpg){: .img-fluid}
+[![Arenal Lava Fields Hike Costa Rica - JoeBaur]({{ site.url }}/assets/img/2015/05/Arenal-Lava-Fields-Hike-Costa-Rica-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Arenal-Lava-Fields-Hike-Costa-Rica-JoeBaur.jpg){: .img-fluid}
 
 The fields eventually widened before narrowing once again to a line of rocks and dirt trail. Much of the latter portion of the hike was spent minding our footing, avoiding holes in between the rocks where snakes were allegedly sleeping. I only ended up having to catch myself once, which at the time felt like an impressive athletic feat that in reality probably looked clumsy to a third party.
 
 There’s no definitive end point on this hike. Our guide, who blew our mind when he said he does this hike sometimes twice a day, informed us during the return that they take you up as high as the weather will allow and however fit they think you are. We, evidently, were awarded the highest viewpoint of this hike. Though maybe he just wanted to let us think that.
 
-[![Arenal Costa Rica Hike - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Osita-y-Jose-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Osita-y-Jose.jpg){: .img-fluid}
+[![Arenal Costa Rica Hike - JoeBaur]({{ site.url }}/assets/img/2015/05/Osita-y-Jose.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Osita-y-Jose.jpg){: .img-fluid}
 
 After collecting my aunt, we continued back down the park for a brief stop at a warm river heated by the volcano. This was interesting for about 10 minutes, but was ultimately a nice add-on. We waded around a bit in the two-foot deep river, wondering if it was really a good idea to be floating around in warm water where, at least I thought, bacteria could flourish. After getting pulled over a rapid by a strong current (my fault, I was an idiot) and scraping up the side of my chest, we called it quits.
 
@@ -107,7 +107,7 @@ People, tourists and locals alike, come here with coolers and drinks to make a d
 
 **“Gracias!”**
 
-[![La Fortuna Waterfall Costa Rica - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Catarata-La-Fortuna-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Catarata-La-Fortuna-JoeBaur.jpg){: .img-fluid}
+[![La Fortuna Waterfall Costa Rica - JoeBaur]({{ site.url }}/assets/img/2015/05/Catarata-La-Fortuna-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Catarata-La-Fortuna-JoeBaur.jpg){: .img-fluid}
 
 Our final morning was spent hiking over to Catarata La Fortuna, an approximately 75-meter waterfall drop fed by the Tenorio River. Besides the volcano, this is the natural highlight that inevitably shows up in any Google (or Bing!) search of the region.
 

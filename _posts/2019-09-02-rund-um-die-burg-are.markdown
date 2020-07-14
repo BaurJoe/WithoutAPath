@@ -1,12 +1,14 @@
 ---
 title: 'Like A Bat Out Of Hell: Running the Panoramalauf Rund um die Burg Are'
+image: /assets/img/2019/07/Ahrtal-View-from-AhrSteig.jpg
 categories:
 - Essays
 - Europe
 - Outdoors
+featured: true
 ---
 
-![View of Ahrtal from the AhrSteig](https://withoutapath.com/wp-content/uploads/2019/07/Ahrtal-View-from-AhrSteig.jpg){: .img-fluid}
+![View of Ahrtal from the AhrSteig]({{ site.url }}/assets/img/2019/07/Ahrtal-View-from-AhrSteig.jpg){: .img-fluid}
 
 "Fuck this. I'm never doing this again. No more running."
 
@@ -28,13 +30,13 @@ Running around the Ahrsteig and Rotweinwanderweg (Red wine hiking trail) back in
 
 ## Race Day
 
-![Runners gather at Martinshütte](https://withoutapath.com/wp-content/uploads/2019/09/Runners-gather-at-Martinshütte-1024x768.jpg){: .img-fluid}Runners getting ready at Martinshütte.
+![Runners gather at Martinshütte]({{ site.url }}/assets/img/2019/09/Runners-gather-at-Martinshütte.jpg){: .img-fluid}Runners getting ready at Martinshütte.
 
 Race day started with a kilometer walk up to Martinshütte from Altenahr. Organizers had long been set up, handing out race numbers as runners continued to trickle in—including more than a handful of folks signing up last-minute. I imagined they were waiting to see what the weather would do before committing to a morning and early afternoon of punishment.
 
 So what did the weather have in store? Sun and heat. I felt fine standing on the dirt path leading to the starting line and was even comfortable making my first ascent 1.5 kilometers into the race. But the sun was relentless and even suffocating in its omnipresence. There wasn't a damn cloud in the sky. Relief only came in sections that took us through the woods. Fortunately, I had brought my own running backpack with a bladder—and I would need every last drop of that water to get through this thing.
 
-![Start of Rund um die Burg Are](https://withoutapath.com/wp-content/uploads/2019/09/Start-of-Rund-um-die-Burg-Are-e1567428579651-1024x768.jpg){: .img-fluid}Me, so naive and stupid (so, so stupid) before the race.
+![Start of Rund um die Burg Are]({{ site.url }}/assets/img/2019/09/Start-of-Rund-um-die-Burg-Are-e1567428579651.jpg){: .img-fluid}Me, so naive and stupid (so, so stupid) before the race.
 
 I felt good for, let's say, the first half of the race. Confident, even. I remember thinking, "I haven't really seen too many people ahead of me. Am I doing... well?"
 
@@ -44,13 +46,13 @@ I was able to mostly talk myself into accepting that I wouldn't win my first sig
 
 ## Trouble
 
-![Running downhill Rund um die Burg Are](https://withoutapath.com/wp-content/uploads/2019/09/Running-downhill-Rund-um-die-Burg-Are.jpg){: .img-fluid}Me, before the trouble.
+![Running downhill Rund um die Burg Are]({{ site.url }}/assets/img/2019/09/Running-downhill-Rund-um-die-Burg-Are.jpg){: .img-fluid}Me, before the trouble.
 
 I passed 21 kilometers feeling decent. Not great, but not hurting. But I was looking at my watch too much, subconsciously begging the tenths of kilometers to tick away more quickly. Reaching 23 kilometers was something of a milestone for me because it was the furthest I ran in training. But in flat Düsseldorf, it was nothing compared to this. 
 
 Still, I didn't feel as great as I would've hoped with only 10 kilometers to go. And it was right around this point that I started the sharpest ascent in the race. This thing stopped everyone in their tracks, huffing and puffing for nearly three kilometers before reaching the highest point in the race. I'd say my legs were jelly, but jelly would've been more useful than whatever was happening below my waist.
 
-![Running Rund um die Burg Are](https://withoutapath.com/wp-content/uploads/2019/09/Running-Rund-um-die-Burg-Are.jpg){: .img-fluid}"Yeah, hi, camera guy..."
+![Running Rund um die Burg Are]({{ site.url }}/assets/img/2019/09/Running-Rund-um-die-Burg-Are.jpg){: .img-fluid}"Yeah, hi, camera guy..."
 
 This is about when some doubts started to form. "What if I just can't physically do it?" I can generally will myself to finish things, but if my quadriceps and glutes can't muscle me up an ascent, then what do I do? Camp out and wait for a second wind?
 
@@ -60,7 +62,7 @@ Right?
 
 ## The Last Ascent
 
-![Hiking downhill Rund um die Burg Are](https://withoutapath.com/wp-content/uploads/2019/09/Hiking-downhill-Rund-um-die-Burg-Are.jpg){: .img-fluid}This smile lasted 0.42 seconds.
+![Hiking downhill Rund um die Burg Are]({{ site.url }}/assets/img/2019/09/Hiking-downhill-Rund-um-die-Burg-Are.jpg){: .img-fluid}This smile lasted 0.42 seconds.
 
 At 28 kilometers, I felt I was in my sweet spot. "Just five kilometers to go," I thought. "That's an easy lunch run."
 
@@ -76,7 +78,7 @@ All I could do was keep my legs moving—hiking—taking deep breaths in through
 
 ## "Willkommen ins Ziel"
 
-![Finishing Rund um die Burg Are](https://withoutapath.com/wp-content/uploads/2019/09/Finishing-Rund-um-die-Burg-Are.jpg){: .img-fluid}Crossing the finishing, stopping my watch not a second later.
+![Finishing Rund um die Burg Are]({{ site.url }}/assets/img/2019/09/Finishing-Rund-um-die-Burg-Are.jpg){: .img-fluid}Crossing the finishing, stopping my watch not a second later.
 
 Stopping at this point, with just a few kilometers to go, wasn't an option. I'm being almost literal here because the quickest way to sweet relief was to just get to the finish line back at Martinshütte. I don't think they do airlifts or search and rescues because "my legs are tired!"
 
@@ -92,7 +94,7 @@ And with one last loop around Martinshütte, just as the race started, I crossed
 
 ## "Bat Out Of Hell"
 
-![Finished at Rund um die Burg Are](https://withoutapath.com/wp-content/uploads/2019/09/Finished-at-Rund-um-die-Burg-Are-1024x768.jpg){: .img-fluid}Done.
+![Finished at Rund um die Burg Are]({{ site.url }}/assets/img/2019/09/Finished-at-Rund-um-die-Burg-Are.jpg){: .img-fluid}Done.
 
 I quickly found my way over to a shaded spot by a tree to sit down while Melanie handed me water. The earlier dramatics playing out in my head, imagining a scenario in which I'd quit, seemed like a joke. But it was no joke that this was the most challenging thing I had ever done to my body, certainly worse than my previous best (worst?)—[the 245-kilometer Ronde van Vlaanderen bike granfondo.](https://withoutapath.com/belgium-tour-of-flanders-cycling-sportive/)
 

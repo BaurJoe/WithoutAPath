@@ -39,4 +39,4 @@ For some reason, it still doesn't feel like I'm about to leave or ride 153 miles
 
 I'll be just fine on my new BMC, thank you very much. And I plan to roll through the finish line in Oudenaarde relatively unscathed as I've planned all along.
 
-[![How to train for Belgium's Tour Of Flanders](https://withoutapath.com/wp-content/uploads/2014/04/How-to-train-for-Belgiums-Tour-Of-Flanders-200x300.png)](https://withoutapath.com/wp-content/uploads/2014/04/How-to-train-for-Belgiums-Tour-Of-Flanders.png)
+[![How to train for Belgium's Tour Of Flanders]({{ site.url }}/assets/img/2014/04/How-to-train-for-Belgiums-Tour-Of-Flanders.png)]({{ site.url }}/assets/img/2014/04/How-to-train-for-Belgiums-Tour-Of-Flanders.png)

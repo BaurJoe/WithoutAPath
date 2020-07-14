@@ -5,7 +5,7 @@ categories:
 - Outdoors
 ---
 
-![Sintra to Cabo da Roca Hiking Trail](https://withoutapath.com/wp-content/uploads/2019/05/HikingTrailtoCabodaRocaPortugal-1024x768.jpg){: .img-fluid}
+![Sintra to Cabo da Roca Hiking Trail]({{ site.url }}/assets/img/2019/05/HikingTrailtoCabodaRocaPortugal.jpg){: .img-fluid}
 
 "Lo! Cintra's glorious Eden intervenes in variegated maze of mount and glen." --  Lord Byron, _Childe Harolde's Pilgrimage_
 
@@ -15,11 +15,11 @@ Sintra.
 
 <!-- more -->
 
-![Sintra Portugal View](https://withoutapath.com/wp-content/uploads/2019/05/SintraPortugalView-1024x768.jpg){: .img-fluid}
+![Sintra Portugal View]({{ site.url }}/assets/img/2019/05/SintraPortugalView.jpg){: .img-fluid}
 
 One of Portugal's wealthiest municipalities, the dreamlike city sits outside of Lisbon at the end of the aptly-named Linha de Sintra train. More importantly for city-weary travelers, it's your entryway into Sintra-Cascais Natural Park -- a blissful slice of green that blankets the land leading to Cabo da Roca, the western-most point of the European continent. This is where pre-15th Century explorers thought the world came to an abrupt end. (Much to the chagrin of Native Americans, Europeans eventually cracked that code.)
 
-![Sintra to Cabo da Roca Mountain Bike and Hiking Trail](https://withoutapath.com/wp-content/uploads/2019/05/MountainBikeandHikingTrailfromSintratoCabodaRoca-1024x768.jpg){: .img-fluid}An example of what the trail looks like as a shared path between mountain bikers and hikers.
+![Sintra to Cabo da Roca Mountain Bike and Hiking Trail]({{ site.url }}/assets/img/2019/05/MountainBikeandHikingTrailfromSintratoCabodaRoca.jpg){: .img-fluid}An example of what the trail looks like as a shared path between mountain bikers and hikers.
 
 [Mass tourism](https://withoutapath.com/elizabeth-becker-overbooked/) being what it is, of course you can take the comfortable route and high-tail it out to Cabo da Roca and check it off your list before the credits roll on a 90-minute rom-com. There are buses, tour buses, and private transportation.
 
@@ -37,7 +37,7 @@ Googling led me to an outdoor navigation app I'd never heard of before, Wikiloc.
 
 (Note that you need a membership to use the trail tracking feature in Wikiloc, but you can sign up for a free trial. An annual subscription only costs $9.99 anyhow.)
 
-![Pena National Palace Sintra Portugal](https://withoutapath.com/wp-content/uploads/2019/05/PenaNationalPalaceSintraPortugal-1024x768.jpg){: .img-fluid}Cutting out a mob of tourists from the frame at Pena National Palace
+![Pena National Palace Sintra Portugal]({{ site.url }}/assets/img/2019/05/PenaNationalPalaceSintraPortugal.jpg){: .img-fluid}Cutting out a mob of tourists from the frame at Pena National Palace
 
 Had I not found this route, it's very unlikely I would've figured out how to connect Sintra to Cabo da Roca in an interesting, meaningful way. As it was, the route took me to the foot of Pena National Palace, a wildly colorful structure unlike anything I'd ever seen before, along rugged dirt trails shared with Portuguese mountain bikers, and finally up and down (and up and down again) coastal, grassy hills leading to the lighthouse at Cabo da Roca. Perhaps it was the post-hike high, but I immediately counted it as a top 10 hike in my fortunate life of hiking everywhere from [Central America](https://withoutapath.com/travel-guides/el-salvador/) to [Jordan](https://withoutapath.com/travel-guides/jordan/) and [Japan](https://withoutapath.com/nakasendo-way-walk-japan/).
 
@@ -47,7 +47,7 @@ Along the way, I noted painted trail markers, but they were infrequent and unrel
 
 I understand that not everyone is up for a 20 to 25-kilometer hike. If you're looking to take it easier, you could hop on the 403 bus (picks up at Sintra's train station) and cover some of the ground heading toward Cabo da Roca. There are also plenty of easier loops right within Sintra, like the one above leading to Pena National Palace through the quiet labyrinth of its surrounding gardens, up to the viewpoint at Cruz Alta, and finally over to Castelo dos Mouros -- the cliff-top Moorish castle built in the 10th century. (Note that Pena is swamped with tourists whereas Castelo dos Mouros has a much more modest crowd.)
 
-![Castelo dos Mouros View Sintra Portugal](https://withoutapath.com/wp-content/uploads/2019/05/CastelodosMourosViewSintraPortugal-1024x768.jpg){: .img-fluid}
+![Castelo dos Mouros View Sintra Portugal]({{ site.url }}/assets/img/2019/05/CastelodosMourosViewSintraPortugal.jpg){: .img-fluid}
 
 An added benefit of spending your day hiking is that you'll mostly avoid the wave of tourists coming in from Lisbon on a day trip. Most of the travel literature out there suggests that you'll regret it if you only do a day trip to Sintra. I wholeheartedly agree. Coming in for a day trip -- either by train, by tour bus, or God help you, a cruise -- you'll be packed into the narrow streets with thousands of equally self-absorbed tourists, elbowing their way through the crowds because they paid good money to be there and deserve top-notch treatment.
 

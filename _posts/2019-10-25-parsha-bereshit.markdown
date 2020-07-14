@@ -2,9 +2,10 @@
 title: Parsha Bereshit | God Goes on a Temper Tantrum
 categories:
 - Essays
+homepage: false
 ---
 
-![Parsha Bereshit Light](https://withoutapath.com/wp-content/uploads/2019/10/Parsha-Bereshit-nadine-shaabana-ZPP-zP8HYG0-unsplash-1024x683.jpg){: .img-fluid}Photo by [Nadine Shaabana](https://unsplash.com/@nadineshaabana?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/light?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![Parsha Bereshit Light]({{ site.url }}/assets/img/2019/10/Parsha-Bereshit-nadine-shaabana-ZPP-zP8HYG0-unsplash.jpg){: .img-fluid}Photo by [Nadine Shaabana](https://unsplash.com/@nadineshaabana?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/light?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew's commentary on Parsha Bereshit, Genesis 1:1 - 6:8._
 

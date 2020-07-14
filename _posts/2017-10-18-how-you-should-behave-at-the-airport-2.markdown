@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![How You Should Behave at the Airport](https://withoutapath.com/wp-content/uploads/2017/10/How-You-Should-Behave-at-the-Airport-1024x767.jpg){: .img-fluid}
+![How You Should Behave at the Airport]({{ site.url }}/assets/img/2017/10/How-You-Should-Behave-at-the-Airport.jpg){: .img-fluid}
 
 The more I fly, the more I loathe the experience. I have enough issues with air travel as is (can't we just take trains, [bike](https://withoutapath.com/cycling-travel/), and walk everywhere?), but alas it's something I feel compelled to do in my foolhardy quest to satiate my insatiable desire to travel to new places and hear new stories.
 

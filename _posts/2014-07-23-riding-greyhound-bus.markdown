@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![Greyhound Bus Station Cleveland Ohio](https://withoutapath.com/wp-content/uploads/2014/07/Greyhound-Bus-Station-Cleveland-Ohio.jpg){: .img-fluid}
+![Greyhound Bus Station Cleveland Ohio]({{ site.url }}/assets/img/2014/07/Greyhound-Bus-Station-Cleveland-Ohio.jpg){: .img-fluid}
 
 Greyhound often receives its reviews from terrified American drivers who have written off bus transportation in the United States as a service for the poor. Ask anyone in your family about Greyhound and you will likely hear horrifying gasps, a few phlegm-filled "yucks," and an indignant announcement that they would never ride Greyhound.
 

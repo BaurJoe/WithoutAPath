@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Color Vibe Race Review](https://withoutapath.com/wp-content/uploads/2017/05/Color-Vibe-Race-Review-683x1024.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/Color-Vibe-Race-Review.jpg){: .img-fluid}I've returned from the bowels of inanity, and its name is Color Vibe.
+[![Color Vibe Race Review]({{ site.url }}/assets/img/2017/05/Color-Vibe-Race-Review.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/Color-Vibe-Race-Review.jpg){: .img-fluid}I've returned from the bowels of inanity, and its name is Color Vibe.
 
 "Racing with a twist" seems to be the latest craze in running. It began with your St. Patrick's Day races with event promoters encouraging participants to wear their finest in Irish memorabilia, green top hats, and short leprechaun skrits for the ladies.  Eventually it spanned to Christmas-themed races with participants donning reindeer antlers, Santa hats, and the girls inevitably in short Christmas skirts. Now you can even find Valentine's Day races with runners in Cupid-style diapers, stuffed bows and arrows, and the ladies yet again in uncomfortably short skirts.
 
@@ -22,7 +22,7 @@ Again, I present to you -- Color Vibe.
 
 We arrived rather easily, picking up our packets, and quickly throwing our complimentary packets of colored powder all over one another like children running through a sprinkler on a hot summer day. Giddy and excited, we meandered into the next wave set to run the race. Before long, we were off. And shortly after crossing the starting line, it became apparent in every way imagineable that not only had we wasted $40, but we would have better spent it purchasing a nice bottle of whiskey. At least then we would have had the joy of drinking whiskey, and not the stinging feeling of regret that comes with the realization of having wasted forty bucks on a poorly planned gimmick that makes putting a slide on a playground seem ingenious.
 
-[caption id="attachment_517" align="alignleft" width="600"][![](https://withoutapath.com/wp-content/uploads/2013/04/Color-Vibe-Race-JOE-BAUR-1024x612.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/04/Color-Vibe-Race-JOE-BAUR.jpg){: .img-fluid} The rare instance in which the "before" image is a happier one.[/caption]
+[caption id="attachment_517" align="alignleft" width="600"][![]({{ site.url }}/assets/img/2013/04/Color-Vibe-Race-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/04/Color-Vibe-Race-JOE-BAUR.jpg){: .img-fluid} The rare instance in which the "before" image is a happier one.[/caption]
 
 The course began with orange cones lined up in a manner that had us running on a rather small field of grass, slithering back and forth like a snake. Though to say we were all "running" paints a misleading picture. Sure, some of us attempted to run. But an overwhelming number of participants opted to walk the entirety of the 5K -- a warning I now see under the website's FAQ. Though I humbly suggest they offer another warning, that anyone with a remote desire to exert themselves physically should instead run as far away as possible from ongoing Color Vibe events.
 
@@ -38,7 +38,7 @@ Instead, we unknowingly paid strangers to gingerly throw colored dust at us, whi
 
 This practice of running zig-zagged across parking lots around the county fairgrounds continued for a majority of the race -- a race that I question actually being a 5K.
 
-[caption id="attachment_518" align="alignleft" width="600"][![](https://withoutapath.com/wp-content/uploads/2013/04/Color-Vibe-JOE-BAUR-1024x612.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/04/Color-Vibe-JOE-BAUR.jpg){: .img-fluid} Thrilled this otiose experiment in wasted human thought is over.[/caption]
+[caption id="attachment_518" align="alignleft" width="600"][![]({{ site.url }}/assets/img/2013/04/Color-Vibe-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/04/Color-Vibe-JOE-BAUR.jpg){: .img-fluid} Thrilled this otiose experiment in wasted human thought is over.[/caption]
 
 ###### **Terrified**
 

@@ -2,9 +2,10 @@
 title: Parsha Toldot | Biblical Fool's Day
 categories:
 - Essays
+homepage: false
 ---
 
-![parsha toldo desert](https://withoutapath.com/wp-content/uploads/2019/11/Parsha-Toldot-Desert-eddie-carolina-stigson-ecIZe6MdUH8-unsplash.jpg){: .img-fluid}Photo by [Eddie & Carolina Stigson](https://unsplash.com/@stigson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/israel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![parsha toldo desert]({{ site.url }}/assets/img/2019/11/Parsha-Toldot-Desert-eddie-carolina-stigson-ecIZe6MdUH8-unsplash.jpg){: .img-fluid}Photo by [Eddie & Carolina Stigson](https://unsplash.com/@stigson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/israel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Toldot, Genesis 25:19 – 28:9. [Click here to read last week’s, Parsha Chayei Sara](https://withoutapath.com/parsha-chayei-sara/)._
 

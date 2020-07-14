@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![Marseille France Cyclist](https://withoutapath.com/wp-content/uploads/2017/09/Marseille-France-Cyclist.jpg){: .img-fluid}
+![Marseille France Cyclist]({{ site.url }}/assets/img/2017/09/Marseille-France-Cyclist.jpg){: .img-fluid}
 
 Green travel has been all the rage with well-meaning travelers wanting to see the world without leaving a carbon footprint. The unfortunate reality is, the means in which most of us travel – approximately eight million per day – is [highly damaging to the environment](https://theconversation.com/its-time-to-wake-up-to-the-devastating-impact-flying-has-on-the-environment-70953). I’m speaking of course about air travel.
 
@@ -35,7 +35,7 @@ Green travel has been all the rage with well-meaning travelers wanting to see th
 
 ## Why You Should Care About Green Travel
 
-![Morsbach Germany Eifel National Park Wilderness Trail](https://withoutapath.com/wp-content/uploads/2016/10/Morsbach-Germany-Eifel-National-Park-Wilderness-Trail-1.jpg){: .img-fluid}
+![Morsbach Germany Eifel National Park Wilderness Trail]({{ site.url }}/assets/img/2016/10/Morsbach-Germany-Eifel-National-Park-Wilderness-Trail-1.jpg){: .img-fluid}
 
 Air travel accounts for [five million barrels of oil a day](http://www.atag.org/facts-figures.html), contributing about 2.5 percent to total carbon emissions. (This number could jump up to 22 percent by 2050 with [other industries emitting less](http://www.europarl.europa.eu/RegData/etudes/STUD/2015/569964/IPOL_STU(2015)569964_EN.pdf).) Most travelers, however, remain blissfully ignorant to the damage of air travel. Some will excuse themselves, pointing to their Tesla back home. Others, astonishingly, will take that cheap airfare and completely pass the buck. “That plane is going up without me, so I might as well be on it,” is the mentality.
 
@@ -57,7 +57,7 @@ Many will complain that there simply is no other way to get around in places lik
 
 ## Hey! Remember Walking?
 
-![Parisian Jazz Quartet](https://withoutapath.com/wp-content/uploads/2017/08/Parisian-Jazz-Quartet.jpg){: .img-fluid}
+![Parisian Jazz Quartet]({{ site.url }}/assets/img/2017/08/Parisian-Jazz-Quartet.jpg){: .img-fluid}
 
 Remember those fleshy things underneath your waist? Well, turns out they’re useful for more than just accelerating. Before getting into a car – whether it’s at home, a rental or even an Uber – consider if you even need to. North Americans walk woefully less than populations in other parts of the world and that’s due largely to the unfettered access the auto industry has had to altering the urban landscape. [Less than four percent](https://www.vox.com/2015/5/29/8682707/walking-biking-cities-transportation) of Americans walk or bike to work. NPR, too, [has reported](http://www.npr.org/sections/thetwo-way/2012/04/16/150586667/americans-do-not-walk-the-walk-and-thats-a-growing-problem) on this growing problem, quoting writer Tom Vanderbilt as saying, "Americans now walk the least of any industrialized nation in the world."
 
@@ -69,7 +69,7 @@ Simply put, walking is the king (or queen!) of green travel.
 
 ## Use Mass and Metro Transit
 
-![Lyon France Train Tunnel](https://withoutapath.com/wp-content/uploads/2017/09/Lyon-France-Train-Tunnel.jpg){: .img-fluid}
+![Lyon France Train Tunnel]({{ site.url }}/assets/img/2017/09/Lyon-France-Train-Tunnel.jpg){: .img-fluid}
 
 Mass transit in North America is in a woeful state when compared to similarly wealthy countries, but it doesn’t mean it’s nearly as impossible as some travelers will lead you to believe. Just because you don’t immediately know how to do it doesn’t mean the option doesn’t exist. Even in the United States there’s still [Greyhound](https://withoutapath.com/riding-greyhound-bus/), which far exceeded my expectations that were admittedly tainted by negative stereotypes propagated by people who never ride Greyhound. And before you say, “Easy for you to say! You don’t have kids.” Last I checked, kids are allowed on the bus.
 
@@ -81,7 +81,7 @@ If you’re heading to [Japan](https://withoutapath.com/category/travel/asia/) o
 
 ## Bike Rental or Find the Bike Share
 
-![Amsterdam Bike Parking](https://withoutapath.com/wp-content/uploads/2017/05/Amsterdam-Bike-Parking-1.jpg){: .img-fluid}
+![Amsterdam Bike Parking]({{ site.url }}/assets/img/2017/05/Amsterdam-Bike-Parking-1.jpg){: .img-fluid}
 
 While walking is my favorite way to get a feel for a new city, cycling is what I turn to for [better seeing an entire region](https://withoutapath.com/cycling-travel/). Again, you’ve got your obvious health benefits and the only gas you’ll be emitting is if that burrito surprises you during a modest climb. (It happens to the best of us. Blame the lycra or just pedal on like nothing happened.)
 

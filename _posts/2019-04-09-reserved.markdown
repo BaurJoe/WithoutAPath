@@ -5,7 +5,7 @@ categories:
 - There Must Be Order
 ---
 
-![Inside Hamburg German Train Station](https://withoutapath.com/wp-content/uploads/2017/11/Inside-Hamburg-German-Train-Station-1024x683.jpg){: .img-fluid}
+![Inside Hamburg German Train Station]({{ site.url }}/assets/img/2017/11/Inside-Hamburg-German-Train-Station.jpg){: .img-fluid}
 
 _The following is a chapter from an upcoming memoir on moving to and living in Germany. [Read more here](https://withoutapath.com/category/essays/there-must-be-order/)._  
 

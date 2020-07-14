@@ -5,7 +5,7 @@ categories:
 - Trailblazers
 ---
 
-![Sophia Musoki A Kitchen In Uganda](https://withoutapath.com/wp-content/uploads/2018/12/Sophia-Musoki.jpg){: .img-fluid}
+![Sophia Musoki A Kitchen In Uganda]({{ site.url }}/assets/img/2018/12/Sophia-Musoki.jpg){: .img-fluid}
 
 _[Trailblazers](https://withoutapath.com/category/trailblazers) checks in with creatives from around the world to share their story. On this edition, we welcome Sophia Musoki of [A Kitchen In Uganda](https://akitcheninuganda.com/)._
 
@@ -21,19 +21,19 @@ Sophia Musoki is a Ugandan though currently living in the Caribbean. She's enjoy
 
 **SM** A Kitchen in Uganda to me is a safe place to experiment and create. Coming up with the name, I wanted it to reflect my background but not only limit myself to Uganda alone but enable me to explore the world through the lens of a Ugandan cook. Ugandan food is a combination of many influences and I want A Kitchen in Uganda to reflect that alongside the freedom to think and create outside of the box. I also want the blog to inspire other foodies out there to be fearless.
 
-![Shelling Beans](https://withoutapath.com/wp-content/uploads/2018/12/Shelling-Beans.jpg){: .img-fluid}
+![Shelling Beans]({{ site.url }}/assets/img/2018/12/Shelling-Beans.jpg){: .img-fluid}
 
 **WAP** _Was there a moment -- a specific meal or drink -- that more or less convinced you to start writing about Ugandan cuisine?_
 
 **SM** It happened organically in layered experiences. The first blog post I published was a random poem I wrote back in high school. Basically, the blog started out as an unassuming personal journal of some sort. I didn’t expect anyone to read it except my mom and siblings. Two years later, I recognized the lack of established food bloggers in the country. Then there were all these stories that my parents kept on telling me about the history of our foods, how some dishes are extinct, and how some have evolved. I was always frustrated by the fact that popular and mainstream food websites and magazines catered to the western perspective which was not my reality nor the reality of many Ugandans. All of the above coupled with my long-held desire to work in the food industry motivated me into starting a food blog.
 
-**![amaranth bowls](https://withoutapath.com/wp-content/uploads/2018/12/amaranth-bowls.jpg){: .img-fluid}WAP** _Talk about your food photography. How did you take the step from cooking to creating these gorgeous photos? Why was that an important step for you?_
+**![amaranth bowls]({{ site.url }}/assets/img/2018/12/amaranth-bowls.jpg){: .img-fluid}WAP** _Talk about your food photography. How did you take the step from cooking to creating these gorgeous photos? Why was that an important step for you?_
 
 **SM** Starting out, I knew there was a lack of quality photography accompanying African, particularly Ugandan, food stories online. So when I started out, I made a promise to myself that I was going to commit to writing an elaborate and well-photographed blog. The truth is I didn’t even know how I was going to do that. I was not aware that it required specific equipment and a unique skill set to make the photos. I had a simple family point and shoot camera. I would scroll through Pinterest for inspiration and would try to recreate some of the photos I really liked. Looking back now, I realize they are horrible!
 
 Luckily for me, a neighbor had a DSLR and was generous enough to let me borrow it from time to time. Using that camera – always in auto mode because I didn’t fully grasp the concept of shooting in manual – helped improve the quality of the pictures. I now have an entry level DSLR that I use for all the photos on the blog. It is important to me to have a well-photographed blog because photography tells a story. More than anything I need Ugandans to believe that we are one of the most blessed countries when it comes to fresh local and organic produce. I also want us to realize that the possibilities are endless with our dishes, and in order to do so, I have to deliver quality visuals. Food photography to me is as important as the dish itself, especially in this highly visual era. You can have a great dish and recipe but if the visuals are not appealing then its potential is reduced by half. Speaking of which, I just opened a print shop on Society 6 that has some of my best and iconic photos.
 
-![Uganda Pancake](https://withoutapath.com/wp-content/uploads/2018/12/pancake2.0-8_zpslqkhayvi.jpg){: .img-fluid}
+![Uganda Pancake]({{ site.url }}/assets/img/2018/12/pancake2.0-8_zpslqkhayvi.jpg){: .img-fluid}
 
 **WAP** _What’s been the biggest surprise you’ve experienced since you started ‘A Kitchen In Uganda’?_
 
@@ -47,7 +47,7 @@ Luckily for me, a neighbor had a DSLR and was generous enough to let me borrow i
 
 **SM** That would be [katogo](https://akitcheninuganda.com/2018/06/26/classic-matooke-katogo/). Katogo, which is a literal translation of “a mixture,” is easy to make and quite tasty depending on how you decide to prepare it and the ingredients you add.
 
-**![wheatpumpkinbowl-akitcheninuganda.com-4](https://withoutapath.com/wp-content/uploads/2018/12/wheatpumpkinbowl-akitcheninuganda.com-4.jpg){: .img-fluid}WAP** _What are you most excited about in the world of Ugandan food?_
+**![wheatpumpkinbowl-akitcheninuganda.com-4]({{ site.url }}/assets/img/2018/12/wheatpumpkinbowl-akitcheninuganda.com-4.jpg){: .img-fluid}WAP** _What are you most excited about in the world of Ugandan food?_
 
 **SM** The rich history. The more I explore a dish, the more I learn – especially from my elders. I am also excited about the innovation of my fellow youth. There is a wave of talented and innovative young people right now who are excited to bring Uganda and all its greatness to another level. Fusion now more than ever holds meaning in the Ugandan food scene and I am excited to see what the food scene will look like 10 years from now.
 

@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![a-piece-of-jordan-family-petra](https://withoutapath.com/wp-content/uploads/2016/10/A-Piece-Of-Jordan-Family-Petra.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/A-Piece-Of-Jordan-Family-Petra.jpg){: .img-fluid}
+[![a-piece-of-jordan-family-petra]({{ site.url }}/assets/img/2016/10/A-Piece-Of-Jordan-Family-Petra.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/A-Piece-Of-Jordan-Family-Petra.jpg){: .img-fluid}
 
 There are a number of ways to experience a different culture, but few beat dining with a local family.
 
@@ -29,7 +29,7 @@ Steph led me to what a U.S. American would think of as a living room. Except thi
 
 Before long it was time for the main event; dinner on the balcony where we again sat cross-legged and dove into a communal plate of seneyah, a Jordanian favorite with marinated chicken and vegetables cooked in the oven and a little yogurt for dipping. I had enjoyed Middle Eastern cuisine numerous times in my life, but never in the proper family setting with hands instead of utensils. Sitting there with this incredibly hospitable family, a pleasant evening breeze, the sparkling lights of Petra, and the general ambiance that permeates throughout Jordan, I decided that life is good and I'm a thoroughly lucky bastard.
 
-[caption id="attachment_3901" align="aligncenter" width="2048"][![seneyah-jordanian-food](https://withoutapath.com/wp-content/uploads/2016/10/Seneyah-Jordanian-Food-1.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/Seneyah-Jordanian-Food-1.jpg){: .img-fluid} Photo courtesy of A Piece Of Jordan[/caption]
+[caption id="attachment_3901" align="aligncenter" width="2048"][![seneyah-jordanian-food]({{ site.url }}/assets/img/2016/10/Seneyah-Jordanian-Food-1.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/Seneyah-Jordanian-Food-1.jpg){: .img-fluid} Photo courtesy of A Piece Of Jordan[/caption]
 
 Without too much prompting, I was able to find out that Steph is, indeed, British, hailing originally from Birmingham. She had been traveling through the Middle East when she met a man in Jordan who changed her life. They spent some time living in the United Kingdom before she opted to convert to Islam and moved to Jordan where the young family is happy to remain for the distant future. It was around then that another call to prayer began.
 
@@ -49,7 +49,7 @@ This was all back in May of 2016, a time when the rise of a certain Cheetos-crus
 
 I regrettably had very little solace to offer, only promising that I'd happily act as a spokesman of traveling to Jordan to anyone who would listen. This is also partly why Steph launched A Piece Of Jordan. Petra has long been on the tourist trek, but visitors rarely interacted with Jordanians beyond haggling at the markets along the way. As anyone who has traveled outside their comfort zone knows, its people who destroy stereotypes and misconceptions. I can't imagine anyone, even the most vile of Trump supporters, would be able to leave that dinner with their muddied preconceptions left intact.
 
-![british-jordanian-boy-petra](https://withoutapath.com/wp-content/uploads/2016/10/British-Jordanian-Boy-Petra.jpg){: .img-fluid}
+![british-jordanian-boy-petra]({{ site.url }}/assets/img/2016/10/British-Jordanian-Boy-Petra.jpg){: .img-fluid}
 
 Her son, thankfully, was easily able to lift all of our spirits with his continued unbridled euphoria, sprinting around every corner with a pointy, blue Sonic The Hedgehog hat on his head over a Spider-Man costume. He eventually calmed down enough to grab a small digital camera and started taking pictures. When we finally left, he called back as I started to head down the stairs.
 

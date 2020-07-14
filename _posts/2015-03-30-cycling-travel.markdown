@@ -4,7 +4,7 @@ categories:
 - Outdoors
 ---
 
-[![Why Cycling is the Best Way to Travel - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/03/Why-Cycling-is-the-Best-Way-to-Travel-JoeBaur-1024x566.png)](https://withoutapath.com/wp-content/uploads/2015/03/Why-Cycling-is-the-Best-Way-to-Travel-JoeBaur.png)
+[![Why Cycling is the Best Way to Travel - JoeBaur]({{ site.url }}/assets/img/2015/03/Why-Cycling-is-the-Best-Way-to-Travel-JoeBaur.png)]({{ site.url }}/assets/img/2015/03/Why-Cycling-is-the-Best-Way-to-Travel-JoeBaur.png)
 
 Trains, planes, cars, segways, bikes -- there are no shortage of ways to travel. For me, it doesn't get any better than by cycling.
 

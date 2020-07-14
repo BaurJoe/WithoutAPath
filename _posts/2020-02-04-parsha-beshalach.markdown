@@ -2,9 +2,10 @@
 title: Parsha Beshalach | Biblical Kvetching and the "Rod of God"
 categories:
 - Essays
+homepage: false
 ---
 
-![](https://withoutapath.com/wp-content/uploads/2020/02/Parsha-Beshalach-juanma-clemente-alloza-2pk-iXqrdE0-unsplash.jpg){: .img-fluid}Photo by [Juanma Clemente-Alloza](https://unsplash.com/@juanmacllas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/red-sea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![]({{ site.url }}/assets/img/2020/02/Parsha-Beshalach-juanma-clemente-alloza-2pk-iXqrdE0-unsplash.jpg){: .img-fluid}Photo by [Juanma Clemente-Alloza](https://unsplash.com/@juanmacllas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/red-sea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Beshalach, Exodus 13:17 – 17:16. [Click here to read last week’s, Parsha Bo.](https://withoutapath.com/parsha-bo/)_
 

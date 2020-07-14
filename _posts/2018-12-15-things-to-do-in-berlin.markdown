@@ -20,13 +20,13 @@ Let's start off with a unique take on the obvious. (This is the one that also ma
 
 ## Tacos at Maria Bonita Mexican Bistro
 
-![Maria Bonita Mexican Bistro Berlin Burrito](https://withoutapath.com/wp-content/uploads/2018/07/Maria-Bonita-Mexican-Bistro-Berlin-Burrito-1024x626.jpeg)
+![Maria Bonita Mexican Bistro Berlin Burrito]({{ site.url }}/assets/img/2018/07/Maria-Bonita-Mexican-Bistro-Berlin-Burrito.jpeg)
 
 Good Mexican food can be lacking in Europe, but you can see it getting better as time moves on and Americans and Mexicans moving overseas demand it. I found the glory that is Maria Bonita Mexican Bistro while in town for a conference. The day was over and I was with a group of hungry travelers on the verge of getting _hangry_. A quick search for Mexican food on Google Maps took us to Maria Bonita and its charming counter service shop. Now it's an obvious stop every time I visit Berlin.
 
 ## Drink German Craft Beer
 
-![Mikkeller Berlin Beer](https://withoutapath.com/wp-content/uploads/2018/07/Mikkeller-Berlin-Beer.jpeg)
+![Mikkeller Berlin Beer]({{ site.url }}/assets/img/2018/07/Mikkeller-Berlin-Beer.jpeg)
 
 Craft Beer in Germany is a bit behind its American and British cousins. They've got their _Rheinheitsgebot_ or beer purity law which tells you how to make certain styles -- and that's that. Anything creative that stretches outside of the bounds of the law cannot technically be called a beer. Plus, German consumers seem to be happy with the way things are. You go to a town, you know you'll get the local style no matter where you go with restaurants usually throwing in a Weizen for good measure. I have to say, I've come to appreciate the assurance German breweries offer. 
 
@@ -46,7 +46,7 @@ I first got wind of Teufelsberg when it made an appearance on the television sho
 
 ## Chill in a Park
 
-![Church-Of-Germany-JoeBaur-1024x683](https://withoutapath.com/wp-content/uploads/2015/06/Church-Of-Germany-JoeBaur-1024x683-1024x683.jpg){: .img-fluid}
+![Church-Of-Germany-JoeBaur-1024x683]({{ site.url }}/assets/img/2015/06/Church-Of-Germany-JoeBaur-1024x683.jpg){: .img-fluid}
 
 Berlin has a pretty solid park game. I'm not just talking about the behemoth that is Tiergarten on the edge of Brandenburg Gate. You've also got Friedrichshain, Mauerpark, and Treptower Park to name a few personal favorites. (At Mauerpark, you can see where artists are still painting on the wall.) You've also got Lustgarten in front of the Church of Berlin (Berliner Dom) and Platz der Republik facing the Bundestag (it blends right into Tiergarten).
 

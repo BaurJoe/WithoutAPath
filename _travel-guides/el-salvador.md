@@ -15,7 +15,7 @@ There are a lot of misconceptions and assumptions out there about El Salvador --
 
 ## **SANTA TECLA**
 
-![Mango-Inn-Santa-Tecla-El-Salvador](https://withoutapath.com/wp-content/uploads/2018/05/Mango-Inn-Santa-Tecla-El-Salvador.jpg){: .img-fluid}
+![Mango-Inn-Santa-Tecla-El-Salvador]({{ site.url }}/assets/img/2018/05/Mango-Inn-Santa-Tecla-El-Salvador.jpg){: .img-fluid}
 
 Our week in El Salvador began in Santa Tecla, a slice of urbanity just southwest of San Salvador formerly known as “Nuevo San Salvador” due to its role as the capital in the mid-19th Century. The name Santa Tecla comes from Saint Thecla, a saint from early iterations of the Christian church and follower of Paul the Apostle. She’s doesn’t make an appearance in _The New Testament_ (perhaps an editorial decision?), but is featured in the apocryphal Acts of Paul and Thecla, believed to have been composed early on in the second century.
 
@@ -25,7 +25,7 @@ After grabbing a quick pupusa -- a handmade Salvadoran staple consisting of a th
 
 Both my wife Melanie and I were taken aback by what we were seeing in Santa Tecla. From the moment our taxi pulled in, we were thoroughly impressed by the city’s Spanish architecture. Santa Tecla _felt_ like a city with its narrow streets covered in road bumps to slow aggressive traffic, giving pedestrians a sense of ease when traversing the city -- something that unfortunately lacks around the world. Buildings had a sense of design and purpose. The streets were lined with impressive looking restaurants we could hardly wait to peek into.
 
-![Jose-María-San-Martin-Santa-Tecla-El-Salvador](https://withoutapath.com/wp-content/uploads/2018/05/Jose-María-San-Martin-Santa-Tecla-El-Salvador.jpg){: .img-fluid}
+![Jose-María-San-Martin-Santa-Tecla-El-Salvador]({{ site.url }}/assets/img/2018/05/Jose-María-San-Martin-Santa-Tecla-El-Salvador.jpg){: .img-fluid}
 
 As we explored, Juan shared a bit of his own story. Born in San Salvador, he eventually moved to Minneapolis in the United States, which is where he perfected his English. Now he’s happy to be back in El Salvador, this time in Santa Tecla where he runs the Mango Inn and a nearby restaurant.
 
@@ -35,7 +35,7 @@ The latter was named in honor of Jose María San Martín, who while president of
 
 Following our tour, we returned to the Mango Inn to meet Lillian, a language exchange friend of ours from [italki.com](http://italki.com) who lives in Santa Tecla. She took us for traditional Salvadoran ice cream on the outskirts of downtown. It’s still not clear to me what was Salvadoran about it, but you can never go wrong with ice cream served with fruit and a crunchy cone.
 
-![Ice Cream Shop in Santa Tecla El Salvador](https://withoutapath.com/wp-content/uploads/2018/05/Ice-Cream-Shop-in-Santa-Tecla-El-Salvador.jpg){: .img-fluid}
+![Ice Cream Shop in Santa Tecla El Salvador]({{ site.url }}/assets/img/2018/05/Ice-Cream-Shop-in-Santa-Tecla-El-Salvador.jpg){: .img-fluid}
 
 Lilian is the friend everyone wants. Always smiling, even when talking about something discouraging, like the local news. You want her to follow you around for a confidence boost because she’s always willing to laugh at your bad jokes.
 
@@ -55,7 +55,7 @@ El Salvador’s geographic density, however, is very much a selling point. Mount
 
 ### Heart of the Salvadoran Civil War
 
-![Cobblestone Street in Suchitoto, El Salvador](https://withoutapath.com/wp-content/uploads/2015/04/Cobblestone-Street-in-Suchitoto-El-Salvador-1024x683.jpg){: .img-fluid}
+![Cobblestone Street in Suchitoto, El Salvador]({{ site.url }}/assets/img/2015/04/Cobblestone-Street-in-Suchitoto-El-Salvador.jpg){: .img-fluid}
 
 Bouncing on cobblestones, we hopped out of the car and into the decadent entrance of Los Almendros de San Lorenzo. Inside we caught our first glimpse of how the rest of the world sees El Salvador. After passing through a decorated gate and magnificent hallway covered in impressive paintings that just as easily could have been in an art museum, we caught the front page of La Página. Two cops had been killed; one served as a witness against a gang. They weren’t even the first cops to be killed in the year, and it was only the middle of January. Still, we felt perfectly safe as we had no plans to get involved in the local drug trade overnight.
 
@@ -63,7 +63,7 @@ With its cobblestone streets, it was immediately clear that Suchitoto is a city 
 
 Following Spanish control, the region became known for its indigo trade. The industry eventually collapsed once synthetic colors were discovered in Europe, thus forcing Suchitoto to reinvent itself—a historic theme for the city, though no event forced change among the people of Suchitoto quite like the infamous Civil War that ravaged El Salvador between 1980 and 1992. Approximately 80,000 died as a result of the conflict, creating an additional million displaced peoples both internally and internationally.
 
-![Suchitoto El Salvador Street](https://withoutapath.com/wp-content/uploads/2015/04/Suchitoto-El-Salvador-Street-1024x683.jpg){: .img-fluid}
+![Suchitoto El Salvador Street]({{ site.url }}/assets/img/2015/04/Suchitoto-El-Salvador-Street.jpg){: .img-fluid}
 
 Oddly enough, there are very few signs of leftover conflict to the untrained eye (i.e. my eye), especially if you’re not looking for it. Of course we know that many Salvadorans still feel the sting of conflict. Many of those involved with the infamous maras (gangs) that the world associates with El Salvador are former soldiers who seemingly have no other way of making a living. Not to mention the nation’s youth unemployment rate of about ten percent lends itself to creating more chaos.
 
@@ -71,7 +71,7 @@ Despite it all, Suchitoto seems to have successfully come out of the ashes of wa
 
 ### Hotel San Lorenzo
 
-![Los Almendros de San Lorenzo View Suchitoto El Salvador](https://withoutapath.com/wp-content/uploads/2015/04/Los-Almendros-de-San-Lorenzo-View-Suchitoto-El-Salvador-1024x508.jpg){: .img-fluid}
+![Los Almendros de San Lorenzo View Suchitoto El Salvador]({{ site.url }}/assets/img/2015/04/Los-Almendros-de-San-Lorenzo-View-Suchitoto-El-Salvador.jpg){: .img-fluid}
 
 Today, it would be difficult not to enjoy yourself in Suchitoto. Melanie and I spent countless hours walking the quiet cobblestone streets, enjoying the homes painted in brilliant shades of orange, red, blue and white that made Suchitoto pop to the eye. One of our hosts at [Los Almendros de San Lorenzo](http://www.hotelsalvador.com/), Fernando, explained to us that the town had traditionally been painted entirely white. The decision to add color to create a visual sense of vibrancy was recent and by most accounts, welcomed.
 
@@ -79,7 +79,7 @@ Like Roberto, Fernando is a native of San Salvador who spent a considerable amou
 
 Over dinner at the restaurant at Los Almendros, Nathan shared his love for his adopted country. The people and density of the country, he said, were natural selling points. Though now in the tourism game, he questioned the seriousness of those in charge of promoting the country. Perhaps it’s inexperience; the ministry of tourism only launched within the past decade. The lack of tourist infrastructure didn’t bother us. Unlike the touristy corners of Costa Rica, you will be expected to speak Spanish. Any passersby will jump into a conversation with you assuming you speak the language much like an American in the U.S. would English.
 
-![Teatro Alejandro Cotto Suchitoto El Salvador](https://withoutapath.com/wp-content/uploads/2015/04/Teatro-Alejandro-Cotto-Suchitoto-El-Salvador-1024x565.jpg){: .img-fluid}
+![Teatro Alejandro Cotto Suchitoto El Salvador]({{ site.url }}/assets/img/2015/04/Teatro-Alejandro-Cotto-Suchitoto-El-Salvador.jpg){: .img-fluid}
 
 Just like in our last stop, every Salvadoran we met asked us what brought us to their country. This wasn’t as standoffish as the question might suggest, but seemed to be out of genuine curiosity. They wanted to know where we were from, where we were going, where we planned to go and tell us where we should go next. Perhaps most importantly, they wanted us to share the experience with friends and family back home, so they too would plan a visit to El Salvador. My only hope is that El Salvador maintains its sense of self that, at least for me, has separated it from other experiences in Central America and worldwide. Most travelers can think of a city or town that has completely changed itself over time for the sake of tourists. Worse, it’s not entirely uncommon to read about a stretch of pristine beach once enjoyed by the public being quarantined off for a resort catering primarily to foreigners. As of this writing, Suchitoto very much remains a Salvadoran town.
 
@@ -87,7 +87,7 @@ At dinner, we discussed what we had planned for the rest of our trip. Our hosts 
 
 ### Centro Arte Para La Paz
 
-![Centro Arte para la Paz Suchitoto El Salvador](https://withoutapath.com/wp-content/uploads/2015/04/Centro-Arte-para-la-Paz-Suchitoto-El-Salvador-1-1024x549.jpg){: .img-fluid}
+![Centro Arte para la Paz Suchitoto El Salvador]({{ site.url }}/assets/img/2015/04/Centro-Arte-para-la-Paz-Suchitoto-El-Salvador-1.jpg){: .img-fluid}
 
 Formally retired, Fernando spends his time giving back to El Salvador. One of his pet projects has been to restore Teatro Alejandro Cotto, a theater he hopes will be used to give local children an outlet in the arts. Speaking of the arts, there’s also Centro Arte Para La Paz launched with the help of an American nun named Meghan. The Center works to, among other things, prevent violence against children and women. This helped explain the ubiquitous stencil drawings outside of local homes, taking a pledge to end violence against women.
 
@@ -110,7 +110,7 @@ Pointing to my camera, she said in her thick New England accent, “I hate to us
 
 ### Leaving Suchitoto
 
-![Suchitoto El Salvador Church Square](https://withoutapath.com/wp-content/uploads/2015/04/Suchitoto-El-Salvador-Church-Square-1024x683.jpg){: .img-fluid}
+![Suchitoto El Salvador Church Square]({{ site.url }}/assets/img/2015/04/Suchitoto-El-Salvador-Church-Square.jpg){: .img-fluid}
 
 Leaving Suchitoto was tough. I knew immediately that I was going to miss this town. I would miss the hilly side street our hotel apartment was on, crammed in between a row of homes that some local kids turned into their playground. I was overcome with a moment of guilt. How could people back home and throughout the world think this place isn’t worth visiting or living in? Could they tell those kids that? To their face? Think about the countless big-box suburbs and exurbs that exist from California to Maine that look exactly the same. There’s more character and life here in Suchitoto, I promise. I, for one, left envious.
 
@@ -118,7 +118,7 @@ We spent our final night taking one last walk around Suchitoto, admiring every u
 
 Before setting off the next morning, we took a quick trip a couple kilometers outside of town to a waterfall that, we were told, would make for excellent filming. Unfortunately, this was the dry season and there wasn’t a drop to be found.
 
-![Suchitoto El Salvador Kid](https://withoutapath.com/wp-content/uploads/2015/04/Suchitoto-El-Salvador-Kid-1024x683.jpg){: .img-fluid}
+![Suchitoto El Salvador Kid]({{ site.url }}/assets/img/2015/04/Suchitoto-El-Salvador-Kid.jpg){: .img-fluid}
 
 There was, however, Cesar, who popped up from a ledge of rocks. If I had to guess, I’d say he was around five-years-old. He assured us that this dry patch of the cliff was, indeed, the waterfall we had been sent to see. Perhaps sensing our disappointment, Cesar was quick to guide us to another nearby site. He sprinted barefoot across the rocky trail as if he was running on pillows. First, he took us to a tree he likes to climb to pretend that he’s a monkey.
 
@@ -132,7 +132,7 @@ Duly noted for future reference.
 
 Our next stop promised a stark contrast to the cozy colonial town situated on an equally calm lake. Next, we would be dropped off in the middle of a Salvadoran national park, Cerro Verde or Parque Nacional Los Volcanes. Even the Spanish novice can sense plurality in the latter name. “Los Volcanes” refers to the three surrounding volcanoes of Cerro Verde, Izalco, and Santa Ana. Reaching Los Sueños Verde required a steep climb up a winding road that continued well after the concrete turned to dirt. Afterward, it was hard to imagine any vehicle, even the Volkswagen pickup truck we were riding, on the narrow patch of dust we had just climbed. This looked more like a hiking trail, not a thoroughfare.
 
-![Los-Sueños-Verde-El-Salvador](https://withoutapath.com/wp-content/uploads/2018/05/Los-Sueños-Verde-El-Salvador.jpg){: .img-fluid}
+![Los-Sueños-Verde-El-Salvador]({{ site.url }}/assets/img/2018/05/Los-Sueños-Verde-El-Salvador.jpg){: .img-fluid}
 
 Our jaws dropped faster than a cliché on a CBS sitcom as soon as we saw the view. If the ride itself didn’t clue us into just how high we were, we knew it as we stood practically eye-level with Izalco -- a rather young volcano, geologically speaking. Izalco formed in just 1770 and erupted constantly until 1958. Its tendency to remain aglow gave it the nickname “Lighthouse of the Pacific,” which is more charming than the fact that it killed 56 people while burying the town of Matazano in 1928.
 
@@ -144,7 +144,7 @@ We awoke early the next morning to prepare for a hike up Santa Ana. Santiago, a 
 
 So we ended up spending a considerable amount of time wandering around through a few abandoned farm buildings and a church that were left after the last eruption in October 2005. Fun for us, but hardly so for the two people who lost their lives and seven who were injured by rocks the size of cars that were shot as far as a mile away. Volcanoes really can be quite terrifying. Just ask the fine people of Pompeii.
 
-![Cerro-Verde-Eruption-Ruins El Salvador](https://withoutapath.com/wp-content/uploads/2018/05/Cerro-Verde-Eruption-Ruins.jpg){: .img-fluid}
+![Cerro-Verde-Eruption-Ruins El Salvador]({{ site.url }}/assets/img/2018/05/Cerro-Verde-Eruption-Ruins.jpg){: .img-fluid}
 
 With time to kill, I decided to ask Santiago about his experience during the civil war. Because what better way to spend a sunny afternoon than to recount one of the most horrific times in your life with an ignorant gringo?
 
@@ -160,7 +160,7 @@ What struck me as remarkable was the nonchalant tone in his voice. He spoke of h
 
 ### Vale La Pena
 
-![Hiking-Cerro-Verde-El-Salvador](https://withoutapath.com/wp-content/uploads/2018/05/Hiking-Cerro-Verde-El-Salvador.jpg){: .img-fluid}
+![Hiking-Cerro-Verde-El-Salvador]({{ site.url }}/assets/img/2018/05/Hiking-Cerro-Verde-El-Salvador.jpg){: .img-fluid}
 
 Eventually, we ran into the right people who were able to point us toward the trail entrance, which had a park ranger of sorts holding down the fort. He told us a group just left with a guiding officer and that we could probably catch up. This supported my theory that the constant recommendation to hike with an officer or guide throughout Central America is more to protect their image on the rare chance someone does get mugged and posts all over TripAdvisor as if there’s an epidemic rather than an actual threat of crime.
 
@@ -168,7 +168,7 @@ Sure enough, we caught up and were able to ascend Santa Ana in about two hours. 
 
 Nearing the crater, life, as John Cleese would say, ceased to be. Nothing but wide expanses of rock could be seen like a panorama from Mars without the red hue. Hikers started to follow the path of least resistance rather than any formally marked trail as that had also disappeared for the most part. I remember looking back, seeing hikers further down the volcano march ahead like lemmings.
 
-![Santa-Ana-Crater-El-Salvador](https://withoutapath.com/wp-content/uploads/2018/05/Santa-Ana-Crater-El-Salvador.jpg){: .img-fluid}
+![Santa-Ana-Crater-El-Salvador]({{ site.url }}/assets/img/2018/05/Santa-Ana-Crater-El-Salvador.jpg){: .img-fluid}
 
 Finally, at the summit, the wind naturally picked up. Guides expecting over-eager photographers ushered us to where the wind was blocked, allowing us to peer over the edge to see the crystal clear view of Santa Ana’s crater some 2,380 meters above sea level. This combined with the 360-degree view of the surrounding area, even the Pacific Ocean well over an hour’s drive away, made this one of the most enjoyable hikes of my life.
 
@@ -185,7 +185,7 @@ Our final stay was at [Boca Olas](http://www.bocaolas.com/), referred to us by o
 
 After a quick jaunt across the rocky Pacific coast that was our backyard, we joined Lisa (who worked in marketing and PR for the hotel) and her husband for a drink at the hotel bar. [Cadejo Brewing Company](http://cervezacadejo.com/) from San Salvador was generous enough to leave a six-pack with a few different flavors upon hearing of our visit. Damn fine stuff that could stand up to most American craft breweries. Lisa shared that Cadejo once ran a satirical campaign for president. Who wouldn’t want to support a brewery like that?
 
-![Cadejo Brewing Company El Tunco El Salvador](https://withoutapath.com/wp-content/uploads/2015/04/Cadejo-Brewing-Company-JoeBaur-2-1024x683.jpg){: .img-fluid}
+![Cadejo Brewing Company El Tunco El Salvador]({{ site.url }}/assets/img/2015/04/Cadejo-Brewing-Company-JoeBaur-2.jpg){: .img-fluid}
 Joining Lisa were her in-laws who had worked in the government during the Civil War. They have since moved up to Houston to be closer to grandchildren but were in town to visit Lisa and her son who lives in San Salvador. Lisa herself comes from the States, but you can tell she considers herself just as much a Salvadoreña in the way she talks about her adopted country. When the conversation inevitably turned to the Civil War, Lisa admitted some frustration with how foreigners continue to perceive El Salvador.
 
 “This country could really use some good PR,” she said with a bit of a sigh. She wished El Salvador would get some credit for absorbing the guerrillas of the FMLN as
@@ -217,7 +217,7 @@ After a day at the beach, we rewarded ourselves with some sloth mimicry and a bi
 
 ### Caminata Cascada
 
-![Hike El Tunco El Salvador](https://withoutapath.com/wp-content/uploads/2015/04/El-Salvador-Waterfall-Hike-JoeBaur-1-1024x683.jpg){: .img-fluid}
+![Hike El Tunco El Salvador]({{ site.url }}/assets/img/2015/04/El-Salvador-Waterfall-Hike-JoeBaur-1.jpg){: .img-fluid}
 
 On our final day, Laura hooked us up with her husband’s cousin Luis for a hike to a series of waterfalls. She sold us on the hike over a Greek dinner as we sat on wooden swings that surrounded our high-top wooden table on the restaurant's front patio with the Ohio State college football national championship game on in the background. A drunken German tourist had followed us briefly, apparently mistaking Laura’s ability to speak German as an invitation to bother us. Talk about a cultural explosion.We met Luis a little after eight in the morning. He was dressed in a light long-sleeve shirt
 
@@ -227,7 +227,7 @@ Unlike the Santa Ana trail, this was nothing official. When I asked Luis for the
 
 The hike was more technical than difficult. The entire hike to the collection of waterfalls was moderate, but the rocks were as sturdy as if they were natural rock climbing walls. Twenty or thirty minutes later we had arrived at the waterfalls. Luis suggested jumping off one that dropped fifteen feet below, but I wasn’t going to do a damn thing until I saw him do it first. Admittedly nervous, Luis waded into the pool of water between waterfalls to get a sense of where the rocks were. Then he jumped in from a spot around ten feet high before finally taking on the highest point.
 
-![El Tunco El Salvador Waterfall Jump](https://withoutapath.com/wp-content/uploads/2015/04/El-Salvador-Waterfall-Jump-JoeBaur-1024x683.jpg){: .img-fluid}
+![El Tunco El Salvador Waterfall Jump]({{ site.url }}/assets/img/2015/04/El-Salvador-Waterfall-Jump-JoeBaur.jpg){: .img-fluid}
 
 Ten feet seemed manageable for me. Surely I wouldn’t paralyze myself, I thought, even though I’m not typically one for jumping off the safe ground to the unknown. The nerves kicked up a bit, but I climbed up, convinced I was only going down one way. Needless to say it wasn’t nearly as bad as my mind had made it out to be. It never is.
 
@@ -235,7 +235,7 @@ This conjured up an obvious metaphor for El Salvador. You hear all these stories
 
 Finally, you go and see the reality of El Salvador is not black and white, just as you would find in any country. You see the indisputable fact that this a fascinating country full of kind, hard-working, curious and welcoming people. Then you realize characterizing an entire country’s people based on a handful encounters is a bit cliché, but it somehow feels okay for tiny El Salvador. And so you jump in. By the time you land, you’re glad you did it and you’re looking to climb back up and do it all over again. On our way back, we passed by a group of school kids playing in the river with a handful of older chaperones looking on. They laughed, shrieked, and squealed like any kid does around the world when playing outside. This is when it hit me. I thought of all the people who blow off entire countries and groups of people as too dangerous.
 
-![El Tunco El Salvador River](https://withoutapath.com/wp-content/uploads/2015/04/El-Salvador-Kids-JoeBaur-1-1024x683.jpg){: .img-fluid}
+![El Tunco El Salvador River]({{ site.url }}/assets/img/2015/04/El-Salvador-Kids-JoeBaur-1.jpg){: .img-fluid}
 
 I thought about how this is almost always based on ignorance and prejudice. I thought, well, fuck ‘em. Seriously. Fuck anyone who can look at a group of kids playing outside, like you and I did growing up, and dismissively deem their entire country not worth seeing or their culture not worth experiencing because of something they may have seen on the news a few years ago. Anyone that bullheaded doesn’t deserve to travel.
 

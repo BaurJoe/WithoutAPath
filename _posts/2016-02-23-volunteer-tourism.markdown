@@ -9,4 +9,4 @@ This week on the Without A Path travel podcast, Joe and [Laura](https://farflung
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![Is volunteer tourism good?](https://withoutapath.com/wp-content/uploads/2016/02/Is-volunteer-tourism-good-200x300.png)](https://withoutapath.com/wp-content/uploads/2016/02/Is-volunteer-tourism-good.png)
+[![Is volunteer tourism good?]({{ site.url }}/assets/img/2016/02/Is-volunteer-tourism-good.png)]({{ site.url }}/assets/img/2016/02/Is-volunteer-tourism-good.png)

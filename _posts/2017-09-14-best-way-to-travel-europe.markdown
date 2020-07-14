@@ -12,7 +12,7 @@ Besides transport, we're going to go through other cultural faux pas to make sur
 
 ## Rail Europe
 
-![Lyon France Train Tunnel](https://withoutapath.com/wp-content/uploads/2017/09/Lyon-France-Train-Tunnel-1024x683.jpg){: .img-fluid}
+![Lyon France Train Tunnel]({{ site.url }}/assets/img/2017/09/Lyon-France-Train-Tunnel.jpg){: .img-fluid}
 
 First and foremost, you do not need a car in Europe. Do not rent a car. Rail is king in Europe.
 
@@ -28,7 +28,7 @@ Quick recap: Don't rent a car, hop on the train. It's the best way to travel Eur
 
 ## Bike Sharing App
 
-![Marseille France Cyclist](https://withoutapath.com/wp-content/uploads/2017/09/Marseille-France-Cyclist-1024x683.jpg){: .img-fluid}
+![Marseille France Cyclist]({{ site.url }}/assets/img/2017/09/Marseille-France-Cyclist.jpg){: .img-fluid}
 
 Bike sharing is the cool thing to have in cities these days and for good reason. They're incredibly useful for both locals and travelers in the middle of a European vacation. Even in [Warsaw](https://withoutapath.com/travel-guides/warsaw-poland/), where winters can be absolutely brutal, you'll find one of the most intuitive bike sharing systems I've ever come across.
 
@@ -36,7 +36,7 @@ I often make the mistake myself of not downloading the local bike sharing app in
 
 ## Skip The Hotel Breakfast
 
-![Amsterdam Cafe De Blaffende Vis](https://withoutapath.com/wp-content/uploads/2017/05/Amsterdam-Cafe-De-Blaffende-Vis-1024x682.jpg){: .img-fluid}
+![Amsterdam Cafe De Blaffende Vis]({{ site.url }}/assets/img/2017/05/Amsterdam-Cafe-De-Blaffende-Vis.jpg){: .img-fluid}
 
 I've come to enjoy the European hotel breakfast of bread, jam, cheese, and cuts of meat, but they're all virtually the same everywhere you go. Perhaps if you're staying in a luxury hotel, you'll get something unique and local to the region. Otherwise, there's not much variety. Instead, save those euros and go someplace local. Better yet, if you can manage to be an early riser, just grab something at a bakery, because coffee shops that would serve something more substantial (and anything other than coffee out of a machine) don't open until around 10 or 11 a.m. in Europe.
 
@@ -44,7 +44,7 @@ But trust me on this. Skip the hotel breakfast, because you'll want to get movin
 
 ## When To See Europe Tourist Attractions
 
-![Charles Bridge Prague](https://withoutapath.com/wp-content/uploads/2017/07/Charles-Bridge-Prague-1024x683.jpg){: .img-fluid}
+![Charles Bridge Prague]({{ site.url }}/assets/img/2017/07/Charles-Bridge-Prague.jpg){: .img-fluid}
 
 When should you head out to see some Europe tourist attractions? First thing in the morning. Historically, mass tourism traces its roots back to Europe. The Brits, for example, brought the Swiss rail lines to Switzerland that we know and love today essentially to fuel their travel agency industry.
 
@@ -62,7 +62,7 @@ Spend this time casually planning your next meals. I know, I know. Where's the s
 
 ## Where to Eat in Europe
 
-![Enrique Tomas Jamon Iberico Restaurant London](https://withoutapath.com/wp-content/uploads/2016/10/Enrique-Tomas-Jamon-Iberico-Restaurant-London-1024x667.jpg){: .img-fluid}
+![Enrique Tomas Jamon Iberico Restaurant London]({{ site.url }}/assets/img/2016/10/Enrique-Tomas-Jamon-Iberico-Restaurant-London.jpg){: .img-fluid}
 
 Not every restaurant in Europe is top-notch. Even in [Paris](https://withoutapath.com/trip-to-paris/), standards declined (and are currently rebounding) after restaurants relied too heavily on the city's reputation as culinary king.
 
@@ -72,7 +72,7 @@ Use that time in the coffee shop to look up local recommendations or perhaps eve
 
 ## Neighborhood Hop
 
-![Warsaw's Mała Street, Władysław Szpilman -- The Pianist](https://withoutapath.com/wp-content/uploads/2017/05/Warsaws-Mała-Street-Władysław-Szpilman-The-Pianist-1024x674.jpg){: .img-fluid}
+![Warsaw's Mała Street, Władysław Szpilman -- The Pianist]({{ site.url }}/assets/img/2017/05/Warsaws-Mała-Street-Władysław-Szpilman-The-Pianist.jpg){: .img-fluid}
 
 Midday is the best time to go neighborhood hopping, because that's when all the locals are out and other tourists are busy sweating it out at the sights. This is where research beforehand again comes into play, but don't be shy about asking hotel staff (or your AirBnB host) where to go to travel like a local. Even in super touristy Los Cristianos in [Tenerife Sur](http://withoutapath.com/travel-guides/tenerife-sur), I was able to find a local restaurant favorite by speaking with the hotel staff. You might also find that locals are capitalizing on this trend to get off the beaten path and find local favorites by creating their own guidebooks, like in [Prague](https://withoutapath.com/prague-tourism/).
 
@@ -80,7 +80,7 @@ Another option to find the neighborhoods is look on Google Maps for those orange
 
 ## Bars In Europe
 
-![Ma Che Siete Venuti A Fa Rome Craft Beer](https://withoutapath.com/wp-content/uploads/2017/09/Ma-Che-Siete-Venuti-A-Fa-Rome-Craft-Beer-Rome-1024x735.jpg){: .img-fluid}
+![Ma Che Siete Venuti A Fa Rome Craft Beer]({{ site.url }}/assets/img/2017/09/Ma-Che-Siete-Venuti-A-Fa-Rome-Craft-Beer-Rome.jpg){: .img-fluid}
 
 Thirsty? Now is the time to get spontaneous. Bars in Europe don't follow the same rules as restaurants. Plus you usually don't have to worry about the quality (unless, of course, you're searching for a cocktail bar). The wine or beer from a bottle will taste the same wherever you go.
 

@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![Leicester City Pitch](https://withoutapath.com/wp-content/uploads/2016/04/Leicester-City-Pitch.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/04/Leicester-City-Pitch.jpg){: .img-fluid}
+[![Leicester City Pitch]({{ site.url }}/assets/img/2016/04/Leicester-City-Pitch.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/04/Leicester-City-Pitch.jpg){: .img-fluid}
 
 England's [Premier League](http://www.premierleague.com/en-gb.html) is arguably the world's most popular sports league. Yet soccer has only recently become cool in the United States. It was very much considered a sport for those of a weaker spirit when I was growing up, and it's not like my formidable years were all that long ago.<!-- more -->
 
@@ -21,7 +21,7 @@ This is all alien to English football. _Fever Pitch_ showed packed stadiums wit
 
 ## In Search Of Proper Soccer
 
-[![Outside Chelsea FC's Stamford Bridge in London](https://withoutapath.com/wp-content/uploads/2016/04/Outside-Chelsea-FCs-Stamford-Bridge-in-London.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/04/Outside-Chelsea-FCs-Stamford-Bridge-in-London.jpg){: .img-fluid}
+[![Outside Chelsea FC's Stamford Bridge in London]({{ site.url }}/assets/img/2016/04/Outside-Chelsea-FCs-Stamford-Bridge-in-London.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/04/Outside-Chelsea-FCs-Stamford-Bridge-in-London.jpg){: .img-fluid}
 
 My first chance came while living in Chicago, attending a Chicago Fire match against the Columbus Crew. I had a blast, mindlessly clapping and chanting along. (I also appreciated the speed of the game, in and out within two hours.) That 0-0 draw was more exciting and memorable than so many American baseball, basketball, and football games I've attended in my life.
 
@@ -43,7 +43,7 @@ To me, nothing says "screw you" to a fan like forcing them to own a 4,000-pound 
 
 Chelsea were away that morning, but that didn't stop fans dressed in blue and white from making the trip to the stadium. Some were catching a supporters' bus for the away match at Everton while others, like me, were visiting for a [stadium tour](http://www.chelseafc.com/the-club/stadium-tours-museum.html).
 
-[![Chelsea FC's Stamford Bridge Stadium in London](https://withoutapath.com/wp-content/uploads/2016/04/Chelsea-FCs-Stamford-Bridge-Stadium-in-London.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/04/Chelsea-FCs-Stamford-Bridge-Stadium-in-London.jpg){: .img-fluid}
+[![Chelsea FC's Stamford Bridge Stadium in London]({{ site.url }}/assets/img/2016/04/Chelsea-FCs-Stamford-Bridge-Stadium-in-London.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/04/Chelsea-FCs-Stamford-Bridge-Stadium-in-London.jpg){: .img-fluid}
 
 A couple of things stuck out about the tour, which took us through the locker rooms to the pitch itself. First, the Premier League truly has the world's most international fan base. Our group alone had guests from the Netherlands to Saudi Arabia. Second, there's really not much to the stadiums. I say this not as an insult, but I actually admired the simplicity.
 
@@ -53,13 +53,13 @@ Don't get me wrong, folks. I like a good ballpark as much as the next American. 
 
 ## Matchday
 
-[![The Strawberry Pub in New Castle](https://withoutapath.com/wp-content/uploads/2016/04/The-Strawberry-Pub-in-New-Castle.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/04/The-Strawberry-Pub-in-New-Castle.jpg){: .img-fluid}
+[![The Strawberry Pub in New Castle]({{ site.url }}/assets/img/2016/04/The-Strawberry-Pub-in-New-Castle.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/04/The-Strawberry-Pub-in-New-Castle.jpg){: .img-fluid}
 
 In Newcastle upon Tyne, Clint and I met with Mr. Les Hoslop for a fantastic five-mile walking tour of the city. Any city that can keep me walking for five miles without noticing it is a winner in my book.
 
 Our walk included a brief stop at [New Castle United](http://www.nufc.com/) headquarters before working our way through the Strawberry Pub where supporters gather on matchday. Les shared that the pub once temporarily changed its name to L_a Fraise _(strawberry in French) when France's Paris Saint-Germain visited for a match, an enjoyable anecdote that contrasted the typical hooligan stereotype of English football fans.
 
-[![Leicester City's King Power Stadium](https://withoutapath.com/wp-content/uploads/2016/04/Leicester-Citys-King-Power-Stadium.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/04/Leicester-Citys-King-Power-Stadium.jpg){: .img-fluid}
+[![Leicester City's King Power Stadium]({{ site.url }}/assets/img/2016/04/Leicester-Citys-King-Power-Stadium.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/04/Leicester-Citys-King-Power-Stadium.jpg){: .img-fluid}
 
 On our final full day in England, we took an afternoon train from Newcastle upon Tyne over to Leicester where we had just enough time to drop our bags and start the mile walk to King Power Stadium. For this stadium visit, we were _just a tad_ spoiled with seats at the [Legends Lounge](http://www.lcfc.com/hospitality/legends_lounge/).
 
@@ -67,7 +67,7 @@ Our Legends Lounge tickets included a stadium tour much like Stamford Bridge, a
 
 (Speaking of feeling things, Leicester City supporters made [international news](http://www.gq-magazine.co.uk/article/leicester-city-bet-premier-league-win-9-crazy-things-will-happen) after creating an earthquake of 0.3 on the Richter scale following a last-minute winner earlier in the season.)
 
-[![Leicester City Legends Lounge](https://withoutapath.com/wp-content/uploads/2016/04/Leicester-City-Legends-Lounge.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/04/Leicester-City-Legends-Lounge.jpg){: .img-fluid}
+[![Leicester City Legends Lounge]({{ site.url }}/assets/img/2016/04/Leicester-City-Legends-Lounge.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/04/Leicester-City-Legends-Lounge.jpg){: .img-fluid}
 
 A short hallway is all that separated us from the Legends Lounge dining area and our seats. Despite the biting cold, it was a thrilling experience for this American to finally attend a proper British football match. As _Fever Pitch_ advertised to me all those years ago, fans were loud and engaged for all 90 minutes of play. [Clappers were clapping](http://www.dailymail.co.uk/sport/football/article-3378939/Are-cardboard-clappers-secret-Leicester-s-success-Club-picked-1-35-points-game-introducing-them.html), flags were waved, and disparaging insults were yelled at the ref, just like back home.
 

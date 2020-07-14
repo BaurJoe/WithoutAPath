@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Before Surgery - JoeBaur](/wp-content/uploads/2015/08/_d_improd_/Before-Surgery-JoeBaur-e1439217372708-1024x884_f_improf_672x580.jpeg)](https://withoutapath.com/wp-content/uploads/2015/08/Before-Surgery-JoeBaur-e1439217372708.jpeg)
+[![Before Surgery - JoeBaur](/wp-content/uploads/2015/08/_d_improd_/Before-Surgery-JoeBaur-e1439217372708-1024x884_f_improf_672x580.jpeg)]({{ site.url }}/assets/img/2015/08/Before-Surgery-JoeBaur-e1439217372708.jpeg)
 
 _Update 2017: Best Outdoor Adventures Near Minneapolis and Saint Paul [is now available](http://a.co/0P7T0S2)._
 
@@ -40,7 +40,7 @@ Now I'm back in Cleveland, licking my wounds, and turning my attention back to o
 
 Thanks again to my brother and _cuñada_*** for canceling an enjoyable week away at a lake house to deliver me a burrito in my time in need, my wife for flying out and making sure I got back home in one piece (which was apparently originally a concern), and to you for tuning in. Now here's a picture of me being raised in bed with a claw-like hand.
 
-[![An Abrupt End - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/08/An-Abrupt-End-JoeBaur-e1439217431392.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/08/An-Abrupt-End-JoeBaur-e1439217431392.jpg){: .img-fluid}
+[![An Abrupt End - JoeBaur]({{ site.url }}/assets/img/2015/08/An-Abrupt-End-JoeBaur-e1439217431392.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/08/An-Abrupt-End-JoeBaur-e1439217431392.jpg){: .img-fluid}
 
 *At the end of the month, I was supposed to go out to the Black Hills of South Dakota to cover hiking and cycling in the area, followed by a [two-week cycling trip in Colombia with Exodus Travels](http://www.exodustravels.com/usa/colombia-holidays/cycling/cycling-colombia/may-86639). Both now postponed at my great annoyance.
 

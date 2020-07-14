@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![medora-north-dakota-street](https://withoutapath.com/wp-content/uploads/2016/11/Medora-North-Dakota-Street.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/11/Medora-North-Dakota-Street.jpg){: .img-fluid}
+[![medora-north-dakota-street]({{ site.url }}/assets/img/2016/11/Medora-North-Dakota-Street.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/11/Medora-North-Dakota-Street.jpg){: .img-fluid}
 
 Given the shocking results of Tuesday's U.S. Presidential election, I wanted to chime in to share my brief experience of being an immigrant in Germany. It seems many of my fellow Americans either don't value or have forgotten about the importance immigrants have always played in our country from [military service](http://www.military.com/daily-news/2016/10/27/father-who-lost-muslim-son-iraq-berates-trump-mosque.html) to many of the [modern innovations](http://www.huffingtonpost.com/2013/04/22/american-companies-founded-by-immigrants_n_3116172.html) we often take for granted. We also don't seem to appreciate how difficult it is to relocate to a foreign country from linguistic and cultural differences to the loneliness and isolation.<!-- more -->
 
@@ -17,7 +17,7 @@ Still, I've gotten a little taste of what I'm sure immigrants to the United Stat
 
 ## LANGUAGE BARRIER
 
-[![german-scrabble](https://withoutapath.com/wp-content/uploads/2016/11/German-Scrabble.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/11/German-Scrabble.jpg){: .img-fluid}
+[![german-scrabble]({{ site.url }}/assets/img/2016/11/German-Scrabble.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/11/German-Scrabble.jpg){: .img-fluid}
 
 German, as I'm sure you're aware, is not an easy language. Some, Germans and Americans alike, have brushed off the need for German language skills because "almost everyone speaks English." This, I quickly discovered, is not true. Germans do possess greatly superior language skills than the average U.S. American, but that doesn't make English the functioning language of day-to-day life. If you're here on vacation, then you'll be fine.
 
@@ -70,4 +70,4 @@ In Cleveland, where I last lived in the States, there are organizations like [Th
 
 Find out what organizations are available in your area and do what you can to help. Even if your hearts and minds are already with immigrants, we clearly haven't done enough to help them—myself 100 percent included.
 
-[![4-thoughts-on-being-an-immigrant-in-the-age-of-president-trump](https://withoutapath.com/wp-content/uploads/2016/11/4-Thoughts-on-Being-an-Immigrant-in-the-Age-of-President-Trump.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/11/4-Thoughts-on-Being-an-Immigrant-in-the-Age-of-President-Trump.jpg){: .img-fluid}
+[![4-thoughts-on-being-an-immigrant-in-the-age-of-president-trump]({{ site.url }}/assets/img/2016/11/4-Thoughts-on-Being-an-Immigrant-in-the-Age-of-President-Trump.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/11/4-Thoughts-on-Being-an-Immigrant-in-the-Age-of-President-Trump.jpg){: .img-fluid}

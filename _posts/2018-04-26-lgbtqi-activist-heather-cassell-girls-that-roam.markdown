@@ -17,7 +17,7 @@ tags:
 - Tel Aviv
 ---
 
-![LGBTQI Activist Writer Heather Cassell Girls That Roam](https://withoutapath.com/wp-content/uploads/2018/04/Heather-Cassell-Girls-That-Roam.jpg){: .img-fluid}
+![LGBTQI Activist Writer Heather Cassell Girls That Roam]({{ site.url }}/assets/img/2018/04/Heather-Cassell-Girls-That-Roam.jpg){: .img-fluid}
 
 _Off the beaten path travel is increasingly difficult to find as time marches on. Mass tourism is impacting everything from our favorite cities to the seas that surround them. All the while locals and the environment are often an afterthought. This series, [Trailblazers](https://withoutapath.com/category/trailblazers), checks in with writers, photographers, filmmakers, activists and environmentalists who are passionate about off the beaten path travel._
 

@@ -8,17 +8,34 @@
     </div>
 
   	<div class="row">
+
+      <!-- need to exclude homepage = false -->
+
       {% if page.url == "/" %}
         {% for post in paginator.posts limit:6 %}
-          {% include postbox-vertical.html %}
+        {% include postbox-vertical.html %}
         {% endfor %}
       {% else %}
         {% for post in paginator.posts %}
-          {% include postbox-vertical.html %}
+        {% include postbox-vertical.html %}
         {% endfor %}
       {% endif %}
     </div>
-    {% include pagination.html %}
+
+    {% if paginator.total_pages > 1 %}
+    <ul class="pager">
+        {% if paginator.previous_page %}
+        <li class="previous">
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        </li>
+        {% endif %}
+        {% if paginator.next_page %}
+        <li class="next">
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        </li>
+        {% endif %}
+    </ul>
+    {% endif %}
 
   </div>
 </section>

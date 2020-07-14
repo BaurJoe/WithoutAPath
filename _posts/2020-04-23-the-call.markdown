@@ -4,7 +4,7 @@ categories:
 - There Must Be Order
 ---
 
-![berlin train - soroush-karimi-crjPrExvShc-unsplash](https://withoutapath.com/wp-content/uploads/2020/04/berlin-train-soroush-karimi-crjPrExvShc-unsplash-1024x683.jpg){: .img-fluid}Photo by [Soroush Karimi](https://unsplash.com/@soroushkarimi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/berlin-train?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![berlin train - soroush-karimi-crjPrExvShc-unsplash]({{ site.url }}/assets/img/2020/04/berlin-train-soroush-karimi-crjPrExvShc-unsplash.jpg){: .img-fluid}Photo by [Soroush Karimi](https://unsplash.com/@soroushkarimi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/berlin-train?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _The following is the first chapter from an upcoming memoir on moving to and living in Germany. [Read more here](https://withoutapath.com/category/essays/there-must-be-order/)._
 

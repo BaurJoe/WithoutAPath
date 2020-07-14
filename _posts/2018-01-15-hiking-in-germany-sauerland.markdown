@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![Hagen Germany outside of the Hauptbahnhof](https://withoutapath.com/wp-content/uploads/2018/01/Hagen-Germany-outside-of-the-Hauptbahnhof-1024x683.jpg){: .img-fluid}
+![Hagen Germany outside of the Hauptbahnhof]({{ site.url }}/assets/img/2018/01/Hagen-Germany-outside-of-the-Hauptbahnhof.jpg){: .img-fluid}
 
 I'm amazed when my wife and I walk out of the main station of Hagen. There's the typical pedestrianized square surrounding the station adjacent to a hub for connecting buses. Further across the street, there are signs directing fellow walkers to various museums and the pedestrian shopping street.
 
@@ -19,25 +19,25 @@ Although quick searches on the Internet can show me that Hagen has its own uniqu
 
 ## The Greenest City in Germany?
 
-![Hiking in Germany Sauerland](https://withoutapath.com/wp-content/uploads/2018/01/Hiking-in-Germany-Sauerland-1024x683.jpg){: .img-fluid}
+![Hiking in Germany Sauerland]({{ site.url }}/assets/img/2018/01/Hiking-in-Germany-Sauerland.jpg){: .img-fluid}
 
 I haven't been able to determine if this is based on any kind of measurable fact, but I can anecdotally say they're on to something. In my research for a hike, I was overwhelmed with options in every direction of the city. To simplify things, I went with the trail that first connected me to Hagen -- Drei Türme Weg or the Three Towers Trail. I found the trail through the [Deutsches Wanderinstitut](http://www.wanderinstitut.de) (German Hiking Institution), which had awarded this trail the distinction of "Premium Trail," something of a Major Leagues of hiking trails in Germany. [The Rheinsteig](https://withoutapath.com/germany-rheinsteig-trail/), which I've hiked and mentioned numerous times, is also on that list.
 
 Starting the Drei Türme Weg requires a walk through the city from the main train station. Unlike some of the [other trail systems](https://withoutapath.com/hiking-germany-neanderlandsteig/) in North Rhine Westphalia, there is no app that you can easily follow and the marking isn't up to par with German standards around other trails. For instance, none of the wayfinding markers in the city itself point to the trailhead. We only found it after following the streets listed on a PDF map. Eventually, we noticed a worn-out sticker with a black "T" and "Drei Türme Weg" written underneath in cursive. The trail itself begins rather anti-climatically on the side of a residential sidewalk across from a playground. A sign warns that only pedestrians are allowed to continue and the concrete turns to dirt. This winding path is the hiker's version of an elevator. There's nothing particularly special about it, but it's a means to get into the thick of the Sauerland.
 
-![Hiking in Germany the Drei Tuerme Weg](https://withoutapath.com/wp-content/uploads/2018/01/Hiking-in-Germany-the-Drei-Tuerme-Weg-1024x683.jpg){: .img-fluid}
+![Hiking in Germany the Drei Tuerme Weg]({{ site.url }}/assets/img/2018/01/Hiking-in-Germany-the-Drei-Tuerme-Weg.jpg){: .img-fluid}
 
 Once at the top, I finally start to get the sense that this trail will have been worth the effort of coming out from Düsseldorf and we were rewarded rather quickly with our arrival to the first of the three towers -- Bismarck Turm. That is to say, the tower of Otto von Bismarck, the Prussian leader who united what we now know as modern Germany.
 
 What I especially love about finding these trails and regions of [Germany](https://withoutapath.com/travel-guides/germany/) is the sense of exclusivity I get. These are the types of places you find when you live in another country. You most likely won't get here on a week-long trip through Germany. Likely because they know few foreign tourists will come here, there's little to no English, meaning all those German lessons finally start to pay off.
 
-![Otto von Bismarck Turm Sauerland Germany](https://withoutapath.com/wp-content/uploads/2018/01/Otto-von-Bismarck-Turm-Sauerland-Germany-1024x683.jpg){: .img-fluid}
+![Otto von Bismarck Turm Sauerland Germany]({{ site.url }}/assets/img/2018/01/Otto-von-Bismarck-Turm-Sauerland-Germany.jpg){: .img-fluid}
 
 Now my German is hardly to the point where I could fully comprehend the entirety of what was written about the tower at the site. My lessons are more for everyday German and less about understanding the gallantry that usually accompanies such historical markers. That said, my understanding is that these towers, such as the Bismarck Tower, were used for regional security, to spot fires, and eventually became a symbol of German unity. This, I later realized, is a fact I would've probably forgotten by the end of the hike if it were in the States and in English. But when you're [learning German](https://withoutapath.com/most-important-german-travel-phrases/), you cherish every victory, no matter how small.
 
 ## The Hills of Sauerland
 
-![Waldgaststaette Kaiser Friedrich Turm](https://withoutapath.com/wp-content/uploads/2018/01/Waldgaststaette-Kaiser-Friedrich-Turm-1024x683.jpg){: .img-fluid}
+![Waldgaststaette Kaiser Friedrich Turm]({{ site.url }}/assets/img/2018/01/Waldgaststaette-Kaiser-Friedrich-Turm.jpg){: .img-fluid}
 
 Our arrival to the Bismarck Tower came at just 3.5 kilometers into the hike and that includes about two kilometers within the city, trying to find the trailhead. The next nine kilometers continued in the hills of Sauerland, meaning it was all forested trails from thereon out -- my happy place. Our only other considerable stop came at the second tower, Kaiser-Friedrich-Turm because the smell of the aptly-named [Waldgaststätte (Forest Restaurant) Kaiser Friedrich Turm](http://www.restaurant-kaiser-friedrich-turm.de/) across the trail lured us in for lunch. Packed on this January Sunday afternoon, we were lucky to grab a table in the back corner of this cozy, modest establishment and fill up on a bowl of chicken soup (with alphabet noodles!) and Currywurst to fuel the remainder of the hike.
 

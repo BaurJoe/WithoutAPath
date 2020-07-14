@@ -1,0 +1,19 @@
+---
+title: Blog
+permalink: /blog/
+---
+
+
+<section id="blog" class="blog">
+  <div class="container">
+
+    <div class="row">
+
+      {% for post in site.posts limit:9 %}
+      {% include postbox-vertical.html %}
+      {% endfor %}
+
+    </div>
+
+  </div>
+</section>

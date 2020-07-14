@@ -11,7 +11,7 @@ Ready? Good. Because _this_ is Jordan.<!-- more -->
 
 ## "THEY ARE NOT TERRORISTS"
 
-![Downtown Amman, Jordan](https://withoutapath.com/wp-content/uploads/2017/03/Downtown-Amman-Jordan-1024x683.jpg){: .img-fluid}
+![Downtown Amman, Jordan]({{ site.url }}/assets/img/2017/03/Downtown-Amman-Jordan.jpg){: .img-fluid}
 
 I’ll admit I knew very little about the country before I made my travel plans. I’ve learned a thing or two since then.
 
@@ -23,7 +23,7 @@ What Jordan really is, is a place of hospitality, adventure, history, and food y
 
 ## HISTORY & CUISINE
 
-[![Looking over Jerash, Jordan](https://withoutapath.com/wp-content/uploads/2016/06/Looking-over-Jerash-Jordan.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/Looking-over-Jerash-Jordan.jpg){: .img-fluid}
+[![Looking over Jerash, Jordan]({{ site.url }}/assets/img/2016/06/Looking-over-Jerash-Jordan.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/Looking-over-Jerash-Jordan.jpg){: .img-fluid}
 
 I traveled to Jordan in May of 2016 with [Bestway Tours & Safaris](http://bestway.com/). We started our week-long excursion throughout the country in Amman, the country’s sprawling capital of four million. From here we took a day trip out to the Greco-Roman ruins of Jerash, also known as Antioch on the Golden River. With the Oval Forum and Cardo Maximus road remarkably intact alongside countless other buildings, it was easy to start appreciating how much history really is in Jordan.
 
@@ -35,7 +35,7 @@ Suffice it to say Jafra lived up to the credible hype surrounding Middle Eastern
 
 ## WINE & MOSES
 
-[![View from Moses' Mount Nebo in Jordan](https://withoutapath.com/wp-content/uploads/2016/06/View-from-Moses-Mount-Nebo-in-Jordan.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/View-from-Moses-Mount-Nebo-in-Jordan.jpg){: .img-fluid}
+[![View from Moses' Mount Nebo in Jordan]({{ site.url }}/assets/img/2016/06/View-from-Moses-Mount-Nebo-in-Jordan.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/View-from-Moses-Mount-Nebo-in-Jordan.jpg){: .img-fluid}
 
 Jordan has ambitions for rail in the country. After all, the Hedjaz Jordan railway was a staple of the Ottoman Empire’s rule in the region up until World War I. But for now, people drive. And if you can drive in Jordan, as my guide Abdel pointed out, you can drive anywhere.
 
@@ -47,19 +47,19 @@ To be fair, he was 120.
 
 ## **DANA BIOSPHERE RESERVE**
 
-[![Dana Historic Village in Jordan](https://withoutapath.com/wp-content/uploads/2016/06/Dana-Historic-Village-in-Jordan.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/Dana-Historic-Village-in-Jordan.jpg){: .img-fluid}
+[![Dana Historic Village in Jordan]({{ site.url }}/assets/img/2016/06/Dana-Historic-Village-in-Jordan.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/Dana-Historic-Village-in-Jordan.jpg){: .img-fluid}
 
 Dana is unlike any village I’ve seen before. At around 500 years old, it manages to preserve what Jordanian villages used to look like with scenic views that rival anything else in the world. Speaking of these scenic views, you get them all and then some hiking the Dana Biosphere Reserve with Mahmood. 
 
 As a proud member of the historically semi-nomadic Bedouin tribe, Mahmood easily dances over the rocky landscape. He says he walked for three hours each way to get to school as a kid, putting to shame your grandparents’ stories of walking uphill in both directions.
 
-[![Breaking for tea in Jordan](https://withoutapath.com/wp-content/uploads/2016/06/Breaking-for-tea-in-Jordan.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/Breaking-for-tea-in-Jordan.jpg){: .img-fluid}
+[![Breaking for tea in Jordan]({{ site.url }}/assets/img/2016/06/Breaking-for-tea-in-Jordan.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/Breaking-for-tea-in-Jordan.jpg){: .img-fluid}
 
 Ah, yes, breaking for tea -- a staple of Jordanian hospitality. They say the average human body is 50 to 60 percent water. But by the end of Jordan, I’m fairly certain my fluid balance was mostly reliant on tea.
 
 ## "TOURISM IS OUR OIL"
 
-[![Jordanian flag waving in Petra](https://withoutapath.com/wp-content/uploads/2016/06/Jordanian-Flag-in-Petra.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/Jordanian-Flag-in-Petra.jpg){: .img-fluid}
+[![Jordanian flag waving in Petra]({{ site.url }}/assets/img/2016/06/Jordanian-Flag-in-Petra.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/Jordanian-Flag-in-Petra.jpg){: .img-fluid}
 
 The importance of tourism was a drumbeat of conversation throughout. Jordan doesn’t have natural resources. “Tourism is our oil,” many say, and is responsible for the employment of hundreds of thousands of Jordanians. At its best, it’s a multi-billion dollar industry. 2010 saw 8 million visitors with $4.4 billion in revenues between travelers and medical tourists. 
 
@@ -71,7 +71,7 @@ But it is not Petra.
 
 ## A NEW WONDER OF THE WORLD
 
-[![The Treasury in Petra, Jordan](https://withoutapath.com/wp-content/uploads/2016/06/The-Treasury-in-Petra-Jordan.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/The-Treasury-in-Petra-Jordan.jpg){: .img-fluid}
+[![The Treasury in Petra, Jordan]({{ site.url }}/assets/img/2016/06/The-Treasury-in-Petra-Jordan.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/The-Treasury-in-Petra-Jordan.jpg){: .img-fluid}
 
 What compares to the marvel that is Petra? Nothing in my mind -- and I’ve had the considerable good fortune to travel a bit. 
 
@@ -85,7 +85,7 @@ Now my impression was that you walk up to this new wonder of the world and go ho
 
 ## "MARS ON EARTH"
 
-[![Wadi Rum sunset in Jordan](https://withoutapath.com/wp-content/uploads/2016/06/Wadi-Rum-sunset-in-Jordan.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/Wadi-Rum-sunset-in-Jordan.jpg){: .img-fluid}
+[![Wadi Rum sunset in Jordan]({{ site.url }}/assets/img/2016/06/Wadi-Rum-sunset-in-Jordan.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/Wadi-Rum-sunset-in-Jordan.jpg){: .img-fluid}
 
 ****It would seem impossible to follow Petra, like Amy Schumer or Chris Rock taking a bow and handing the mic over to another act. At least it seems impossible until you get to Jordan where impressing people is kinda its thing.
 
@@ -99,7 +99,7 @@ I mean, look at that. You may have some stereotypes about the Middle East to bre
 
 ## "GLAMPING"
 
-[![SunCity Camp in Wadi Rum, Jordan](https://withoutapath.com/wp-content/uploads/2016/06/SunCity-Camp-in-Wadi-Rum-Jordan.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/SunCity-Camp-in-Wadi-Rum-Jordan.jpg){: .img-fluid}
+[![SunCity Camp in Wadi Rum, Jordan]({{ site.url }}/assets/img/2016/06/SunCity-Camp-in-Wadi-Rum-Jordan.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/SunCity-Camp-in-Wadi-Rum-Jordan.jpg){: .img-fluid}
 
 I’ve never “glamped" before, but Jordan came with a lot of firsts. So I spent my night in Wadi Rum with [SunCity Camp](http://suncitycamp.com/). No need to hoist my home on my back, oh no, it’s all right here. Though I do enjoy earning my experience, I will admit that this did not suck.
 
@@ -107,7 +107,7 @@ I’m also not typically one for animal-powered experiences, but I’ll generall
 
 ## EXTRAVAGANCE & BUCKET LISTS
 
-[![Floating in the Dead Sea of Jordan](https://withoutapath.com/wp-content/uploads/2016/06/Floating-in-the-Dead-Sea-of-Jordan.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/Floating-in-the-Dead-Sea-of-Jordan.jpg){: .img-fluid}
+[![Floating in the Dead Sea of Jordan]({{ site.url }}/assets/img/2016/06/Floating-in-the-Dead-Sea-of-Jordan.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/Floating-in-the-Dead-Sea-of-Jordan.jpg){: .img-fluid}
 
 Every traveler is different. Some aren’t cut out for the hiking or even wandering about in the desert. Some enjoy the comforts of home or even a bit of extravagance while checking off their bucket list. 
 
@@ -117,7 +117,7 @@ The salinity alone makes it impossible for life to exist, hence the name. So I d
 
 ## "INSHA'ALLAH"
 
-[![The ruins of Jerash in Jordan](https://withoutapath.com/wp-content/uploads/2016/06/The-ruins-of-Jerash-in-Jordan.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/06/The-ruins-of-Jerash-in-Jordan.jpg){: .img-fluid}
+[![The ruins of Jerash in Jordan]({{ site.url }}/assets/img/2016/06/The-ruins-of-Jerash-in-Jordan.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/06/The-ruins-of-Jerash-in-Jordan.jpg){: .img-fluid}
 
 I didn’t learn much Arabic before heading to Jordan, but one word stuck with me -- "insha'allah." In English, “God willing” or “if God wills it.”
 
@@ -141,7 +141,7 @@ At the beginning I said Jordan is a place of hospitality, adventure, history and
 
 But I don't want to fail the fine people of Jordan, so you at least better see an inkling of what I see. And insha'allah, you'll get your ass to Jordan soon.
 
-[![The ultimate Jordan travel video](https://withoutapath.com/wp-content/uploads/2016/06/The-ultimate-Jordan-travel-video.png)](https://withoutapath.com/wp-content/uploads/2016/06/The-ultimate-Jordan-travel-video.png)
+[![The ultimate Jordan travel video]({{ site.url }}/assets/img/2016/06/The-ultimate-Jordan-travel-video.png)]({{ site.url }}/assets/img/2016/06/The-ultimate-Jordan-travel-video.png)
 
 **Disclosure:**_ I traveled with [Bestway Tours & Safaris](http://bestway.com/) as a guest blogger. Book your own tour of Jordan with Bestway Tours & Safaris using the code JOC16/JB and save $100._
 

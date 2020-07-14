@@ -5,7 +5,7 @@ categories:
 - Podcast
 ---
 
-[caption id="attachment_7093" align="aligncenter" width="1024"]![Indonesia Travel Story](https://withoutapath.com/wp-content/uploads/2018/04/Indonesia-Travel-Story-killian-pham-147976-unsplash-1024x681.jpg){: .img-fluid} Killian Pham, Unsplash[/caption]
+[caption id="attachment_7093" align="aligncenter" width="1024"]![Indonesia Travel Story]({{ site.url }}/assets/img/2018/04/Indonesia-Travel-Story-killian-pham-147976-unsplash.jpg){: .img-fluid} Killian Pham, Unsplash[/caption]
 
 ### Where Do I Belong: An Indonesia Travel Story, Alex Jordao
 

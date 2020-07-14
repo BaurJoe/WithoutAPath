@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![Courtney Tenz Interview](https://withoutapath.com/wp-content/uploads/2018/06/Courtney-Tenz-Interview.jpg){: .img-fluid}
+![Courtney Tenz Interview]({{ site.url }}/assets/img/2018/06/Courtney-Tenz-Interview.jpg){: .img-fluid}
 
 ## Courtney Tenz, Freelance Writer and Translator
 

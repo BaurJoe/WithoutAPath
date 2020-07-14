@@ -2,6 +2,7 @@
 title: Parsha Behar-Bechukotai | Torah God lays down the hammer
 categories:
 - Essays
+homepage: false
 ---
 
 ![](https://i1.wp.com/withoutapath.com/wp-content/uploads/2020/05/thom-masat-fOKaK7EjydM-unsplash-scaled.jpg?fit=1024%2C683&ssl=1)Torah God seen here after going on a bender. Photo by [thom masat](https://unsplash.com/@tomterifx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

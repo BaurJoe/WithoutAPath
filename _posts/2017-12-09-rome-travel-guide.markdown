@@ -18,7 +18,7 @@ More famously, there’s an interesting proliferation of decadent statues featur
 
 You can’t just fly a drone over here and say, “This is Rome.” You need to be on the rooftops, on the ground level, walking, and ducking into as many shops and eateries as possible.
 
-![Chef Mastro Donato](https://withoutapath.com/wp-content/uploads/2016/12/Chef-Mastro-Donato-Eating-Rome-Testaccio-1024x683.jpg){: .img-fluid}
+![Chef Mastro Donato]({{ site.url }}/assets/img/2016/12/Chef-Mastro-Donato-Eating-Rome-Testaccio.jpg){: .img-fluid}
 
 You need to talk to this guy, Chef Donato, and [eat whatever he puts in front of you](https://withoutapath.com/best-restaurants-rome-eating-europe/). Then, [chase it all down](https://withoutapath.com/italian-craft-beer/) with a trapizzino and you’ll wish you had this as your hangover cure in college.
 

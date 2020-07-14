@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/Queen-of-the-West-Joe-Baur-1024x765.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/Queen-of-the-West-Joe-Baur.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/05/Queen-of-the-West-Joe-Baur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/Queen-of-the-West-Joe-Baur.jpg){: .img-fluid}
 
 Cincinnati or Cincitucky? How about Nasty-Nati?
 
@@ -17,7 +17,7 @@ But what about now? Is Cincinnati still worthy of its throne, or have nearly two
 
 **A Neighborhood Reborn**
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/Over-the-Rhine-Joe-Baur-1-1024x765.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/Over-the-Rhine-Joe-Baur-1.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/05/Over-the-Rhine-Joe-Baur-1.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/Over-the-Rhine-Joe-Baur-1.jpg){: .img-fluid}
 
 I arrived by way of Greyhound on a cold, sunny December afternoon. The beaming sun all throughout the state during the ride down I-71 left me optimistic this would be more than an exceptional visit. My friend and Cincinnati-resident, Whitney, picked me up and we made our way to Whole Foods to pick up some eats and booze. Always a fan of supporting the local brew, I grabbed [Christian Moerlein’s](http://www.christianmoerlein.com/) winter brew, Christkindl. Dark red body and brown sugar spiciness. Tasty.
 
@@ -25,7 +25,7 @@ Whitney and I knew each other from college, working together as fellow student-m
 
 Mount Adams borders [Over-the-Rhine](http://www.otrfoundation.org/), a mile walk north of downtown and one of the city's historically troubled neighborhoods. The 2001 Cincinnati Riots were centralized to the neighborhood following the shooting of a young-black male by a white officer. Crime continued to rise for the rest of the decade, culminating in 2005 with 606 violent crimes and 350 robberies -- far above the average of 65 violent crimes in other Cincinnati neighborhoods.
 
-[![](https://withoutapath.com/wp-content/uploads/2012/10/Park-and-Vine-Joe-Baur-e1349726058810-224x300.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2012/10/Park-and-Vine-Joe-Baur-e1349726058810.jpg){: .img-fluid}Walk around there today and you'll find a neighborhood reborn. World renowned Italianate architecture -- the largest collection in the United States -- is a shining testament to the power of the neighborhood's grassroots efforts to reclaim their streets. Independent businesses, like [Park and Vine](http://www.parkandvine.com/) have found the perfect home in a 19th Century surrounding. Not to mention bars -- the kind that attract those young, creative types neighborhoods thrive off of -- are beginning to fill the streets.
+[![]({{ site.url }}/assets/img/2012/10/Park-and-Vine-Joe-Baur-e1349726058810.jpg){: .img-fluid}]({{ site.url }}/assets/img/2012/10/Park-and-Vine-Joe-Baur-e1349726058810.jpg){: .img-fluid}Walk around there today and you'll find a neighborhood reborn. World renowned Italianate architecture -- the largest collection in the United States -- is a shining testament to the power of the neighborhood's grassroots efforts to reclaim their streets. Independent businesses, like [Park and Vine](http://www.parkandvine.com/) have found the perfect home in a 19th Century surrounding. Not to mention bars -- the kind that attract those young, creative types neighborhoods thrive off of -- are beginning to fill the streets.
 
 [Neons Unplugged](https://www.facebook.com/Neonsunplugged) on East 12th off Main Street quickly became a Cincy favorite of mine. The two-story, dimly lit bar felt like two hole-in-the-wall watering holes stacked on top of each other with an adjacent beer garden. The energy was as electric as any bar in New York City without the clusterfuck annoyance of being in a New York City bar. The vibe was more [Portland](https://withoutapath.com/visiting-portland/)-hip than anything else.
 
@@ -37,6 +37,6 @@ Fountain Square, surrounded by shops and restaurants, truly comes to life in the
 
 **Nasty-Nati No More**
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/Cincinnati-Skyline-Joe-Baur-1024x765.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/Cincinnati-Skyline-Joe-Baur.jpg){: .img-fluid}In all, Cincinnati is a historically important town filled with the kind of people you want in your city. People who are committed to their city for the long haul, and not just saving up for a move to Chicago or elsewhere. They're the ones who are revitalizing neighborhoods, bringing new businesses and fighting for urban-friendly projects, like the [Cincinnati Streetcar](http://www.cincinnati-oh.gov/streetcar/) that will connect downtown with [Findlay Market](http://www.findlaymarket.org/). Simply put, they're reflections of the city's early pioneers.
+[![]({{ site.url }}/assets/img/2017/05/Cincinnati-Skyline-Joe-Baur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/Cincinnati-Skyline-Joe-Baur.jpg){: .img-fluid}In all, Cincinnati is a historically important town filled with the kind of people you want in your city. People who are committed to their city for the long haul, and not just saving up for a move to Chicago or elsewhere. They're the ones who are revitalizing neighborhoods, bringing new businesses and fighting for urban-friendly projects, like the [Cincinnati Streetcar](http://www.cincinnati-oh.gov/streetcar/) that will connect downtown with [Findlay Market](http://www.findlaymarket.org/). Simply put, they're reflections of the city's early pioneers.
 
 Times have changed. "Nasty-Nati"  and "Cincitucky" are more tired tropes than accurate reflections of the city. In reality, it's one of the best the United States has to offer. Here, there's the sense of a community trying to move the city forward. The people may not always win, but rest assure they are winning.

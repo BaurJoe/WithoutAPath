@@ -5,7 +5,7 @@ categories:
 - Outdoors
 ---
 
-![Kortrijk Belgium City Center](https://withoutapath.com/wp-content/uploads/2016/03/Belgium-52-1024x768-1024x768.jpg){: .img-fluid}
+![Kortrijk Belgium City Center]({{ site.url }}/assets/img/2016/03/Belgium-52-1024x768.jpg){: .img-fluid}
 
 Remember how I said it _still_ didn't feel like I was actually [going to Belgium](https://withoutapath.com/tour-of-flanders-training/) to ride in a 153-mile granfondo, even as I was finishing packing?
 

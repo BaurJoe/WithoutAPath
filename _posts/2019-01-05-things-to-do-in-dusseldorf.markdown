@@ -12,7 +12,7 @@ Now, let’s get on with these 18 things to do in Düsseldorf.
 
 ## Wander the Altstadt (Old Town)
 
-![Düsseldorf Germany Rathaus](https://withoutapath.com/wp-content/uploads/2017/09/Düsseldorf-Germany-Rathaus-1024x605.jpeg)
+![Düsseldorf Germany Rathaus]({{ site.url }}/assets/img/2017/09/Düsseldorf-Germany-Rathaus.jpeg)
 
 This is a safe bet in most any German town or city and Düsseldorf is no exception to that rule. That said, Düsseldorf's take on the Altstadt is an especially pleasant one in a country that, for the most part, values maintaining a car-free city center. Bolkerstraße is your main street where you'll increasingly see tour groups shuffling through, led by someone carrying a colored flag. By night, things can get pretty rowdy. It is, after all, home to _die längste Theke der Welt_ (the longest bar in the world). If you're not one for crowds, start there in the morning or afternoon. I like to take visitors to the Heine Haus, a bookshop where poet and writer Heinrich Heine was born. From there, wander to your heart's content among the cobblestone streets, taking every inconspicuous side street and alley you can find.
 

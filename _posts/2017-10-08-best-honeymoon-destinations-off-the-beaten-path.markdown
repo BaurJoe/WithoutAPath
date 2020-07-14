@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![Dana, Jordan Sunset Best Honeymoon Destinations](https://withoutapath.com/wp-content/uploads/2017/10/Dana-Jordan-Sunset-1024x683.jpg){: .img-fluid}
+![Dana, Jordan Sunset Best Honeymoon Destinations]({{ site.url }}/assets/img/2017/10/Dana-Jordan-Sunset.jpg){: .img-fluid}
 
 Newlyweds are supposed to think of all-inclusive resorts when researching honeymoon destinations, right? Well, I suppose that's mostly true, but some of us are wired differently and are more interested in honeymoon destinations off the beaten path. Luckily, there are plenty of romantic honeymoond ideas out there that stray from the tourist trek.
 
@@ -14,7 +14,7 @@ Now full disclosure, I have not had several honeymoons. That said, [I love off t
 
 ## Suchitoto, El Salvador
 
-![Cobblestone Street in Suchitoto, El Salvador](https://withoutapath.com/wp-content/uploads/2015/04/Cobblestone-Street-in-Suchitoto-El-Salvador-1024x683.jpg){: .img-fluid}
+![Cobblestone Street in Suchitoto, El Salvador]({{ site.url }}/assets/img/2015/04/Cobblestone-Street-in-Suchitoto-El-Salvador.jpg){: .img-fluid}
 
 Honeymooners often turn toward [Costa Rica](https://withoutapath.com/travel-guides/costa-rica/) when it comes to Central America. But the time I spent in colonial [Suchitoto, El Salvador](https://withoutapath.com/travel-guides/el-salvador/) (right after [my actual honeymoon in Costa Rica](https://www.usatoday.com/story/travel/destinations/2015/06/16/costa-rica-manuel-antonio-national-park/28808689/), ironically) felt like the perfect honeymoon destination for an off the beaten path traveler. Words like "charming" and "quaint" get thrown around far too often, but Suchitoto fits the bill with its quiet, cobblestone streets, brightly-colored buildings of orange, red, white and blue, and smalltown family atmosphere.
 
@@ -22,7 +22,7 @@ In just a few days, I was nodding and saying hi to people who recognized me on t
 
 ## Los Almendros de San Lorenzo
 
-![Los Almendros de San Lorenzo View Suchitoto El Salvador](https://withoutapath.com/wp-content/uploads/2015/04/Los-Almendros-de-San-Lorenzo-View-Suchitoto-El-Salvador-1024x508.jpg){: .img-fluid}
+![Los Almendros de San Lorenzo View Suchitoto El Salvador]({{ site.url }}/assets/img/2015/04/Los-Almendros-de-San-Lorenzo-View-Suchitoto-El-Salvador.jpg){: .img-fluid}
 
 Los Almendros de San Lorenzo [is the obvious place to stay](http://www.losalmendrosdesanlorenzo.com/pages/principal) for a honeymoon in Suchitoto, El Salvador. Hosts Fernando and Nathan make you feel like an honored guest (so long as you catch them while you're in town) and the property itself is the stuff of a romantic fairytale. Their colonial-style abode blends in off the street but sprawls into an impressive, art-lovers estate once you walk inside. There's the pool in the back with a bar, restaurant, and elevated views of the town.
 
@@ -36,7 +36,7 @@ _You can read more about my time in Suchitoto in [Talking Tico](https://joebaur.
 
 ## Moneasa, Arad County, Romania
 
-[caption id="attachment_6478" align="aligncenter" width="960"]![Moneasa, Arad County, Romania](https://withoutapath.com/wp-content/uploads/2017/10/Moneasa-Arad-County-Romania-Best-Honeymoon-Destinations.jpg){: .img-fluid} _Photo courtesy of Alex Puscas_[/caption]
+[caption id="attachment_6478" align="aligncenter" width="960"]![Moneasa, Arad County, Romania]({{ site.url }}/assets/img/2017/10/Moneasa-Arad-County-Romania-Best-Honeymoon-Destinations.jpg){: .img-fluid} _Photo courtesy of Alex Puscas_[/caption]
 
 Tucked away in the Codru-Moma Mountains and well-known as a health resort, Moneasa, [Romania](https://withoutapath.com/romania-objective-travel-writing/) may not appear to be a textbook honeymoon destination. That is unless you love to chill, hike, and hide away from the hustle-bustle of Arad, located just 100 kilometers away. Bring your swimsuit if you plan your honeymoon during summer as there are a public and many private pools at various hotels and B&Bs. Also, don't forget your hiking shoes and backpacks to take on all the trails in the area (and yes, they are well marked).
 
@@ -44,7 +44,7 @@ Interested in seeing more of the area? Arad, the county’s capital, is just 100
 
 ## Pensiunea Mayumi Moneasa
 
-[caption id="attachment_6483" align="aligncenter" width="960"]![Pensiunea Mayumi Moneasa Romania](https://withoutapath.com/wp-content/uploads/2017/10/Pensiunea-Mayumi-Moneasa-Romania.jpg){: .img-fluid} _Photo courtesy of Alex Puscas_[/caption]
+[caption id="attachment_6483" align="aligncenter" width="960"]![Pensiunea Mayumi Moneasa Romania]({{ site.url }}/assets/img/2017/10/Pensiunea-Mayumi-Moneasa-Romania.jpg){: .img-fluid} _Photo courtesy of Alex Puscas_[/caption]
 
 Given its remote location, there aren't many lodging options in Moneasa. Luckily there's [Pensiunea Mayumi Moneasa](https://pensiunimoneasa.ro/), which has done especially well with couples who gave the hotel a 9.6 rating on Booking for a two-person trip. You can keep things simple here by sitting back, relaxing, and enjoying the Romanian countryside.
 
@@ -54,17 +54,17 @@ _- Cris, [Looknwalk.info](http://looknwalk.info)_
 
 ## Pico Bonito National Park, Honduras
 
-![Unbelievable Falls Pico Bonito National Park Honduras](https://withoutapath.com/wp-content/uploads/2017/10/Unbelievable-Falls-Pico-Bonito-National-Park-Honduras-1024x656.jpg){: .img-fluid}
+![Unbelievable Falls Pico Bonito National Park Honduras]({{ site.url }}/assets/img/2017/10/Unbelievable-Falls-Pico-Bonito-National-Park-Honduras.jpg){: .img-fluid}
 
 Like El Salvador, Honduras is another Central American country that's dismissed from most travel itineraries because of negative connotations fueled by mass media. Again, also like El Salvador, mainstream media have good reason to cover the very many problems Honduras and Hodureños are facing. Their job isn't to spread happy news of, say, a relaxing jungle retreat in the middle of an ecological paradise. If they did, they'd write about Pico Bonito Natural Park -- 564 square kilometers (218 square miles) of pristine green space that was established as a national park in northern Honduras on the first of January, 1987. Pico Bonito has since transformed into a birder's mecca and is a point of pride among locals.
 
 ## The Lodge and Spa at Pico Bonito
 
-![Lodge and Spa at Pico Bonito Honduras Best Honeymoon Destinations](https://withoutapath.com/wp-content/uploads/2017/10/Lodge-and-Spa-at-Pico-Bonito-Honduras-1024x683.jpg){: .img-fluid}
+![Lodge and Spa at Pico Bonito Honduras Best Honeymoon Destinations]({{ site.url }}/assets/img/2017/10/Lodge-and-Spa-at-Pico-Bonito-Honduras.jpg){: .img-fluid}
 
 An important piece of [the Pico Bonito puzzle](http://www.globaltravelerusa.com/the-lodge-spa-at-pico-bonito/) is The Lodge and Spa at Pico Bonito. This resort appears to check the sustainability boxes for eco-conscious travelers and hiring locally is important to the lodge's operation. Everyone from hotel staff to hiking guides, birding guides, and the masseuses are local hires from the greater La Ceiba region. The Lodge and Spa at Pico Bonito gives you the isolated jungle feel that draws so many honeymooners to more traveled corners of Costa Rica, but you truly feel on your own in your quiet, elevated cabana.
 
-![Cayos Cochinos Honduras](https://withoutapath.com/wp-content/uploads/2017/10/Cayos-Cochinos-Honduras-1024x683.jpg){: .img-fluid}
+![Cayos Cochinos Honduras]({{ site.url }}/assets/img/2017/10/Cayos-Cochinos-Honduras.jpg){: .img-fluid}
 
 Spa offerings include everything from a private or couples massage to a Temazcal sauna experience that includes rubbing mud over your skin in a traditional, indigenous sweat lodge. Speaking as someone who's not typically drawn to spas, I found The Lodge and Spa at Pico Bonito to be the exception to my rule. Of course, it doesn't have to be all about relaxing. Active honeymooners can just as easily sign up for a hike to Unbelievable Falls or sail to Cayos Cochinos -- an archipelago where the indigenous Chachauate continue to live (and speak their own language) under the shadow of the far more-traveled Útila island.
 
@@ -72,13 +72,13 @@ Spa offerings include everything from a private or couples massage to a Temazcal
 
 ## Dana, Jordan
 
-![Dana, Jordan Sunset Best Honeymoon Destinations](https://withoutapath.com/wp-content/uploads/2017/10/Dana-Jordan-Sunset-1024x683.jpg){: .img-fluid}
+![Dana, Jordan Sunset Best Honeymoon Destinations]({{ site.url }}/assets/img/2017/10/Dana-Jordan-Sunset.jpg){: .img-fluid}
 
 Dana, [Jordan](https://withoutapath.com/travel-guides/jordan/) itself is a 500-year-old village that primarily sticks out for preserved elements of 19th Century Bedouin life. From here you're within a hike or short drive of Wadi Dana, a natural gorge, and the phenomenal Dana Biosphere Reserve where it feels like the next best thing to hiking on Mars to a non-Jordanian. Though the idea of this being a great off the beaten path honeymoon destination didn't hit me until I was watching the sunset while sitting on the village rooftops. Even those of us with the shells around our hearts couldn't deny the romanticism of such a view.
 
 ## Dana Hotel
 
-![Dana Jordan Biosphere Reserve Best Honeymoon Destinations](https://withoutapath.com/wp-content/uploads/2017/10/Dana-Jordan-Biosphere-Reserve-1024x683.jpg){: .img-fluid}
+![Dana Jordan Biosphere Reserve Best Honeymoon Destinations]({{ site.url }}/assets/img/2017/10/Dana-Jordan-Biosphere-Reserve.jpg){: .img-fluid}
 
 In Dana, you won't find an overwhelming stock of hotel properties. To the contrary, hotels are blissfully limited and blend in quite well to the existing village. I stayed at the [Dana Hotel](https://www.facebook.com/pg/DanaHotelJordan) where there's very much a family atmosphere. During a May visit, I was greeted by an American from California who first stumbled across the property during her own Jordanian backpacking trip. She has since regularly come back to volunteer to help with the business' operation. Given the ease of communication, she showed me to my room -- which was a private room outside of the hotel's office property and mixed discreetly into the village.
 
@@ -88,7 +88,7 @@ There's also Mahmoud, a Bedouin who offers hikes of the Dana Biosphere Reserve. 
 
 ## Stillwater, Minnesota
 
-[caption id="attachment_6461" align="aligncenter" width="1024"]![Stillwater Minnesota Best Honeymoon Destinations](https://withoutapath.com/wp-content/uploads/2017/10/Trolley-Downtown-Stillwater-1024x750.jpg){: .img-fluid} _Photo courtesy of Alicia Underlee Nelson_[/caption]
+[caption id="attachment_6461" align="aligncenter" width="1024"]![Stillwater Minnesota Best Honeymoon Destinations]({{ site.url }}/assets/img/2017/10/Trolley-Downtown-Stillwater.jpg){: .img-fluid} _Photo courtesy of Alicia Underlee Nelson_[/caption]
 
 Romantic picnics and riverboat cruises? Check. Spa treatments and a gourmet breakfast in a chic little B&B? Absolutely. A champagne toast after a hot air balloon flight followed by a quiet gondola ride? Just say the word. Stillwater, Minnesota just might be the most romantic little city you’ve never heard of.
 
@@ -108,7 +108,7 @@ _-- Alicia Underlee Nelson, [Prairie Style File](http://prairiestylefile.com/)_
 
 ## Kamakura, Japan
 
-[caption id="attachment_6476" align="aligncenter" width="720"]![Kamakura, Japan Best Honeymoon Destinations](https://withoutapath.com/wp-content/uploads/2017/10/Kamakura-Japan-Best-Honeymoon-Destinations.jpg){: .img-fluid} _Photo courtesy of Alicia Underlee Nelson_[/caption]
+[caption id="attachment_6476" align="aligncenter" width="720"]![Kamakura, Japan Best Honeymoon Destinations]({{ site.url }}/assets/img/2017/10/Kamakura-Japan-Best-Honeymoon-Destinations.jpg){: .img-fluid} _Photo courtesy of Alicia Underlee Nelson_[/caption]
 
 Tranquil temples, historic monasteries, serene cemeteries and a giant Buddha might not strike most people as particularly romantic. But if you’re reading this, you’re not most people. So a hike through the forests and temples of Kamakura, Japan is for you.
 
@@ -120,7 +120,7 @@ The [Great Buddha of Kamakura](http://www.kotoku-in.jp/en/), constructed in 1252
 
 ## Iwamotoro Honkan
 
-[caption id="attachment_6477" align="aligncenter" width="1024"]![The Great Buddha of Kamakura](https://withoutapath.com/wp-content/uploads/2017/10/The-Great-Buddha-of-Kamakura-1024x768.jpeg) _Photo courtesy of Alicia Underlee Nelson_[/caption]
+[caption id="attachment_6477" align="aligncenter" width="1024"]![The Great Buddha of Kamakura]({{ site.url }}/assets/img/2017/10/The-Great-Buddha-of-Kamakura.jpeg) _Photo courtesy of Alicia Underlee Nelson_[/caption]
 
 When you’re ready to relax, take the train to nearby Enoshima Island for sandy beaches, more temples and caves, hot spring_ onsen_ spas and (on clear days) a view of Mt. Fuji. Stay at a _ryokan_ (a traditional Japanese inn) like Iwamotoro Honkan, which offers tatami mats for sleeping, multi-course Japanese meals and relaxing baths in quiet caves.
 
@@ -132,7 +132,7 @@ _-- Alicia Underlee Nelson, [Prairie Style File](http://prairiestylefile.com/)_
 
 ## Mafia Island, Tanzania
 
-[caption id="attachment_6488" align="aligncenter" width="1024"]![Mafia Island Tanzania Africa Best Honeymoon Destinations](https://withoutapath.com/wp-content/uploads/2017/10/Mafia-Island-Tanzania-Africa-Best-Honeymoon-Destinations-1024x768.jpg){: .img-fluid} _Photo courtesy of Francesco Minghini_[/caption]
+[caption id="attachment_6488" align="aligncenter" width="1024"]![Mafia Island Tanzania Africa Best Honeymoon Destinations]({{ site.url }}/assets/img/2017/10/Mafia-Island-Tanzania-Africa-Best-Honeymoon-Destinations.jpg){: .img-fluid} _Photo courtesy of Francesco Minghini_[/caption]
 
 A few waves south of famous and often crowded Zanzibar, Mafia Island is the perfect getaway for those newlyweds who are looking for relaxing ambiance, gorgeous sunsets, and silence.
 
@@ -152,7 +152,7 @@ _-- Francesco Minghini, [Trip it Easy](http://www.tripiteasy.it/)_
 
 ## The Garden Route, South Africa
 
-![Garden Route South Africa](https://withoutapath.com/wp-content/uploads/2017/10/Garden-Route-South-Africa-1024x592.jpg){: .img-fluid}
+![Garden Route South Africa]({{ site.url }}/assets/img/2017/10/Garden-Route-South-Africa.jpg){: .img-fluid}
 
 When you say ‘[Africa](https://withoutapath.com/category/travel/international/africa/)’ and ‘honeymoon,' normally people think of a luxury safari. However, this year my husband celebrated our 10th wedding anniversary by opting for something different. We went to [South Africa for a month-long road trip](https://www.thecrowdedplanet.com/south-africa-road-trip-itinerary-1-month/), driving across the country from Cape Town to Johannesburg -- starting with the Garden Route, a 190-mile (300-kilometer) route from the Mossel Bay in the Western Cape to the Storms River near Port Elizabeth.
 

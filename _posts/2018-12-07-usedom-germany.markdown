@@ -16,7 +16,7 @@ Both sides of Uwe’s family come from fishing families, going back generations.
 
 People like Uwe are a dying breed. The beaches used to be filled with fishermen. But when we joined them in July at four in the morning, they were the only ones preparing to head out to sea.<!-- more -->
 
-![Uwe Fishing](https://withoutapath.com/wp-content/uploads/2018/12/Uwe-Fishing.jpg){: .img-fluid}
+![Uwe Fishing]({{ site.url }}/assets/img/2018/12/Uwe-Fishing.jpg){: .img-fluid}
 
 "The fishing grounds we went to today are all spots we go to at the same time every year as part of a long tradition. Our ancestors fished for flounder as well as herring here."
 
@@ -33,13 +33,13 @@ For Uwe, it's not just about feeding families. It's about keeping the tradition 
 
 "It’s a real shame that this tradition is now coming to an end. There were once 200 fishermen in Ahlbeck alone. Today, there’s a total of 210 in the whole of Mecklenburg-Western Pomerania."
 
-![Men Fishing in Usedom](https://withoutapath.com/wp-content/uploads/2018/12/Men-Fishing-in-Usedom.jpg){: .img-fluid}
+![Men Fishing in Usedom]({{ site.url }}/assets/img/2018/12/Men-Fishing-in-Usedom.jpg){: .img-fluid}
 
 Shortly after our visit, the EU released proposed quotas for 2019. Uwe stands to see a 63 percent reduction in the amount of herring he can fish. These stricter regulations are in place to foster sustainable habitats. To be fair, it seems to be working. Herring populations have been growing in the Baltic Sea, but the scientific community also says that the habitat needs to grow even more to ensure it doesn’t collapse. It’s a message that doesn’t seem to have been communicated to Uwe.
 
 "As I’ve said many times already, [the EU] needs to talk to the fishermen. They need to talk to us, the small coastal fisheries, the beach fisheries, the few fishermen who are still here, we’re not going to fish the seas dry. That’s not possible. You need to hold the big vessels back a bit, slow them down. But us, as small beach fishermen and cutters and inshore fisheries, that operate in the water near the shores, we’re not overfishing the waters. Not a chance. But no one listens to us, and no one comes to talk to us about it."
 
-![Uwe on the Boat](https://withoutapath.com/wp-content/uploads/2018/12/Uwe-on-the-Boat.jpg){: .img-fluid}
+![Uwe on the Boat]({{ site.url }}/assets/img/2018/12/Uwe-on-the-Boat.jpg){: .img-fluid}
 
 The winter months are coming, and with ice, it can mean up three months of no work for Uwe's fishing crew. Less food for the family, for the restaurant, and for the market. But he'll be ready as soon as the weather clears.
 
@@ -49,7 +49,7 @@ That's what Uwe and his kind were born to do – be out on the water with the su
 
 "We don’t want to do anything else, and it means a lot that we can explain to visitors on holiday what the fish is, what you can do with it. My hope is that I can somehow hold on to all this. That I can somehow preserve it for the next generation."
 
-![Usedom Germany Beach Sunrise](https://withoutapath.com/wp-content/uploads/2018/12/Usedom-Germany-Beach-Sunrise.jpg){: .img-fluid}
+![Usedom Germany Beach Sunrise]({{ site.url }}/assets/img/2018/12/Usedom-Germany-Beach-Sunrise.jpg){: .img-fluid}
 
 _Read Christie's thoughts on [where](http://www.asausagehastwo.com/where-to-eat-on-usedom/) and [what to eat](http://www.asausagehastwo.com/what-to-eat-on-usedom/) in Usedom._
 

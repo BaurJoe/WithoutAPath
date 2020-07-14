@@ -13,7 +13,7 @@ Politics aside, all 6,000-some square miles of mostly arid land and 400 miles of
 
 **Tamarindo**
 
-****[![Tamarindo Costa Rica Sunset - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Tamarindo-Costa-Rica-Sunset-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Tamarindo-Costa-Rica-Sunset-JoeBaur.jpg){: .img-fluid}****
+****[![Tamarindo Costa Rica Sunset - JoeBaur]({{ site.url }}/assets/img/2015/05/Tamarindo-Costa-Rica-Sunset-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Tamarindo-Costa-Rica-Sunset-JoeBaur.jpg){: .img-fluid}****
 
 Overtly modern stylings, restaurants with a global touch, and cookie cutter plazas sprinkle the Guanacasteco beach town. This does not feel like Costa Rica in the least, but that in of itself is not necessarily good or bad. It’s just different -- an island of gringos (some call it _Tamagringo_) and the occasional Costa Rican family enjoying the wide expanses of _arena blanca_ and ubiquitous sun. The only reminder that this is, indeed, Costa Rica is the occasional flag and casado or arroz con pollo on the menu -- a need we were able to satisfy at Gallo Fino where they humorously boasted a TripAdvisor review from susanallen531 of Chesterfield, Virginia. Suffice it to say that Susan was spot on.
 
@@ -21,13 +21,13 @@ There’s only so much one can do in a town like this. If you are of the age, yo
 
 **Brasilito**
 
-[![Brasilito Beach Costa Rica - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Brasilito-Beach-Costa-Rica-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Brasilito-Beach-Costa-Rica-JoeBaur.jpg){: .img-fluid}
+[![Brasilito Beach Costa Rica - JoeBaur]({{ site.url }}/assets/img/2015/05/Brasilito-Beach-Costa-Rica-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Brasilito-Beach-Costa-Rica-JoeBaur.jpg){: .img-fluid}
 
 We took a cab just 25 minutes or so north to the relatively rustic beach town of Brasilito, known for having the adjacent beaches of Playa Brasilito, covered in darker sand, and the more popular Playa Conchal. Our hosts were Simon and his Venezuelan wife, Hilda, at [Hotel Conchal](http://conchalcr.com/), an easy walk away from the beach even if the sun was downright oppressive. This was a 12-room boutique style hotel with a pool greeting us at the entrance. Bright red colors decorated the hotel over stucco walls.
 
 We found Hilda’s English to be vastly superior to our Spanish as we discussed our plans for the area. Simon came out to meet us shortly following arrival. For some reason I was surprised to hear his English accent coming out of his six foot six frame. Once this set in, it was clear he was in the right place in the world with his light stubble for a beard, single earring, and a voice that blended the best of a soothing radio host and a beach bum. He was all smiles from the beginning, easily one of the more accommodating hosts we have had. Within mere minutes of arriving, he and his wife had our next days planned.
 
-[![Catamaran Costa Rica - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Catamaran-Costa-Rica-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Catamaran-Costa-Rica-JoeBaur.jpg){: .img-fluid}
+[![Catamaran Costa Rica - JoeBaur]({{ site.url }}/assets/img/2015/05/Catamaran-Costa-Rica-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Catamaran-Costa-Rica-JoeBaur.jpg){: .img-fluid}
 
 First we had about 30 minutes to get ready for catamaran sailing. All we knew was that a sunset was involved. It ended up being several hours packed with a sail to an island for snorkeling. En route we were treated to a selection of alcoholic beverages by our hosts at [Lazy Lizard](http://lazylizardsailing.com/wp/). Had I known we were in for snorkeling, I might have passed on the second (or third?) glass of rum. Thankfully for horrific swimmers such as myself, we were each given our own little noodle to help us float about like children in a never-ending swimming pool. It sure beat Aunt Mary’s on the Fourth of July.
 
@@ -37,7 +37,7 @@ This was not how I would typically spend my time away from home, much less in a 
 
 **Playa Conchal**
 
-****[![Brasilito Costa Rica - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Brasilito-Costa-Rica-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Brasilito-Costa-Rica-JoeBaur.jpg){: .img-fluid}****
+****[![Brasilito Costa Rica - JoeBaur]({{ site.url }}/assets/img/2015/05/Brasilito-Costa-Rica-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Brasilito-Costa-Rica-JoeBaur.jpg){: .img-fluid}****
 
 Our second and first full day in Brasilito started with some 30's style jazz playing above us where coffee and breakfast awaited. Once full, we made our way to Playa Brasilito, which was empty as advertised. This was nothing against the beach. Conchal is just simply better. Scottie Pippen was great, but most people are going to want to talk to Jordan when they’re in the same room. Anywhere else in the world, Brasilito would do just fine.
 
@@ -47,7 +47,7 @@ When the evening hours came, the second level of Hotel Conchal turned into Papay
 
 **Palo Verde**
 
-****[![Palo Verde Costa Rica - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Palo-Verde-Costa-Rica-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Palo-Verde-Costa-Rica-JoeBaur.jpg){: .img-fluid}****
+****[![Palo Verde Costa Rica - JoeBaur]({{ site.url }}/assets/img/2015/05/Palo-Verde-Costa-Rica-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Palo-Verde-Costa-Rica-JoeBaur.jpg){: .img-fluid}****
 
 Early the next morning we were off to Palo Verde with [Jacamar](http://www.arenaltours.com/index.php?lang=en&opt=guanacaste&cat=g). Two Ticos picked us up and, despite knowing we could speak Spanish, were not shy about hiding their comments of the other passersby. One with Imperial swim shorts met their scorn.
 
@@ -67,13 +67,13 @@ Our host continued searching for additional guests.
 
 And so it continued until our fellow travelers joined and we switched to English.
 
-[![Crocodile Costa Rica - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Crocodile-Costa-Rica-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Crocodile-Costa-Rica-JoeBaur.jpg){: .img-fluid}
+[![Crocodile Costa Rica - JoeBaur]({{ site.url }}/assets/img/2015/05/Crocodile-Costa-Rica-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Crocodile-Costa-Rica-JoeBaur.jpg){: .img-fluid}
 
 The _road_ to Palo Verde was less of a road and more of generously carved dirt path. This did not mesh well with Melanie, who was battling car sickness and various breakfast beverages bouncing around in her stomach.
 
 We arrived to a small entry point of the Río Tempisque where a small boat was waiting to take us on our tour. The tour itself entailed a slow, motorized excursion along the river in hopes of catching some wildlife. Indeed, seeing wildlife was hardly an issue. Scarlet macaws, crocodiles, bats, white-face monkeys, and no shortage of other birds and lizards could be easily found going through their daily routine along the river. Christhen pointed out a few “Jesus lizards,” named for their ability to scamper across water, and not because they’ve amassed a following of other lizards who inevitably thank them at lizard award shows and sporting events.
 
-[![Palo Verde Birds - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Palo-Verde-Birds-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Palo-Verde-Birds-JoeBaur.jpg){: .img-fluid}
+[![Palo Verde Birds - JoeBaur]({{ site.url }}/assets/img/2015/05/Palo-Verde-Birds-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Palo-Verde-Birds-JoeBaur.jpg){: .img-fluid}
 
 Following our tour, we drove through rural Guanacasteco towns where streets resemble recreational running paths and people hooked up their horses when running to the store.
 

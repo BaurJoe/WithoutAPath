@@ -7,7 +7,7 @@ categories:
 - Travel
 ---
 
-[![](https://withoutapath.com/wp-content/uploads/2017/01/Top-8-Off-the-Tourist-Trek-Destinations-for-2017-Without-A-Path.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/01/Top-8-Off-the-Tourist-Trek-Destinations-for-2017-Without-A-Path.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/01/Top-8-Off-the-Tourist-Trek-Destinations-for-2017-Without-A-Path.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/01/Top-8-Off-the-Tourist-Trek-Destinations-for-2017-Without-A-Path.jpg){: .img-fluid}
 
 We've all heard about what a crummy year 2016 was from Zika to Brexit and Trump to celebrities gone too soon. It got so bad, people were looking back to 2006's [_Children of Men_ as some kind of peek into the future](http://www.vulture.com/2016/12/children-of-men-alfonso-cuaron-c-v-r.html). (Happy New Year! Humanity is sterile.)
 
@@ -21,7 +21,7 @@ Below are 8 destinations followed by the traveler's case for following in their 
 
 ## ESPIRAL DE LUZ, BOLIVIA
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Bolivia.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Bolivia.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Bolivia.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Bolivia.jpg){: .img-fluid}
 
 If you really want to get away from it all, Bolivia is a great place to start. You can find endless lakes, isolated mountain communities and wildlife so bizarre you'll wonder if you might be dreaming. Although the whole country sticks in my mind, the fledgling eco-village, [Espiral de Luz](http://sites.ecovillage.org/en/ecoaldea-espiral-de-luz), is about as far away from civilization as you can get without serious hiking gear. It has none of the amenities we’ve come to expect from the modern world and you have to help out in exchange for your stay. But if you can cope with the basics, then that patch of forest will quickly seduce you.
 
@@ -29,13 +29,13 @@ Having a rhythm of life dependent on the weather, you will soon begin to check t
 
 ## MONGOLIA
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Mongolia-Ger-Camp.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Mongolia-Ger-Camp.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Mongolia-Ger-Camp.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Mongolia-Ger-Camp.jpg){: .img-fluid}
 
 The vast, ever-changing landscape never has one solid form. For days on end we drove through the Gobi desert, staying with nomads in their ger tent camp, milking goats and getting water from a stream in the mountains. We rode Mongolian horses, slept under the starry night sky and learned to appreciate the throat singing of the Mongols. We also learned about their culture of shamanism, their nomadic life style, and of course, Genghis Khan. Its capital Ulaanbaatar is expanding, but the locals try to keep true to their nomadic lifestyle as much as possible. There is no place so remote, so extreme and so beautiful as Mongolia. -- _Naomi, [Probe Around The Globe](http://probearoundtheglobe.com)_
 
 ## BELA KRAJINA, SLOVENIA
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Bela-Krajin-Slovenia.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Bela-Krajin-Slovenia.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Bela-Krajin-Slovenia.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Bela-Krajin-Slovenia.jpg){: .img-fluid}
 
 Places like Ljubljana, Lake Bled and even Bohinj have become quite popular tourist destinations (that's the power of beautiful photos shared on social media), but Bela Krajina is still rather unknown. I spent a week there at the end of September 2016 and I met very few travelers. Yet, this is one of the most beautiful places to visit in Europe, where it is still possible to enjoy a local atmosphere.
 
@@ -43,7 +43,7 @@ What makes Bela Krajina a great place to visit are the gorgeous landscapes -- gr
 
 ## ORKNEY ISLANDS, SCOTLAND
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Orkney-Islands-Scotland.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Orkney-Islands-Scotland.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Orkney-Islands-Scotland.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Orkney-Islands-Scotland.jpg){: .img-fluid}
 
 Located to the North of Scotland, mainland Orkney is just a two-hour ferry ride away. The 70 isles of the archipelago offer dramatic cliffs, abundant wildlife and unique historical sites.
 
@@ -51,7 +51,7 @@ The Orkney Islands are a great off the beaten track destination to take a break 
 
 ## SIQUIJOR, PHILIPPINES
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Philippines-Siquijor-hammock.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Philippines-Siquijor-hammock.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Philippines-Siquijor-hammock.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Philippines-Siquijor-hammock.jpg){: .img-fluid}
 
 Siquijor is a Philippine island famous all over the country for its reputation as a home of spirits and sorcerers. I'm a massive fan of fantasy, so that's what got me wanting to visit the island in the first place. Naturally we didn't see any spirits, but what we found instead was wonderful nature, great beaches and the best sunsets I've ever seen.
 
@@ -61,7 +61,7 @@ Another place worth visiting in Siquijor to get in touch with the eerie-side of 
 
 ## IRAN
 
-[![](https://withoutapath.com/wp-content/uploads/2017/01/winter-prayer-room-nasir-molk-mosque-shiraz.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/01/winter-prayer-room-nasir-molk-mosque-shiraz.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/01/winter-prayer-room-nasir-molk-mosque-shiraz.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/01/winter-prayer-room-nasir-molk-mosque-shiraz.jpg){: .img-fluid}
 
 Emerging from years of sanctions, Iran is an up and coming destination for travelers. You can walk in the footsteps of the Persian Empire at Persepolis, marvel at the Islamic architecture in Isfahan and travel along the ancient Silk Route that traverses the country. Whether you are relaxing in a traditional Persian garden in Shiraz or learning about the ancient Zoroastrian religion in Yazd, you’ll discover a nation with a rich cultural heritage. Iran is a feast for the senses with fragrant gardens, a divine cuisine and exquisite traditional buildings.
 
@@ -69,7 +69,7 @@ But the best kept secret in Iran is the hospitality of the local people who will
 
 ## BENIN
 
-[![](https://withoutapath.com/wp-content/uploads/2017/01/Benin.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/01/Benin.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/01/Benin.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/01/Benin.jpg){: .img-fluid}
 
 Imagine a place with clean, pristine beaches, seaside hostels and barefoot bars on the sand surrounded by palm trees. It's a veritable tropical paradise. What about somewhere with a powerful and unique history, stretching deep into the last thousand years, where semi-mythical kings fought and built their empire, and whose legacies and palaces remain today? Maybe you prefer somewhere vibrant, with a thriving music and arts scene, where world-renowned jazz musicians share towns with local contemporary artists, using materials to hand create sociopolitical statements. Or perhaps you're looking for somewhere spiritual, where modern Middle-Eastern religions coexist with ancient beliefs, and people pray in stone churches or mud-baked mosques before scouring markets for the right combination of bones and herbs to make a potion to bring them success.
 
@@ -77,10 +77,10 @@ You're imagining Benin. It's a little-known country; a beacon of stability in a 
 
 ## ANTARCTICA
 
-[![](https://withoutapath.com/wp-content/uploads/2017/01/Antarctica-Travel.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/01/Antarctica-Travel.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/01/Antarctica-Travel.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/01/Antarctica-Travel.jpg){: .img-fluid}
 
 The White Continent consistently shows up on travel wish lists -- and rightfully so. I dreamt about traveling to Antarctica for years. With a landscape full of glaciers and icebergs, Antarctica is beautiful, stunning, and magnificent beyond what any words can describe. Although remote and off the beaten path, there is no shortage of things to do in Antarctica. Visitors have numerous opportunities to view the scenery and the unique wildlife, including seabirds, seals, whales and various species of penguin. Active travelers can kayak icy water, hike, cross-country ski and even camp overnight.
 
 Unless working in a research station, visits are possible only during Antarctic summer (November to March) when temperatures are typically right below freezing. On the plus side, with almost 24 hours of daylight in the summer, there is plenty of opportunity to take in the surroundings. _-- Matilda, [The Travel Sisters](http://thetravelsisters.com/things-to-do-in-antarctica/)_
 
-[![](https://withoutapath.com/wp-content/uploads/2017/01/Top-8-Off-the-Tourist-Trek-Destinations-for-2017.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/01/Top-8-Off-the-Tourist-Trek-Destinations-for-2017.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/01/Top-8-Off-the-Tourist-Trek-Destinations-for-2017.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/01/Top-8-Off-the-Tourist-Trek-Destinations-for-2017.jpg){: .img-fluid}

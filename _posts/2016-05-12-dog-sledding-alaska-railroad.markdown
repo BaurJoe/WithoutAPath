@@ -15,7 +15,7 @@ Yes, _sexiest_.
 
 Luckily for my travel preferences, this year just so happened to be the centennial celebration of the [Alaska Railroad](https://www.alaskarailroad.com/), launched in 1916 in time to fuel the gold rush. Today, it's still a beauty of a rail line that travels between Fairbanks and Seward, a distance of 470 miles, with [Denali National Park](https://www.nps.gov/dena/index.htm) in between.
 
-[![Riding the Alaskan Railroad](https://withoutapath.com/wp-content/uploads/2016/02/18Joe_Baur_Alaska_AlaskaRailroad-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/02/18Joe_Baur_Alaska_AlaskaRailroad.jpg){: .img-fluid}
+[![Riding the Alaskan Railroad]({{ site.url }}/assets/img/2016/02/18Joe_Baur_Alaska_AlaskaRailroad.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/02/18Joe_Baur_Alaska_AlaskaRailroad.jpg){: .img-fluid}
 
 Stops are limited in the winter, but still well-worth the experience, especially if like me you're going from Anchorage to Fairbanks. Though the train is mostly tourists and local skiers these days, it's also popular with Alaskans who have built cabins off the road network. They'll board, let the train engineer know which "whistle-stop" they need, and the train will come to a stop so they can hop off and start their trek to the cabin.
 
@@ -35,7 +35,7 @@ Speaking of that air, it certainly is noticeably colder in Fairbanks. Whereas we
 
 Back to the air, it's cold. Damned cold. So cold, you can feel your snot freeze when inhaling through your nose. I found it to be a fascinating sensation. I guess what I'm saying is, your city isn't that cold until you've been accustomed to your snot freezing over upon every breath.
 
-[![Chena Hot Springs Resort in Alaska](https://withoutapath.com/wp-content/uploads/2016/02/08Joe_Baur_Alaska_ChenaHotSpringsResort-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/02/08Joe_Baur_Alaska_ChenaHotSpringsResort.jpg){: .img-fluid}
+[![Chena Hot Springs Resort in Alaska]({{ site.url }}/assets/img/2016/02/08Joe_Baur_Alaska_ChenaHotSpringsResort.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/02/08Joe_Baur_Alaska_ChenaHotSpringsResort.jpg){: .img-fluid}
 
 The whole point of heading out to Chena is for the aurora borealis or northern lights. They also have an outdoor hot spring where guests will amuse themselves by briefly dipping their head underwater and coming out to freeze their hair in any number of silly stylings. There's also an ice museum with an impressive array of ice sculptures housed year-round in a giant igloo. I happened to be the lone American tourist among a throng of Chinese tourists, who by the way, were loving every moment of the experience as evidenced by their constantly clicking cameras.
 
@@ -47,7 +47,7 @@ But it's not me. And it's especially not me when the aurora borealis forecasts (
 
 ## Dog Sledding
 
-[![Black Spruce Dog Sledding in Alaska](https://withoutapath.com/wp-content/uploads/2016/02/37Joe_Baur_Alaska_BlackSpruceDogSledding-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/02/37Joe_Baur_Alaska_BlackSpruceDogSledding.jpg){: .img-fluid}
+[![Black Spruce Dog Sledding in Alaska]({{ site.url }}/assets/img/2016/02/37Joe_Baur_Alaska_BlackSpruceDogSledding.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/02/37Joe_Baur_Alaska_BlackSpruceDogSledding.jpg){: .img-fluid}
 
 I met with Jeff Deeter of [Black Spruce Dog Sledding](http://blacksprucedogsledding.com/index.html) who Jerry described as one half of a "hip young couple." I admit I didn't know what to make of dog sledding. I'm not a rah-rah PETA type, but I do feel animals should be treated ethically. _Were dog sledding dogs being treated ethically?_ I wondered.
 
@@ -63,7 +63,7 @@ Riding as a guest (i.e. not doing any of the work or directing) felt like an am
 
 On cruise control, Jeff shared more of his dog sledding experiences, including riding with the temperature as low as -68. He's also done the famous [Iditarod](http://iditarod.com/) and plans to again, but first will tackle the [Yukon Quest](http://www.yukonquest.com/) next year, which many in the dog sledding business say is more difficult than its celebrity cousin. For those keeping score, the Yukon Quest is 1,000 miles between Fairbanks and Whitehorse, Yukon.
 
-[![Dog gets ready to go dog sledding](https://withoutapath.com/wp-content/uploads/2016/05/29Joe_Baur_Alaska_BlackSpruceDogSledding.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/05/29Joe_Baur_Alaska_BlackSpruceDogSledding.jpg){: .img-fluid}
+[![Dog gets ready to go dog sledding]({{ site.url }}/assets/img/2016/05/29Joe_Baur_Alaska_BlackSpruceDogSledding.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/05/29Joe_Baur_Alaska_BlackSpruceDogSledding.jpg){: .img-fluid}
 
 Jeff has clearly come a long way since starting as a handler at a kennel in 2003. Now he's running his own business and hopes to expand with other activities and welcoming guests to spend the night at the property. The trails would make an obvious match with cycling, cross-country skiing, and hiking on top of the night tours and dog sledding they already offer.
 

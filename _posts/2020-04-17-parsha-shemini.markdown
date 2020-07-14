@@ -2,9 +2,10 @@
 title: Parsha Shemini | Who's Hungry For Winged Swarming Things?
 categories:
 - Essays
+homepage: false
 ---
 
-![Giant Grasshopper](https://withoutapath.com/wp-content/uploads/2020/04/bradley-feller-_sFfGu4cGvc-unsplash.jpg){: .img-fluid}Photo by [Bradl](https://unsplash.com/@bradass198?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)[e](https://unsplash.com/@bradass198?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)[y Feller](https://unsplash.com/@bradass198?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/grasshopper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![Giant Grasshopper]({{ site.url }}/assets/img/2020/04/bradley-feller-_sFfGu4cGvc-unsplash.jpg){: .img-fluid}Photo by [Bradl](https://unsplash.com/@bradass198?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)[e](https://unsplash.com/@bradass198?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)[y Feller](https://unsplash.com/@bradass198?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/grasshopper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Shemini, Leviticus 9:1 – 11:47. [Click here to read the previous Parsha, Parsha Tzav](https://withoutapath.com/parsha-tzav/)[.](https://withoutapath.com/parsha-vayikra/)_
 

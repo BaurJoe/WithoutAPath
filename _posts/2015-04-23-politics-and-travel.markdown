@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![Hiking in Jordan](https://withoutapath.com/wp-content/uploads/2016/05/Four-things-you-need-to-know-about-traveling-in-Jordan.jpg){: .img-fluid}
+![Hiking in Jordan]({{ site.url }}/assets/img/2016/05/Four-things-you-need-to-know-about-traveling-in-Jordan.jpg){: .img-fluid}
 
 Travel, in my view, is one of the best tools in our arsenal to come to terms with one another's existence. Considering how terrible humans have been at understanding one another, travel has become an invaluable tool. If we all forever stay cornered into our man-made political boundaries, we'll continue to exchange more bombs than our respective versions of a dick and fart jokes.
 

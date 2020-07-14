@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![On Costa Rica's Rainy Season - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/09/Hacienda-El-Rode-17.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/09/Hacienda-El-Rode-17.jpg){: .img-fluid}
+[![On Costa Rica's Rainy Season - JoeBaur]({{ site.url }}/assets/img/2014/09/Hacienda-El-Rode-17.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/09/Hacienda-El-Rode-17.jpg){: .img-fluid}
 
 _**Note:** The following is an excerpt from the forthcoming travel memoir, [Talking Tico](https://withoutapath.com/national-novel-writing-month/)._
 

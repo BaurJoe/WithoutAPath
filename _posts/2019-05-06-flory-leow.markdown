@@ -5,7 +5,7 @@ categories:
 - Trailblazers
 ---
 
-![](https://withoutapath.com/wp-content/uploads/2019/05/FLORYLEOW-1024x768.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2019/05/FLORYLEOW.jpg){: .img-fluid}
 
 _[Trailblazers](https://withoutapath.com/category/trailblazers) checks in with creatives from around the world to share their story. On this edition, we welcome Flory Leow of [Adventures of Furochan](http://furochan.substack.com/)._
 
@@ -25,7 +25,7 @@ When I first came here to work, I was already fluent in Japanese, so most of the
 
 I don’t have a lived idea of what it means to feel Japanese, though I have some notion of what it entails from Japanese friends around me. I’ve been mistaken as being 帰国子女 _kikokushijo_ (returnee Japanese) or half-Japanese but that is their perception, not mine. Like most monolingual and/or homogenous communities around the world, there seem to be pressures and expectations to behave in certain ways, to conform to more monolithic ideas of ‘Japanese-ness.’ Especially if you are a woman here. My ability to shrug off many of those expectations because I’m a foreigner – even if I do mostly look and sound like everyone else here – already disqualifies me from any sort of ‘feeling Japanese.’ 
 
-![](https://withoutapath.com/wp-content/uploads/2019/05/Flory_toast-1024x768.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2019/05/Flory_toast.jpg){: .img-fluid}
 
 For the most part, people don’t question who I am and therefore whether I’m ‘one of them’ unless they know where I’m from. This is mostly because I look like I could be from here. But I don’t mind if they ask, either. Most people, if they’ve even encountered the idea of Malaysia, don’t know enough about my country beyond its heat, friendly people, cheaper-than-Japan-food, and maybe the nice golf courses, so I don’t really have the baggage of stereotypes following me around. 
 
@@ -39,7 +39,7 @@ When I was 15, I had the opportunity to join a month-long exchange program to Ja
 
 One of my host families lived in the countryside in Fukuoka. They were exceptionally kind, and somehow, we managed to bumble along with a dictionary (a little paper brick, no less!) They had no internet. This was a time before smartphones or Facebook. I remember many late nights after the day’s activities, staring into the inky blackness of the Nogata countryside, listening to a CD belonging to my host brother. I had absolutely no idea what anyone was saying or what any of my experiences meant yet. I could not even feign an interest in anime or most Japanese literature back then, but some inexorable force inside told me that this was where I should return to. From that point onwards, Japan was my North Star, my _raison d’etre_, the site of any misguided dreams towards a life of my own.
 
-![](https://withoutapath.com/wp-content/uploads/2019/05/Flory_fish3Ehime-1024x768.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2019/05/Flory_fish3Ehime.jpg){: .img-fluid}
 
 **WAP** _What’s the focus of your writing?_
 
@@ -53,7 +53,7 @@ On the personal front, I write about whatever interests me. I used to write only
 
 **FL** The obvious eroticism of it all, I suppose. It’s such a cliche to enjoy yolkporn but I do – the satisfaction when you break the membrane, and how the liquid gushes and spills out like a pent-up sigh. It’s such a cheap thrill – infinitely repeatable and never dull. 
 
-![](https://withoutapath.com/wp-content/uploads/2019/05/Flory_eggcurry-1024x768.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2019/05/Flory_eggcurry.jpg){: .img-fluid}
 
 **WAP** _Give us a glimpse into regular life in Tokyo. What’re your days like?_
 
@@ -65,7 +65,7 @@ But when I am not on the road, I tend to be a huge homebody and sometimes don’
 
 **FL** This is difficult. Curry is a standby – as spicy as the shop goes, as saucy as they’ll allow, with a yolk on top if possible. I love a tempura rice bowl at my favorite place, with fresh, sweet vegetables, and his secret sauce drizzled over. Sometimes I will eat fish teishoku for several days – a set meal of rice, miso soup, and either grilled fish or chopped raw fish dressed with miso or other salty condiments and onion. And then izakaya, which is a bit of a cop-out because you can eat so many different things in one. Recently I had a sublime two-ingredient dish: shishito peppers seared until tiger-skinned in a cast-iron pan, with a scattering of salted kelp strands. 
 
-![](https://withoutapath.com/wp-content/uploads/2019/05/Flory_fish-1024x768.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2019/05/Flory_fish.jpg){: .img-fluid}
 
 Malaysian food: mostly, I miss my mother’s Hakka cooking. I miss chicken rice, specifically with roast chicken. And noodles of all kinds – soup noodles, noodles tossed in sauces, curry noodles. Hakka lei cha (thunder tea). Roti canai drenched in curry. Proper kaya (coconut jam). Nasi kandar. There is just too much. 
 
@@ -75,7 +75,7 @@ Malaysian food: mostly, I miss my mother’s Hakka cooking. I miss chicken rice,
 
 One aspect is _aizuchi_, the whole point of which is constant affirmation and acknowledgment, mostly for the benefit of the other person, to show that you are indeed present and listening – hence the constant nodding and ‘_hai_’ you often hear and see when people talk to each other. This does make you a much better listener across all languages…
 
-![](https://withoutapath.com/wp-content/uploads/2019/05/Flory_umbrellas-1024x768.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2019/05/Flory_umbrellas.jpg){: .img-fluid}
 
 **WAP** _Where do you generally point first-time visitors to Japan?_
 
@@ -93,7 +93,7 @@ The nature of romantic and sexual relationships in Japan, for instance – datin
 
 Most of all, I continue to be fascinated by and love deeply the society-wide respect for craft and attention to detail. 
 
-![](https://withoutapath.com/wp-content/uploads/2019/05/Flory_fishEhime-1024x768.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2019/05/Flory_fishEhime.jpg){: .img-fluid}
 
 **WAP **_What are you working on the moment or what are you most looking forward to sharing?_
 

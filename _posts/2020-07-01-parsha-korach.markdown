@@ -2,9 +2,10 @@
 title: Parsha Korach | God Doesn't Have A Complaints Department
 categories:
 - Essays
+homepage: false
 ---
 
-![](https://withoutapath.com/wp-content/uploads/2020/07/rsz_ybrayym-esenov-eiwvoa9zb10-unsplash.jpg){: .img-fluid}Photo by [Ybrayym Esenov](https://unsplash.com/@ibrhyme?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/hell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![]({{ site.url }}/assets/img/2020/07/rsz_ybrayym-esenov-eiwvoa9zb10-unsplash.jpg){: .img-fluid}Photo by [Ybrayym Esenov](https://unsplash.com/@ibrhyme?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/hell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Korach, Numbers 16:1 – 18:32. [Click here to read the previous portion, Parsha Sh'lach.](https://withoutapath.com/parsha-shlach/)_
 

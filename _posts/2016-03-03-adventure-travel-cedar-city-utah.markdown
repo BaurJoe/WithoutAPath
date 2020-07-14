@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![Tour of Utah road cycling](https://withoutapath.com/wp-content/uploads/2016/03/Tour-of-Utah-1024x576.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/03/Tour-of-Utah.jpg){: .img-fluid}
+[![Tour of Utah road cycling]({{ site.url }}/assets/img/2016/03/Tour-of-Utah.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/03/Tour-of-Utah.jpg){: .img-fluid}
 
 What’s Cedar City? Well to begin, it’s in Utah, so you know you’re going to be surrounded by alien landscapes (unless you’re from the West or Middle East) and adventure. That alone is enough to convince me to pack my backs for a weeklong adventure getaway.
 
@@ -13,7 +13,7 @@ But after some research, it turns out Cedar City, Utah is a veritable adventure 
 
 **THE HIKING**
 
-[![Cedar Breaks Utah](https://withoutapath.com/wp-content/uploads/2016/03/Cedar-Breaks-with-Bristlecone-PC-Paul-Roelandt-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/03/Cedar-Breaks-with-Bristlecone-PC-Paul-Roelandt.jpg){: .img-fluid}
+[![Cedar Breaks Utah]({{ site.url }}/assets/img/2016/03/Cedar-Breaks-with-Bristlecone-PC-Paul-Roelandt.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/03/Cedar-Breaks-with-Bristlecone-PC-Paul-Roelandt.jpg){: .img-fluid}
 
 Most are lucky to have some park trails near their community. Cedar City laughs at your park trails and raises you some of the finest national parks this country has to offer, which is saying something. If there’s one thing the United States does well, it’s parks.
 
@@ -35,7 +35,7 @@ I think I’ve already written about [why cycling is my favorite way to travel]
 
 **STARGAZING**
 
-[caption id="attachment_3194" align="aligncenter" width="672"][![Cedar Breaks National Monument and the Milky Way](https://withoutapath.com/wp-content/uploads/2016/03/Cedar-Breaks-Night-Sky-PC-Mike-Saemisch-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/03/Cedar-Breaks-Night-Sky-PC-Mike-Saemisch.jpg){: .img-fluid} Photo by [Mike Saemisch](http://www.breckenridgeskiphotos.com/)[/caption]
+[caption id="attachment_3194" align="aligncenter" width="672"][![Cedar Breaks National Monument and the Milky Way]({{ site.url }}/assets/img/2016/03/Cedar-Breaks-Night-Sky-PC-Mike-Saemisch.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/03/Cedar-Breaks-Night-Sky-PC-Mike-Saemisch.jpg){: .img-fluid} Photo by [Mike Saemisch](http://www.breckenridgeskiphotos.com/)[/caption]
 
 I’ve been on a bit of a space kick as of late. First it was _Interstellar_ and then both the book and film adaptation of _The Martian_. They reminded me of all those things we learned about when we were younger, more imaginative versions of ourselves. That is, there’s an entire universe out there waiting to be explored!
 
@@ -47,7 +47,7 @@ Taking a break, I’d look to travel back in time by visiting the petroglyphs of
 
 This, I’m sure, barely even scratches the surface of what you can do out in Cedar City, Utah. But between the hiking, cycling, history and stargazing, it’s already skyrocketed to the top of my travel list.
 
-[![Traveling Cedar City, Utah](https://withoutapath.com/wp-content/uploads/2016/03/Traveling-Cedar-City-Utah-200x300.png)](https://withoutapath.com/wp-content/uploads/2016/03/Traveling-Cedar-City-Utah.png)
+[![Traveling Cedar City, Utah]({{ site.url }}/assets/img/2016/03/Traveling-Cedar-City-Utah.png)]({{ site.url }}/assets/img/2016/03/Traveling-Cedar-City-Utah.png)
 
 **Photos:** Cedar City & Brian Head Tourism Bureau
 

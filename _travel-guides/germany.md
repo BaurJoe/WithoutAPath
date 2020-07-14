@@ -3,7 +3,7 @@ title: Germany
 permalink: /travel-guides/germany/
 ---
 
-## ![Best Places To Visit In Germany Off The Beaten Path](https://withoutapath.com/wp-content/uploads/2017/09/View-from-the-Waldhaus-Batschari-in-the-Black-Forest-Germany.jpg){: .img-fluid}
+## ![Best Places To Visit In Germany Off The Beaten Path]({{ site.url }}/assets/img/2017/09/View-from-the-Waldhaus-Batschari-in-the-Black-Forest-Germany.jpg){: .img-fluid}
 
 ## 17 Places to Visit in Germany Off the Beaten Path
 
@@ -25,7 +25,7 @@ _**Tip: **Looking for more Germany?** Check out my [top things to do in Germany]
 
 ## Ahrtal
 
-![View of Ahrtal from the AhrSteig](https://withoutapath.com/wp-content/uploads/2019/07/Ahrtal-View-from-AhrSteig.jpg){: .img-fluid}
+![View of Ahrtal from the AhrSteig]({{ site.url }}/assets/img/2019/07/Ahrtal-View-from-AhrSteig.jpg){: .img-fluid}
 
 Few places have impressed me in Germany quite like the [Ahrtal](https://withoutapath.com/ahrtal/) (Ahr River Valley). Here you get the scenery and wine culture of both the Rhineland and Mosel River (both covered below) without any of the overtourism. At least, that was my experience after two summer visits.
 
@@ -37,7 +37,7 @@ A second visit a few months later confirmed our love for the Ahrtal. This time w
 
 ## Baden-Baden
 
-![Baden-Baden Germany](https://withoutapath.com/wp-content/uploads/2017/09/Baden-Baden-Germany.jpg){: .img-fluid}
+![Baden-Baden Germany]({{ site.url }}/assets/img/2017/09/Baden-Baden-Germany.jpg){: .img-fluid}
 
 The Black Forest is certainly not off the beaten path, but it's some of the best hiking in Germany and in one of the sunniest corners of a country that has an otherwise gray reputation. The heart of this region is Freiburg. In Baden-Baden, on the other hand, you can still get a sense of what it's like to be a local there. I spent mornings heading to the bakery, speaking German, and hearing exclusively German. There is a good chance that most Germans I saw walking around the pedestrian plazas were themselves tourists. After all, "baden" is the verb "to bathe," so Baden-Baden is incredibly popular for the thermal baths.
 
@@ -63,7 +63,7 @@ Bonn is not a large city, making it easy to cover a majority of the sights in a 
 
 ## **Detmold and the Teutoburg Wald**
 
-![Visiting Hermannsdenkmal and Brauerei Strate in Detmold](https://withoutapath.com/wp-content/uploads/2019/04/Detmold-Sidestreet.jpg){: .img-fluid}
+![Visiting Hermannsdenkmal and Brauerei Strate in Detmold]({{ site.url }}/assets/img/2019/04/Detmold-Sidestreet.jpg){: .img-fluid}
 
 Teutoburger Wald, a stretch of forest running through Germany's Lippe district, had been on my list for a while when I finally made it over to Bielefeld and Detmold (separate trips) for some hiking. Detmold is especially known in tourist circles for its statue, Hermannsdenkmal, celebrating the ancient Germanic victory over invading Roman forces. But there's more to Detmold than just visiting the statue and hiking Hermannahoehen. It's also home to Brauerei Strate, a traditional German brewery that expertly brews classic recipes, like Pilsner and Bock, while experimenting to keep up with the craft beer boom.
 
@@ -71,7 +71,7 @@ Read more about [Detmold here](https://withoutapath.com/hermannsdenkmal-brauerei
 
 ## Dresden
 
-![Seestrasse Dresden Germany](https://withoutapath.com/wp-content/uploads/2016/12/Seestrasse-Dresden-Germany.jpg){: .img-fluid}
+![Seestrasse Dresden Germany]({{ site.url }}/assets/img/2016/12/Seestrasse-Dresden-Germany.jpg){: .img-fluid}
 
 [Dresden](https://withoutapath.com/dresden-striezel-christmas-market/) is a popular destination for World War II history, the Christmas markets (the longest running in Europe, they say), and to see the reconstructed old town. That said, it's generally not at the top of any North America's list for a trip to Germany -- though it should be. If you travel during the holiday season, you should, indeed, check out the Christmas markets. The Dresdner Striezelmarkt is the main one you'll find in the Old Town area, though there are several throughout the city. None of this feels particularly off the beaten path, but this is a firmly German thing to do. I don't think I heard a lick of English during my time in Dresden and walking around the Christmas markets.
 
@@ -81,7 +81,7 @@ _See [more photos](https://www.flickr.com/photos/baurjoe/albums/7215767999632216
 
 ## Düsseldorf
 
-![Düsseldorf Germany Rathaus](https://withoutapath.com/wp-content/uploads/2017/09/Düsseldorf-Germany-Rathaus.jpeg)
+![Düsseldorf Germany Rathaus]({{ site.url }}/assets/img/2017/09/Düsseldorf-Germany-Rathaus.jpeg)
 
 I couldn't get through this off the beaten path Germany travel guide and _not_ talk about my new home -- Düsseldorf. Personal bias aside, it really does feel off the beaten path, save German tourists in the summer strolling around the city's Altstadt. There's a good amount of spoken English here, too, but some German language skills will still go a long way here, whereas you don't need to speak a lick of the language traveling in nearby Cologne or Berlin.
 
@@ -97,7 +97,7 @@ I better end it there for now -- wait! [485Grad](https://l.facebook.com/l.php?u=
 
 ## Erfurt
 
-![Merchant's Bridge in Erfurt, Germany](https://withoutapath.com/wp-content/uploads/2017/09/Merchants-Bridge-in-Erfurt-Germany.jpg){: .img-fluid}
+![Merchant's Bridge in Erfurt, Germany]({{ site.url }}/assets/img/2017/09/Merchants-Bridge-in-Erfurt-Germany.jpg){: .img-fluid}
 
 We're staying in Thuringia with a look at Erfurt, the state capital. Erfurt makes for an idyllic urban base to explore this often overlooked German state. In Erfurt, you get all the comforts you'd want in traveling to a German city -- namely excellent train services to some of the nearby areas that you might want to dive deeper into, especially if you're a history nerd and want to retrace Martin Luther's steps from Eisenach to Wittenberg.
 
@@ -109,13 +109,13 @@ _See [more photos](https://www.flickr.com/photos/baurjoe/albums/7215767840514436
 
 ## Hainich National Park
 
-![Baumkronenpfad Hainich National Park](https://withoutapath.com/wp-content/uploads/2017/04/Baumkronenpfad-Hainich-National-Park-Germany.jpg){: .img-fluid}
+![Baumkronenpfad Hainich National Park]({{ site.url }}/assets/img/2017/04/Baumkronenpfad-Hainich-National-Park-Germany.jpg){: .img-fluid}
 
 Hainich National Park is right smack dab in the middle of Germany in the state of [Thuringia](https://withoutapath.com/travel-guides/thuringia-germany/) (Thüringen auf Deutsch). What used to be a military training ground for the old German Democratic Republic (GDR) is now 29 square miles of pristine green space, harboring a primeval beech forest. If you're not a tree-nerd, there's still plenty of good times to be had in Hainich National Park. I for one opted for a bike ride after getting a unique view of the area via the park's [canopy walk](http://www.nationalpark-hainich.de/en/places-to-go/canopy-walk.html). The walkway itself was built around the natural growth of the beech forest, so your environmentalist heart can rest easy knowing you're truly there just to admire. (Interestingly, the canopy serves scientific purposes, too, as it allows scientists and researchers access to the treetops and the animals that naturally live there.)
 
 ## Harz Mountains
 
-![Harz Mountains Harzer-Hexen-Steig Hiking Trail in Germany](https://withoutapath.com/wp-content/uploads/2019/11/Harz-Mountains-Joe-Baur.jpg){: .img-fluid}
+![Harz Mountains Harzer-Hexen-Steig Hiking Trail in Germany]({{ site.url }}/assets/img/2019/11/Harz-Mountains-Joe-Baur.jpg){: .img-fluid}
 
 The Black Forest and the Bavarian Alps get most of the love when it comes to admiring Germany's natural surroundings. There's good reason for that, but the Harz Mountains and Harz National Park deserve just as much celebration. It's long been a favorite of literary wanderers looking for both inspiration and a pleasant, sometimes challenging jaunt in the refreshing isolation of a thick forest.
 
@@ -123,7 +123,7 @@ Heinrich Heine and Goethe are among Harz's most famous hikers with the latter dr
 
 ## Landschaftspark | Duisburg
 
-![Landschaftspark Duisburg Germany](https://withoutapath.com/wp-content/uploads/2017/09/Landschaftspark-Duisburg-Germany.jpg){: .img-fluid}
+![Landschaftspark Duisburg Germany]({{ site.url }}/assets/img/2017/09/Landschaftspark-Duisburg-Germany.jpg){: .img-fluid}
 
 A number of cities along the German Rhine are closely associated with the country's industrial past. Germany was not immune to the technological revolution of the late 20th Century that's still going on to this day and a number of old plants shuttered their doors. Rather than let the old coal and steel production site rot over time, a man by the name of Peter Latz came up with a design that would turn the property into a public park unlike anything the area had seen before. Indeed, it's unlike anything I had ever seen before. I couldn't help but imagine what if other cities around the world took on a similar effort because Landschaftspark [had clearly become a draw](http://en.landschaftspark.de/startseite) for Germans near and far. On a clear weekend afternoon, you'll find hikers, cyclists, and even beer drinkers relaxing at one of the restaurants on the outskirts of the industrial site.
 
@@ -143,7 +143,7 @@ Schnitzel isn't a Bavarian invention, but the best damn take on it I've had is a
 
 ## Mosel River | Burg Eltz, Beilstein, Ediger-Eller
 
-![Moselle River](https://withoutapath.com/wp-content/uploads/2018/11/Moselle-River.jpg){: .img-fluid}
+![Moselle River]({{ site.url }}/assets/img/2018/11/Moselle-River.jpg){: .img-fluid}
 
 The Mosel River itself isn't off the beaten path. That's made abundantly clear when you reach Cochem and see throngs of tourists––German and international alike––fighting their way through the crowds to take pictures of the storybook old town and walk up to the castle hovering above town. The region's wine culture has also long been a draw for travelers.
 
@@ -151,13 +151,13 @@ That said, it's easy to escape the crowds and find off the beaten path destinati
 
 The best time to travel to avoid crowds is late fall just as tourist season is coming to an end. (Note that bus schedules generally change with the start of November.). Moselkern, for example, was pleasantly quiet despite being a healthy hike away from the Instagram-favorite, Burg Eltz. Travel during the late fall and arrive early in the morning for some tourists-free shots of the fairytale castle.
 
-![Burg Eltz](https://withoutapath.com/wp-content/uploads/2018/11/Burg-Eltz.jpg){: .img-fluid}
+![Burg Eltz]({{ site.url }}/assets/img/2018/11/Burg-Eltz.jpg){: .img-fluid}
 
 From there, check out tiny Beilstein. I took the train from Moselkern to Cochem where I then boarded a ship for Beilstein. (You could also take a bus.) Beilstein is tiny. You can basically see it all within 30 minutes of walking, but damn if it isn't an adorable little town. Here you can drink Mosel wine, enjoy the views from lesser-traveled Metternich Castle, and get your Kaffee und Kuchen (coffee and cake) fix at Klosterrestaurant & Cafe, a former cathedral converted into a cafe.
 
 After Beilstein, I took the bus a short journey over to Ediger-Eller––a town recommended to me for its wine shops and taverns. And in that regard, it did not disappoint. Check out Weinprobierstube E. Andre and Gutshof Zenz if you want a coupel of recommendations so you don't have to research or think. But there's plenty more in town and the surrounding area you can easily reach by foot.
 
-[caption id="attachment_7535" align="aligncenter" width="1280"]![Beilstein Germany](https://withoutapath.com/wp-content/uploads/2018/11/Beilstein-Germany.jpg){: .img-fluid} Beilstein, Germany[/caption]
+[caption id="attachment_7535" align="aligncenter" width="1280"]![Beilstein Germany]({{ site.url }}/assets/img/2018/11/Beilstein-Germany.jpg){: .img-fluid} Beilstein, Germany[/caption]
 
 Speaking of reaching things by foot, this entire area is connected by the Moselsteig. Twenty-four stages cover the region from Koblenz right to the German border with [Luxembourg](https://withoutapath.com/mullerthal-luxembourg/) and [France](https://withoutapath.com/trip-to-paris/). In fact, hiking from Beilstein to Cochem (and taking the bus back) remains one of my favorite hikes in Germany––wandering through vineyards and forests with elevated views of the surrounding, gorgeous Mosel valley. You also hop on the Moselsteig when hiking from Moselkern to Burg Eltz.
 
@@ -167,7 +167,7 @@ _Read more about traveling along the [Mosel River](https://withoutapath.com/mose
 
 ## Monschau -- Eifel National Park
 
-![Monschau, Germany Skyline](https://withoutapath.com/wp-content/uploads/2017/09/Monschau-Germany-Skyline.jpg){: .img-fluid}
+![Monschau, Germany Skyline]({{ site.url }}/assets/img/2017/09/Monschau-Germany-Skyline.jpg){: .img-fluid}
 
 Germany has what's referred to as "premium hiking trails." These trails are all over the country and are multi-day hikes with plenty of holiday apartments and towns along the way to catch some Zs. The Eifelsteig is one such example with a stop at Stage 3 in Monschau near the Belgian border. I arrived into Monschau by way of the second stage of the Eifelsteig, starting in even smaller Roetgen and hiking the Eifelsteig in and out of Belgium some 17 kilometers to arrive in Monschau.
 
@@ -179,7 +179,7 @@ _See [more photos](https://www.flickr.com/photos/baurjoe/albums/7215768684341277
 
 ## Neanderthal Valley
 
-![Neanderthal Hiking Germany](https://withoutapath.com/wp-content/uploads/2017/09/Neanderthal-Hiking-Germany.jpg){: .img-fluid}
+![Neanderthal Hiking Germany]({{ site.url }}/assets/img/2017/09/Neanderthal-Hiking-Germany.jpg){: .img-fluid}
 
 Cycling fans might recognize this small valley outside of Düsseldorf from the 2017 Tour de France. Stage 2 took cyclists around the rolling valley and past the Neanderthal Museum before turning back toward Düsseldorf and out of the country. As the name of the region hints at, our Neanderthal ancestors used to roam around this region. While most scientists believe that our first ancestors came from Africa, it was near the site of the museum (some 160 years ago) that the first Neanderthal remains were found.
 
@@ -189,7 +189,7 @@ _See [more photos](https://flic.kr/s/aHskQFUPFC) of the Neaderthal Valley_
 
 ## Neckarsteig and the Castle Road
 
-![Neckarsteig and Castle Road, Hirschhorn Castle](https://withoutapath.com/wp-content/uploads/2018/05/Neckarsteig-and-Castle-Road-Hirschhorn-Castle.jpg){: .img-fluid}
+![Neckarsteig and Castle Road, Hirschhorn Castle]({{ site.url }}/assets/img/2018/05/Neckarsteig-and-Castle-Road-Hirschhorn-Castle.jpg){: .img-fluid}
 
 Two things Germany does better than most any other country are castles, and hiking. Why not combine the two with a hike along the Neckarsteig and the Castle Road? The two are technically separate but they compliment one another beautifully. You can give yourself a physical challenge and hike the Neckarsteig from castle-to-castle or roll from town-to-town by bike. You've also got trains running alongside the Neckar River, connecting the various towns of the region in just a few minutes between stops.
 
@@ -201,7 +201,7 @@ Like [the Rheinsteig](https://withoutapath.com/germany-rheinsteig-trail/), each 
 
 ## Rheinsteig
 
-![Lorch, Germany Rheinsteig Hiking Trail](https://withoutapath.com/wp-content/uploads/2017/08/Lorch-Germany-Rheinsteig.jpg){: .img-fluid}
+![Lorch, Germany Rheinsteig Hiking Trail]({{ site.url }}/assets/img/2017/08/Lorch-Germany-Rheinsteig.jpg){: .img-fluid}
 
 Since we started on the premium trails, we'll keep going with a shout out for the [Rheinsteig](https://withoutapath.com/germany-rheinsteig-trail/). I still have plenty of premium-trail-hiking to do in the Deutschland, but few multi-day hikes hold a candle to the Rheinsteig. The Rheinsteig stretches over 300 kilometers between Wiesbaden and Bonn, and as of this writing, I've done just 5 of the 21 stages. Whereas the Eifelsteig goes through a national park, the Rheinsteig trail goes up and down from town to town along the Rhine river. Almost every stage starts with a steep incline out of town and ends with a decline into your next overnight stop. This means plenty of great, elevated views of the towns along the river as you hike the trail.
 
@@ -227,7 +227,7 @@ _My visit was provided by [Usedom.de](http://usedom.de). As always, all opinions
 
 ## Transportation in Germany
 
-![Lutherweg Hainich National Park Germany](https://withoutapath.com/wp-content/uploads/2017/09/Lutherweg-Hainich-National-Park-Germany.jpg){: .img-fluid}
+![Lutherweg Hainich National Park Germany]({{ site.url }}/assets/img/2017/09/Lutherweg-Hainich-National-Park-Germany.jpg){: .img-fluid}
 
 Germans like to complain about public transportation and that time the [Deutsche Bahn](https://www.bahn.com/en/view/index.shtml) (the primary national train service) was late, but the fact of the matter is that Germany has some of the best public transportation in the world. A British expatriate told me in Eisenach that it's in the German constitution that everyone has access to public transportation. After traveling extensively around the country, I believe it. On the whole, trains are fast and punctual. The long-distance, high-speed ICE trains can be pricey if you wait until the last minute. If you know your plans well in advance, search the "[Sparpreis](https://ps.bahn.de/preissuche/preissuche/psc_angebotssuche.refresh?&countrylang=USA_en#no-back)" options at Deutsche Bahn's website. I bought a ticket for as low as €20 from Düsseldorf to Munich planning several months in advance. There are also a number of passes you can sign up for to cover group and tourist travel.
 
@@ -235,7 +235,7 @@ My other suggestion? Go cycling. [Eurovelo](http://www.eurovelo.org/) routes spr
 
 ## Before You Go To Germany
 
-![Rheinsteig Trail Germany View](https://withoutapath.com/wp-content/uploads/2017/08/Rheinsteig-Trail-Germany-View.jpg){: .img-fluid}
+![Rheinsteig Trail Germany View]({{ site.url }}/assets/img/2017/08/Rheinsteig-Trail-Germany-View.jpg){: .img-fluid}
 
 Do brush up (or start working on) your [German language skills](https://withoutapath.com/most-important-german-travel-phrases/) if you plan on going outside of the major cities. Germans are just as complicit as North Americans in perpetrating this myth that you don't need to speak German when you travel Germany. You don't need to be able to speak German in the sense that you don't necessarily need to speak Arabic to get around in [Jordan](https://withoutapath.com/travel-guides/jordan/), but it will both enhance your trip and make it more enjoyable.
 

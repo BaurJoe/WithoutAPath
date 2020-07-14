@@ -4,7 +4,7 @@ categories:
 - Europe
 ---
 
-![Sintra Portugal View](https://withoutapath.com/wp-content/uploads/2019/05/SintraPortugalView-1024x768.jpg){: .img-fluid}
+![Sintra Portugal View]({{ site.url }}/assets/img/2019/05/SintraPortugalView.jpg){: .img-fluid}
 
 The direct train from [Lisbon](https://withoutapath.com/things-to-do-in-lisbon/) to [Sintra](https://withoutapath.com/sintra-cascais-natural-park/) runs every half hour and lasts between 37 to 41 minutes. It's the last stop on the green line (Linha de Sintra), so you can't miss it.
 
@@ -20,7 +20,7 @@ Once in Sintra, you'll likely face the temptation to follow your Google Maps dir
 
 ## The Transit Angel of Lisbon
 
-![Lisbon to Sintra Train Ticket](https://withoutapath.com/wp-content/uploads/2019/05/Lisbon-to-Sintra-Train-Ticket.jpeg)
+![Lisbon to Sintra Train Ticket]({{ site.url }}/assets/img/2019/05/Lisbon-to-Sintra-Train-Ticket.jpeg)
 
 Our train was pulling into Lisbon's Estação do Oriente from Porto, so I jumped out of my seat early to get my mother-in-law's bag––because it was heavy and I'll never be above scoring son-in-law points. An elderly gentleman was ahead of me in the makeshift line to disembark the train. He looked well-dressed for ongoing Good Friday festivities in a sharp suit jack, tie, vest, and golfer's style cap.
 

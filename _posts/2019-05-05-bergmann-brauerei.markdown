@@ -4,7 +4,7 @@ categories:
 - Europe
 ---
 
-![Bergmann Brauerei at the Dortmund Beer Festival](https://withoutapath.com/wp-content/uploads/2019/05/Bergmann-Brewery-at-the-Dortund-Beer-Festival-1024x768.jpg){: .img-fluid}
+![Bergmann Brauerei at the Dortmund Beer Festival]({{ site.url }}/assets/img/2019/05/Bergmann-Brewery-at-the-Dortund-Beer-Festival.jpg){: .img-fluid}
 
 _This story was produced in cooperation with [Dortmund Tourismus](https://www.dortmund-tourismus.de/en). As always, all opinions are my own._
 
@@ -20,7 +20,7 @@ That's the Bergmann of the 21st Century, with a pack of lycra-clad cyclists out 
 
 ## Festival der Dortmunder Bierkultur
 
-![Dortmunder Bierfestival](https://withoutapath.com/wp-content/uploads/2019/05/Dortmunder-Bierfestival-1024x768.jpg){: .img-fluid}
+![Dortmunder Bierfestival]({{ site.url }}/assets/img/2019/05/Dortmunder-Bierfestival.jpg){: .img-fluid}
 
 Less than 24 hours before showing up at Bergmann, I'd never heard of it. The tip came from a couple of employees at Dortmund's local tourism bureau, raving about the new Stehbierhalle outside of the city center.
 
@@ -36,7 +36,7 @@ Marcus from Dortmund Tourism joined me for a drink, starting naturally at Bergma
 
 "Stronger" in this case meant "more alcohol." I'd been battling a nasty cold for going on a week, so I thought a strong dose of old-fashioned medicine might help me get some sleep. "Stronger" sounded solid.
 
-![Bergmann Brauerei Maibock](https://withoutapath.com/wp-content/uploads/2019/05/Bergmann-Maibock-1024x768.jpg){: .img-fluid}
+![Bergmann Brauerei Maibock]({{ site.url }}/assets/img/2019/05/Bergmann-Maibock.jpg){: .img-fluid}
 
 We clinked our official beer fest glasses and grabbed a standing spot alongside Bergmann's booth. The Maibock had a rich amber body and the flavor to match. It was a delicious, drinkable beer – the kind you could come back to time and time again when you're feeling indecisive and want something reliable.
 
@@ -50,7 +50,7 @@ In Dortmund, Bergmann has found their place in Germany's evolving beer story by 
 
 ## Bringing Back Bergmann
 
-![Bergmann Brauerei](https://withoutapath.com/wp-content/uploads/2019/05/Bergmann-Brauerei-1024x682.jpg){: .img-fluid}
+![Bergmann Brauerei]({{ site.url }}/assets/img/2019/05/Bergmann-Brauerei.jpg){: .img-fluid}
 
 As recent as the 1970s, Dortmund had the reputation of Europe's preeminent beer city. But the industry shrunk in the following decades with some breweries merging into larger corporations.
 
@@ -60,7 +60,7 @@ Returning the brand to its brewing roots made sense, so Thomas set off to convin
 
 Things only snowballed from there. Thomas bought and refurbished an old kiosk in the center of town to sell Bergmann Bier. Then, he set his sights on opening a brewery where they could serve right onsite. That's the Bergmann Stehbierhalle of today, a piece of German beer drinking tradition brought back to Dortmund in modern style, enveloped by the city's industrial heritage (_Bergmann_ = miner), like the hulking Hochofen Phoenix West facility – its winding pipes and towering tanks like something out of a science fiction film of the early 20th Century.
 
-![Bergmann Hopfensunde](https://withoutapath.com/wp-content/uploads/2019/05/Bergmann-Hopfensunde-1024x768.jpg){: .img-fluid}
+![Bergmann Hopfensunde]({{ site.url }}/assets/img/2019/05/Bergmann-Hopfensunde.jpg){: .img-fluid}
 
 Bergmann stands as an impeccable representation of contemporary German brewing. Drinkers overseas typically herald the country for its centuries-old Hefeweizens that have withstood the test of time and the modern craft beer boom. Locals, on the other hand, lament the restrictions of the Rheinheitsgebot. 
 

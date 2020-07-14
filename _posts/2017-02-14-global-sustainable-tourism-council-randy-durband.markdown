@@ -8,4 +8,4 @@ Randy Durband is the CEO of the [Global Sustainable Tourism Council](https://www
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![](https://withoutapath.com/wp-content/uploads/2017/02/Inside-the-Global-Sustainable-Tourism-Council-with-Randy-Durband.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/02/Inside-the-Global-Sustainable-Tourism-Council-with-Randy-Durband.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/02/Inside-the-Global-Sustainable-Tourism-Council-with-Randy-Durband.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/02/Inside-the-Global-Sustainable-Tourism-Council-with-Randy-Durband.jpg){: .img-fluid}

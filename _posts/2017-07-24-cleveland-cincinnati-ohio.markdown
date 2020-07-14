@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![West Side Market Cleveland](https://withoutapath.com/wp-content/uploads/2017/05/West-Side-Market-Cleveland.jpg){: .img-fluid}
+![West Side Market Cleveland]({{ site.url }}/assets/img/2017/05/West-Side-Market-Cleveland.jpg){: .img-fluid}
 
 Cleveland and [Cincinnati](https://withoutapath.com/traveling-cincinnati/). They’re both in Ohio, but which one is on the lake? One of them’s south, I know that. Like near Kentucky or something. Or is it Indiana?
 
@@ -21,7 +21,7 @@ In Cincinnati, the first thing that comes to mind is the German legacy of Over-T
 
 When those German immigrants weren’t busy brewing brews, they built what is believed to be the largest collection of Italianate Architecture in the United States. Thanks to recent revitalization efforts, Over-The-Rhine is easily one of the most fascinating and enjoyable neighborhoods to walk around in the whole of the country -- full stop.
 
-![](https://withoutapath.com/wp-content/uploads/2017/07/Cincinnati-Ohio.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2017/07/Cincinnati-Ohio.jpg){: .img-fluid}
 
 ## **Bon Appetit**
 

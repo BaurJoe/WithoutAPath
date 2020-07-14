@@ -13,4 +13,4 @@ categories:
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![How terrorism impacts travel, exploring Central America and Puerto Rico, and staycations](https://withoutapath.com/wp-content/uploads/2016/03/How-terrorism-impacts-travel-exploring-Central-America-and-Puerto-Rico-and-staycations-200x300.png)](https://withoutapath.com/wp-content/uploads/2016/03/How-terrorism-impacts-travel-exploring-Central-America-and-Puerto-Rico-and-staycations.png)
+[![How terrorism impacts travel, exploring Central America and Puerto Rico, and staycations]({{ site.url }}/assets/img/2016/03/How-terrorism-impacts-travel-exploring-Central-America-and-Puerto-Rico-and-staycations.png)]({{ site.url }}/assets/img/2016/03/How-terrorism-impacts-travel-exploring-Central-America-and-Puerto-Rico-and-staycations.png)

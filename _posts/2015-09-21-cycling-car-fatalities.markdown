@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Why Cycling is the Best Way to Travel - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/03/Why-Cycling-is-the-Best-Way-to-Travel-JoeBaur-1024x566.png)](https://withoutapath.com/wp-content/uploads/2015/03/Why-Cycling-is-the-Best-Way-to-Travel-JoeBaur.png)
+[![Why Cycling is the Best Way to Travel - JoeBaur]({{ site.url }}/assets/img/2015/03/Why-Cycling-is-the-Best-Way-to-Travel-JoeBaur.png)]({{ site.url }}/assets/img/2015/03/Why-Cycling-is-the-Best-Way-to-Travel-JoeBaur.png)
 
 I don't often take to sourcing a Facebook rant for withoutapath.com, but today is a different day. Different in that I'm on my last full-day in Ireland and have to make my way around Dublin for the day. In other words, I have nothing prepared.<!-- more -->Then it occurred to me that the past few weeks have been full of reviews, travel features and photo essays. That's great, but it gives me an excuse to change things up a bit. The change being that I feel the need to comment on something that angers me to no end. That is, the rise in cyclist fatalities and our general disinterest in doing a damn thing about it that would appear to even remotely entrench on the so-called rights of drivers to save 10 seconds.
 

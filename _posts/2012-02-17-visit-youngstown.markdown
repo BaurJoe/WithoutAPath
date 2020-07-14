@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[caption id="attachment_6036" align="aligncenter" width="1024"]![Youngstown-Former Aeroquip Property](https://withoutapath.com/wp-content/uploads/2012/02/Youngstown-Former-Aeroquip-Property-1024x768.jpg){: .img-fluid} _Photo by Ohio Redevelopment Projects, [Flickr](https://flic.kr/p/a3G64f) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)_[/caption]
+[caption id="attachment_6036" align="aligncenter" width="1024"]![Youngstown-Former Aeroquip Property]({{ site.url }}/assets/img/2012/02/Youngstown-Former-Aeroquip-Property.jpg){: .img-fluid} _Photo by Ohio Redevelopment Projects, [Flickr](https://flic.kr/p/a3G64f) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)_[/caption]
 
 Hard up for a depressing, Rust Belt story? Come to Youngstown, [Ohio](https://withoutapath.com/category/ohio/), where the steel mills packed up and left years ago, taking much of their population and quality of life with them. At least, that’s the theme national media has clutched onto ever since Bruce Springsteen acknowledged its sad reality with his morose ballad, “Youngstown.” But rumors of redevelopment and pockets of young professionals determined to rebuild this once great steel empire reached me up in [Cleveland](https://withoutapath.com/travel-guides/cleveland/). As a Rust Belt junkie myself, I had to check it out.<!-- more -->
 
@@ -13,7 +13,7 @@ Hard up for a depressing, Rust Belt story? Come to Youngstown, [Ohio](https://wi
 
 My Aunt Barb, a fellow Northeast Ohioan who will travel to just about anywhere with me, drove us straight to the museum after a quick breakfast in Cleveland. We were both legitimately excited to take a walk through steel history. But first, we were greeted with the harsh realities of the steel mills of today, an appropriate mix with the day’s cold temperatures and gray skies. Shortly after passing the “Welcome to Youngstown” sign on I-680, we were surrounded by ruins of the city’s former economic powerhouses. There were a plethora of dilapidated buildings that make the Coliseum look in business.
 
-[caption id="attachment_6035" align="aligncenter" width="1024"]![The Victorian Players Theater, Mahoning Commons, Youngstown, Ohio](https://withoutapath.com/wp-content/uploads/2012/02/The-Victorian-Players-Theater-Mahoning-Commons-Youngstown-Ohio-1024x683.jpg){: .img-fluid} _Photo by Jack Pearce, [Flickr](https://flic.kr/p/gzKwrS) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)_[/caption]
+[caption id="attachment_6035" align="aligncenter" width="1024"]![The Victorian Players Theater, Mahoning Commons, Youngstown, Ohio]({{ site.url }}/assets/img/2012/02/The-Victorian-Players-Theater-Mahoning-Commons-Youngstown-Ohio.jpg){: .img-fluid} _Photo by Jack Pearce, [Flickr](https://flic.kr/p/gzKwrS) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)_[/caption]
 
 Shortly after our haunting ride around the mills of yore, we made it to the museum. Sadly, locked doors met us and a taped sign that read, “CLOSED.” I had the hours right, but apparently missed the bit about being closed the week between Christmas and New Years. Crap.
 
@@ -27,7 +27,7 @@ Shortly thereafter, security arrived and let us all in. I quickly began making m
 
 The displays described life as a worker in the steel mills before and after unionization. They shared stories of racism experienced by black folks who moved up from the South for work and the prejudices immigrants had to deal with on a daily basis from so-called “natives.” Evidently, natives weren’t too keen about folks moving in to work thankless jobs for less money. Sound familiar?
 
-[caption id="attachment_6037" align="aligncenter" width="1024"]![Youngstown- Youngstown Technical Center](https://withoutapath.com/wp-content/uploads/2012/02/Youngstown-Youngstown-Technical-Center-1024x768.jpg){: .img-fluid} _Photo by Ohio Development Projects, [Flickr](https://flic.kr/p/a3GaM1) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)_[/caption]
+[caption id="attachment_6037" align="aligncenter" width="1024"]![Youngstown- Youngstown Technical Center]({{ site.url }}/assets/img/2012/02/Youngstown-Youngstown-Technical-Center.jpg){: .img-fluid} _Photo by Ohio Development Projects, [Flickr](https://flic.kr/p/a3GaM1) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)_[/caption]
 
 It’s odd how a museum can take something so unromantic and romanticize the lifestyle and time period to the point where you wish you could live the life for just one day. When in reality, there’s not a chance in Hell I’d last a day in those mills. And neither would you. Hell, I’d love to send Kim Kardashian and Donald Trump to their reality TV show death down there. Suffice it to say, The Museum of Labor and Industry is must stop for any history and/or Rust Belt buffs.
 
@@ -45,7 +45,7 @@ After leaving the Lemon Grove, I paused to look around Federal Street. No, it’
 
 Less than a mile from downtown and over the Mahoning River is Rust Belt Brewing Company. Usually when I travel (okay, not usually), the first thing I do is look for local breweries. This is Youngstown’s.
 
-[caption id="attachment_6038" align="aligncenter" width="1000"]![Youngstown – Realty Building](https://withoutapath.com/wp-content/uploads/2012/02/Youngstown-–-Realty-Building.jpg){: .img-fluid} _Photo by Ohio Redevelopment Projects, [Flickr](https://flic.kr/p/a1aRfX) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)_[/caption]
+[caption id="attachment_6038" align="aligncenter" width="1000"]![Youngstown – Realty Building]({{ site.url }}/assets/img/2012/02/Youngstown-–-Realty-Building.jpg){: .img-fluid} _Photo by Ohio Redevelopment Projects, [Flickr](https://flic.kr/p/a1aRfX) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)_[/caption]
 
 Rust Belt is a small operation catering to nearby Rust Belt towns, most notably Pittsburgh, although I’ve seen and enjoyed their brew in Cleveland, too. The crew was busy bottling when we popped in and were nice enough to give me generous samples of all their brews before making a final decision on a purchase. While tasting, they explained they’re a young brewery, but continue to see 40% growth on a yearly basis with grand aspirations for the future. But in Youngstown, success comes with frustration.
 
@@ -53,7 +53,7 @@ You see, Youngstown, like most cities in Ohio, has been pulverized by suburban s
 
 After a nice conversation and tasty samples that left me with a bit of a buzz, I ordered a growler of the Rusted River Irish Red Ale. But I honestly couldn’t have gone wrong with any of the beers. Great stuff all around. I then went outside to take in the view of the Mahoning River, accidentally scaring the crap out of a flock of ducks in the process. It’s a sight I’m sure Rust Belt’s brewers wish they could show suburban leaders as they talk distributing their beer. I guarantee it’s a view they wouldn’t expect to see in the heart of the city. Don’t get me wrong, it’s not the Alps or anything, but it’s a peaceful sight in its own right.
 
-[caption id="attachment_6039" align="aligncenter" width="1024"]![Mill Creek Park Youngstown](https://withoutapath.com/wp-content/uploads/2012/02/Mill-Creek-Park-Youngstown-1024x683.jpg){: .img-fluid} _Photo by Jack Pearce, [Flickr](https://flic.kr/p/dkc8Sd) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)_[/caption]
+[caption id="attachment_6039" align="aligncenter" width="1024"]![Mill Creek Park Youngstown]({{ site.url }}/assets/img/2012/02/Mill-Creek-Park-Youngstown.jpg){: .img-fluid} _Photo by Jack Pearce, [Flickr](https://flic.kr/p/dkc8Sd) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)_[/caption]
 
 We then hopped back into the car, onto Mahoning Ave. and on our way out of town. On the way out, we swung through Idora neighborhood along Mill Creek Park – a sprawling beauty many say rivals some of the nation’s national parks. But driving through Idora, it was clear how much the neighborhoods were struggling. Abandoned, dilapidated homes were as prevalent as foreclosure signs. A few gems stuck out, though, along the park which is how Barb remembered the area from when she went to Idora Park as a kid for family get-togethers.
 

@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![Italian Craft Beer Ma Che Siete Venuti A Fà](https://withoutapath.com/wp-content/uploads/2017/11/Italian-Craft-Beer-Ma-Che-Siete-Venuti-A-Fà-1024x735.jpg){: .img-fluid}
+![Italian Craft Beer Ma Che Siete Venuti A Fà]({{ site.url }}/assets/img/2017/11/Italian-Craft-Beer-Ma-Che-Siete-Venuti-A-Fà.jpg){: .img-fluid}
 
 A guy with a Chicago Bulls hat on sits on a stool in the entrance [to the bar](https://www.football-pub.com/), brimming with Italian craft beer. A woman in a black, leather jacket stands to his side, quietly, observing the afternoon Trastevere neighborhood scene. Another pair of young guys stand just outside on the cobbled street with a glass of beer a piece. The building is weathered, [like anything else in Rome](https://withoutapath.com/best-restaurants-rome-eating-europe/) and around Trastevere.
 

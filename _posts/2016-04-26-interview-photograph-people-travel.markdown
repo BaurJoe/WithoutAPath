@@ -9,4 +9,4 @@ Approaching subjects can be an awkward, yet necessary task as a professional tra
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![How to interview and photograph people in travel](https://withoutapath.com/wp-content/uploads/2016/04/How-to-interview-and-photograph-people-in-travel-683x1024.png)](https://withoutapath.com/wp-content/uploads/2016/04/How-to-interview-and-photograph-people-in-travel.png)
+[![How to interview and photograph people in travel]({{ site.url }}/assets/img/2016/04/How-to-interview-and-photograph-people-in-travel.png)]({{ site.url }}/assets/img/2016/04/How-to-interview-and-photograph-people-in-travel.png)

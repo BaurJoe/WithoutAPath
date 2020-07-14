@@ -17,7 +17,7 @@ Playing a significant role in the city's recovery and rebuilt reputation has be
 
 ## German Wine on the Rhine
 
-![Mainz Old Timber Houses](https://withoutapath.com/wp-content/uploads/2018/05/Mainz-Old-Timber-Houses-1024x861.jpeg)
+![Mainz Old Timber Houses]({{ site.url }}/assets/img/2018/05/Mainz-Old-Timber-Houses.jpeg)
 
 "Actually I didn't care for wines from Mainz at all," says Jérôme standing outside of Weinhaus Michel. "But now, almost 25 years later, I realize how interesting my hometown is and its wine, and I take a lot of pride in showing people around here."
 
@@ -27,7 +27,7 @@ Recently Jérôme was joined by Christie Dietz, a food and travel writer at [A 
 
 "Probably like the rest of the English-speaking world, if not everybody else in the world, I assumed that I would be eating just huge piles of meat and potatoes and sauerkraut and dumplings all the time here," she says. "It became apparent after the first time I visited the farmer's market that this wasn't going to be the case. The food here is incredibly regional, fiercely so, and I think more so than in other countries."
 
-![Man pouring German wine](https://withoutapath.com/wp-content/uploads/2018/05/Man-pouring-German-wine-1024x683.jpeg)
+![Man pouring German wine]({{ site.url }}/assets/img/2018/05/Man-pouring-German-wine.jpeg)
 
 Like the food, Jérôme and Christie are staunch advocates of German wine.
 
@@ -37,7 +37,7 @@ To get a better understanding of German wine, you can't beat Mainz  -- "Germany
 
 At the start of the tour, travelers head into the WineBank to try three different types of wine -- Winzer Sekt (sparkling wine), and two still wines, a Riesling and Pinot Noir from the region. Jérôme calls them "some of the best wines you can have here in Germany."
 
-![Plate of German Sausages](https://withoutapath.com/wp-content/uploads/2018/05/Plate-of-German-Sausages-1024x683.jpeg)
+![Plate of German Sausages]({{ site.url }}/assets/img/2018/05/Plate-of-German-Sausages.jpeg)
 
 But it's not just about drinking. Food from the region plays an essential role, which Christie describes as snacks that pair nicely with the wine. There's a sour milk cheese formed by hand, aptly-named Handkäse, pretzels from a local bakery, and a stop at the butcher's with Leberwurst (liver sausage), Blutwurst (blood sausage), and Fleischwurst (bologna sausage) cut up and served on a plate, fresh for the picking.
 

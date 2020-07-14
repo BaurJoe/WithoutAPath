@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[caption id="attachment_6758" align="aligncenter" width="1024"]![Italian Breakfast Espresso](https://withoutapath.com/wp-content/uploads/2017/11/Italian-Breakfast-Annie-Spratt-Unsplash-1024x655.jpg){: .img-fluid} _Annie Spratt, Unsplash_[/caption]
+[caption id="attachment_6758" align="aligncenter" width="1024"]![Italian Breakfast Espresso]({{ site.url }}/assets/img/2017/11/Italian-Breakfast-Annie-Spratt-Unsplash.jpg){: .img-fluid} _Annie Spratt, Unsplash_[/caption]
 
 **I walk in and see a handful of people at the bar** and a couple of older folks sitting down at simple, IKEA-looking tables. On the bar, there are empty espresso and cappuccino cups with torn up sugar packets and a small spoon with a coffee stain.
 
@@ -16,7 +16,7 @@ No matter the establishment — higher-end with older, wooden furnishings or a h
 
 But the confidence and clarity with which I rolled my Rs and annunciated my Memrise vocabulary from the comfort of my couch is gone. Now at the opportune moment, **I stumble and mumble like I'm mocking the French language.**
 
-[caption id="attachment_6759" align="aligncenter" width="1024"]![Coffee Espresso Maker](https://withoutapath.com/wp-content/uploads/2017/11/Coffee-Espresso-Maker-Crew-Unsplash-1024x682.jpg){: .img-fluid} _Crew, Unsplash_[/caption]
+[caption id="attachment_6759" align="aligncenter" width="1024"]![Coffee Espresso Maker]({{ site.url }}/assets/img/2017/11/Coffee-Espresso-Maker-Crew-Unsplash.jpg){: .img-fluid} _Crew, Unsplash_[/caption]
 
 “Un caffè” I spit out finally. “E un...” and I pause. _What’s next isn’t even Italian, you fool!_
 
@@ -30,7 +30,7 @@ I get the croissant first and have time to nibble away as she serves other custo
 
 “A domani!” she shouts to someone she knows is coming back tomorrow.
 
-[caption id="attachment_6760" align="aligncenter" width="1024"]![Croissant](https://withoutapath.com/wp-content/uploads/2017/11/Croissant-Kaley-Dykstra-Unsplash-1024x683.jpg){: .img-fluid} _Kaley Dykstra, Unsplash_[/caption]
+[caption id="attachment_6760" align="aligncenter" width="1024"]![Croissant]({{ site.url }}/assets/img/2017/11/Croissant-Kaley-Dykstra-Unsplash.jpg){: .img-fluid} _Kaley Dykstra, Unsplash_[/caption]
 
 Then, my espresso is ready.
 

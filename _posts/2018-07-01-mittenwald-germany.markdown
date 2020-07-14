@@ -26,7 +26,7 @@ But enough intellectual culture. What about the culture I can eat?
 
 <!-- more -->
 
-![Blaumantel Lieblingsschnitzel Römerschanz Mittenwald](https://withoutapath.com/wp-content/uploads/2018/07/Blaumantel-Lieblingsschnitzel-Römerschanz-Mittenwald.jpg){: .img-fluid}
+![Blaumantel Lieblingsschnitzel Römerschanz Mittenwald]({{ site.url }}/assets/img/2018/07/Blaumantel-Lieblingsschnitzel-Römerschanz-Mittenwald.jpg){: .img-fluid}
 
 "In my opinion, Bavarian culture is definitely about good Bavarian food. Schweinsbraten (roast pork), Knödel (dumplings), Sauerkraut," she says. Typical for Bavaria. Just good, hearty Bavarian cuisine which, of course, doesn't quite keep you slim. But it tastes very good, and in moderation, everything is okay."
 
@@ -36,7 +36,7 @@ But dear God, I need to walk this caloric monstrosity off.
 
 ## Up to the Kranzberg in Mittenwald
 
-![Kranzberg Mittenwald](https://withoutapath.com/wp-content/uploads/2018/07/Kranzberg-Mittenwald.jpg){: .img-fluid}
+![Kranzberg Mittenwald]({{ site.url }}/assets/img/2018/07/Kranzberg-Mittenwald.jpg){: .img-fluid}
 
 The rain drifts away by the next morning. The trails are clear and the sun is fighting its way through the clouds. Finally, my itchy fee can get moving up to the Kranzberg.
 
@@ -54,7 +54,7 @@ I appreciate the sentiment, but it ain’t that warm outside, so I opt to stay l
 
 ## Admiring Border-Free Europe
 
-![Panoramabrücke Geisterklamm Austria](https://withoutapath.com/wp-content/uploads/2018/07/Panoramabrücke-Geisterklamm-Austria.jpg){: .img-fluid}
+![Panoramabrücke Geisterklamm Austria]({{ site.url }}/assets/img/2018/07/Panoramabrücke-Geisterklamm-Austria.jpg){: .img-fluid}
 
 Still fueled by the previous day’s restlessness, I hike further, right to the Austrian border. And there it is, a glorified block in the dirt marking the border. Nothing makes a faux European such as myself appreciate border-free 21st century Europe like the ease of hiking into another country.
 

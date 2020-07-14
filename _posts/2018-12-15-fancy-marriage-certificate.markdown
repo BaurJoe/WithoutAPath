@@ -6,7 +6,7 @@ categories:
 - There Must Be Order
 ---
 
-![close up of hands with wedding rings](https://withoutapath.com/wp-content/uploads/2018/12/fancy-marraige-certificate-rachael-crowe-78854-unsplash-1024x683.jpg){: .img-fluid}Photo by [Rachael Crowe](https://unsplash.com/photos/yI-GZRkbJ08?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/marriage-certificate?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![close up of hands with wedding rings]({{ site.url }}/assets/img/2018/12/fancy-marraige-certificate-rachael-crowe-78854-unsplash.jpg){: .img-fluid}Photo by [Rachael Crowe](https://unsplash.com/photos/yI-GZRkbJ08?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/marriage-certificate?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _The following is a chapter from an upcoming memoir on moving to and living in Germany. [Read more here](https://withoutapath.com/category/essays/there-must-be-order/)._
 

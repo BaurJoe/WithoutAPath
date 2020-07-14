@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![Puente Sixaola - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/03/Puente-Sixaola-JoeBaur-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/03/Puente-Sixaola-JoeBaur.jpg){: .img-fluid}
+[![Puente Sixaola - JoeBaur]({{ site.url }}/assets/img/2015/03/Puente-Sixaola-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/03/Puente-Sixaola-JoeBaur.jpg){: .img-fluid}
 
 _Originally published at [Tico Times Travel](http://travel.ticotimes.net/2015/02/puente-sixaola-a-border-runs-through-it/)._
 

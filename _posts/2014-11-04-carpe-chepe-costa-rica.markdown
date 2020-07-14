@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![Carpe Chepe - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/11/Carpe-Chepe-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/11/Carpe-Chepe-JoeBaur.jpg){: .img-fluid}
+[![Carpe Chepe - JoeBaur]({{ site.url }}/assets/img/2014/11/Carpe-Chepe-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/11/Carpe-Chepe-JoeBaur.jpg){: .img-fluid}
 San Jose doesn’t receive much love from the plethora of Costa Rica guidebooks that send travelers to your typical variety of coastal destinations and national parks. Most imply danger around every corner, especially at the former Coca Cola plant that serves as the public bus system’s hub. Muggings and pickpockets, you read and hear, are as frequent and rampant as insufferable children on a long flight. In summation, a visit to San Jose is a request to lose your valuables.<!-- more -->
 
 I must admit that San Jose would not have made my itinerary for a week’s vacation in Costa Rica. But when you live a mere 22 kilometers away from a nation’s capital for nearly a year, the guidebooks become rather irrelevant. You do things for the sake of doing them. You visit San Jose, because it’s an easy bus ride away.

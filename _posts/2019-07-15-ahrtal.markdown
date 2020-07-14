@@ -5,7 +5,7 @@ categories:
 - Outdoors
 ---
 
-![Walporzheim Germany Sunset](https://withoutapath.com/wp-content/uploads/2019/07/Walporzheim-Germany-Sunset.jpg){: .img-fluid}Sunset in Walporzheim.
+![Walporzheim Germany Sunset]({{ site.url }}/assets/img/2019/07/Walporzheim-Germany-Sunset.jpg){: .img-fluid}Sunset in Walporzheim.
 
 "Where are we?" I said to Melanie. "How have I not heard about this place before?"
 
@@ -27,7 +27,7 @@ Our host met us outside just as we arrived, walked us up the three-floor buildin
 
 ## Hiking The AhrSteig
 
-![View of Ahrtal from the AhrSteig](https://withoutapath.com/wp-content/uploads/2019/07/Ahrtal-View-from-AhrSteig.jpg){: .img-fluid}View of the Ahrtal from the AhrSteig
+![View of Ahrtal from the AhrSteig]({{ site.url }}/assets/img/2019/07/Ahrtal-View-from-AhrSteig.jpg){: .img-fluid}View of the Ahrtal from the AhrSteig
 
 The [AhrSteig](https://www.ahrsteig.de/?L=1) covers approximately 100 kilometers (60 miles) of trail running alongside the Ahr River from Blankenheim to Sinzig, a stone's throw from the Rhine where you could keep moving and pick up the [Rheinsteig](https://withoutapath.com/germany-rheinsteig-trail/). Ending up in Walporzheim for the trip put us at the beginning/end of one of the toughest stages in the hike: [the 17.2-kilometer fifth stage](https://www.strava.com/activities/2433367957) from Kreuzberg (not the hipster haven neighborhood in [Berlin](https://withoutapath.com/things-to-do-in-berlin/)) to Walporzheim. 
 
@@ -35,7 +35,7 @@ Like the Rheinsteig, [Moselsteig](https://withoutapath.com/mosel-germany/), [Eif
 
 ## Saffenberg Castle
 
-![View of Ahrtal from Saffenberg Castle](https://withoutapath.com/wp-content/uploads/2019/07/Ahrtal-View-from-Saffenberg-Castle.jpg){: .img-fluid}Panorama view of Ahrtal from Saffenberg.
+![View of Ahrtal from Saffenberg Castle]({{ site.url }}/assets/img/2019/07/Ahrtal-View-from-Saffenberg-Castle.jpg){: .img-fluid}Panorama view of Ahrtal from Saffenberg.
 
 About 10 kilometers into the hike, we took a short detour up to [Saffenberg Castle](https://www.saffenburg.de/) in Mayschoß, a typical castle of the Roman era in the Eifel region of modern-day Germany. The castle was founded in the 11th Century by Graf Adolf von Nörvenich and Albert von Saffenburt with its first mention showing up in records in 1081, giving it the contemporary distinction of the oldest castle in the Ahrtal. 
 
@@ -45,7 +45,7 @@ Today, like most any castle in Germany, you can hike up to it, admire the views,
 
 ## Tourists
 
-![Sitting alongside the Ahr River.](https://withoutapath.com/wp-content/uploads/2019/07/Ahr-River-Germany.jpg){: .img-fluid}Sitting alongside the Ahr River.
+![Sitting alongside the Ahr River.]({{ site.url }}/assets/img/2019/07/Ahr-River-Germany.jpg){: .img-fluid}Sitting alongside the Ahr River.
 
 Now here's the thing that surprised us the most––there were hardly any tourists. No, I didn't do an impromptu census. That said, I've been to towns along the Rhine and ever-popular Mosel and could sense their tourist appeal even if I wasn't actively swimming through crowds. I could see where the river cruises pulled in and recognize the images I've seen time and time again plastered across Instagram.
 
@@ -53,7 +53,7 @@ The Ahrtal proved to be a different story. What tourists crowds they did have se
 
 ## Weingut Kloster Marienthal
 
-![Weingut Kloster Marienthal](https://withoutapath.com/wp-content/uploads/2019/07/Weingut-Kloster-Marienthal.jpg){: .img-fluid}
+![Weingut Kloster Marienthal]({{ site.url }}/assets/img/2019/07/Weingut-Kloster-Marienthal.jpg){: .img-fluid}
 
 Lunch and a bottle of rosé at [Weingut Kloster Marienthal](https://www.weingut-kloster-marienthal.de) was the proverbial icing on the cake. Sitting among the ruins of the monastery at our high-top table next to the decorative fountain shooting water to the delight of children, we realized where we'd seen such similar scenery before—[Provence](https://withoutapath.com/l-isle-sur-la-sorgue-provence-france/). Germany doesn't often get credit for such objectively beautiful surroundings, but it's plentiful along the rivers and hills of the wine country. Perhaps that's why the French invaded and conquered parts of this region on and off over the centuries. Maybe they legitimately thought it was French territory.
 
@@ -63,7 +63,7 @@ Kloster Marienthal sits on a hillside above the town of the same name and is bes
 
 ## Ahrweiler Markt
 
-![Ahrweiler Markt Germany](https://withoutapath.com/wp-content/uploads/2019/07/Ahrweiler-Markt-Germany.jpg){: .img-fluid}
+![Ahrweiler Markt Germany]({{ site.url }}/assets/img/2019/07/Ahrweiler-Markt-Germany.jpg){: .img-fluid}
 
 We first ventured out to Ahrweiler Markt on our second evening in town, post-hike, and following our VRBO host's recommendation to check out the ongoing wine festival--one of a variety of regional wine festivals throughout the year. [Weinmarkt Der Ahr](https://www.bad-neuenahr-ahrweiler.de/weinmarkt-der-ahr/) happens annually over the Pfingsten holiday weekend. 
 
@@ -71,7 +71,7 @@ The highlight of the festivities is the crowning of the new regional wine queen,
 
 We were, however, able to indulge in the party atmosphere, buying a bottle of wine from [Mayschoss Altenahr](https://www.wg-mayschoss.de/) (a wine we realized we'd bought back home in [Düsseldorf](https://withoutapath.com/things-to-do-in-dusseldorf/), somehow remaining ignorant of the region's existence), and watch as Germans continued to defy their stoic stereotypes with drunken dancing to live covers of "All Night Long" and other campy American hits.
 
-![Ahrweiler Markt Street](https://withoutapath.com/wp-content/uploads/2019/07/Ahrweiler-Markt-Street.jpg){: .img-fluid}
+![Ahrweiler Markt Street]({{ site.url }}/assets/img/2019/07/Ahrweiler-Markt-Street.jpg){: .img-fluid}
 
 On a second visit to Ahrweiler Markt, [at the end of a trail run using a mix of the AhrSteig and Rotweinwanderweg](https://www.strava.com/activities/2438376141), I decided that Ahrweiler Markt was one of the most beautiful towns I'd seen in Europe, certainly in [Germany](https://withoutapath.com/travel-guides/germany/). I couldn't understand how after nearly three years of living in western Germany, I'd never heard of this town or region. The fact that Germany continues to surprise me, right in my relative backyard, is a blessing.
 

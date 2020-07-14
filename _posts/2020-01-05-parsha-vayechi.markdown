@@ -2,9 +2,10 @@
 title: Parsha Vayechi | Who Am I To Judge?
 categories:
 - Essays
+homepage: false
 ---
 
-![Judge Gavel](https://withoutapath.com/wp-content/uploads/2020/01/bill-oxford-OXGhu60NwxU-unsplash-1024x566.jpg){: .img-fluid}Photo by [Bill Oxford](https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/judge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![Judge Gavel]({{ site.url }}/assets/img/2020/01/bill-oxford-OXGhu60NwxU-unsplash.jpg){: .img-fluid}Photo by [Bill Oxford](https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/judge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Vayechi, Genesis 47:28 – 50:26. [Click here to read last week’s, Parsha Vayigash.](https://withoutapath.com/parsha-vayigash/)_
 

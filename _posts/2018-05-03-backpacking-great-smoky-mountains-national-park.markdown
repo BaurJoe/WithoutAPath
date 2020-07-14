@@ -9,7 +9,7 @@ tags:
 - Tennessee
 ---
 
-![Backpacking Great Smoky Mountains National Park](https://withoutapath.com/wp-content/uploads/2018/05/Backpacking-Smoky-Mountains.jpg){: .img-fluid}
+![Backpacking Great Smoky Mountains National Park]({{ site.url }}/assets/img/2018/05/Backpacking-Smoky-Mountains.jpg){: .img-fluid}
 
 Dark, ominous clouds snaked across the sky over 187,000 acres of old growth forest as the threat of a thunderstorm loomed. Ahead of the dense, hardwood forest was 18 miles of backcountry trail to be covered over three days. Yet all I could think of as a first-time backpacker was the sign warning, "You are entering bear country." Indeed, I was entering the heart of Great Smoky Mountains National Park and was fairly certain a black bear was about to have its way with me.
 
@@ -25,7 +25,7 @@ The forest was so dense, it seemed impossible for a drop of rain to land on the 
 
 Shortly after the second mile, a sign offered a brief detour to Henwallow Falls -- a worthy diversion from our route. The large pile of boulders provided the perfect opportunity to take five and admire the quiet stream of water falling from above.
 
-![Smoky-Mountains-Henwallow-Falls-Smoky Mountains National Park](https://withoutapath.com/wp-content/uploads/2018/05/Smoky-Mountains-Henwallow-Falls-Smoky-Mountains-National-Park.jpg){: .img-fluid}
+![Smoky-Mountains-Henwallow-Falls-Smoky Mountains National Park]({{ site.url }}/assets/img/2018/05/Smoky-Mountains-Henwallow-Falls-Smoky-Mountains-National-Park.jpg){: .img-fluid}
 
 ## **Sherwood Forest**
 
@@ -37,7 +37,7 @@ Looking skyward, it was clear the aforementioned dubious clouds were closing in.
 
 Thankfully we were able to muster enough of a flame to heat a couple of pre-cooked hot dogs, throw 'em on a bun and down our gullets before the sun completely set. Soon, thunder began to strike. And not the cool, AC/DC kind that features prominently in the _Thunderstruck_ drinking game. I'm talking about the kind that predicates a storm is coming to kick your ass.
 
-![Camping Smoky Mountains National Park](https://withoutapath.com/wp-content/uploads/2018/05/Camping-Smoky-Mountains-National-Park.jpg){: .img-fluid}
+![Camping Smoky Mountains National Park]({{ site.url }}/assets/img/2018/05/Camping-Smoky-Mountains-National-Park.jpg){: .img-fluid}
 
 With the sun all but gone, Rob and I attempted to figure out the bear-pulley system used to keep bags out of reach from overnight visitors. Armed with a weak headlamp, I stumbled around rocks and roots, preparing to have my bag soaked as we thrust it into the sky like Benjamin Franklin's kite. The storm had arrived just as we jumped into our tent, shoulder-to-shoulder as our new home filled with the unpleasant mustiness of two men backpacking in the rain for several hours after a nine-hour drive.
 
@@ -52,7 +52,7 @@ Slowly, I peeked my head out of our tent to see our bags were still intact and n
 ## **"This Has To Be The Last One"
 **
 
-![Smoky Mountains National Park Bridge](https://withoutapath.com/wp-content/uploads/2018/05/Smoky-Mountains-National-Park-Bridge.jpg){: .img-fluid}
+![Smoky Mountains National Park Bridge]({{ site.url }}/assets/img/2018/05/Smoky-Mountains-National-Park-Bridge.jpg){: .img-fluid}
 
 The second day was far more physically trying than the first. But at least we had a blue sky and not a storm cloud in sight.
 
@@ -74,7 +74,7 @@ Whereas we thought the second day was a rigorous, unending uphill hike, the fina
 
 Then,  it appeared just over the suddenly short brush. The bald.
 
-![Maddron Bald Smoky Mountains National Park](https://withoutapath.com/wp-content/uploads/2018/05/Maddron-Bald-Smoky-Mountains-National-Park.jpg){: .img-fluid}
+![Maddron Bald Smoky Mountains National Park]({{ site.url }}/assets/img/2018/05/Maddron-Bald-Smoky-Mountains-National-Park.jpg){: .img-fluid}
 
 The Smoky Mountains were, indeed, smoky mountains. Large tufts of clouds had seeped into the valleys of the mountains during the early morning hour. Blue skies accompanied a brightly shining sun for the second day in a row. A scenic award, perhaps, for not freaking out in the middle of the first night's thunderstorm.
 

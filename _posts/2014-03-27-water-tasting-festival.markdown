@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![My Weekend as an International Water Tasting Judge - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/03/My-Weekend-as-an-International-Water-Tasting-Judge-JoeBaur-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/03/My-Weekend-as-an-International-Water-Tasting-Judge-JoeBaur.jpg){: .img-fluid}
+[![My Weekend as an International Water Tasting Judge - JoeBaur]({{ site.url }}/assets/img/2014/03/My-Weekend-as-an-International-Water-Tasting-Judge-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/03/My-Weekend-as-an-International-Water-Tasting-Judge-JoeBaur.jpg){: .img-fluid}
 
 I'm sitting in a suit and tie, sniffing a glass of water and trying to taste... _something_. Something that distinguishes this glass of water from the 40 or so other glasses of water I've smelled and tasted throughout the day.
 
@@ -16,7 +16,7 @@ So [why am I here](https://withoutapath.com/international-water-tasting/) again?
 
 ### "Young, Beautiful And Famous"
 
-[![Berkeley Springs - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/03/Berkeley-Springs-JoeBaur-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/03/Berkeley-Springs-JoeBaur.jpg){: .img-fluid}
+[![Berkeley Springs - JoeBaur]({{ site.url }}/assets/img/2014/03/Berkeley-Springs-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/03/Berkeley-Springs-JoeBaur.jpg){: .img-fluid}
 
 West Virginia and I have a relationship akin to someone you knew of growing up, but never really talked to. I knew the state existed. However, my visits were generally _through_ -- not _to_ -- the state during family road trips growing up. A West Virginia University keychain I have lying around somewhere in my childhood home suggests I've been to Morgantown, but I haven't the faintest recollection.
 
@@ -38,7 +38,7 @@ Well, I'm of the Seinfeld-mindset. In that, I'll generally do anything for the s
 
 ### Welcome to the Grandmothers Collective
 
-[![Highlawn Inn - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/03/Highlawn-Inn-JoeBaur-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/03/Highlawn-Inn-JoeBaur.jpg){: .img-fluid}
+[![Highlawn Inn - JoeBaur]({{ site.url }}/assets/img/2014/03/Highlawn-Inn-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/03/Highlawn-Inn-JoeBaur.jpg){: .img-fluid}
 
 Melanie and I arrived on a February Friday night, just in time to watch all the "open" signs turn off. Luckily Tarie's Café was willing to give us soups and salad. I went with tomato bisque while an increasingly _hangry_  (hungry + angry) Melanie took down the lobster bisque. Both were sufficiently edible, followed by a Kentucky Derby Pie -- basically a hot chocolate chip cookie in delicious pie form -- to wash it all down.
 
@@ -50,7 +50,7 @@ Our room looked as if it used to be the headquarters of some Grandmothers Collec
 
 ### "Aquaholic"
 
-[![Berkeley Springs State Park - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/03/Berkeley-Springs-State-Park-JoeBaur-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/03/Berkeley-Springs-State-Park-JoeBaur.jpg){: .img-fluid}
+[![Berkeley Springs State Park - JoeBaur]({{ site.url }}/assets/img/2014/03/Berkeley-Springs-State-Park-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/03/Berkeley-Springs-State-Park-JoeBaur.jpg){: .img-fluid}
 
 The next morning our innkeeper was kind enough to offer some fruit and croissant before we went for a run around town. Sunny skies and 40-some degrees with a level of fresh air I'm not used to after nearly three years living in the heart of a car-dominated city was too good to pass up.
 
@@ -58,11 +58,11 @@ We did a quick mile around town (Melanie has been recovering from a knee thing),
 
 Berkeley Springs gets its celebrity from George Washington. Yep, _that_ George Washington. The namesake of our increasingly devalued dollar. You see, President Washington enjoyed retreats to Berkeley Springs for, you guessed it, the springs! It was believed (probably still is by some) that there are healing powers in the waters. You can even hop in if you want to find out for yourself. Unfortunately, we left our swimming apparel at home.
 
-[![Splish splash, Washington's taking a bath!](https://withoutapath.com/wp-content/uploads/2014/03/George-Washington-Bath-Tub-JoeBaur-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/03/George-Washington-Bath-Tub-JoeBaur.jpg){: .img-fluid}
+[![Splish splash, Washington's taking a bath!]({{ site.url }}/assets/img/2014/03/George-Washington-Bath-Tub-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/03/George-Washington-Bath-Tub-JoeBaur.jpg){: .img-fluid}
 
 Next we moved to the adjacent Fairfax Coffee House along a strip of old, yet well-kept buildings. Inside awaited tasty, bottomless cups of coffee with, I believe, North Carolina counter culture beans. We were happy to enjoy our caffeine fix on a couple of cozy couch chairs as locals moved in and out.
 
-[caption id="attachment_945" align="alignleft" width="600"][![Very pretty row of historic buildings right next to Berkeley Springs State Park.](https://withoutapath.com/wp-content/uploads/2014/03/Downtown-Berkeley-Springs-JoeBaur-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/03/Downtown-Berkeley-Springs-JoeBaur.jpg){: .img-fluid} Very pretty row of historic buildings right next to Berkeley Springs State Park.[/caption]
+[caption id="attachment_945" align="alignleft" width="600"][![Very pretty row of historic buildings right next to Berkeley Springs State Park.]({{ site.url }}/assets/img/2014/03/Downtown-Berkeley-Springs-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/03/Downtown-Berkeley-Springs-JoeBaur.jpg){: .img-fluid} Very pretty row of historic buildings right next to Berkeley Springs State Park.[/caption]
 
 Back at the Highlawn Inn, we enjoyed brunch with some of my judging colleagues. Everything was more than sufficiently edible. Veggie egg casserole, potatoes, fruit, and blueberry scones mixed nicely in m'belly.
 
@@ -116,14 +116,14 @@ Our water maestro and director of the event engaged in cheesy banter back and fo
 
 This led to more of the same from the afternoon. The purified water tasted like purified water. But I continued to sniff, stare at the glasses intently, and swirl the water around my mouth as if I knew what I was doing. However, I most assuredly had no idea what I was doing.
 
-[caption id="attachment_939" align="alignleft" width="640"][![This out of focus shot of me tasting seems symbolic of my performance. Photo courtesy of Jeanne Mozier](https://withoutapath.com/wp-content/uploads/2014/03/Water-Tasting-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/03/Water-Tasting-JoeBaur.jpg){: .img-fluid} This out of focus shot of me tasting water seems symbolic of my performance.  
+[caption id="attachment_939" align="alignleft" width="640"][![This out of focus shot of me tasting seems symbolic of my performance. Photo courtesy of Jeanne Mozier]({{ site.url }}/assets/img/2014/03/Water-Tasting-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/03/Water-Tasting-JoeBaur.jpg){: .img-fluid} This out of focus shot of me tasting water seems symbolic of my performance.  
 Photo courtesy of Jeanne Mozier[/caption]
 
 I worked my way through the remaining tastings quickly, trying like Hell not to publicly display my discomfort with swallowing carbonated water -- the final category, of course. With my responsibilities finished, Melanie and I headed to a bar in the other room. I needed a Jameson. Neat.
 
 Back in the tasting room, now completely filled with an excitable audience, we waited for final announcements. At this point, Arthur von Wiesenberg (man, I love saying that name), had changed into what Melanie told me was a crushed blue velvet blazer with blue velvet loafers, signing autographs -- yes, signing autographs -- for foreign fans.
 
-[caption id="attachment_946" align="alignleft" width="600"][![Note the Jameson glass at the International Water Tasting.](https://withoutapath.com/wp-content/uploads/2014/03/Berkeley-Springs-Water-Tasting-JoeBaur-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/03/Berkeley-Springs-Water-Tasting-JoeBaur.jpg){: .img-fluid} Probably the closest I'll ever be to the appearances of "celebrity."[/caption]
+[caption id="attachment_946" align="alignleft" width="600"][![Note the Jameson glass at the International Water Tasting.]({{ site.url }}/assets/img/2014/03/Berkeley-Springs-Water-Tasting-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/03/Berkeley-Springs-Water-Tasting-JoeBaur.jpg){: .img-fluid} Probably the closest I'll ever be to the appearances of "celebrity."[/caption]
 
 I couldn't help but imagine that this whole event would make for a perfect Christopher Guest mockumentary. Michael McKean would be brilliant as the water maestro. I imagine McKean playing the character like a lounge singer with a self-inflated ego, taking his adoring Thai and Korean fans back to his bedroom for orgies where he dishes out water puns during and after climax.
 
@@ -147,7 +147,7 @@ Melanie's face turned beet red. They repeated.
 
 The few who had met Melanie earlier in the day began to point her out. She was, indeed, selected as the face of clean water for 2014. This event in of itself made the trip worthwhile.
 
-[caption id="attachment_938" align="alignleft" width="617"][![Face Of Clean Water - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/03/Face-Of-Clean-Water-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/03/Face-Of-Clean-Water-JoeBaur.jpg){: .img-fluid}   
+[caption id="attachment_938" align="alignleft" width="617"][![Face Of Clean Water - JoeBaur]({{ site.url }}/assets/img/2014/03/Face-Of-Clean-Water-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/03/Face-Of-Clean-Water-JoeBaur.jpg){: .img-fluid}   
 "I'd like to thank my parents, who introduced me to water at an early age." -- Melanie Furey  
 Photo courtesy of Jeanne Mozier[/caption]
 

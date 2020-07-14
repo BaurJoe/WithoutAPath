@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![OBB Night Train Drink](https://withoutapath.com/wp-content/uploads/2018/09/OBB-Night-Train-Drink.jpeg)
+![OBB Night Train Drink]({{ site.url }}/assets/img/2018/09/OBB-Night-Train-Drink.jpeg)
 
 ###### _I traveled courtesy of [WienTourismus](https://www.wien.info/en). As always, all opinions are my own._
 
@@ -35,7 +35,7 @@ _Claps! Squeal!_
 
 ### "Cinematic Lens Flare"
 
-![OBB Night Train Morning](https://withoutapath.com/wp-content/uploads/2018/09/OBB-Night-Train-Morning-1024x768.jpeg)
+![OBB Night Train Morning]({{ site.url }}/assets/img/2018/09/OBB-Night-Train-Morning.jpeg)
 
 I awoke to the sound of my alarm like most any other morning, but shot up, remembering, "I'M ON A TRAIN!" The compartment was still pitch black until I slid my window blind up for a view of the hilly, green Austrian landscape rolling by, still a little more than an hour outside of Vienna.
 

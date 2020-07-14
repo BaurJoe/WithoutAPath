@@ -10,4 +10,4 @@ President Trump's travel ban targets citizens and refugees of Muslim majority na
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![](https://withoutapath.com/wp-content/uploads/2017/01/Trumps-Travel-Ban-and-Sher-She-Goes-to-Cuba.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/01/Trumps-Travel-Ban-and-Sher-She-Goes-to-Cuba.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/01/Trumps-Travel-Ban-and-Sher-She-Goes-to-Cuba.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/01/Trumps-Travel-Ban-and-Sher-She-Goes-to-Cuba.jpg){: .img-fluid}

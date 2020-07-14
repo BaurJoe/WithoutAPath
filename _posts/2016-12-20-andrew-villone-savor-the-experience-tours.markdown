@@ -11,4 +11,4 @@ Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-pat
 
 <!-- more -->
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Andrew-Villone-Wants-Travelers-to-Savor-the-Experience-in-the-Balkans.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Andrew-Villone-Wants-Travelers-to-Savor-the-Experience-in-the-Balkans.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Andrew-Villone-Wants-Travelers-to-Savor-the-Experience-in-the-Balkans.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Andrew-Villone-Wants-Travelers-to-Savor-the-Experience-in-the-Balkans.jpg){: .img-fluid}

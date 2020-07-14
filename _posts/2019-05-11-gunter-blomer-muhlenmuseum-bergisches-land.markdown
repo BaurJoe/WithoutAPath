@@ -4,7 +4,7 @@ categories:
 - Europe
 ---
 
-![Road to the Muhlenmuseum in Bergisches Land](https://withoutapath.com/wp-content/uploads/2019/05/RoadtotheMuhlenmuseuminOdenthal-1024x768.jpg){: .img-fluid}
+![Road to the Muhlenmuseum in Bergisches Land]({{ site.url }}/assets/img/2019/05/RoadtotheMuhlenmuseuminOdenthal.jpg){: .img-fluid}
 
 _This story was produced in cooperation with [Tourismus NRW](https://www.nrw-tourism.com/). As always, all opinions are my own._
 
@@ -18,7 +18,7 @@ And like most corners of western Europe, it's difficult to imagine the conflict 
 
 Mills have characterized the landscape of Bergisches Land for centuries. I'm talking oil mills, fulling mills, water mills, powder mills, and paper mills. If it's a mill, chances are it was in Bergisches Land. And hidden in the Odenthal forest next to a water/flour mill (built in the 10th century) sits the Mühlenmuseum (Mill Museum), where one Mr. Günter Blömer curates the exhibitions––his own creations––next to his workshop in the forest. 
 
-![Günter Blömer in his workshop](https://withoutapath.com/wp-content/uploads/2019/05/GunterBlomerinhisshop-1024x768.jpg){: .img-fluid}Günter Blömer in his workshop.
+![Günter Blömer in his workshop]({{ site.url }}/assets/img/2019/05/GunterBlomerinhisshop.jpg){: .img-fluid}Günter Blömer in his workshop.
 
 The visit was a surprise. Myself and a small group of fellow writers had been led there by David Bosbach, a deputy of the Naturarena Bergisches Land, charged with, among other things, developing tourism in the region. We had started off on a casual walk through the Altenberg Cathedral, over a modest stream behind the building, and into the woodlands marching over dirt trail. After 20 minutes or so of walking, we paused on an old road with just a couple of buildings on either side before being again enveloped by the backwoods. It was here that Mr. Günter Blömer stepped out of his home and greeted us.
 
@@ -26,19 +26,19 @@ Born in 1933, Blömer has lived around Odenthal since he fled there with his mot
 
 They married in 1955 and Stein has been his home ever since. Though approaching his late 80s, hikers passing through the woods still might catch him walking between his house and the workshop or museum, stopping for a chat. If you're especially lucky, he might invite you in for a personal tour of the museum.
 
-![Inside the Mühlenmuseum](https://withoutapath.com/wp-content/uploads/2019/05/InsidetheMuhlenmuseum-1024x768.jpg){: .img-fluid}Inside the Mühlenmuseum.
+![Inside the Mühlenmuseum]({{ site.url }}/assets/img/2019/05/InsidetheMuhlenmuseum.jpg){: .img-fluid}Inside the Mühlenmuseum.
 
 Mr. Blömer has devoted much of his life to the construction of model mills, ships, and other wondrously intricate creations that words fail to encapsulate. Many visitors consider the highlight to be his replica of the nearby Altenberg Cathedral. The real cathedral was partially destroyed in 1830 (since restored) and Blömer's replica gives visitors a glimpse of the gothic foundations of the Romanesque church.
 
 It was around this time that I'd been in the middle of listening to two of Nick Offerman's audiobooks: _Paddle Your Own Canoe_ and _Gumption_. A theme persistent in both works is the author's admiration for men and women who build things with their own two hands. It could be a painting, a carving of a miniature figurine, or indeed, a canoe.
 
-![Günter Blömer's workshop](https://withoutapath.com/wp-content/uploads/2019/05/GunterBlomersworkshop-1024x768.jpg){: .img-fluid}Günter Blömer's workshop.
+![Günter Blömer's workshop]({{ site.url }}/assets/img/2019/05/GunterBlomersworkshop.jpg){: .img-fluid}Günter Blömer's workshop.
 
 The timely combination of Offerman's ruminations on pulling ourselves away from screens and using that newfound extra time to create things with the visit to Mr. Blömer's shop and museum left me with a newfound appreciation for craftspeople. Too often we ask "what's the point?" looking for an answer that links to the thickening of our bank accounts and/or advancing of our careers. A cynical person could look at Mr. Blömer's ornate ships in a bottle or reconstruction of a Syrian water wheel and ask "what's the point?" 
 
 Maybe he and other passionate builders of things can't directly attribute financial gain to each new project, meticulously narrowing down an estimate of how much each fastened corner earns them plus or minus a euro. But in spending a spring afternoon's hour with the man, listening to his stories, watching him as he proudly showed off the exquisite detail in his art, it's impossible not to see the value in a life lived well. And nobody needs to see his bank account to know that.
 
-![Günter Blömer](https://withoutapath.com/wp-content/uploads/2019/05/GunterBlomer-1024x768.jpg){: .img-fluid}
+![Günter Blömer]({{ site.url }}/assets/img/2019/05/GunterBlomer.jpg){: .img-fluid}
 
 Leaving his shop, one-by-one we reiterated our appreciation for his time, sharing this surprise wonder with us. I said I hoped to be back sometime to see his shop and him again. He chuckled and dryly added, "Yeah, see you there," while pointing up to the sky.
 

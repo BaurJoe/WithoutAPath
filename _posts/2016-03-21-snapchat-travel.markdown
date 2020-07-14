@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Snapchat snapcode](https://withoutapath.com/wp-content/uploads/2016/03/BaurJoe-Snapcode-1024x1024.png)](https://withoutapath.com/wp-content/uploads/2016/03/BaurJoe-Snapcode.png)
+[![Snapchat snapcode]({{ site.url }}/assets/img/2016/03/BaurJoe-Snapcode.png)]({{ site.url }}/assets/img/2016/03/BaurJoe-Snapcode.png)
 
 Why do Snapchat and travel make complete sense? Well, truth be told, I would've given an indifferent shrug of my shoulders if you asked me that a week ago.<!-- more -->
 
@@ -38,4 +38,4 @@ So yeah, I get it now.
 
 If you want to see the behind-the-scenes of my travel life, (and honestly, I'm fine either way), you can add me at BaurJoe. If you are reading this post from your phone, [click here to add me](https://www.snapchat.com/add/baurjoe).
 
-[![Why Snapchat and travel make sense](https://withoutapath.com/wp-content/uploads/2016/03/Why-Snapchat-and-travel-make-sense-200x300.png)](https://withoutapath.com/wp-content/uploads/2016/03/Why-Snapchat-and-travel-make-sense.png)
+[![Why Snapchat and travel make sense]({{ site.url }}/assets/img/2016/03/Why-Snapchat-and-travel-make-sense.png)]({{ site.url }}/assets/img/2016/03/Why-Snapchat-and-travel-make-sense.png)

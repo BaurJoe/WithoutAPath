@@ -6,7 +6,7 @@ categories:
 - Travel
 ---
 
-[![Nearing Tsumago, Japan - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/11/Nearing-Tsumago-Japan-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/11/Nearing-Tsumago-Japan-JoeBaur.jpg){: .img-fluid}
+[![Nearing Tsumago, Japan - JoeBaur]({{ site.url }}/assets/img/2015/11/Nearing-Tsumago-Japan-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/11/Nearing-Tsumago-Japan-JoeBaur.jpg){: .img-fluid}
 
 I was in Japan in the back of a shuttle when I heard the news about the Paris attacks.
 

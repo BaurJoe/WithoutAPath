@@ -6,7 +6,7 @@ tags:
 - Munich
 ---
 
-![Munich Marienplatz Sunrise](https://withoutapath.com/wp-content/uploads/2017/11/Munich-Marienplatz-Sunrise-1024x683.jpg){: .img-fluid}
+![Munich Marienplatz Sunrise]({{ site.url }}/assets/img/2017/11/Munich-Marienplatz-Sunrise.jpg){: .img-fluid}
 
 I’m getting a tour of Munich from Gustavo, [a Chilean](https://withoutapath.com/things-to-do-in-santiago-chile) with seven years of living in the Bavarian capital under his belt. Gustavo is no tour guide, but you’d be forgiven for thinking he is. First, he looks the part, dressed in a warm black overcoat, a scarf wrapped around his neck, and he’s armed with a tall umbrella that could just as easily be used to corral a group of straggling tourists. Second, he knows his history.
 
@@ -18,7 +18,7 @@ Gustavo is an architect by trade who’s recently opted to take a break in hopes
 
 ## **From Chile to Atlanta**
 
-![Munich Sightseeing with a Chilean and a Brit](https://withoutapath.com/wp-content/uploads/2017/11/Gustavo-Bavarian-Munich-Oktoberfest-1024x683.jpg){: .img-fluid}
+![Munich Sightseeing with a Chilean and a Brit]({{ site.url }}/assets/img/2017/11/Gustavo-Bavarian-Munich-Oktoberfest.jpg){: .img-fluid}
 
 Objectively, Gustavo’s story is more interesting than mine. He remembers the days of the Pinochet dictatorship in Chile, but qualifies his memories by noting that he doesn’t think Allende was a saint either, he being the elected Chilean president whose downfall was orchestrated in cooperation with Nixon and Kissinger, setting off a bad taste for gringos in Latin America that still hasn’t been washed away, even as election engineering karma has come back Stateside.
 
@@ -42,7 +42,7 @@ These specifics aside, the Atlanta woman couldn’t believe that Gustavo is Lati
 
 ## **Munich: The Biggest Town In Germany**
 
-[caption id="attachment_6735" align="aligncenter" width="1024"]![Munich view towards Viktualienmarkt, Church of the Holy Spirit](https://withoutapath.com/wp-content/uploads/2017/11/Munich-view-towards-Viktualienmarkt-Church-of-the-Holy-Spirit-Saskia-Wehler-Photography-Wehler-Saskia-GNTB-1024x684.jpg){: .img-fluid} _Saskia Wehler, Photography Wehler, Saskia, Deutsche Zentrale für Tourismus e.V._[/caption]
+[caption id="attachment_6735" align="aligncenter" width="1024"]![Munich view towards Viktualienmarkt, Church of the Holy Spirit]({{ site.url }}/assets/img/2017/11/Munich-view-towards-Viktualienmarkt-Church-of-the-Holy-Spirit-Saskia-Wehler-Photography-Wehler-Saskia-GNTB.jpg){: .img-fluid} _Saskia Wehler, Photography Wehler, Saskia, Deutsche Zentrale für Tourismus e.V._[/caption]
 
 Ultimately Gustavo has nice things to say about both his hometown of Santiago and Atlanta, but he’s clearly in his element living in Munich. I can see why. On the first impression, Munich feels more manageable to other large, German cities.  I note to Gustavo that while far from ghostly, the streets aren’t overwhelming. I think of exiting the Cologne main station where thousands of people are ushered out onto the Domplatz. Mobs of travelers and commuters are forced to instantly mix with substantial tourist crowds.
 
@@ -62,7 +62,7 @@ One morning the grandfather was reading the paper and starts to lament the influ
 
 ## **Bombs and How to Approach Life**
 
-[caption id="attachment_6734" align="aligncenter" width="1024"]![Surfing on the Eisbach river in Munich](https://withoutapath.com/wp-content/uploads/2017/11/Surfing-on-the-Eisbach-river-in-Munich-Thomas-Effinger-Bayern-1024x683.jpg){: .img-fluid} _Thomas Effinger, Bayern.by_[/caption]
+[caption id="attachment_6734" align="aligncenter" width="1024"]![Surfing on the Eisbach river in Munich]({{ site.url }}/assets/img/2017/11/Surfing-on-the-Eisbach-river-in-Munich-Thomas-Effinger-Bayern.jpg){: .img-fluid} _Thomas Effinger, Bayern.by_[/caption]
 
 “Ah, I love that this is my city,” Gustavo says with a pleasant sigh as we work our way to Marienplatz where stalls for the forthcoming Christmas market season have taken over.
 
@@ -88,7 +88,7 @@ Who’s to say who’s right, but all I know is that I, in the end, was not draf
 
 ## **Beer, Meat, and Music at the Original Höfbräuhaus**
 
-[caption id="attachment_6736" align="aligncenter" width="1024"]![Deutschland, Bayern, Muenchen, Oktoberfest, 19.09.2004, Odeonplatz, Theatinerkirche,Trachtenzug, Schuetzenzug, Blaskapelle, Musikanten, Volksmusik, Tuba, Kirche, Tradition, Brauchtum, bayerisch, (Bildtechnik:Farbprofil: sRGB) English: Germany, Bavaria, Munich, Oktoberfest, September 19, 2004, Odeonplatz, Theatinerkirche, costume parade, shooting festival procession, brass band, musicians, folk music, tuba, church, tradition, custom, Bavarian](https://withoutapath.com/wp-content/uploads/2017/11/Brass-band-in-traditional-costume-on-parade-at-the-Munich-Oktoberfest-Pierre-Adenis-Büro-Gaff-Deutsche-Zentrale-für-Tourismus-e.V.-1024x685.jpg){: .img-fluid} _Pierre Adenis/Büro Gaff, Deutsche Zentrale für Tourismus e.V._[/caption]
+[caption id="attachment_6736" align="aligncenter" width="1024"]![Deutschland, Bayern, Muenchen, Oktoberfest, 19.09.2004, Odeonplatz, Theatinerkirche,Trachtenzug, Schuetzenzug, Blaskapelle, Musikanten, Volksmusik, Tuba, Kirche, Tradition, Brauchtum, bayerisch, (Bildtechnik:Farbprofil: sRGB) English: Germany, Bavaria, Munich, Oktoberfest, September 19, 2004, Odeonplatz, Theatinerkirche, costume parade, shooting festival procession, brass band, musicians, folk music, tuba, church, tradition, custom, Bavarian]({{ site.url }}/assets/img/2017/11/Brass-band-in-traditional-costume-on-parade-at-the-Munich-Oktoberfest-Pierre-Adenis-Büro-Gaff-Deutsche-Zentrale-für-Tourismus-e.V..jpg){: .img-fluid} _Pierre Adenis/Büro Gaff, Deutsche Zentrale für Tourismus e.V._[/caption]
 
 We part ways with Christie who has a train to catch back to Wiesbaden. Gustavo and I make one last stop – the original Höfbräuhaus. Normally this is something I’d wave off, not wanting to fight crowds who came to Munich with this at the top of their itinerary. But I decide that a cold Sunday afternoon in November is probably the best time to go to avoid the crowds, so I agree.
 
@@ -110,7 +110,7 @@ Thankfully the second floor where Hitler held his meetings is not accessible to 
 
 ## Munich is Home
 
-[caption id="attachment_6737" align="aligncenter" width="1024"]![Munich City and Alps](https://withoutapath.com/wp-content/uploads/2017/11/Munich-City-and-Alps-Thomas-Klinger-München-Tourismus-1024x737.jpg){: .img-fluid} _Thomas Klinger, München Tourismus_[/caption]
+[caption id="attachment_6737" align="aligncenter" width="1024"]![Munich City and Alps]({{ site.url }}/assets/img/2017/11/Munich-City-and-Alps-Thomas-Klinger-München-Tourismus.jpg){: .img-fluid} _Thomas Klinger, München Tourismus_[/caption]
 
 In the end, my tour of Munich ends up being less about the city and more about the people. Yes, I had enjoyed my time in Munich immensely. It has everything I ever look for in a city – walkable, interesting history, stories, and good food which I experienced not only at Fugazi, but also at Café Joon, Zitronengras Asia-Bistro, Burrito Company, and Mr. Pancakes where I had a reasonable portion of blueberry pancakes to set me off from Munich.
 

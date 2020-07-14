@@ -6,7 +6,7 @@ categories:
 - Travel
 ---
 
-![Urft River Bike Trail in Eifel National Park, Germany](https://withoutapath.com/wp-content/uploads/2016/10/Urft-River-Bike-Trail-in-Eifel-National-Park-Germany-1024x683.jpg){: .img-fluid}
+![Urft River Bike Trail in Eifel National Park, Germany]({{ site.url }}/assets/img/2016/10/Urft-River-Bike-Trail-in-Eifel-National-Park-Germany.jpg){: .img-fluid}
 
 Eifel National Park. It's [a park](http://www.nationalpark-eifel.de/) that only relatively recently came into existence. The Belgian military and NATO used it as a training ground up until 2004 when a legal decree gave it back to the Germans as a national park. A foundation of the decree states that at least 75 percent of the park's 26,400 acres must be left to develop naturally.
 
@@ -16,7 +16,7 @@ Prior to the Belgians, this was firmly Nazi territory. [Ordensburg Vogelsang](ht
 
 Sure enough, Gemünd had been decimated. Much of the town center today has been rebuilt, following as much of the original blueprint as possible. That means densely packed buildings, restaurants, cafés that spill onto the sidewalk, cobblestone streets, shops, and of course, a brewery. This is Germany, after all. A town without a brewery is like an amateur poetry slam without an eye-roll.
 
-![Eifel National Park Germany View](https://withoutapath.com/wp-content/uploads/2016/10/Eifel-National-Park-Germany-View-1024x683.jpg){: .img-fluid}
+![Eifel National Park Germany View]({{ site.url }}/assets/img/2016/10/Eifel-National-Park-Germany-View.jpg){: .img-fluid}
 
 ## Hiking Eifel National Park
 
@@ -24,7 +24,7 @@ Last minute planning for the holiday weekend (Monday was German Unity Day celebr
 
 Gemünd appears quiet to the passerby on a Friday night, but that's because everyone is at one of the handful of restaurants that stay open past 6 p.m. The brewery looked at us with pity when we attempted to grab a seat without a reservation, so we resolved to return the next night and instead check out one of the hotel restaurants where the cuisine was decidedly German -- meaty and hearty. Judging by the portion size, it's no wonder the Germans seem to consider anything under five miles a "walk" and are constantly hitting the trails.
 
-![Urft River Eifel National Park Gemünd Germany](https://withoutapath.com/wp-content/uploads/2016/10/Urft-River-Eifel-National-Park-Gemünd-Germany-1024x683.jpg){: .img-fluid}
+![Urft River Eifel National Park Gemünd Germany]({{ site.url }}/assets/img/2016/10/Urft-River-Eifel-National-Park-Gemünd-Germany.jpg){: .img-fluid}
 
 We hit the trails ourselves first thing Saturday morning and loved every second of it. The air was crisp with a light fog hovering above that disappeared throughout the day to give way to clear blue skies. 240 kilometers of park trails is the predominant estimate, leaving us with a variety of options to reach key points of interest, like the village of Wolfgarten or indeed Vogelsang. To our surprise, steep climbs along the trails weren't exactly a rare thing in otherwise flat Germany. Even on day two, trudging west toward Vogelsang with cooler weather and damper conditions, we were continually taken aback by the lack of relief behind every turn.
 
@@ -34,7 +34,7 @@ We hit the trails ourselves first thing Saturday morning and loved every second 
 
 "This is my first Nazi thing," I stupidly commented as the brutalist gray tower of eastern Vogelsang started to poke its head out above the surrounding forest. A carving of a muscle-man appearing to ride bravely into battle was etched into the side of the tower.
 
-![Hiking Eifel National Park Germany](https://withoutapath.com/wp-content/uploads/2016/10/Hiking-Eifel-National-Park-Germany-1-1024x683.jpg){: .img-fluid}
+![Hiking Eifel National Park Germany]({{ site.url }}/assets/img/2016/10/Hiking-Eifel-National-Park-Germany-1.jpg){: .img-fluid}
 
 The grassy trail runs right into Vogelsang's main road, which itself drives underneath the main gate. Swastikas once adorned the sides, but the Belgians replaced them with their traditional lion emblem. Inside, the car park was modestly filled with German tourists (German is the only language we overheard) and one Dutch tourist bus. Apparently, a guided tour was about to begin, but we didn't really have an interest in joining. My one rule about visiting former Nazi ground is that I can leave whenever the hell I want to.
 
@@ -46,7 +46,7 @@ We continued through the compound to some viewpoints where we could see that jux
 
 The whole experience was, in a word, creepy. I'm talking a biting, Hitchock-esque sense that something really bad is about to happen. I mean, you're walking around this beautiful scenery, autumn colors bouncing off the sunlight, then you march into this dreary fortress and the weather suddenly turns gloomy as an ominous fog sweeps over the entire area with a cold, light drizzle to really drive home that eerie feeling.
 
-![Morsbach Germany Eifel National Park Wilderness Trail](https://withoutapath.com/wp-content/uploads/2016/10/Morsbach-Germany-Eifel-National-Park-Wilderness-Trail-1-1024x683.jpg){: .img-fluid}
+![Morsbach Germany Eifel National Park Wilderness Trail]({{ site.url }}/assets/img/2016/10/Morsbach-Germany-Eifel-National-Park-Wilderness-Trail-1.jpg){: .img-fluid}
 
 Then you remember what this place was used for, primarily to educate (brainwash) Germans into believing in and doing terrible Nazi things. The only comic relief came in the form of a statue created for the 1936 Olympic games in Berlin. Its purpose wasn't comic, mind you, as its original text proclaimed something or other about being for the glory of Adolf Hitler. (Though the blocks with his name appeared to have been replaced.) But what gave me some joy was the fact that this naked burly man-statue appeared to have lost his granite manhood.
 

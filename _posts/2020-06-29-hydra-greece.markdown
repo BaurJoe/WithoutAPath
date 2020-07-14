@@ -1,10 +1,12 @@
 ---
 title: Hydra | Finding A Way To Be Free
+image: /assets/img/2020/06/Hydra-From-Hiking-Trail.jpg
 categories:
 - Europe
+featured: true
 ---
 
-![Hydra From Hiking Trail](https://withoutapath.com/wp-content/uploads/2020/06/Hydra-From-Hiking-Trail-1024x683.jpg){: .img-fluid}
+![Hydra From Hiking Trail]({{ site.url }}/assets/img/2020/06/Hydra-From-Hiking-Trail.jpg){: .img-fluid}
 
 _Like a bird on the wire.  
 Like a drunk in a midnight choir.  
@@ -24,7 +26,7 @@ And on the spot, Cohen decided to head down to Greece. He was in [Athens](https:
 
 ## The Bird on the Wire
 
-![Hydra Harbor Sunny](https://withoutapath.com/wp-content/uploads/2020/06/Hydra-Harbor-Sunny-1024x608.jpg){: .img-fluid}
+![Hydra Harbor Sunny]({{ site.url }}/assets/img/2020/06/Hydra-Harbor-Sunny.jpg){: .img-fluid}
 
 Leonard Cohen arrived in Greece on April 13, 1960, and continued south, hopping on a ship for a five-hour journey to the island of Hydra where electricity was a novelty and there wasn't a car in sight. Months later, six days after his twenty-six birthday, Cohen used some money left to him from his grandmother to purchase a home in Hydra for $1,500. It's from this home, a few minutes walk down to the port, that Cohen wrote the opening lines to "Bird on the Wire."
 
@@ -34,13 +36,13 @@ Go to Hydra and it's is easy to see how this place had such a mystical grip over
 
 ## "In Another Era"
 
-![Hydra Street](https://withoutapath.com/wp-content/uploads/2020/06/Hydra-Street-1024x635.jpg){: .img-fluid}
+![Hydra Street]({{ site.url }}/assets/img/2020/06/Hydra-Street.jpg){: .img-fluid}
 
 Modernity has continued to swim up to the shores of Hydra since Cohen noticed a bird on a telephone wire. But compared to the likes of a square around a subway stop in [Tokyo](https://withoutapath.com/tokyo-bike/) or Times Square, Hydra continues to feel like it's in another era. Cars still aren't allowed on the island and it just makes all the difference. The streets are tranquil, the air is fresh, and the cumulative weight of societal pressures––work, produce, get money, consume, repeat and stick with the plan––float away like a balloon.
 
 It's entirely possible that I was especially enchanted with Hydra because I was there toward the end of the low season. That meant clear blue skies, warm days and brisk nights, and small crowds. A daytime cruise ship did pull up one afternoon with throngs of hurried tourists running around the harbor to find their perfect Instagram background. But within a couple of hours, they were gone, and life went on.
 
-![Hydra Hiking Trail](https://withoutapath.com/wp-content/uploads/2020/06/Hydra-Hiking-Trail-1024x662.jpg){: .img-fluid}
+![Hydra Hiking Trail]({{ site.url }}/assets/img/2020/06/Hydra-Hiking-Trail.jpg){: .img-fluid}
 
 There is a mythical aurora about Hydra, the kind that sticks to your bones long after you've gone. "That's it. That's paradise," you tell yourself. It's easy to imagine skipping the boat back to Athens, rebooking your flight, and sticking behind a little longer. Just another helping of dolmades with a bottle of Mythos to wash it down.
 

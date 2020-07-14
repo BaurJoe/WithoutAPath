@@ -27,7 +27,7 @@ Of course, taking on such a task put Friedrich’s great-uncle, Meinrad Juen, in
 
 "He was arrested but managed to escape and hide in St. Gallenkirch for two-and-a-half-years. He hid among neighbors, but not somewhere in the Alps in a cave or in a forest. He hid in the middle of the village where nobody would've expected."
 
-![](https://withoutapath.com/wp-content/uploads/2018/07/Vorarlberg-Austria-HIking-1024x682.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2018/07/Vorarlberg-Austria-HIking.jpg){: .img-fluid}
 
 Friedrich first learned about his family’s smuggling tradition from his father, but the story is well-known around Gargellen.
 

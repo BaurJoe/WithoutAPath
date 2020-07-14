@@ -2,9 +2,10 @@
 title: Parsha Chayei Sara | The Cave of the Patriarchs
 categories:
 - Essays
+homepage: false
 ---
 
-![Parsha Chayei Sara Cave of the Patriarhcs](https://withoutapath.com/wp-content/uploads/2019/11/Parsha-Chayei-Sara-Cave-of-the-Patriarchs.jpg){: .img-fluid}Cave of the Patriarchs, courtesy of [Wikimedia](https://commons.wikimedia.org/wiki/File:Hebron_Cave_of_the_Patriarchs.jpg){: .img-fluid}
+![Parsha Chayei Sara Cave of the Patriarhcs]({{ site.url }}/assets/img/2019/11/Parsha-Chayei-Sara-Cave-of-the-Patriarchs.jpg){: .img-fluid}Cave of the Patriarchs, courtesy of [Wikimedia](https://commons.wikimedia.org/wiki/File:Hebron_Cave_of_the_Patriarchs.jpg){: .img-fluid}
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Chayei Sara, Genesis 23:1 - 25:18. [Click here to read last week’s, Parsha Vayera](https://withoutapath.com/parsha-vayera/)._
 

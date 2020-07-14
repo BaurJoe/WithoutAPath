@@ -1,99 +1,30 @@
 <!-- ======= Hero Section ======= -->
 <section id="hero">
+
   <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
-    <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+    <ol class="carousel-indicators" id="hero-carousel-indicators">
+      {% for post in site.posts %}
+      {% if post.featured == true %}
+      <li data-target="#heroCarousel" data-slide-to="{% if forloop.first %}0{% else%}{{ forloop.index0 }}{% endif %}"{% if forloop.first %} class="active"{% endif %}></li>
+      {% endif %}
+      {% endfor %}
+    </ol>
 
     <div class="carousel-inner" role="listbox">
-
-      <!-- Slide 1 -->
-      <div class="carousel-item active" style="background-image: url(assets/img/hero/Jewish-Home-Kurima-Slovakia.jpg)">
+      {% for post in site.posts %}
+      {% if post.featured == true %}
+      <div class="carousel-item{% if forloop.first %} active{% endif %}" style="background-image: url({{ site.url }}/{{ post.image }})">
         <div class="carousel-container">
           <div class="container">
-            <h2 class="animate__animated animate__fadeInDown">So You’ve Just Found Out You’re Jewish. What’s Next?</h2>
-            <p class="animate__animated animate__fadeInUp">Thanks to the boom of DNA kits promising to reveal your ancestry,…</p>
-            <a href="{{ site.url }}/jewish-heritage/" class="btn-get-started animate__animated animate__fadeInUp scrollto">Continue Reading</a>
+            <h2 class="animate__animated animate__fadeInDown">{{ post.title }}</h2>
+            <p class="animate__animated animate__fadeInUp">{{ post.excerpt | strip_html | truncatewords:20 }}</p>
+            <a href="{{ site.url }}{{ post.url }}" class="btn-get-started animate__animated animate__fadeInUp scrollto">Continue Reading</a>
           </div>
         </div>
       </div>
-
-      <!-- Slide 2 -->
-      <div class="carousel-item" style="background-image: url(assets/img/hero/athens-food.jpg)">
-        <div class="carousel-container">
-          <div class="container">
-            <h2 class="animate__animated animate__fadeInDown">An Athens Food Tour Where You Eat Like Gods</h2>
-            <p class="animate__animated animate__fadeInUp">There’s something inherently special about eating in Athens that I can’t quite…</p>
-            <a href="{{ site.url }}/athens-food-tour/" class="btn-get-started animate__animated animate__fadeInUp scrollto">Continue Reading</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- Slide 3 -->
-      <div class="carousel-item" style="background-image: url(assets/img/hero/Bardejov-UNESCO-City-Center.jpg)">
-        <div class="carousel-container">
-          <div class="container">
-            <h2 class="animate__animated animate__fadeInDown">Finding My Jewish Roots in Bardejov, Slovakia</h2>
-            <p class="animate__animated animate__fadeInUp">Sit tight, folks. You’re in for a long one. This is a…</p>
-            <a href="{{ site.url }}/bardejov-slovakia-jewish-heritage/" class="btn-get-started animate__animated animate__fadeInUp scrollto">Continue Reading</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- Slide 4 -->
-      <div class="carousel-item" style="background-image: url(assets/img/hero/Haukeli-Norway-Hike.jpg)">
-        <div class="carousel-container">
-          <div class="container">
-            <h2 class="animate__animated animate__fadeInDown">Hiking in Norway: Something to Keep in Mind</h2>
-            <p class="animate__animated animate__fadeInUp">You go to France for the food and wine, you go to…</p>
-            <a href="{{ site.url }}/hiking-in-norway/" class="btn-get-started animate__animated animate__fadeInUp scrollto">Continue Reading</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- Slide 5 -->
-      <div class="carousel-item" style="background-image: url(assets/img/hero/Hydra-From-Hiking-Trail.jpg)">
-        <div class="carousel-container">
-          <div class="container">
-            <h2 class="animate__animated animate__fadeInDown">Hydra | Finding A Way To Be Free</h2>
-            <p class="animate__animated animate__fadeInUp">Like a bird on the wire.Like a drunk in a midnight choir…</p>
-            <a href="" class="btn-get-started animate__animated animate__fadeInUp scrollto">Continue Reading</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- Slide 6 -->
-      <div class="carousel-item" style="background-image: url(assets/img/hero/auschwitz.jpg)">
-        <div class="carousel-container">
-          <div class="container">
-            <h2 class="animate__animated animate__fadeInDown">On Visiting Auschwitz in the Age of Instagram and Mass Tourism</h2>
-            <p class="animate__animated animate__fadeInUp">The following is part of my ongoing writing about exploring my Jewish…</p>
-            <a href="{{ site.url }}/auschwitz-instagram/" class="btn-get-started animate__animated animate__fadeInUp scrollto">Continue Reading</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- Slide 7 -->
-      <div class="carousel-item" style="background-image: url(assets/img/hero/Mueggelspree-Trail-scaled.jpg)">
-        <div class="carousel-container">
-          <div class="container">
-            <h2 class="animate__animated animate__fadeInDown">A Loop Through Löcknitzer Forest</h2>
-            <p class="animate__animated animate__fadeInUp">I’ve been on the record as saying that what I’d miss most…</p>
-            <a href="{{ site.url }}/locknitzer-forest/" class="btn-get-started animate__animated animate__fadeInUp scrollto">Continue Reading</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- Slide 8 -->
-      <div class="carousel-item" style="background-image: url(assets/img/hero/Running-Rund-um-die-Burg-Are.jpg)">
-        <div class="carousel-container">
-          <div class="container">
-            <h2 class="animate__animated animate__fadeInDown">Like A Bat Out Of Hell: Running the Panoramalauf Rund um die Burg Are</h2>
-            <p class="animate__animated animate__fadeInUp">“Fuck this. I’m never doing this again. No more running.” That’s all…</p>
-            <a href="{{ site.url }}/rund-um-die-burg-are/" class="btn-get-started animate__animated animate__fadeInUp scrollto">Continue Reading</a>
-          </div>
-        </div>
-      </div>
-
+      {% endif %}
+      {% endfor %}
     </div>
 
     <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
@@ -107,4 +38,5 @@
     </a>
 
   </div>
-</section><!-- End Hero -->
+
+</section>

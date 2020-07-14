@@ -16,7 +16,7 @@ Ultimately, it never sounded like my kind of vacation. Nothing seemed relaxing a
 
 ## OFF TO LA PAZ
 
-[![uncruise-adventures-la-paz-mexico](https://withoutapath.com/wp-content/uploads/2016/10/UnCruise-Adventures-La-Paz-Mexico.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/UnCruise-Adventures-La-Paz-Mexico.jpg){: .img-fluid}
+[![uncruise-adventures-la-paz-mexico]({{ site.url }}/assets/img/2016/10/UnCruise-Adventures-La-Paz-Mexico.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/UnCruise-Adventures-La-Paz-Mexico.jpg){: .img-fluid}
 
 I know I just finished explaining why cruises aren’t for me, so allow me to vindicate myself.
 
@@ -34,7 +34,7 @@ Then, it was time to start signing up for activities. The way this worked was th
 
 ## ISLA SAN FRANCISCO
 
-[![hiking-isla-san-francisco-baja-california-sur-mexico](https://withoutapath.com/wp-content/uploads/2016/10/Hiking-Isla-San-Francisco-Baja-California-Sur-Mexico.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/Hiking-Isla-San-Francisco-Baja-California-Sur-Mexico.jpg){: .img-fluid}
+[![hiking-isla-san-francisco-baja-california-sur-mexico]({{ site.url }}/assets/img/2016/10/Hiking-Isla-San-Francisco-Baja-California-Sur-Mexico.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/Hiking-Isla-San-Francisco-Baja-California-Sur-Mexico.jpg){: .img-fluid}
 
 Our morning began with pico de gallo on tostada with eggs, cheese and avocado before moving on to our hike, shuttled over to land by a motorized raft. The difficulty of the hike was, perhaps, oversold, but we were too excited to set foot on rarely traveled land to care.
 
@@ -48,7 +48,7 @@ That night, Melanie and I rested on the deck as we enjoyed a meteor shower into 
 
 ## AGUA VERDE
 
-[![burro-riding-agua-verde-baja-california-sur-mexico](https://withoutapath.com/wp-content/uploads/2016/10/Burro-Riding-Agua-Verde-Baja-California-Sur-Mexico.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/Burro-Riding-Agua-Verde-Baja-California-Sur-Mexico.jpg){: .img-fluid}
+[![burro-riding-agua-verde-baja-california-sur-mexico]({{ site.url }}/assets/img/2016/10/Burro-Riding-Agua-Verde-Baja-California-Sur-Mexico.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/Burro-Riding-Agua-Verde-Baja-California-Sur-Mexico.jpg){: .img-fluid}
 
 Traveling again through the night, we awoke in Agua Verde for a morning mule ride. I admit I had my concerns. After all, I assumed the animals weren’t exact willing participants. Couldn’t I just hike the trail myself?
 
@@ -66,7 +66,7 @@ Nevertheless, we made it back in one piece for lunch before heading off to the d
 
 ## LOS ISLOTES
 
-[![swimming-with-sea-lions](https://withoutapath.com/wp-content/uploads/2016/10/Swimming-with-sea-lions.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/Swimming-with-sea-lions.jpg){: .img-fluid}
+[![swimming-with-sea-lions]({{ site.url }}/assets/img/2016/10/Swimming-with-sea-lions.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/Swimming-with-sea-lions.jpg){: .img-fluid}
 
 Today was the day Melanie was most looking forward to, for it was the day we would be swimming with sea lion puppies. I, on the other hand (in my constant state of bravery), kept reassuring myself that UnCruise wouldn’t have us swim with wild animals if it weren’t completely safe. I also trusted that our wetsuits, as promised, would keep us afloat. After all, I have the swimming skills of an infant dropped on their head.
 
@@ -74,7 +74,7 @@ We were lucky to find ourselves in the first group heading out to meet the sea l
 
 By the time we hopped in, the sea lion pups were already playing. Groups as large as six or seven darted by us. Our guide said it best: they look like clumsy creatures waddling on the surface, but are ballerinas in the sea, twisting and turning with such beauty and precision, you’d think there was some sort of dance competition going on amongst the pups.
 
-[![sea-lion-swimming-under-water](https://withoutapath.com/wp-content/uploads/2016/10/Sea-lion-swimming-under-water.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/Sea-lion-swimming-under-water.jpg){: .img-fluid}
+[![sea-lion-swimming-under-water]({{ site.url }}/assets/img/2016/10/Sea-lion-swimming-under-water.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/Sea-lion-swimming-under-water.jpg){: .img-fluid}
 
 The experience lasted about 45 minutes or so before an encroaching bull let us know that we needed to back off a bit from the rocks and head back to our boat. I for one was flopping with as much uncoordinated speed as soon as I saw one pup dart underwater. Still, that time in the water proved what famed conservationist Jacques Cousteau said of the Sea of Cortez, calling it “the world’s aquarium.”
 
@@ -82,13 +82,13 @@ With the thrilling morning out of the way, it was time to relax on deck as we cr
 
 ## ENSENADA GRANDE
 
-[![hiking-ensenada-grande-baja-california-sur-mexico](https://withoutapath.com/wp-content/uploads/2016/10/Hiking-Ensenada-Grande-Baja-California-Sur-Mexico.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/Hiking-Ensenada-Grande-Baja-California-Sur-Mexico.jpg){: .img-fluid}
+[![hiking-ensenada-grande-baja-california-sur-mexico]({{ site.url }}/assets/img/2016/10/Hiking-Ensenada-Grande-Baja-California-Sur-Mexico.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/Hiking-Ensenada-Grande-Baja-California-Sur-Mexico.jpg){: .img-fluid}
 
 No such luck with critters the day before, but our early morning hike focused our excitement elsewhere. The hike took us through a dried riverbed that after some minutes of desert trail turned to a pure boulder hike, requiring hands and feet most of the way up. We learned about some different plant life, including the Adam Tree, named so because it’s usually naked like Adam in the Bible. Though when “clothed,” as it was on our hike, it has tiny green leaves.
 
 Melanie and I had been surprised at the number who signed up. The hike was sold to scare some folks away, advertised as having many “ninety-degree knee movements,” so we had been looking forward to a small, active group. Unfortunately people didn’t feel like self-selecting themselves out and joined anyhow, slowing our pace considerably.
 
-[![baja-sur-cactus-mexico](https://withoutapath.com/wp-content/uploads/2016/10/Baja-Sur-Cactus-Mexico.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/Baja-Sur-Cactus-Mexico.jpg){: .img-fluid}
+[![baja-sur-cactus-mexico]({{ site.url }}/assets/img/2016/10/Baja-Sur-Cactus-Mexico.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/Baja-Sur-Cactus-Mexico.jpg){: .img-fluid}
 
 There was some concern that we wouldn’t make the top of our hike before we were scheduled to start heading back due to our slow start. I was admittedly a tad frustrated, seeing as the hike was listed as just over two miles and I felt should be easy to complete in the allotted time. Thankfully our guide let us hustle to the top and we were rewarded with a beautiful panoramic view of the Sea of Cortez heading toward mainland Mexico. The drop off was steep, making for some great dramatic views with the crashing waves beneath. Pockets of wind threatened those who tiptoed too close to the edge.
 
@@ -96,7 +96,7 @@ Last on our agenda for the day was another snorkel outing. We knew it would be i
 
 ## PLAYA BONANZA AND LA PAZ
 
-[![playa-bonanza-mexico](https://withoutapath.com/wp-content/uploads/2016/10/Playa-Bonanza-Mexico.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/Playa-Bonanza-Mexico.jpg){: .img-fluid}
+[![playa-bonanza-mexico]({{ site.url }}/assets/img/2016/10/Playa-Bonanza-Mexico.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/Playa-Bonanza-Mexico.jpg){: .img-fluid}
 
 The final two days flew by like a clichéd blur. Day five was dominated by a long hike at Playa Bonanza along a flat, desert field. Paulino, our earlier-mentioned walking encyclopedia, noted that by studying the seashells, the area was probably four to five million years old — dating back to when the ground beneath us was underwater.
 
@@ -104,7 +104,7 @@ We awoke on our final full day back at La Paz with many anticipating a morning s
 
 Personally, I didn’t mind the cancellation. A day in La Paz excited me as it was my first Spanish-speaking city since moving back from Costa Rica about six months prior. I saw it as an opportunity to explore a new city and chat a little with anyone willing. Indeed, Melanie and I had a nice conversation with the owner of a local restaurant that fueled our enjoyment of the port city.
 
-[![docks-of-la-paz-mexico](https://withoutapath.com/wp-content/uploads/2016/10/Docks-of-La-Paz-Mexico.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/Docks-of-La-Paz-Mexico.jpg){: .img-fluid}
+[![docks-of-la-paz-mexico]({{ site.url }}/assets/img/2016/10/Docks-of-La-Paz-Mexico.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/Docks-of-La-Paz-Mexico.jpg){: .img-fluid}
 
 La Paz is modestly-sized city at about 215,000 in population. William Walker established his capital for the so-called Republic of Sonora here in 1854, which seems like an inconsequential bit of history until you consider the fact that Walker pretty much epitomizes the worst of U.S. American stereotypes that Latin Americans understandably loathe.
 
@@ -118,6 +118,6 @@ We departed early the next morning by bus to return directly to the airport afte
 
 It was clear then more than ever before that UnCruise Adventures had, indeed, treated us to a special slice of Mexico most travelers to our southern neighbor will never see.
 
-[![sailing-to-the-sea-of-cortez-with-uncruise-adventures](https://withoutapath.com/wp-content/uploads/2016/10/Sailing-to-the-Sea-of-Cortez-with-UnCruise-Adventures.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/10/Sailing-to-the-Sea-of-Cortez-with-UnCruise-Adventures.jpg){: .img-fluid}
+[![sailing-to-the-sea-of-cortez-with-uncruise-adventures]({{ site.url }}/assets/img/2016/10/Sailing-to-the-Sea-of-Cortez-with-UnCruise-Adventures.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/10/Sailing-to-the-Sea-of-Cortez-with-UnCruise-Adventures.jpg){: .img-fluid}
 
 _**Disclaimer: **I traveled as a guest of [UnCruise Adventures](https://www.uncruise.com/). As always, all opinions are my own._

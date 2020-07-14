@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![Four things you need to know about traveling in Jordan](https://withoutapath.com/wp-content/uploads/2016/05/Four-things-you-need-to-know-about-traveling-in-Jordan.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/05/Four-things-you-need-to-know-about-traveling-in-Jordan.jpg){: .img-fluid}
+[![Four things you need to know about traveling in Jordan]({{ site.url }}/assets/img/2016/05/Four-things-you-need-to-know-about-traveling-in-Jordan.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/05/Four-things-you-need-to-know-about-traveling-in-Jordan.jpg){: .img-fluid}
 
 ## JORDANIANS DON'T HATE WESTERNERS
 
@@ -65,7 +65,7 @@ Then there's Wadi Rum, which is most recently famous for offering the red backdr
 
 I've still got a couple of days to go with stops in the seaside town of Aqaba and the Dead Sea, but I'm already feeling like Jordan will sit comfortably near the top of one of my favorite countries to visit thanks to the history, culture, and most importantly, the people.
 
-[![Four things you need to know about traveling to Jordan](https://withoutapath.com/wp-content/uploads/2016/05/Four-things-you-need-to-know-about-traveling-to-Jordan-683x1024.png)](https://withoutapath.com/wp-content/uploads/2016/05/Four-things-you-need-to-know-about-traveling-to-Jordan.png)
+[![Four things you need to know about traveling to Jordan]({{ site.url }}/assets/img/2016/05/Four-things-you-need-to-know-about-traveling-to-Jordan.png)]({{ site.url }}/assets/img/2016/05/Four-things-you-need-to-know-about-traveling-to-Jordan.png)
 
 **Disclosure:**_ I traveled with [Bestway Tours & Safaris](http://bestway.com/) as a guest blogger. Book your own tour of Jordan with Bestway Tours & Safaris using the code JOC16/JB and save $100._
 

@@ -2,6 +2,7 @@
 title: Parsha Tazria-Metzora | Take a bath and clean the sheets
 categories:
 - Essays
+homepage: false
 ---
 
 ![](https://i2.wp.com/withoutapath.com/wp-content/uploads/2020/04/bruce-mars-Q_iJuyRdy4c-unsplash-scaled.jpg?fit=1024%2C683&ssl=1)Photo by [bruce mars](https://unsplash.com/@brucemars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bath?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

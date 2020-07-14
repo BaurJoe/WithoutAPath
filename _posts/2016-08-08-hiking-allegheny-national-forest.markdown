@@ -6,7 +6,7 @@ categories:
 - Travel
 ---
 
-[![Camping at Willow Bay Campgrounds in Pennsylvania](https://withoutapath.com/wp-content/uploads/2016/08/Camping-at-Willow-Bay-Campgrounds-in-Pennsylvania.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/08/Camping-at-Willow-Bay-Campgrounds-in-Pennsylvania.jpg){: .img-fluid}
+[![Camping at Willow Bay Campgrounds in Pennsylvania]({{ site.url }}/assets/img/2016/08/Camping-at-Willow-Bay-Campgrounds-in-Pennsylvania.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/08/Camping-at-Willow-Bay-Campgrounds-in-Pennsylvania.jpg){: .img-fluid}
 
 I woke up feeling stuffy with a bit of a headache. That seems to be the norm for me on the first night on any camping trip. Something about whatever allergens are in the air or the fact that I almost always forget to bring a proper pillow that would keep my head tilted just right so fluids don't build up in my head. (Our bodies are weird.)<!-- more -->
 
@@ -52,7 +52,7 @@ Now I have to ask: does Washington Street need to have a speed limit that's a ga
 
 That said, the trailhead did indeed present itself rather noticeably on the southern side of Washington Street complete with a sign and wooden steps to help hikers over the guardrail (though I couldn't help but wonder if someone should be hiking the North Country Trail if they needed help getting through an obstacle shorter than many of the fallen trees that we'd later find blocking the path).
 
-[![North Country Trailhead in Pennsylvania's Allegheny National Forest](https://withoutapath.com/wp-content/uploads/2016/08/North-Country-Trailhead-in-Pennsylvanias-Allegheny-National-Forest.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/08/North-Country-Trailhead-in-Pennsylvanias-Allegheny-National-Forest.jpg){: .img-fluid}
+[![North Country Trailhead in Pennsylvania's Allegheny National Forest]({{ site.url }}/assets/img/2016/08/North-Country-Trailhead-in-Pennsylvanias-Allegheny-National-Forest.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/08/North-Country-Trailhead-in-Pennsylvanias-Allegheny-National-Forest.jpg){: .img-fluid}
 
 ## "YOU BE YOU, ALLEGHENY"
 
@@ -68,7 +68,7 @@ _Nada. _Not even an interesting rock formation. For all intents and purposes, e
 
 (As always, I leave open the possibility that I'm a dullard who missed something astonishing right in front of my stupid face.)
 
-[![North Country Trail in Allegheny National Forest](https://withoutapath.com/wp-content/uploads/2016/08/North-Country-Trail-in-Allegheny-National-Forest.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/08/North-Country-Trail-in-Allegheny-National-Forest.jpg){: .img-fluid}
+[![North Country Trail in Allegheny National Forest]({{ site.url }}/assets/img/2016/08/North-Country-Trail-in-Allegheny-National-Forest.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/08/North-Country-Trail-in-Allegheny-National-Forest.jpg){: .img-fluid}
 
 ## JUST WHAT THE DOCTOR ORDERED
 
@@ -78,4 +78,4 @@ Not only did we match twenty miles, but we blew right by it—topping off at jus
 
 Most daunting of all was looking at my recorded hike in the aftermath. You couldn't even call what I did scratching the surface of the mighty Allegheny National Forest. Ironically the blue line that represents my hike looks like something of a hangman's noose coming off New York and into Pennsylvania. I hope there's not an applicable metaphor there.
 
-[![The Wonderful Pain of Hiking in the Allegheny National Forest](https://withoutapath.com/wp-content/uploads/2016/08/The-Wonderful-Pain-of-Hiking-in-the-Allegheny-National-Forest.png)](https://withoutapath.com/wp-content/uploads/2016/08/The-Wonderful-Pain-of-Hiking-in-the-Allegheny-National-Forest.png)
+[![The Wonderful Pain of Hiking in the Allegheny National Forest]({{ site.url }}/assets/img/2016/08/The-Wonderful-Pain-of-Hiking-in-the-Allegheny-National-Forest.png)]({{ site.url }}/assets/img/2016/08/The-Wonderful-Pain-of-Hiking-in-the-Allegheny-National-Forest.png)

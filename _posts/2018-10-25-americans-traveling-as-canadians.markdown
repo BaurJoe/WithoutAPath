@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![Americans Traveling As Canadians](https://withoutapath.com/wp-content/uploads/2018/10/Americans-Traveling-As-Canadians-annelaure-artaud-397318-unsplash-1024x679.jpg){: .img-fluid}
+![Americans Traveling As Canadians]({{ site.url }}/assets/img/2018/10/Americans-Traveling-As-Canadians-annelaure-artaud-397318-unsplash.jpg){: .img-fluid}
 
 ###### **Photo by [AnneLaure Artaud](https://unsplash.com/photos/-Paw27s_kTc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), probably not an American traveling as a Canadian**
 

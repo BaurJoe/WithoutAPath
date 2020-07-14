@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![Landing in Germany](https://withoutapath.com/wp-content/uploads/2015/06/Flying-To-Germany-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/06/Flying-To-Germany-JoeBaur.jpg){: .img-fluid}
+[![Landing in Germany]({{ site.url }}/assets/img/2015/06/Flying-To-Germany-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/06/Flying-To-Germany-JoeBaur.jpg){: .img-fluid}
 
 So, yeah… I’m moving to [Germany](https://withoutapath.com/category/travel/europe/).
 
@@ -41,4 +41,4 @@ I’ll also be looking to continue the [Without A Path](https://itunes.apple.com
 
 That about does it! You are officially informed, dear Reader. Thanks for sticking with me this far, and I hope you’ll continue following along.
 
-[![Moving to Germany](https://withoutapath.com/wp-content/uploads/2016/08/Moving-to-Germany-683x1024.png)](https://withoutapath.com/wp-content/uploads/2016/08/Moving-to-Germany.png)
+[![Moving to Germany]({{ site.url }}/assets/img/2016/08/Moving-to-Germany.png)]({{ site.url }}/assets/img/2016/08/Moving-to-Germany.png)

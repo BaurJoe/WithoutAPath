@@ -5,7 +5,7 @@ categories:
 - Outdoors
 ---
 
-![L'isle-sur-la-Sorgue River and Bridge](https://withoutapath.com/wp-content/uploads/2017/11/Lisle-sur-la-Sorgue-River-and-Bridge-1024x683.jpg){: .img-fluid}
+![L'isle-sur-la-Sorgue River and Bridge]({{ site.url }}/assets/img/2017/11/Lisle-sur-la-Sorgue-River-and-Bridge.jpg){: .img-fluid}
 
 _Cute. Charming._
 
@@ -27,7 +27,7 @@ This is true in L'Isle-sur-la-Sorgue, Fontaine-de-Vaucluse, and Saint-Didier. T
 
 ## Allons en Provence: L'Isle-sur-la-Sorgue
 
-![L'isle-sur-la-Sorgue Market Shops](https://withoutapath.com/wp-content/uploads/2017/11/Lisle-sur-la-Sorgue-Market-Shops-1024x683.jpg){: .img-fluid}
+![L'isle-sur-la-Sorgue Market Shops]({{ site.url }}/assets/img/2017/11/Lisle-sur-la-Sorgue-Market-Shops.jpg){: .img-fluid}
 
 Provence started for me as most trips do in [Europe](https://withoutapath.com/category/travel/international/europe/) -- [with the train](https://withoutapath.com/embrace-green-travel/). After spending a day in [Marseille](https://withoutapath.com/marseille-travel-guide/), my wife and I took the Trains Express Régionaux (regional train) up to L'Isle-sur-la-Sorgue -- an easy 80-minute ride. Much like in Italy, the regional trains don't receive half the love the impressive high-speed trains do. Windows were smudged and dirty, making it difficult to see outside to enjoy the view. Nonetheless, the ride was still pleasant enough and easily the most agreeable way to make the trip.
 
@@ -39,13 +39,13 @@ The train was my preferred method of arrival, but a road bike was the best way t
 
 ## Hiking Provence to Fontaine-de-Vaucluse
 
-![Provence Hiking Path](https://withoutapath.com/wp-content/uploads/2017/11/Provence-Hiking-Path-1024x683.jpg){: .img-fluid}
+![Provence Hiking Path]({{ site.url }}/assets/img/2017/11/Provence-Hiking-Path.jpg){: .img-fluid}
 
 Finding trails was an experiment. Some were merely footpaths to nothing presumably created by other wanderers in search of a hike. The most interesting thing we found was a handful of _bories_ -- stone huts first created by French farmers in the 18th Century to be used seasonally. My wife, however, stumbled upon something that appeared to be created on purpose during a run. We returned and ended up hiking along the Canal de Carpentras over crushed gravel trail. All evidence suggested that this was a marked trail. Others were wandering by, too, clicking away on their cameras when they weren't wiping the sweat off their forehead from the beaming sun.
 
 The evidence proved faulty once we came to a viaduct. There were no signs forbidding us from crossing, though it seemed unlikely that we were meant to. Still, there was a railing on the right-hand side that made us feel safe enough to cross and even pause for a few unique photos. Then once we hopped off on the other side, there was clearly a sign in French noting that such a crossing is a big no-no. (Legality aside, they really should make that a crossing. Some gorgeous views up there.)
 
-![L'Isle-sur-la-Sorgue Aqueduct](https://withoutapath.com/wp-content/uploads/2017/11/LIsle-sur-la-Sorgue-Aqueduct-1024x683.jpg){: .img-fluid}
+![L'Isle-sur-la-Sorgue Aqueduct]({{ site.url }}/assets/img/2017/11/LIsle-sur-la-Sorgue-Aqueduct.jpg){: .img-fluid}
 
 Just as quickly as the hike became illegal, it returned to something of a marked trail. Even as we neared Fontaine-de-Vaucluse there were actual pedestrian signs noting the distance to different towns and landmarks.
 
@@ -55,7 +55,7 @@ A distinctly French characteristic is the limited dining hours. Good luck findin
 
 ## Dining in Saint-Didier
 
-![Vaucluse Provence France Mountains](https://withoutapath.com/wp-content/uploads/2017/11/Vaucluse-Provence-France-Mountains-1024x683.jpg){: .img-fluid}
+![Vaucluse Provence France Mountains]({{ site.url }}/assets/img/2017/11/Vaucluse-Provence-France-Mountains.jpg){: .img-fluid}
 
 Even cozier is the town (village?) of Saint-Didier with, again, more charming (attractive? delightful? inviting?) shops and restaurants lining Rue le Cours. Taking a break from French cuisine, we opted for Restaurant Côte Cours to split different styles of pizza pies among our large group. Unlike Fontaine-de-Vaucluse, there's a stronger local vibe here. It seems in Provence that the smaller the town, the more likely tourists will have yet to add it to their maps -- logically so. Dining families and friends filled the large, gravel patio space with a bit of a beer garden feel to it, enjoying the warm evening weather and full moon.
 
@@ -67,7 +67,7 @@ We were so taken by the town that I returned a couple of days later with my fath
 
 ## Au Revoir Provence
 
-![Vaucluse Provence France](https://withoutapath.com/wp-content/uploads/2017/11/Vaucluse-Provence-France-1024x683.jpg){: .img-fluid}
+![Vaucluse Provence France]({{ site.url }}/assets/img/2017/11/Vaucluse-Provence-France.jpg){: .img-fluid}
 
 I can't say why, but it seems clear now that my memory of Provence follows the size of the towns I visited rather than necessarily being chronological. Though my time in Provence did come to an end at our smallest stop -- Saumane-de-Vaucluse. During a solo bike ride, I pedaled through this one street town and found a bistro with an excellent view of the sunset. My wife and I sat on the patio overlooking the forest we had just hiked with a glass of wine as the sun dipped beneath the trees.
 

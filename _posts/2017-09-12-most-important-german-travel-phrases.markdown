@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![Lorch, Germany Rheinsteig Hiking Trail](https://withoutapath.com/wp-content/uploads/2017/08/Lorch-Germany-Rheinsteig-1024x683.jpg){: .img-fluid}
+![Lorch, Germany Rheinsteig Hiking Trail]({{ site.url }}/assets/img/2017/08/Lorch-Germany-Rheinsteig.jpg){: .img-fluid}
 
 You can get the true basics -- like, "hello," "goodbye," and "thank you" -- elsewhere online, on language apps, and in phrasebooks. You might already even know these phrases in the language you're studying. But there are a handful of phrases I've found to be incredibly useful across the language spectrum that aren't as prominent in the variety of language learning tools. Yet somehow knowing how to say "lawyer" is always front and center.
 

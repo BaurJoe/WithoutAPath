@@ -4,7 +4,7 @@ categories:
 - Food
 ---
 
-![Spicy Vegetarian Cholent Finished](https://withoutapath.com/wp-content/uploads/2020/04/Spicy-Vegetarian-Cholent-Finished.jpg){: .img-fluid}
+![Spicy Vegetarian Cholent Finished]({{ site.url }}/assets/img/2020/04/Spicy-Vegetarian-Cholent-Finished.jpg){: .img-fluid}
 
 I see a lot of Jews talk shit about cholent. I don't get why. It's a stew where you get to pick what goes in it. So if you don't like your cholent, here's a novel idea, try putting things you like into the pot! Just an idea.
 

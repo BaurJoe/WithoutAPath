@@ -5,10 +5,9 @@ categories:
 - Travel
 ---
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/Rain-and-Beer-in-Portland-1024x765.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/Rain-and-Beer-in-Portland.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/05/Rain-and-Beer-in-Portland.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/Rain-and-Beer-in-Portland.jpg){: .img-fluid}
 
-**Rain and Beer
-**
+**Rain and Beer**
 
 The [Pacific Northwest](https://withoutapath.com/visit-coeur-dalene-idaho/) is a mystery to those coming out of the Midwest. Not that it should be. Today, we have the capability to take a stroll through nearly any major city in the world via Google Street View. But Portland has always been characterized as a city you have to visit to understand. And I was happy to oblige.<!-- more -->
 
@@ -18,13 +17,13 @@ _Prior to visiting, my knowledge of the city was limited to viewings of "Portlan
 
 **Long Live The Barista!**
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/Blend-Coffee-Lounge-Joe-Baur-1024x765.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/Blend-Coffee-Lounge-Joe-Baur.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/05/Blend-Coffee-Lounge-Joe-Baur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/Blend-Coffee-Lounge-Joe-Baur.jpg){: .img-fluid}
 
 My first stop was at a Pacific Northwest staple -- a café.
 
 I parked just down the street from [Blend Coffee Lounge](https://www.facebook.com/pages/Blend-Coffee-Lounge/40084213458) on North Killingsworth Street in northern Portland. Unsurprisingly, it was raining. But unlike some Midwesterners who complain relentlessly over weather that could be considered even remotely inclement, I like the rain. Rain makes the world green, and tourism isn't Ireland's number one industry, because the rolling hills are starving for water.
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/Blend-Coffee-Joe-Baur-1024x765.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/Blend-Coffee-Joe-Baur.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/05/Blend-Coffee-Joe-Baur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/Blend-Coffee-Joe-Baur.jpg){: .img-fluid}
 
 The interior is small, but in a good way. I felt this odd, cozy feeling while sipping away on my chai tea latte that was decorated with a perfectly outlined leaf. Seriously, how do they do that? Long live the barista!
 
@@ -32,10 +31,9 @@ Portlanders of every stripe came and went during my half hour stay. They must al
 
 My next stop was downtown Portland. I didn't shop, nor was I interested in any of the sort. All I wanted to do was walk around and experience life as a temporary Portlander. Suffice it to say, me likey Portlander life.
 
-**Air Of Superiority
-**
+**Air Of Superiority**
 
-![](https://withoutapath.com/wp-content/uploads/2012/09/Portland-Streetcars-Joe-Baur-e1348844278107-224x300.jpg){: .img-fluid}Streetcars. They're freakin' everywhere, and I loved it.
+![]({{ site.url }}/assets/img/2012/09/Portland-Streetcars-Joe-Baur-e1348844278107.jpg){: .img-fluid}Streetcars. They're freakin' everywhere, and I loved it.
 
 You see, I'm of the car-free variety. I try not to say that with the air of superiority that comes with it, but it's inevitable. I get around (for the most part) without polluting our dying planet and turning into an obese blob, therefore, I am better than you. Deal with it.
 
@@ -79,10 +77,9 @@ This certainly isn't anything to celebrate, and that's not to say they didn't ha
 
 Besides. Portland hasn't wanted to be Utopia ever since "Animal Farm" made it cool.
 
-**Rogue Public House
-**
+**Rogue Public House**
 
-![](https://withoutapath.com/wp-content/uploads/2012/09/Rogue-Public-House-Joe-Baur-e1348844508700-224x300.jpg){: .img-fluid}Our last stop is the one place I knew I'd find as soon as I found out I was going to Portland. Rogue Distillery and Public House.
+![]({{ site.url }}/assets/img/2012/09/Rogue-Public-House-Joe-Baur-e1348844508700.jpg){: .img-fluid}Our last stop is the one place I knew I'd find as soon as I found out I was going to Portland. Rogue Distillery and Public House.
 
 Rogue and I have a special bond. She (we're calling her she) was with me the night I turned 21 -- that holiest of ages where you no longer have to tell your mother you feel miserable because of too much apple juice last night.
 

@@ -9,4 +9,4 @@ Traveling for [English football](https://www.youtube.com/watch?v=XbiQp5In3TI) is
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![Traveling for English soccer and budget travel with Wherefor](https://withoutapath.com/wp-content/uploads/2016/03/Traveling-for-English-soccer-and-budget-travel-with-Wherefor-200x300.png)](https://withoutapath.com/wp-content/uploads/2016/03/Traveling-for-English-soccer-and-budget-travel-with-Wherefor.png)
+[![Traveling for English soccer and budget travel with Wherefor]({{ site.url }}/assets/img/2016/03/Traveling-for-English-soccer-and-budget-travel-with-Wherefor.png)]({{ site.url }}/assets/img/2016/03/Traveling-for-English-soccer-and-budget-travel-with-Wherefor.png)

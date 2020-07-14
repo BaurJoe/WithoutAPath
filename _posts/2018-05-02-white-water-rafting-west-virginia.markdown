@@ -21,7 +21,7 @@ We begin in downtown Fayetteville, West Virginia.
 
 ## Everything you need in Fayetteville, West Virginia
 
-![](https://withoutapath.com/wp-content/uploads/2018/05/Downtown-Fayetteville-West-Virginia-Visit-Southern-West-Virginia.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2018/05/Downtown-Fayetteville-West-Virginia-Visit-Southern-West-Virginia.jpg){: .img-fluid}
 
 Downtown Fayetteville doesn't leave a huge footprint, but there's one of just about anything you'd need. A theatre, a coffee shop, and good food. Cathedral Café sticks out, housed in a refurbished cathedral, serving up fresh coffee and eats throughout the day. Their breakfast burrito with spicy chorizo sausage is something I'd be thrilled to make a regular occurrence in my life. You've also got a local favorite in [Pies & Pints](http://www.piesandpints.net/), sitting just down the block with creative takes on pizza pies and offering craft beer from Fayetteville's [Bridge Brew Works](http://bridgebrewworks.com/).
 
@@ -29,7 +29,7 @@ The theme of the trip, however, was the great outdoors of West Virginia, startin
 
 ## White Water Rafting West Virginia's New River
 
-![White Water Rafting West Virginia New River - Visit Southern West Virginia](https://withoutapath.com/wp-content/uploads/2018/05/White-Water-Rafting-West-Virginia-New-River-Visit-Southern-West-Virginia.jpg){: .img-fluid}
+![White Water Rafting West Virginia New River - Visit Southern West Virginia]({{ site.url }}/assets/img/2018/05/White-Water-Rafting-West-Virginia-New-River-Visit-Southern-West-Virginia.jpg){: .img-fluid}
 
 It really is quite incredible what you can do in this nook of the country. While I opted for some whitewater rafting and zip lining, that's hardly their main event. In October, BASE jumpers from around the globe will descend upon Fayetteville for [Bridge Day](http://www.officialbridgeday.com/) to jump off the New River Gorge Bridge for the 34th year in a row. At 876-feet tall, it's the tallest arch bridge in the western hemisphere.
 
@@ -49,7 +49,7 @@ Scurvy-free, the New River was as rambunctious as promised. We hit a variety of 
 
 ## Zip-Lining West Virginia
 
-![New River Gorge Bridge West Virginia](https://withoutapath.com/wp-content/uploads/2018/05/New-River-Gorge-Bridge-Visit-Southern-West-Virginia.jpg){: .img-fluid}
+![New River Gorge Bridge West Virginia]({{ site.url }}/assets/img/2018/05/New-River-Gorge-Bridge-Visit-Southern-West-Virginia.jpg){: .img-fluid}
 
 Next on the agenda was zip lining with [ACE Adventures](http://www.aceraft.com/), which just so happens to hold the world record of most people to zip line across a line in one hour with 183 zip-liners, schooling [the Germans](https://withoutapath.com/travel-guides/germany/) and their previous record of 122 in 2010. Our guides actually took part in the world record win, but spoke of it with the nonchalance one does a little league baseball trophy.
 

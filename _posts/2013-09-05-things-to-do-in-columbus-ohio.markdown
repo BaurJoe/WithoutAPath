@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![Columbus, Ohio](https://withoutapath.com/wp-content/uploads/2013/09/Columbus-Ohio-1024x768.jpg){: .img-fluid}
+![Columbus, Ohio]({{ site.url }}/assets/img/2013/09/Columbus-Ohio.jpg){: .img-fluid}
 
 How can one possibly see Columbus in just 15 hours? A city of its size and stature surely warrants at least a weekend if not more in order to explore the various ethnic and kickass neighborhoods. Hell, a game at The Shoe is a cultural experience in of itself.
 

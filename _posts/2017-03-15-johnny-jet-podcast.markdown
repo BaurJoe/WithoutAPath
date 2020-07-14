@@ -9,4 +9,4 @@ If you've been involved in the travel world, chances are you know who [Johnny Je
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-![Johnny-Jet-Turns-a-Fear-of-Flying-into-a-Travel-Career](https://withoutapath.com/wp-content/uploads/2017/04/Johnny-Jet-Turns-a-Fear-of-Flying-into-a-Travel-Career-683x1024.jpg){: .img-fluid}
+![Johnny-Jet-Turns-a-Fear-of-Flying-into-a-Travel-Career]({{ site.url }}/assets/img/2017/04/Johnny-Jet-Turns-a-Fear-of-Flying-into-a-Travel-Career.jpg){: .img-fluid}

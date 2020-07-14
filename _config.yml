@@ -1,12 +1,12 @@
 title: Without A Path
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://withoutapath.com" # the base hostname & protocol for your site, e.g. http://example.com
 disqus: "withoutapath"
+locale: en_US
 
 kramdown:
   html_to_native: true
@@ -17,68 +17,39 @@ gems:
 # plugins
 plugins:
   - jekyll-feed
-  - jekyll-archives
   - jekyll-sitemap
   - jekyll-target-blank
 
-# Pagination Settings
-pagination:
-  enabled: true
-  per_page: 3
-  permalink: '/:num/'
-  title: ':title | :num of :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
- # extension: htm
- # indexpage: 'default'
-  trail: 
-    before: 2
-    after: 2
-
 # jekyll-seo-tag
 twitter:
-  username: benbalter
-  card: summary
+  username: BaurJoe
+  card: summary_large_image
 facebook:
   app_id: 1234
   publisher: 1234
   admins: 1234
 social:
-  name: Ben Balter
+  name: Joe Baur
   links:
     - https://instagram.com/BaurJoe
     - https://twitter.com/BaurJoe
     - https://www.facebook.com/BaurJoe
     - http://www.youtube.com/user/MildlyRelevant/
 webmaster_verifications:
-  google: 1234
+  google: diU23OclJ1EoZzWYSp1qWcn9ujRhXfx0XUS3lFrF5zM
   bing: 1234
   alexa: 1234
   yandex: 1234
   baidu: 1234
 lang: en_US
-google-analytics: UA-1234567890
+google-analytics: UA-24585508-2
 
 # post permalinks
 permalink: /:title/
-permalink: pretty
-
-# jekyll-archives
-jekyll-archives:
-  enabled: []
-  layout: page
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
-    slug_mode: latin
 
 # jekyll-cloudinary
 cloudinary:
-  cloud_name: <put here your Cloudinary "Cloud name">
+  cloud_name: withoutapath
   verbose: false
   presets:
     default:
@@ -118,20 +89,55 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "joebaur"
       layout: "post"
       image: /assets/img/grumpy.jpg
-  - scope:
-      path: ""
-      type: category
-    values:
-      layout: "category"
 
 # collections
 collections:
   authors:
     output: false
-  travel-guides:
-    output: true
-  category:
-    output: true
+
+autopages:
+  enabled: enabled
+  categories: 
+    layouts: 
+      - 'autopage_category.html'
+    title: 'Posts in category :cat'
+    permalink: '/category/:cat'
+    slugify:
+      mode: 'default'
+      case: true
+  collections:
+    layouts: 
+      - 'autopage_collection.html'
+    title: 'Posts in collection :coll'
+    permalink: '/collection/:coll'
+    slugify:
+      mode: 'default'
+      case: true 
+  tags:
+    layouts: 
+      - 'autopage_tags.html'
+    title: 'Posts tagged with :tag'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: 'default'
+      case: true
+
+# Pagination Settings
+pagination:
+  enabled: true
+  collection: 'posts'
+  per_page: 9
+  permalink: '/page-:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# contact info 
+email: joe@joebaur.com
+address: A108 Adam Street, New York, NY 535022
+phone: +1 559 554 8855
+google-maps-embed: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38842.872214853356!2d13.368744298832484!3d52.52113878672291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e373f035901%3A0x42120465b5e3b70!2sBerlin!5e0!3m2!1sen!2sde!4v1594716411672!5m2!1sen!2sde
+formspree: mbjzpoqw

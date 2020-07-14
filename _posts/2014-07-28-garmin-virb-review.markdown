@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Garmin VIRB Review - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/07/Garmin-VIRB-Review-JoeBaur-292x300.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/07/Garmin-VIRB-Review-JoeBaur.jpg){: .img-fluid}
+[![Garmin VIRB Review - JoeBaur]({{ site.url }}/assets/img/2014/07/Garmin-VIRB-Review-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/07/Garmin-VIRB-Review-JoeBaur.jpg){: .img-fluid}
 
 Cycling a new city or country is perhaps my favorite way to travel. It's a much more intimate experience than motoring through neighborhoods and countryside, especially considering your eyes _should_ be firmly planted on the road ahead. You miss waterfalls out in the distance and chance encounters when you're behind the wheel rather than on two wheels.
 

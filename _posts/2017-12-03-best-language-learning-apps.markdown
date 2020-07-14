@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![Vaucluse Provence France](https://withoutapath.com/wp-content/uploads/2017/11/Vaucluse-Provence-France-1024x683.jpg){: .img-fluid}
+![Vaucluse Provence France]({{ site.url }}/assets/img/2017/11/Vaucluse-Provence-France.jpg){: .img-fluid}
 
 If there's anything I can encourage someone traveling to do, it's to start learning a new language. Studying abroad, [moving abroad](https://withoutapath.com/moving-to-germany/), traveling abroad -- doesn't matter. Wherever you're going, spending just 20 to 60 minutes a day learning some basics of your host country's language will go a long way in enriching your experience. After all, what makes a trip special is meeting fellow travelers, locals, and sharing stories.
 

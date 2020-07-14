@@ -7,7 +7,7 @@ tags:
 - Morocco
 ---
 
-![Inside Marrakech Train Station](https://withoutapath.com/wp-content/uploads/2018/03/inside-marrakech-train-station_40567036602_o-1024x683.jpg){: .img-fluid}
+![Inside Marrakech Train Station]({{ site.url }}/assets/img/2018/03/inside-marrakech-train-station_40567036602_o.jpg){: .img-fluid}
 
 _Recently I rode the Moroccan rails from Marrakech to Fes, Fes to Meknes, and finally, Meknes to Tangier. Below I share my experience. Not interested in a story? Scroll to the end for information on train schedules for various popular routes and how to book tickets to ride the train in Morocco._
 
@@ -17,13 +17,13 @@ An electronic sign like any other at a train station hangs over the ticket booth
 
 I'm pleased to see that Moroccan train stations, at least this one in Marrakech, have integrated Arabic design. The building is box-shaped and the front looks like the "Babs" or gates into the Medinas you can see all around town.
 
-![Marrakech Train Station](https://withoutapath.com/wp-content/uploads/2018/03/marrakech-train-station_39898219874_o-1024x640.jpg){: .img-fluid}
+![Marrakech Train Station]({{ site.url }}/assets/img/2018/03/marrakech-train-station_39898219874_o.jpg){: .img-fluid}
 
 After snapping a few photos, I head back in and we decide to make our way to the platform. Two ticket inspectors are at the door leading to the platform, dressed in sharp ONCF uniforms, surrounded by a couple of other employees. They're chatting in Arabic, interrupting their conversation to wish passengers a nice trip in their native language, French, and English. We hand over our tickets, an older gentleman scans them, hands them back with a smiling nod, and we're on our way.
 
 I had been previously told that Moroccan trains were far better than Indian, but not quite as nice as [German trains with Deutsche Bahn](https://withoutapath.com/german-train/). I suppose if I have to nitpick, Deutsche Bahn's high-speed line would get my nod, but the level of comfort was apples to apples. I could nap, stare out the window, or read until I inevitably napped again.
 
-![Inside a Morocco Train](https://withoutapath.com/wp-content/uploads/2018/03/inside-morocco-train_38799616140_o-1024x774.jpg){: .img-fluid}
+![Inside a Morocco Train]({{ site.url }}/assets/img/2018/03/inside-morocco-train_38799616140_o.jpg){: .img-fluid}
 
 Our first class cabin featured a clear mix of tourists and locals. I was pleased to see locals at all, fearing that first class might be an even more blatant economic segregator than the name already implies. We ended up in first class only because our ticket provider assured us that the cost (coming from Euros) would be negligibly different from second class. Looking it up after our trip, second class from Marrakech to Fes would cost 206 dirhams ($22 or 18€) or 311 ($34 or 27€) in first class.
 
@@ -31,7 +31,7 @@ We opted to purchase with a ticket provider on the ground not knowing if ticket 
 
 If you do want to save a few dirhams or simply feel a little icky about sitting in first class, second class appeared to be perfectly fine -- same as it is throughout Europe. The only difference I could decipher was that there were four seats split by an aisle instead of just three, as was the case in first class. On later trains, we'd be seated in different arrangements -- ending our trip to Tangier in an eight-seater compartment with a Moroccan man and painfully shy American woman.
 
-![Morocco Train Scenery](https://withoutapath.com/wp-content/uploads/2018/03/morocco-train-scenery_39898249644_o-1024x559.jpg){: .img-fluid}
+![Morocco Train Scenery]({{ site.url }}/assets/img/2018/03/morocco-train-scenery_39898249644_o.jpg){: .img-fluid}
 
 However you do it, the lesson should, in any case, be clear -- travel by train in Morocco is a treat. Starting in Marrakech, you can see the scenery change from the sprawling construction of the city's 'new town' to the lifeless desert landscapes of Hollywood imagination surrounded by the shrinking Atlas mountains. Splashes of green appear as we trudge along with the occasional smattering of villages. The only people outside appear to be farmers cultivating their land. Every time I pull back the red-orange curtain hanging over my window, I see that the greenery has intensified considerably.
 
@@ -41,7 +41,7 @@ The scenery is only marred, or more plainly, ruined in an area around Ain Taouja
 
 ## How to Ride the Train in Morocco
 
-![Marrakech Train Platform](https://withoutapath.com/wp-content/uploads/2018/03/marrakech-train-platform_39714326595_o-1024x601.jpg){: .img-fluid}
+![Marrakech Train Platform]({{ site.url }}/assets/img/2018/03/marrakech-train-platform_39714326595_o.jpg){: .img-fluid}
 
 Riding the train in Morocco is stress-free with a little planning. As I mentioned, you can buy tickets at the station, but it's smart to purchase in advance, especially if you're first arriving to Morocco by plane. The train stations are not within walking distance of the Medinas, where most travelers will be staying, so you'd have to plan a taxi trip to the station and back to your riad simply to buy train tickets. Though if you're taking multiple train trips, you could always buy your departure tickets as you arrive at the station.
 
@@ -51,6 +51,6 @@ Something else to note -- they do serve food on the trains. A man (it was always
 
 Below is a chart of estimated travel times of popular routes, like Marrakech to Casablanca or Fes to Tangier. Though the train paused on the track for more than 10 minutes on both long journeys, these delays are worked into the schedule. Both of our long-distance trains arrived either on time or shortly after the posted arrival. You can search additional routes in Arabic and French at [ONCF's website](https://www.oncf-voyages.ma/).
 
-![Morocco Train Times](https://withoutapath.com/wp-content/uploads/2018/03/Morocco-Train-Times-683x1024.jpg){: .img-fluid}
+![Morocco Train Times]({{ site.url }}/assets/img/2018/03/Morocco-Train-Times.jpg){: .img-fluid}
 
 Have any other questions about riding the train in Morocco? Leave a comment below.

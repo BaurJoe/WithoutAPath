@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![Impressions Of Switzerland - JoeBaur](/wp-content/uploads/2014/06/_d_improd_/Impressions-Of-Switzerland-JoeBaur-1024x575_f_improf_600x336.png)](https://withoutapath.com/wp-content/uploads/2014/06/Impressions-Of-Switzerland-JoeBaur.png)
+[![Impressions Of Switzerland - JoeBaur](/wp-content/uploads/2014/06/_d_improd_/Impressions-Of-Switzerland-JoeBaur-1024x575_f_improf_600x336.png)]({{ site.url }}/assets/img/2014/06/Impressions-Of-Switzerland-JoeBaur.png)
 
 After spending the past week in [Switzerland](https://withoutapath.com/traveling-switzerland/), what has struck me the most is the prioritization of pedestrians. That’s not to say Switzerland is without its fair share of reckless drivers. Engines are revved in narrow streets, drivers can be seen texting behind the wheel, and cyclists might have to occasionally swerve around a clueless driver trying to turn onto their lane. This is not so much a Swiss thing as much as a pandemic resulting from the automobile’s acceptance by society.
 

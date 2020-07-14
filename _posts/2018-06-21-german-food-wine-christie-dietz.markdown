@@ -6,7 +6,7 @@ categories:
 - Travel
 ---
 
-[caption id="attachment_7392" align="aligncenter" width="1024"]![Christie Dietz A Sausage Has Two](https://withoutapath.com/wp-content/uploads/2018/06/Christie-Dietz-A-Sausage-Has-Two-1024x682.jpg){: .img-fluid} Photo by Tetyana Lux[/caption]
+[caption id="attachment_7392" align="aligncenter" width="1024"]![Christie Dietz A Sausage Has Two]({{ site.url }}/assets/img/2018/06/Christie-Dietz-A-Sausage-Has-Two.jpg){: .img-fluid} Photo by Tetyana Lux[/caption]
 
 _Off the beaten path travel is increasingly difficult to find as time marches on. Mass tourism is impacting everything from our favorite cities to the seas that surround them. All the while locals and the environment are often an afterthought. This series, [Trailblazers](https://withoutapath.com/category/trailblazers), checks in with writers, photographers, filmmakers, activists and environmentalists who are passionate about off the beaten path travel._
 
@@ -24,7 +24,7 @@ Christie Dietz was born in London, but after moving about a bit, working in vari
 
 **CD **The name comes from the German saying, “Alles hat ein Ende, nur die Wurst hat zwei." That is, “everything has an end, only the sausage has two." Sausages do feature on the site. There are allegedly over 1,500 different types in Germany, so it would be remiss of me not to include them, but I try to present the German cuisine in a way that goes beyond its stereotype. The traditional food and drink here is largely seasonal and very regional, and I try to reflect that in the stories I tell about my culinary explorations, the traditions and processes I learn about, and the people that I meet. I also share guides to ingredients and dishes, traditional German recipes, and culinary travel guides including recommendations for what and where to eat and drink.
 
-![Saumagen stuffed pig's stomach](https://withoutapath.com/wp-content/uploads/2018/06/Saumagen-stuffed-pigs-stomach-1024x681.jpg){: .img-fluid}
+![Saumagen stuffed pig's stomach]({{ site.url }}/assets/img/2018/06/Saumagen-stuffed-pigs-stomach.jpg){: .img-fluid}
 
 **WAP** _Was there a moment -- a specific meal or drink -- that more or less convinced you to start writing about German cuisine?_
 
@@ -38,7 +38,7 @@ Christie Dietz was born in London, but after moving about a bit, working in vari
 
 **CD **I’d encourage visitors to travel not just to the most obvious locations such as Munich and Berlin, but visit other cities, too -- Frankfurt or Münster, perhaps -- or explore German wine country, the mountains or the coast. Germany is a huge country, and culinary traditions vary around it to an astonishing degree. Wander away from the hotspots and you can try all sorts of lesser-known regional specialties and join in with all manner of local events, from seafood festivals on the beach to cheese-making demonstrations on a dairy farm, and gin tastings at small distillers or vineyard wine walks.
 
-![Vineyards at Eltville-Martinsthal](https://withoutapath.com/wp-content/uploads/2018/06/Vineyards-at-Eltville-Martinsthal-1024x768.jpg){: .img-fluid}
+![Vineyards at Eltville-Martinsthal]({{ site.url }}/assets/img/2018/06/Vineyards-at-Eltville-Martinsthal.jpg){: .img-fluid}
 
 **WAP** _What’s been the biggest surprise you’ve experienced since getting started on this topic?_
 
@@ -50,13 +50,13 @@ Now I’m traveling around the country with the specific purpose of learning abo
 
 **CD **There’s so much of the country I’ve yet to explore, but I’m very much in love with the region in which I live. Whether you’re eating a cured pork chop with sauerkraut and mashed potato and some very potent local apple wine in a traditional tavern in Frankfurt, or at a seasonal pop-up restaurant in the vineyards enjoying white asparagus and drinking wine, there’s a real focus on enjoying yourself around here, and on making sure others are having a good time, too.
 
-![White asparagus and ham](https://withoutapath.com/wp-content/uploads/2018/06/White-asparagus-and-ham.jpg){: .img-fluid}
+![White asparagus and ham]({{ site.url }}/assets/img/2018/06/White-asparagus-and-ham.jpg){: .img-fluid}
 
 **WAP** _What are you most excited about in the world of German cuisine?_
 
 **CD **Right now, the young winemakers in the Pfalz (Palatinate). German wine has a very unfair reputation around much of the rest of the world, but some truly excellent wines are produced here, and the quality of wine that’s being produced by the next generation of vintners in the Pfalz is quite extraordinary. There’s a competition every year open to winemakers along the Südliche Weinstraße (southern wine route, which runs through the Pfalz down to the French border) under 35 years old. I got to spend a bit of time with some of them recently, and I find their passion, knowledge, and the way in which they work together incredibly inspiring. In particular, I’d recommend checking out Marius Meyer (of Weingut Klaus Meyer) and Stefan Meyer (no relation) if you’re visiting the region.
 
-![Wine from Marius Meyer](https://withoutapath.com/wp-content/uploads/2018/06/Wine-from-Marius-Meyer-1024x768.jpg){: .img-fluid}
+![Wine from Marius Meyer]({{ site.url }}/assets/img/2018/06/Wine-from-Marius-Meyer.jpg){: .img-fluid}
 
 **WAP** _Could you offer any tips for travelers who might be intimidated by some of the very German sounding menu offerings?_
 

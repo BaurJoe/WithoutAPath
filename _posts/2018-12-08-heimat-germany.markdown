@@ -6,7 +6,7 @@ categories:
 - There Must Be Order
 ---
 
-![Hiking In Germany Neckarsteig](https://withoutapath.com/wp-content/uploads/2018/05/Hiking-In-Germany-Neckarsteig-1024x1022.jpeg)
+![Hiking In Germany Neckarsteig]({{ site.url }}/assets/img/2018/05/Hiking-In-Germany-Neckarsteig.jpeg)
 
 _The following is a chapter from an upcoming memoir on moving to and living in Germany. [Read more here](https://withoutapath.com/category/essays/there-must-be-order/)._
 

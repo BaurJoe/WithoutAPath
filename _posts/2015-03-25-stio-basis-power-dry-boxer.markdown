@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Stio Basis Power Dry Boxer - JoeBaur](/wp-content/uploads/2015/03/_d_improd_/Stio-Basis-Power-Dry-Boxer-JoeBaur_f_improf_493x347.png)](https://withoutapath.com/wp-content/uploads/2015/03/Stio-Basis-Power-Dry-Boxer-JoeBaur.png)
+[![Stio Basis Power Dry Boxer - JoeBaur](/wp-content/uploads/2015/03/_d_improd_/Stio-Basis-Power-Dry-Boxer-JoeBaur_f_improf_493x347.png)]({{ site.url }}/assets/img/2015/03/Stio-Basis-Power-Dry-Boxer-JoeBaur.png)
 
 Stio power basis boxer. I'll keep this short and sweet. After all, this is a boxer review and I'm sure I speak for everyone reading that we want to keep the discussion of that region on me to a minimum.
 

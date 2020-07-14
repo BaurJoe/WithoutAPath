@@ -3,7 +3,7 @@ title: Venice, Italy
 permalink: /travel-guides/venice-italy/
 ---
 
-![Things To Do In Venice, the Grand Canal](https://withoutapath.com/wp-content/uploads/2017/03/Venice-Italy-Grand-Canal.jpg){: .img-fluid}
+![Things To Do In Venice, the Grand Canal]({{ site.url }}/assets/img/2017/03/Venice-Italy-Grand-Canal.jpg){: .img-fluid}
 
 ## Venice, Italy Travel Guide Off The Beaten Path
 
@@ -21,7 +21,7 @@ Whenever you travel to Venice, arrive on the island by train or bus. [The large 
 
 ## Cannaregio
 
-![](https://withoutapath.com/wp-content/uploads/2017/03/Cannaregio-Venice-Italy.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2017/03/Cannaregio-Venice-Italy.jpg){: .img-fluid}
 Cannaregio on the northern side of the main island and Grand Canal is where you're going to want to spend most of your time if you're someone who prefers getting off the tourist trek. Of course, this is Venice, so it's nearly impossible to be completely rid of your fellow travelers. In Cannaregio it's at least possible to walk long stretches without a soul in sight or perhaps just a handful of locals passing by. It's a photographer's dream here because you can get a sense of what Venice would look like without mass tourism.
 
 Parts of Cannaregio are still firmly on the tourist trek, namely Strada Nova, but head towards Campo del Ghetto Novo (an old Jewish ghetto) and you'll see the crowds thin out very quickly. Head even further north in the neighborhood toward Chiesa di Sant'Alvise and you'll hear the echo of your feet stamping along the street.
@@ -34,7 +34,7 @@ When it comes to wining and dining, you're simply going to be stuck with at leas
 
 This neighborhood, along with San Marco, is really when you start to get into the thick of the crowds. The best time to do busy neighborhoods like San Polo is early in the morning before the hordes of tourists start their own treks across the city. You can use San Polo as the bridge between Cannaregio, San Marco and Dorsoduro, so you certainly won't be light on reasons to at least make a jaunt through the area. [Mercato di Rialto](http://www.in-venice.com/shop/mercato-di-rialto/) is also at the edge of San Polo along the Grand Canal, so arrive early if you want to see it in relative comfort because there's a water ferry (vaporetto) station here bringing people in.
 
-![Venice, Italy Empty Street](https://withoutapath.com/wp-content/uploads/2017/03/Empty-Venice-Street.jpg){: .img-fluid}
+![Venice, Italy Empty Street]({{ site.url }}/assets/img/2017/03/Empty-Venice-Street.jpg){: .img-fluid}
 
 * * *
 
@@ -58,7 +58,7 @@ Lido has seen better times. This used to be where Venetians of the main island c
 
 Some other highlights include grand hotels that are either closed or only seasonally open these days. Lido also remains home to the Venice International Film Festival, but the area surrounding the theater is rather quiet otherwise. Most activity -- restaurants, pedestrian traffic -- is along the main thoroughfare near the vaporetto docks, Granviale Santa Maria Elisabetta.
 
-![](https://withoutapath.com/wp-content/uploads/2017/03/Standup-Paddleboarding-Venice.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2017/03/Standup-Paddleboarding-Venice.jpg){: .img-fluid}
 
 * * *
 
@@ -76,7 +76,7 @@ Train connections from Aeroporto Marco Polo di Venezia to Venice's Piazza Rom
 
 _Tip: If you know you'll want to travel to another island, such as Murano or Lido, invest in a day-pass._
 
-![](https://withoutapath.com/wp-content/uploads/2017/03/Ca-Sagredo-Hotel-Venice-Italy.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2017/03/Ca-Sagredo-Hotel-Venice-Italy.jpg){: .img-fluid}
 
 * * *
 

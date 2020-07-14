@@ -13,6 +13,6 @@ Without A Path will be back as soon as possible out of Düsseldorf, Germany.
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![Cultural Travels Through Colombia and Thuringia, Germany](https://withoutapath.com/wp-content/uploads/2016/08/Cultural-Travels-Through-Colombia-and-Thuringia-Germany-683x1024.png)](https://withoutapath.com/wp-content/uploads/2016/08/Cultural-Travels-Through-Colombia-and-Thuringia-Germany.png)
+[![Cultural Travels Through Colombia and Thuringia, Germany]({{ site.url }}/assets/img/2016/08/Cultural-Travels-Through-Colombia-and-Thuringia-Germany.png)]({{ site.url }}/assets/img/2016/08/Cultural-Travels-Through-Colombia-and-Thuringia-Germany.png)
 
 **Disclaimer:** I traveled as a guest of the [GNTB](http://www.germany.travel/en) and [Thüringen Entdecken](https://www.thueringen-entdecken.de/). As always, all opinions are my own.

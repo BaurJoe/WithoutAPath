@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Puente Sixaola 03 - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/05/Puente-Sixaola-03-JoeBaur-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/05/Puente-Sixaola-03-JoeBaur.jpg){: .img-fluid}
+[![Puente Sixaola 03 - JoeBaur]({{ site.url }}/assets/img/2015/05/Puente-Sixaola-03-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Puente-Sixaola-03-JoeBaur.jpg){: .img-fluid}
 
 ###### Seeing more of a country than someone who lives there
 

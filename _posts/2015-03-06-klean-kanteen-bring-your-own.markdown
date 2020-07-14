@@ -10,7 +10,7 @@ Klean Kanteen is in the business of preventing waste by encouraging water drinke
 
 With that in mind, Klean Kanteen sent one woman out to five fastfood restaurants with her own cup to see if they would fill that up instead of giving her their own paper cup. Some said yes and some said no, citing health codes, which is a tad confusing. Perhaps they caught Sean Hannity's latest feature on re-used cups being laced with ebolathrax (a deadly ebola-anthrax cocktail). But trust me, they're fine! I tried one out myself while hiking Costa Rica's Volcán Barva.
 
-[![Klean Kanteen - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/03/Klean-Kanteen-JoeBaur1-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/03/Klean-Kanteen-JoeBaur1.jpg){: .img-fluid}
+[![Klean Kanteen - JoeBaur]({{ site.url }}/assets/img/2015/03/Klean-Kanteen-JoeBaur1.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/03/Klean-Kanteen-JoeBaur1.jpg){: .img-fluid}
 
 After just one sip, I was able to fly to the top of the crater, battle a jaguar along the trail, and cure world hunger. Okay, that might be a bit of an exaggeration, but the larger point still stands. Stop being wasteful! Besides, I've always found water and other beverages have a bit of a funky taste out of paper cups. I'll stick to my Klean Kanteen, thank you.
 

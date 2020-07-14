@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![LANGUAGE LEARNING WITH HELLOTALK - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/10/LANGUAGE-LEARNING-WITH-HELLOTALK-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/10/LANGUAGE-LEARNING-WITH-HELLOTALK-JoeBaur.jpg){: .img-fluid}
+[![LANGUAGE LEARNING WITH HELLOTALK - JoeBaur]({{ site.url }}/assets/img/2015/10/LANGUAGE-LEARNING-WITH-HELLOTALK-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/10/LANGUAGE-LEARNING-WITH-HELLOTALK-JoeBaur.jpg){: .img-fluid}
 
 I've used this space on more than one occasion to talk about [languages](https://withoutapath.com/best-language-learning-apps/), namely my experiences of attempting to learn a thing or two in a foreign tongue. Most recently those languages have been [German](https://withoutapath.com/learning-german/) and [Japanese](https://withoutapath.com/learning-japanese/).
 

@@ -4,7 +4,7 @@ categories:
 - Trailblazers
 ---
 
-![Megan Mullan Half This World Away](https://withoutapath.com/wp-content/uploads/2017/11/Megan-Mullan-Half-This-World-Away-1024x682.jpeg)
+![Megan Mullan Half This World Away]({{ site.url }}/assets/img/2017/11/Megan-Mullan-Half-This-World-Away.jpeg)
 
 Off the beaten path travel is increasingly difficult to find as time marches on. Mass tourism is impacting everything from our favorite cities to the seas that surround them. All the while locals and the environment are often an afterthought. This series, [Trailblazers](http://withoutapath.com/category/trailblazers/), checks in with writers, photographers, filmmakers, activists and environmentalists who are passionate about off the beaten path travel.
 
@@ -24,7 +24,7 @@ She had her first taste of travel when she moved to Madrid to teach English and 
 
 Although they didn't speak any English ([nor do we speak Vietnamese](https://withoutapath.com/best-language-learning-apps/)) it was amazing the way we were able to communicate together. The people we met were completely self-sustainable; the community grow their own food, raise livestock, make their own clothing, and even [brew their own alcohol](https://withoutapath.com/italian-craft-beer/)!
 
-![Megan Mullan Half This World Away Interview](https://withoutapath.com/wp-content/uploads/2017/11/Megan-Mullan-Half-This-World-Away-Interview-1024x768.jpg){: .img-fluid}
+![Megan Mullan Half This World Away Interview]({{ site.url }}/assets/img/2017/11/Megan-Mullan-Half-This-World-Away-Interview.jpg){: .img-fluid}
 
 **WAP** _How did staying with this family compare to other aspects of traveling Vietnam. Presumably, you stayed at more traditional hotels?_
 
@@ -38,7 +38,7 @@ Although they didn't speak any English ([nor do we speak Vietnamese](https://wit
 
 **MM **There are some incredible places I've visited in Northern Scotland, tucked away in the highlands where you can easily go days without seeing another person. We visited a beach on the West Coast of Scotland where you can only drive so far and then need to walk for 90 minutes along a dirt track and eventually the path turns and you're faced with these huge sand dunes, rugged cliffs, and roaring waves. That was pretty incredible. It was so unexpected that you almost forgot you were still in Scotland. It's quite ironic that despite traveling all over the world, what I have been looking for was on my doorstep the whole time.
 
-![Megan Mullan Half This World Away Trailblazers Interview](https://withoutapath.com/wp-content/uploads/2017/11/Megan-Mullan-Half-This-World-Away-Trailblazers-Interview-1024x682.jpeg)
+![Megan Mullan Half This World Away Trailblazers Interview]({{ site.url }}/assets/img/2017/11/Megan-Mullan-Half-This-World-Away-Trailblazers-Interview.jpeg)
 
 **WAP** _How can the travel industry both preserve off the beaten path travel destinations and help those areas that have been negatively impacted by mass tourism?_
 

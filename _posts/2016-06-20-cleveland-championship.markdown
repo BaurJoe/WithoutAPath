@@ -78,4 +78,4 @@ For now, I'm happy to bask in the indescribable joy of the moment.
 
 See you at the parade on Wednesday, Cleveland.
 
-[![Cleveland - What it's like to live in a championship city pinterest](https://withoutapath.com/wp-content/uploads/2016/06/Cleveland-What-its-like-to-live-in-a-championship-city-pinterest.png)](https://withoutapath.com/wp-content/uploads/2016/06/Cleveland-What-its-like-to-live-in-a-championship-city-pinterest.png)
+[![Cleveland - What it's like to live in a championship city pinterest]({{ site.url }}/assets/img/2016/06/Cleveland-What-its-like-to-live-in-a-championship-city-pinterest.png)]({{ site.url }}/assets/img/2016/06/Cleveland-What-its-like-to-live-in-a-championship-city-pinterest.png)

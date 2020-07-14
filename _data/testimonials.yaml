@@ -1,0 +1,23 @@
+- testimonial:  
+  name: Judson
+  title: Awesome Person
+  quote: This is the thing that I want to say about Joe which indicates he is also an awesome person.
+  avatar: /assets/img/avatar-joebaur.jpg
+
+- testimonial: 
+  name: Joe
+  title: Awesome Person
+  quote: This is the thing that I want to say about Joe which indicates he is also an awesome person.
+  avatar: /assets/img/avatar-joebaur.jpg
+
+- testimonial: 
+  name: Daniel
+  title: Awesome Person
+  quote: This is the thing that I want to say about Joe which indicates he is also an awesome person.
+  avatar: /assets/img/avatar-joebaur.jpg
+
+- testimonial: 
+  name: Craig
+  title: Awesome Person
+  quote: This is the thing that I want to say about Joe which indicates he is also an awesome person.
+  avatar: /assets/img/avatar-joebaur.jpg

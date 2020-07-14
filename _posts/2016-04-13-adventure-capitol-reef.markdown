@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[caption id="attachment_3333" align="aligncenter" width="640"][![Capitol Reef National Park](https://withoutapath.com/wp-content/uploads/2016/04/IMG_0708-CapReef-Road72.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/04/IMG_0708-CapReef-Road72.jpg){: .img-fluid} Photo: capitolreef.org[/caption]
+[caption id="attachment_3333" align="aligncenter" width="640"][![Capitol Reef National Park]({{ site.url }}/assets/img/2016/04/IMG_0708-CapReef-Road72.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/04/IMG_0708-CapReef-Road72.jpg){: .img-fluid} Photo: capitolreef.org[/caption]
 
 I love nature and I love adventure. Something about fresh air filling my lungs with a western backdrop will always appeal to me. Despite my preference for city-living, few things satisfy me more than a week (or two) away from it all.
 
@@ -39,7 +39,7 @@ Looking at pictures, it seems like one would know they're at the Factory Butte B
 
 While you can certainly find adventure here (it's still Utah, after all), I'd' be inclined to camp out with my camera. I can only imagine the kind of photographic possibilities available at the Factory Butte Badlands. Perhaps I wouldn't even need an Instagram filter to save me.
 
-[![Amazing, once in a lifetime adventure in Capitol Reef](https://withoutapath.com/wp-content/uploads/2016/04/Amazing-once-in-a-lifetime-adventure-in-Capitol-Reef.png)](https://withoutapath.com/wp-content/uploads/2016/04/Amazing-once-in-a-lifetime-adventure-in-Capitol-Reef.png)
+[![Amazing, once in a lifetime adventure in Capitol Reef]({{ site.url }}/assets/img/2016/04/Amazing-once-in-a-lifetime-adventure-in-Capitol-Reef.png)]({{ site.url }}/assets/img/2016/04/Amazing-once-in-a-lifetime-adventure-in-Capitol-Reef.png)
 
 _**Sponsored:** __This post is sponsored by _[_Capitol Reef Country_](http://bit.ly/1LyoSdd)_._
 

@@ -29,7 +29,7 @@ For the purposes of this piece, we're looking at hiking the first three stages o
 
 ### Heidelberg to Neckargemünd -- 18 kilometers (including Philosophen Weg)
 
-![Heidelberg Castle Sun Flare](https://withoutapath.com/wp-content/uploads/2018/05/Heidelberg-Castle-Sun-Flare.jpeg)
+![Heidelberg Castle Sun Flare]({{ site.url }}/assets/img/2018/05/Heidelberg-Castle-Sun-Flare.jpeg)
 
 The Neckarsteig starts off in Heidelberg, one of the most significant cities in the region and most impressive. You'll either want to start or end your trip here.
 
@@ -39,7 +39,7 @@ That said, the university remains an anchor institution in the city. In fact, yo
 
 Getting back to the Neckarsteig, we started by adding a bit of a detour. A New Zealand photographer based in Heidelberg by the name of [Paul Michael](http://paulmichael.com.au) suggested starting with a jaunt along Philosophenweg (Philosopher's Walk) on the northern side of the Neckar River before heading up to Heidelberg Castle on the opposite side where the Neckarsteig trailhead is. Whether you do it the day before or as a start to your Neckarsteig hike, it's something to make time for if you're looking to get some of the best views of the city and the castle. Photographers will want to go the night before since the sun rises over the castle.
 
-![Hiking Neckarsteig Germany](https://withoutapath.com/wp-content/uploads/2018/05/Hiking-Neckarsteig-Germany.jpg){: .img-fluid}
+![Hiking Neckarsteig Germany]({{ site.url }}/assets/img/2018/05/Hiking-Neckarsteig-Germany.jpg){: .img-fluid}
 
 One of the many great things about hiking is you'll never know who you'll meet along the trail. Not two kilometers into the hike, a man on Philosophenweg starts chatting us up alongside his wife. Turns out he's from the former Yugoslavia and served in the Israeli military. He was visiting from where they now live in San Diego, "The only place worth living in within the United States" -- a point made abundantly clear after we shared that we're originally from [Ohio](https://withoutapath.com/travel-guides/cleveland/). Possibly sensing that belittling one's home state isn't the most endearing conversation starter, he switched to focusing on our dog, Moses, and suggesting that he make sure to keep his Facebook relationship  status to single "so he can find a nice Frau in Germany."
 
@@ -61,7 +61,7 @@ _See hike [here on Strava.](https://www.strava.com/activities/1536628583)_
 
 ### Neckargemünd to Neckarsteinach -- 12 kilometers
 
-![Singing, drinking, and dancing in Neckargemünd Germany](https://withoutapath.com/wp-content/uploads/2018/05/Singing-drinking-and-dancing-in-Neckargemünd-Germany.jpeg)
+![Singing, drinking, and dancing in Neckargemünd Germany]({{ site.url }}/assets/img/2018/05/Singing-drinking-and-dancing-in-Neckargemünd-Germany.jpeg)
 
 Neckargemünd is the first of _Die Romantischen Vier im Neckartal_ -- the romantic four in the Neckar Valley with Neckarsteinach, Hirschhorn, and Eberbach rounding out the group. Here you are firmly off the beaten path of Germany.
 
@@ -81,7 +81,7 @@ The bells continued throughout the morning hike to Neckarsteinach as we worked o
 
 Not wanting to keep us (we were weighed down by backpacks, after all), she wished us well on our hike after leaving us with a tip to check out Goethe's Blick -- a short detour off the next day's hike.
 
-![Dilsberg Castle Germany](https://withoutapath.com/wp-content/uploads/2018/05/Dilsberg-Germany.jpeg)
+![Dilsberg Castle Germany]({{ site.url }}/assets/img/2018/05/Dilsberg-Germany.jpeg)
 
 This second stage of hiking is, in total kilometers, comparatively short, but it starts with a steady climb for the first 1.5 kilometers before dipping back down just so you can go back up again into Dilsberg with its historically impregnable 12th-century castle. (That is, impregnable until Imperial forces took it in the 17th Century -- though at least [the French](https://withoutapath.com/trip-to-paris/) never did.)
 
@@ -93,7 +93,7 @@ _See hike [here on Strava](https://www.strava.com/activities/1538554639)._
 
 ### Neckarsteinach to Hirschhorn Castle -- 20 kilometers
 
-![Neckarsteinach Germany](https://withoutapath.com/wp-content/uploads/2018/05/Neckarsteinach-Germany.jpeg)
+![Neckarsteinach Germany]({{ site.url }}/assets/img/2018/05/Neckarsteinach-Germany.jpeg)
 
 Despite the distance, the trail from Neckarsteinach to Hirschhorn Castle is a slog compared to the first two stages. The climbing isn't as intense and is spread out over the 20-some kilometers. The Neckarsteig markers take you along the river, aiming for Hinterburg Castle, but a short detour up Schloßsteige (basically, castle climb) takes you to the castles of Vorderburg and Mittelburg. Vorderburg comes in on the right and is apparently private property -- something I didn't know when I meandered to the front, following a dirt path. The mailbox should've tipped me off, but the gates were open. What really should've tipped me off were the sheep that went sprinting down the hill as Moses started chasing them. After snapping a few photos of Vorderburg's enviable view of Neckarsteinach, a large gentleman came up to politely inform me that I was on private property and to please keep to the signposts with a shield on them. Certainly, this is a regular occurrence for him.
 
@@ -109,7 +109,7 @@ _See hike [here on Strava](https://www.strava.com/activities/1540789373)._
 
 ### Eberbach Castle
 
-![Burg Bernbach Castle Germany](https://withoutapath.com/wp-content/uploads/2018/05/Burg-Eberbach-Castle-Germany.jpg){: .img-fluid}
+![Burg Bernbach Castle Germany]({{ site.url }}/assets/img/2018/05/Burg-Eberbach-Castle-Germany.jpg){: .img-fluid}
 
 Though I usually prefer to stay in the town where I finished the day's hike, I spent the last two nights in Eberbach, which is where stage four ends and stage five begins. By train it's just seven minutes or so around the Neckar River to Hirschhorn and around 20 to Neckarsteinach. Staying in one town for a couple of nights came with two advantages. One, the obvious, I was able to leave some things behind in the hotel and carry a lighter load. Second, it gave me an opportunity to get to know the town a bit better. An extra 24 hours can do wonders for your memory and familiarity with a place, especially towns as small as those along the Castle Road and Neckarsteig. I rewarded myself with a delicious piece of _Kuchen _(cake) at Cafe Viktoria, inhaled a plate of Schwäbische Maultaschen at Restaurant Am Leopolds Platz, and got all my calories back with a German take on the cordon bleu with Spargel inside (white asparagus, a seasonal favorite, and damn-near a religion around here).
 

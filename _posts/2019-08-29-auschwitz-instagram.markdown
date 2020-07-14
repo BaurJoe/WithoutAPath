@@ -5,7 +5,7 @@ categories:
 - Europe
 ---
 
-![visit auschwitz](https://withoutapath.com/wp-content/uploads/2019/04/Visit-Auschwitz-filippo-bonadiman-1387216-unsplash-1024x678.jpg){: .img-fluid}Photo by [Filippo Bonadiman](https://unsplash.com/photos/FGnNunrxH3M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![visit auschwitz]({{ site.url }}/assets/img/2019/04/Visit-Auschwitz-filippo-bonadiman-1387216-unsplash.jpg){: .img-fluid}Photo by [Filippo Bonadiman](https://unsplash.com/photos/FGnNunrxH3M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _The following is part of my ongoing writing about exploring my Jewish heritage and ancestry through travel, religion, history, language, and food._
 
@@ -21,7 +21,7 @@ But where’s that website? It took hours of hammering away at my keyboard, tryi
 
 I was on my way to the death camp as a continuation of my self-made Jewish heritage tour. DNA results from 23andMe left me looking at my Ashkenazi ancestry in a new light, following the paper trail back to modern-day Dubinné, Slovakia where some of my Jewish ancestors left in 1884 to emigrate to the United States. [I planned a trip to visit the village just outside of Bardejov](https://withoutapath.com/bardejov-slovakia-jewish-heritage/), extending my trip to Krakow and Auschwitz to follow an alternative narrative. That is, had my ancestors not left, they likely would’ve ended up there or someplace similar. A local Slovakian researcher who helped me visit my ancestral village was already fairly certain that I would’ve had some relatives who stayed behind and quite possibly ended up in Auschwitz.
 
-![Jewish Cemetery Kurima, Slovakia](https://withoutapath.com/wp-content/uploads/2019/08/Jewish-Cemetery-Dubinne-Slovakia-1024x682.jpg){: .img-fluid}Desecrated Jewish cemetery near Dubinné, Slovakia
+![Jewish Cemetery Kurima, Slovakia]({{ site.url }}/assets/img/2019/08/Jewish-Cemetery-Dubinne-Slovakia.jpg){: .img-fluid}Desecrated Jewish cemetery near Dubinné, Slovakia
 
 To me, it’s important to consider the ‘what ifs’ of life. It helps put you in another person’s shoes, say, a refugee cramming into a flimsy raft to cross the Mediterranean in search of a better life. Even with this mission, I still couldn’t figure out how to best articulate visiting Auschwitz.
 
@@ -69,7 +69,7 @@ What could possibly go on in one’s mind to get to that point? The point where 
 
 On March 20, 2019, the Auschwitz Memorial Twitter account [responded to](https://twitter.com/AuschwitzMuseum/status/1108337507660451841) the incidents of Instagrammers, showing a series of photos of people balancing on the rails leading to Birkenau, captioned:
 
-![Auschwitz Memorial Tweet](https://withoutapath.com/wp-content/uploads/2019/08/Auschwitz-Memorial-1002x1024.png)
+![Auschwitz Memorial Tweet]({{ site.url }}/assets/img/2019/08/Auschwitz-Memorial.png)
 
 **_Graphic artist Ari Ritcher shared a similar account with [Tablet Magazine](https://www.tabletmag.com/jewish-life-and-religion/297164/never-again-will-i-visit-auschwitz)._**
 
@@ -175,7 +175,7 @@ It annoys me when people talk about groups of people like they no longer exist, 
 
 “Boy, that Wounded Knee sure was a blind spot. Now let’s go swing by that McDonald’s before checking out Mount Rushmore.”
 
-![Hamsa Kazimierz Krakow Poland](https://withoutapath.com/wp-content/uploads/2019/08/Hamsa-Kazimierz-Krakow-Poland-1024x691.jpg){: .img-fluid}Hamsa Israeli restaurant in Kazimierz
+![Hamsa Kazimierz Krakow Poland]({{ site.url }}/assets/img/2019/08/Hamsa-Kazimierz-Krakow-Poland.jpg){: .img-fluid}Hamsa Israeli restaurant in Kazimierz
 
 Fortunately, that doesn’t need to be the case after visiting Auschwitz when you’ve got Krakow’s historically Jewish neighborhood of Kazimierz. Some deride Kazimierz for becoming a tourist attraction, and that claim isn’t without merit judging by the plastic-covered, motorized train cars guiding people around. But it’s also a place where for the first time in my life, I caught a live show of Jewish Klezmer music with all the greatest hits, like “Hava Nagila.” At the show, I ordered a bowl of matzo ball soup, like Grandma used to make, and was able to simply be with Jews without exclusively lamenting what was lost. 
 

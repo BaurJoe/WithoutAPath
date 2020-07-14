@@ -4,7 +4,7 @@ categories:
 - North America
 ---
 
-![Westin Cadillac Detroit Entrance](https://withoutapath.com/wp-content/uploads/2017/11/Westin-Cadillac-Detroit-Entrance-1024x768.jpg){: .img-fluid}
+![Westin Cadillac Detroit Entrance]({{ site.url }}/assets/img/2017/11/Westin-Cadillac-Detroit-Entrance.jpg){: .img-fluid}
 
 An overwhelming sensation sweeps over me when I first step onto the sidewalk in front of the Westin Book Cadillac Detroit. I look up and feel a sense of awe. This is a Detroit, Neo-Renaissance landmark. This is an American landmark -- a beacon to the country's 20th Century prosperity and optimistic outlook on the world. Nothing could stop the United States. Nothing could stop Detroit.
 
@@ -14,7 +14,7 @@ Important people stayed at this hotel, the tallest in the world when it was buil
 
 Detroit is another story. Detroit is the story of the [American Dream](https://withoutapath.com/traveling-pittsburgh-american-dream/) gone wrong. It's been well-documented elsewhere and I certainly can't do the topic justice in a few paragraphs. Plus there's a fair bit of skepticism among Detroiters [when outsiders spend a few days in their city](http://beltmag.com/detroiters-talking-listen/) and rattle off analysis with an air of expertise, like someone going on cable news with the oblique title of "Political Commenter" to talk about some election. I won't do that.
 
-![Downtown Detroit](https://withoutapath.com/wp-content/uploads/2017/11/Downtown-Detroit-1024x768.jpg){: .img-fluid}
+![Downtown Detroit]({{ site.url }}/assets/img/2017/11/Downtown-Detroit.jpg){: .img-fluid}
 
 **But here's the thing. **[I love Detroit](http://www.bbc.com/travel/story/20140821-cycling-detroit-makes-too-much-sense-to-ignore). [I love being in Detroit](https://www.craftbeer.com/craft-beer-muses/no-sympathy-needed-breweries-continue-to-play-role-in-detroits-story). I love getting into arguments with people who look at me funny when I say such things.
 
@@ -26,6 +26,6 @@ I especially love the Westin Book Cadillac Detroit, because it tells a significa
 
 After a short evening walk, I'm happy to head back into the hotel and have a look around. It's hard for me to visualize $200 million in renovations, but Westin Cadillac appears to fit the bill. Maybe this is why I feel important staying here. All that money poured into an American landmark -- and I get to sleep there.
 
-![Detroit American Flag from Westin Cadillac Detroit Hotel](https://withoutapath.com/wp-content/uploads/2017/11/Detroit-American-Flag-from-Westin-Cadillac-Detroit-Hotel-1024x768.jpg){: .img-fluid}
+![Detroit American Flag from Westin Cadillac Detroit Hotel]({{ site.url }}/assets/img/2017/11/Detroit-American-Flag-from-Westin-Cadillac-Detroit-Hotel.jpg){: .img-fluid}
 
 **A rush of guilt sweeps over me.** I know I'm privileged in almost all the ways one can be privileged in the United States. I know that where I'm sleeping would be a fantasy for so many in the country, let alone those who actually call Detroit home. But as quickly as the thought came, it disappears as the view from a hallway window of downtown Detroit in an evening gray distracts me. I fixate for a moment on a waving American flag. The colors are as bright as the flags they use before baseball games to please the patriotic crowd and the folks watching from home. Not a single thread looks faded.

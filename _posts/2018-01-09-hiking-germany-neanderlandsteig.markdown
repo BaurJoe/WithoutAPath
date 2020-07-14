@@ -8,7 +8,7 @@ tags:
 - neanderland steig
 ---
 
-![Hiking on the Neanderlandsteig in Germany](https://withoutapath.com/wp-content/uploads/2018/01/Hiking-on-the-Neanderland-Steig-in-Germany-1024x683.jpg){: .img-fluid}
+![Hiking on the Neanderlandsteig in Germany]({{ site.url }}/assets/img/2018/01/Hiking-on-the-Neanderland-Steig-in-Germany.jpg){: .img-fluid}
 
 I'm hiking through villages and parks, alongside roads and trails that [most Germans have never heard](https://withoutapath.com/travel-guides/germany/) of let alone travelers like myself. We're kicking off this dreary, windy January morning with the 10th stage of the Neanderlandsteig in the Neandertal Valley. The name comes from the original discovery of Neanderthal remains in this region in the 19th century. “Neander” itself was named in honor of Joachim Neander, a 17th-century German pastor and hymn writer who found inspiration in the valley for his poetry. Plus, “Neander” is the Greek translation of “new man” as well as Joachim’s original, German family name of “Neumann.” His grandfather made the switch to the Greek “Neander” following an apparent fashion of the time.
 
@@ -16,7 +16,7 @@ I'm hiking through villages and parks, alongside roads and trails that [most Ger
 
 A red sign with a cursive, white “N” notes the trailhead on the side of the road at Grevenmühle and Metzkausener Straße just outside of Homberg in North Rhine Westphalia. (Like I said, all strange, unfamiliar names out here.) The sign is actually less of a trailhead and more of a marker or Wayfinder for hikers shaped just like a typical street sign. Erkrath, our goal for the day, is 17.1 kilometers ahead with stops at Stinderbachtal and Metzkausen along the way or there’s Ratingen back the other direction.
 
-![Stream along the Neanderlandsteig](https://withoutapath.com/wp-content/uploads/2018/01/Stream-along-the-Neanderland-Steig-Trail-in-Germany-1024x683.jpg){: .img-fluid}
+![Stream along the Neanderlandsteig]({{ site.url }}/assets/img/2018/01/Stream-along-the-Neanderland-Steig-Trail-in-Germany.jpg){: .img-fluid}
 
 The Neanderlandsteig does not have the pomp or wonderous views of Europe’s most celebrated hiking trails or even those in the same corner of the country, like the [Rheinsteig](https://withoutapath.com/germany-rheinsteig-trail/). Stages don’t always end conveniently in town or at the doorstep of a hotel. Public transportation can take a bit longer, connecting various buses [with the train](https://withoutapath.com/german-train/).
 
@@ -24,7 +24,7 @@ Rather, the Neanderlandsteig is an excellent, vivid representation of how seriou
 
 This 17.1-kilometer hike and I suspect the remaining 200-plus kilometers around the Neanderthal region, is ideal for clearing your head and getting a bit of fresh air without much preparation. Pack some snacks, look up the transportation, and go.
 
-![Farmhouse along the Neanderland Steig - Hiking in Germany](https://withoutapath.com/wp-content/uploads/2018/01/Farmhouse-along-the-Neanderland-Steig-Hiking-in-Germany--1024x536.jpg){: .img-fluid}
+![Farmhouse along the Neanderland Steig - Hiking in Germany]({{ site.url }}/assets/img/2018/01/Farmhouse-along-the-Neanderland-Steig-Hiking-in-Germany-.jpg){: .img-fluid}
 
 What you can expect are the staples of a local hike, both good and bad. You’ll hike, albeit briefly in the grand scheme of the day, in muddy goop next to high-speed vehicular traffic. But more often than not, especially in the second half of the hike, you’ll spend your time weaving between trees in wooded, dirt trails with occasional jaunts alongside picturesque farmscapes that seem like they’re from another, simpler era.
 

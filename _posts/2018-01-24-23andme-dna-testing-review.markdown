@@ -24,7 +24,7 @@ Last holiday season I was at a friend's place in Düsseldorf when this topic cam
 
 Since I've long been interested in my ancestry, I decided it made the perfect Christmas present and put it firmly at the top of my list. By the 26th of December, my spit was in a little tube and sent off to the 23andMe lab in [North Carolina](https://withoutapath.com/things-to-do-in-raleigh/). Just short of a month later, my results came in and it was like Christmas morning as a child all over again.
 
-[caption id="attachment_6894" align="aligncenter" width="1024"]![DNA Testing with 23 and Me](https://withoutapath.com/wp-content/uploads/2018/01/DNA-Testing-with-23-and-Me-1024x676.jpg){: .img-fluid} My results with 50 percent confidence.[/caption]
+[caption id="attachment_6894" align="aligncenter" width="1024"]![DNA Testing with 23 and Me]({{ site.url }}/assets/img/2018/01/DNA-Testing-with-23-and-Me.jpg){: .img-fluid} My results with 50 percent confidence.[/caption]
 
 **Let's dive right into the good stuff.** The app function is great, but I especially enjoyed viewing my background on a desktop computer where I can toggle their confidence level from the lowest (50 percent) to the highest, most conservative (90 percent). My largest ancestral group is British & Irish (who are lumped together due to sharing essentially the same DNA composition) at 49.1 percent. But if I toggle that confidence level up to 90 percent, it drops to 11.3 percent with a huge chunk of that going to "Broadly Northeastern European."
 
@@ -46,7 +46,7 @@ Point is, Nazis loved cars and my people loved nature (I assume).
 
 ## This Little Rhine Of Mine
 
-![Lorch, Germany Rheinsteig Hiking Trail](https://withoutapath.com/wp-content/uploads/2017/08/Lorch-Germany-Rheinsteig-1024x683.jpg){: .img-fluid}
+![Lorch, Germany Rheinsteig Hiking Trail]({{ site.url }}/assets/img/2017/08/Lorch-Germany-Rheinsteig.jpg){: .img-fluid}
 
 While the highlight for me was clearly the ancestral report, there are a number of other fun functions to play around with, like researching your respective paternal and maternal haplogroup (look it up) and connecting with your DNA Family, essentially far-removed cousins. (I've already connected with one in St. Louis.) An especially fun feature is finding out your connection to our Neanderthal ancestors. I, for example, have more Neanderthal variants in my DNA than 65 percent of 23andMe customers. I'd make a joke here about how that must explain a lot, but this only accounts for less than four percent of my DNA composition. Still, fun to look into and I have the bonus connection of living within a short bike or train ride away from the [Neander Valley](https://withoutapath.com/hiking-germany-neanderlandsteig/) where Neanderthal remains were first discovered.
 

@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Travel Hack - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/11/Landing-14-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/11/Landing-14.jpg){: .img-fluid}
+[![Travel Hack - JoeBaur]({{ site.url }}/assets/img/2014/11/Landing-14.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/11/Landing-14.jpg){: .img-fluid}
 
 "I'll never understand capitalism," a friend told me after I shared how a multi-city flight itinerary became cheaper than a one-way.
 

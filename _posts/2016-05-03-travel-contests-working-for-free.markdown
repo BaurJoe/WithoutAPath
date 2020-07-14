@@ -9,4 +9,4 @@ It feels like there's a new travel contest at least once a week, asking professi
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![Are travel contests worth working for free?](https://withoutapath.com/wp-content/uploads/2016/05/Are-travel-contests-worth-working-for-free-683x1024.png)](https://withoutapath.com/wp-content/uploads/2016/05/Are-travel-contests-worth-working-for-free.png)
+[![Are travel contests worth working for free?]({{ site.url }}/assets/img/2016/05/Are-travel-contests-worth-working-for-free.png)]({{ site.url }}/assets/img/2016/05/Are-travel-contests-worth-working-for-free.png)

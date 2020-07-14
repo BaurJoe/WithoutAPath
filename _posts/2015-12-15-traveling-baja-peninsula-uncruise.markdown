@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![Un-Cruise Adventures - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/12/Un-Cruise-Adventures-JoeBaur-1024x576.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/12/Un-Cruise-Adventures-JoeBaur.jpg){: .img-fluid}
+[![Un-Cruise Adventures - JoeBaur]({{ site.url }}/assets/img/2015/12/Un-Cruise-Adventures-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/12/Un-Cruise-Adventures-JoeBaur.jpg){: .img-fluid}
 
 By the time this publishes, I'll be out somewhere along the Baja Peninsula in the Sea of Cortés with [Un-Cruise Adventures](https://www.un-cruise.com/destinations/mexico-cruises).<!-- more -->
 
@@ -39,5 +39,5 @@ Fernando Jordán's _[El Otro Méxio: Biografía de Baja California](https://boo
 
 *Pretty sure my expecting good literary karma in return defeats the purpose. So let's say _I don't_ expect it in return...
 
-[![nudge-nudge-monty-python-105](https://withoutapath.com/wp-content/uploads/2015/12/nudge-nudge-monty-python-105.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/12/nudge-nudge-monty-python-105.jpg){: .img-fluid}
+[![nudge-nudge-monty-python-105]({{ site.url }}/assets/img/2015/12/nudge-nudge-monty-python-105.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/12/nudge-nudge-monty-python-105.jpg){: .img-fluid}
 

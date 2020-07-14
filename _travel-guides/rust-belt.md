@@ -3,7 +3,7 @@ title: Rust Belt
 permalink: /travel-guides/rust-belt/
 ---
 
-![Factory Sunrise](https://withoutapath.com/wp-content/uploads/2017/11/Factory-Sunrise-SD-Pictures-Pixabay-1024x682.jpg){: .img-fluid}
+![Factory Sunrise]({{ site.url }}/assets/img/2017/11/Factory-Sunrise-SD-Pictures-Pixabay.jpg){: .img-fluid}
 
 **There's steam rising from the sewers.** A closed down factory looms over the neighborhood where weeds are squeezing out in between the cracks on the sidewalk. The roads are wide with the old red brick pavement sticking out near the crosswalk, neglected by a shrinking tax base and empty city coffers.
 
@@ -23,7 +23,7 @@ Of course, this doesn't cover everyone, but point is,** the Rust Belt is diverse
 
 ## Where To Go in the Rust Belt
 
-![Empty Factory Building](https://withoutapath.com/wp-content/uploads/2017/11/Empty-Factory-Building-Tama66-Pixabay-1024x682.jpg){: .img-fluid}
+![Empty Factory Building]({{ site.url }}/assets/img/2017/11/Empty-Factory-Building-Tama66-Pixabay.jpg){: .img-fluid}
 
 The Rust Belt is generally defined as the industrial, manufacturing heart of the United States. **More recently people have characterized it as the manufacturing cities that have lost the most jobs, and in turn, people.** Case in point, boroughs of New York City and south side Chicago have manufacturing history but aren't typically thought of as part of the Rust Belt.
 
@@ -33,7 +33,7 @@ In reality, we're talking about Baltimore through the Midwest and over to St. Lo
 
 ## Buffalo
 
-![Buffalo, New York Aerial Skyline](https://withoutapath.com/wp-content/uploads/2017/11/Buffalo-New-York-Aerial-Skyline.jpg){: .img-fluid}
+![Buffalo, New York Aerial Skyline]({{ site.url }}/assets/img/2017/11/Buffalo-New-York-Aerial-Skyline.jpg){: .img-fluid}
 
 **Buffalo and Cleveland usually have it out over who has the worst winter.** Looking at snowfall, Buffalo usually wins and it seems to be a masochistic point of pride in the city.
 
@@ -51,7 +51,7 @@ I've long wanted to spend a weekend in downtown Buffalo, staying at Hotel at the
 
 ## Erie
 
-![Erie, Pennsylvania Rust Belt Guide](https://withoutapath.com/wp-content/uploads/2017/11/Erie-Pennsylvania-Rust-Belt-Guide-1024x586.jpg){: .img-fluid}
+![Erie, Pennsylvania Rust Belt Guide]({{ site.url }}/assets/img/2017/11/Erie-Pennsylvania-Rust-Belt-Guide.jpg){: .img-fluid}
 
 When you talk about cities in the Rust Belt, it's usually the bigger cities -- Buffalo, Pittsburgh, Cleveland, and Pittsburgh -- that get the brunt of negative stereotypes (though Pittsburgh has lately gotten a reputation of something of a Portland of the region). Locals and transplants alike will ridicule their city like a younger sibling. **Smaller cities in the area, however, like Erie, get gained up on by all of the above.**
 
@@ -63,7 +63,7 @@ I admit I held similar prejudice before I went to Erie for a wedding. Then I wal
 
 ## Pittsburgh
 
-![Pittsburgh Rust Belt Guide](https://withoutapath.com/wp-content/uploads/2017/11/Pittsburgh-Rust-Belt-Guide-1024x431.jpg){: .img-fluid}
+![Pittsburgh Rust Belt Guide]({{ site.url }}/assets/img/2017/11/Pittsburgh-Rust-Belt-Guide.jpg){: .img-fluid}
 
 **As a Clevelander, Pittsburgh is the city you're taught to hate growing up for no more valid reason than rival football teams.** Then when you're adult, [you go to Pittsburgh and realize](https://withoutapath.com/traveling-pittsburgh-american-dream/) it's been a pretty kickass city all along.
 
@@ -79,7 +79,7 @@ When it came to sleeping, I've done both the Renaissance Pittsburgh and Fairmont
 
 ## Youngstown
 
-[caption id="attachment_6686" align="aligncenter" width="1024"]![Youngstown, Ohio Rust Belt Guide](https://withoutapath.com/wp-content/uploads/2017/11/Youngstown-Ohio-Rust-Belt-Guide-1024x683.jpg){: .img-fluid} [Jack Pearce](https://www.flickr.com/photos/jwpearce/8256073370), [Flickr](https://creativecommons.org/licenses/by-sa/2.0/)[/caption]
+[caption id="attachment_6686" align="aligncenter" width="1024"]![Youngstown, Ohio Rust Belt Guide]({{ site.url }}/assets/img/2017/11/Youngstown-Ohio-Rust-Belt-Guide.jpg){: .img-fluid} [Jack Pearce](https://www.flickr.com/photos/jwpearce/8256073370), [Flickr](https://creativecommons.org/licenses/by-sa/2.0/)[/caption]
 
 **Few places are as berated as Youngstown.** Cities like Cleveland, Detroit, and Pittsburgh at least have seen a resurgence in (sometimes excessive) city pride. Such a thing is a rarity in Youngstown. One transplant told me it's "a dangerous shithole" before [my first visit to the city](https://withoutapath.com/visit-youngstown/). "I wish I could say something nicer."
 
@@ -97,7 +97,7 @@ If you have some spare time, do check out the [Youngstown Historical Center of 
 
 ## Cleveland
 
-![Cleveland Skyline](https://withoutapath.com/wp-content/uploads/2017/05/Cleveland-Skyline-1024x682.jpg){: .img-fluid}
+![Cleveland Skyline]({{ site.url }}/assets/img/2017/05/Cleveland-Skyline.jpg){: .img-fluid}
 
 Cleveland is where I'm from and so it's the city I know best. Since it's the city I know best, **I'm all the more likely to placate or alienate my fellow Clevelanders**, depending on who's reading. This is a city that is not only racially divided, much like other cities in the Rust Belt, but perceptually divided. What I mean by that is, Cleveland can be the greatest city in the country, a dangerous shithole, or a backward pitstop on the way to another city that has its shit together. There's very little nuance in Cleveland between the so-called _boosters_ who will cheerlead the city despite evidence to the contrary and their counterparts who cringe at the idea of another brewery opening up in their neighborhood.
 
@@ -127,7 +127,7 @@ If you want more Cleveland recommendations, you can head over to our [Cleveland 
 
 ## Toledo
 
-![Toledo Ohio Rust Belt Guide](https://withoutapath.com/wp-content/uploads/2017/11/Toledo-Ohio-Rust-Belt-Guide.jpg){: .img-fluid}
+![Toledo Ohio Rust Belt Guide]({{ site.url }}/assets/img/2017/11/Toledo-Ohio-Rust-Belt-Guide.jpg){: .img-fluid}
 
 Like Youngstown, **we're back in a particularly, unfairly badgered part of the Rust Belt.** Though I don't agree with the logic, having professional sports franchises in Cleveland, Pittsburgh, Buffalo, and Detroit somehow seem to give them more relevance in the national consciousness. Someone might dog on Cleveland, but they might say, "At least they have LeBron and the Cavs." Smaller cities in the Rust Belt, like Toledo, appear to be without purpose to outsiders simply because they don't pop up on ESPN every now and again.
 
@@ -143,7 +143,7 @@ Another strong memory that's stuck with me all these years is taking a slice out
 
 ## Detroit
 
-![Detroit American Flag from Westin Cadillac Detroit Hotel](https://withoutapath.com/wp-content/uploads/2017/11/Detroit-American-Flag-from-Westin-Cadillac-Detroit-Hotel-1024x768.jpg){: .img-fluid}
+![Detroit American Flag from Westin Cadillac Detroit Hotel]({{ site.url }}/assets/img/2017/11/Detroit-American-Flag-from-Westin-Cadillac-Detroit-Hotel.jpg){: .img-fluid}
 
 **Rust Belt cities are historically racially divided** thanks to a number of political policies and neighborhood-demolishing highways that fed the growth of white-majority suburbs. This is true from Buffalo to Detroit -- but no city has felt this pain of [the suburban-urban divide](http://beltmag.com/turns-kid-rocks-senate-run-prank-divisions-exposed-detroit-surrounding-suburbs-no-joke/) quite like the Motor City.
 
@@ -151,7 +151,7 @@ I went to Detroit several times as a kid, back when the Tigers were atrocious an
 
 After the games, we always left and went home. Years later I returned to run the half-marathon but ended up staying in Windsor since all the hotels downtown were booked up. My first real trip to Detroit didn't happen until I went there to write a story for [BBC Travel](http://www.bbc.com/travel/story/20140821-cycling-detroit-makes-too-much-sense-to-ignore) and [CraftBeer.com](https://www.craftbeer.com/craft-beer-muses/no-sympathy-needed-breweries-continue-to-play-role-in-detroits-story). I stayed at the [Westin Book Cadillac in downtown Detroit](https://withoutapath.com/westin-book-cadillac-detroit/), which felt like the luxurious way to see the Rust Belt. I don't say that disparagingly. If you can, I think you should stay at the Westin Book Cadillac. It's in a gorgeous building, a slice not only of Detroit history but of American history, and it's in an incredibly walkable, downtown location.
 
-![Motor City Brew Tours Detroit](https://withoutapath.com/wp-content/uploads/2015/04/Detroit-Craft-Beer-JoeBaur-1024x768-1024x768.jpg){: .img-fluid}
+![Motor City Brew Tours Detroit]({{ site.url }}/assets/img/2015/04/Detroit-Craft-Beer-JoeBaur-1024x768.jpg){: .img-fluid}
 
 The heart of my trip was spent cycling with Motor City Brew Tours -- [hands down the best way to see the city for a first-timer](http://motorcitybrewtours.com). We met at Motor City Brewing Works ([where they only hire Detroit city residents](http://www.motorcitybeer.com/)) on a warm, sunny October morning and were **led around parts of the city even suburban locals said they had never seen.**
 
@@ -175,7 +175,7 @@ There are cities in the Rust Belt I haven't been to that I'd very much like to s
 
 ## Transportation in the Rust Belt
 
-[caption id="attachment_6688" align="aligncenter" width="1024"]![Greyhound Bus - Ashley Gerlach Unsplash](https://withoutapath.com/wp-content/uploads/2017/11/Greyhound-Bus-Ashley-Gerlach-Unsplash-1024x683.jpg){: .img-fluid} _Ashley Gerlach, Unsplash_[/caption]
+[caption id="attachment_6688" align="aligncenter" width="1024"]![Greyhound Bus - Ashley Gerlach Unsplash]({{ site.url }}/assets/img/2017/11/Greyhound-Bus-Ashley-Gerlach-Unsplash.jpg){: .img-fluid} _Ashley Gerlach, Unsplash_[/caption]
 
 Amtrak [services are regrettably limited in the region](https://withoutapath.com/ride-amtrak/), especially for getting from city to city. It can be done, but expect to arrive in the middle of the night and note that certain connections between cities on this list are impossible. A car would be the most popular option. After all, this is the region that built the American car (and the American Dream), but **it's easy to see what damage unfettered acceptance of the personal vehicle has done to these cities.**
 

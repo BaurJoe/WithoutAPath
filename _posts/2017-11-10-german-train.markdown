@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![Inside Hamburg German Train Station](https://withoutapath.com/wp-content/uploads/2017/11/Inside-Hamburg-German-Train-Station-1024x683.jpg){: .img-fluid}
+![Inside Hamburg German Train Station]({{ site.url }}/assets/img/2017/11/Inside-Hamburg-German-Train-Station.jpg){: .img-fluid}
 
 Convenience and efficiency -- that's the German train system in a nutshell. You have the sleek, futuristic-looking high-speed trains that glide into the station without so much as a rumble. Then there are the regional services, a bit bulkier, that slow your trip down, but [give you access](https://withoutapath.com/travel-guides/germany/) to some of those storybook German towns where [English is faintly spoken](https://withoutapath.com/most-important-german-travel-phrases/) and [hiking trails](https://withoutapath.com/germany-rheinsteig-trail/) are everywhere. Within the cities, you'll be hard-pressed not to find frequent and prevalent public transportation.
 
@@ -43,7 +43,7 @@ You can book your train in Germany online through Deutsche Bahn or through the D
 
 **When booking your train**, also take note of quiet cabins -- typically only available on high-speed and intercity trains. This is what I'm always looking for, so I can either doze off or look out the window in peace. You'll also have the opportunity to reserve a seat, which is more often than not unnecessary. It's worth it if you have a bunch of bags and don't want to drag them around as you look for a seat. A single seat reservation costs €9. That can add up over time if you're reserving a seat for every train on your trip with multiple people.
 
-## ![Outside Hamburg German Train Station](https://withoutapath.com/wp-content/uploads/2017/11/Outside-Hamburg-German-Train-Station-1024x536.jpg){: .img-fluid}
+## ![Outside Hamburg German Train Station]({{ site.url }}/assets/img/2017/11/Outside-Hamburg-German-Train-Station.jpg){: .img-fluid}
 
 ## Cheap Train Tickets in Germany
 

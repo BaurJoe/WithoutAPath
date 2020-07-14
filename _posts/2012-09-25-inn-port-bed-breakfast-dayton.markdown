@@ -9,7 +9,7 @@ Dayton has a special niche in the tourism industry as the home to the [National 
 
 ## **A Sense Of Home at Dayton's Inn Port Bed and Breakfast**
 
-[![Inn Port Bed and Breakfast Dayton](https://withoutapath.com/wp-content/uploads/2012/09/Inn-Port-DVino1-e1348589014123-224x300.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2012/09/Inn-Port-DVino1.jpg){: .img-fluid}The Inn Port offers two buildings for guests, both located on Brown Street near the [Oregon Historic District's](http://oregondistrict.org/) 5th Street. The Inn Port Guesthouse at 137-139 Brown Street across from Newcome Park offers cheaper rates than its neighbor down the block, Inn Port D'Vino - a lodging with a "wine destination" theme that doubles as [Deaf Monty's Wine Bar](https://www.facebook.com/pages/Deaf-Montys-Wine/133561190054002?sk=info).
+[![Inn Port Bed and Breakfast Dayton]({{ site.url }}/assets/img/2012/09/Inn-Port-DVino1-e1348589014123.jpg){: .img-fluid}]({{ site.url }}/assets/img/2012/09/Inn-Port-DVino1.jpg){: .img-fluid}The Inn Port offers two buildings for guests, both located on Brown Street near the [Oregon Historic District's](http://oregondistrict.org/) 5th Street. The Inn Port Guesthouse at 137-139 Brown Street across from Newcome Park offers cheaper rates than its neighbor down the block, Inn Port D'Vino - a lodging with a "wine destination" theme that doubles as [Deaf Monty's Wine Bar](https://www.facebook.com/pages/Deaf-Montys-Wine/133561190054002?sk=info).
 
 Originally, Melanie booked two nights at the Guesthouse, but she soon received a call from our soon-to-be host noting a booking error. Apparently, the room was already taken, but not properly noted online. Blasted, computers! Luckily, we were generously upgraded to the D'Vino's [Oporto Room](http://www.innport.com/dvino/oporto.asp) at no extra cost.
 
@@ -35,7 +35,7 @@ Breakfast was self-serve. Leslie, as promised, prepared the coffee maker for us 
 
 **Centrally Located**
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/Downtown-Oregon-1-1024x765.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/Downtown-Oregon-1.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/05/Downtown-Oregon-1.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/Downtown-Oregon-1.jpg){: .img-fluid}
 
 Best of all about the Inn, it's centrally located in Dayton's most attractive neighborhood. Everything you could possibly need from restaurants to bars and shops are within a couple of blocks. Even a walk to [RiverScape Metropark](http://www.metroparks.org/Parks/RiverScape/Home.aspx) is manageable in the right weather. But I highly recommend bringing a bike along, if possible, so you can better explore this piece of Rust Belt America.
 

@@ -6,7 +6,7 @@ categories:
 - Podcast
 ---
 
-![Former Peace Corps Volunteer Judson Moore Shares His Kyrgyzstan Travel Tips and What It’s Like to Watch a Goat Sacrifice ](https://withoutapath.com/wp-content/uploads/2018/02/Former-Peace-Corps-Volunteer-Judson-Moore-Shares-His-Kyrgyzstan-Travel-Tips-and-What-It’s-Like-to-Watch-a-Goat-Sacrifice--1024x576.jpg){: .img-fluid}
+![Former Peace Corps Volunteer Judson Moore Shares His Kyrgyzstan Travel Tips and What It’s Like to Watch a Goat Sacrifice ]({{ site.url }}/assets/img/2018/02/Former-Peace-Corps-Volunteer-Judson-Moore-Shares-His-Kyrgyzstan-Travel-Tips-and-What-It’s-Like-to-Watch-a-Goat-Sacrifice-.jpg){: .img-fluid}
 
 ## Kyrgyzstan Travel Tips, Judson Moore
 
@@ -16,7 +16,7 @@ Judson Moore knew he wanted to make the world better place at an admirably young
 
 [Twitter](https://www.twitter.com/judsonlmoore)  |  [Facebook](https://www.facebook.com/judsonlmooreblog)  |  [Instagram](https://www.instagram.com/judsonlmoore)
 
-### ![Kyrgyzstan Village Street](https://withoutapath.com/wp-content/uploads/2018/02/Kyrgyzstan-Village-Street-1024x768.jpg){: .img-fluid}
+### ![Kyrgyzstan Village Street]({{ site.url }}/assets/img/2018/02/Kyrgyzstan-Village-Street.jpg){: .img-fluid}
 
 ### Mentioned on the Show
 

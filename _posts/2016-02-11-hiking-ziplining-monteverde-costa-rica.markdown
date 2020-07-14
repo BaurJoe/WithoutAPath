@@ -15,7 +15,7 @@ I left for Monteverde via a shuttle pickup from a chain hotel off the highway in
 
     We lucked out on any road delays thanks to some heavy rain that reminded me of the so-called _green season_ back home in Ciudad Colon. Nobody wanted to be working in that mess. But as we approached the final few kilometers to Monteverde, mud started to cover the road where construction workers had taken over the rare piece of flat land to keep unused equipment. Our driver paused as he observed the road ahead. A hole separated us from our final stretch into Monteverde.
 
-[![Monteverde Costa Rica - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/07/Monteverde-Costa-Rica-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Monteverde-Costa-Rica-JoeBaur.jpg){: .img-fluid}
+[![Monteverde Costa Rica - JoeBaur]({{ site.url }}/assets/img/2015/07/Monteverde-Costa-Rica-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Monteverde-Costa-Rica-JoeBaur.jpg){: .img-fluid}
 
     One worker came running over in nothing more than jeans and a tee shirt, drenched from the downpour. At least he had boots on to deal with the mud.
 
@@ -29,7 +29,7 @@ I left for Monteverde via a shuttle pickup from a chain hotel off the highway in
 
     On cue, the rain stopped by the time I got dropped off at the [Arco Iris Lodge](http://www.arcoirislodge.com/), a modest-sized lodge spreading out into different cabins connected by stone paths. I was greeted by someone who appeared to be a Gringo working the front counter in the main lodge, but I didn’t want to assume. Even if he was, part of me wanted him to know that I wasn’t one of _those_ _Gringos_ who couldn’t speak a lick of Spanish.
 
-[![Monteverde Costa Rica Flower - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/07/Monteverde-Costa-Rica-Flower-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Monteverde-Costa-Rica-Flower-JoeBaur.jpg){: .img-fluid}
+[![Monteverde Costa Rica Flower - JoeBaur]({{ site.url }}/assets/img/2015/07/Monteverde-Costa-Rica-Flower-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Monteverde-Costa-Rica-Flower-JoeBaur.jpg){: .img-fluid}
 
     Separating myself from the typical Gringo tourist was a constant battle and one in which I always engaged in by speaking Spanish first. More often than not, speaking Spanish proved successful in knocking down the assumption that I’m on my way to some gaudy resort. In Osa, a waitress who started recognizing me flatteringly called me, "Casi Tico" or "Almost Tico." This felt like a huge win. But sometimes in the more touristy towns, I’d still get an English response.
 
@@ -57,7 +57,7 @@ I left for Monteverde via a shuttle pickup from a chain hotel off the highway in
 
     Yet it admittedly wasn’t one of my favorite activities. I had previously done it twice, once in Puerto Rico and a second time in West Virginia. I enjoyed myself plenty, but I prefer hiking and taking in my surroundings as opposed to the quick thrill of zip-lining. Nevertheless, that’s what you do in Monteverde, an ecotourism hotspot resting roughly 1,200 to 1,500 meters above sea level. You go zip-lining, and I was happy to give it a whirl with [Sky Adventures](http://skyadventures.travel/).
 
-[![Sky Trek Monteverde - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/07/Sky-Trek-Monteverde-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Sky-Trek-Monteverde-JoeBaur.jpg){: .img-fluid}
+[![Sky Trek Monteverde - JoeBaur]({{ site.url }}/assets/img/2015/07/Sky-Trek-Monteverde-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Sky-Trek-Monteverde-JoeBaur.jpg){: .img-fluid}
 
     My Monteverde group consisted of three American college girls, two Mexican women in their 40s, and another American couple. One of the college girls had no intention to partake in the zip-lining, crippled by her fear of heights, but accompanied us nonetheless to take pictures for her friends. She did, however, endure the initial sky tram ride up to the top of the canopy course, giggling in anxiety the entire way as her eyes welled up in tears.
 
@@ -77,7 +77,7 @@ I left for Monteverde via a shuttle pickup from a chain hotel off the highway in
 
     The other highlight in town, perhaps even more popular than the zip-lines, is hiking in the [Monteverde Cloud Forest Biological Reserve](http://www.cloudforestmonteverde.com/), founded in 1972 by scientists George Powell and the Quaker Wilford Guindon. That wasn’t the first time Quakers got involved in Monteverde. In fact, present-day Monteverde was founded by U.S. Quakers whose pacifist values didn’t mesh well with the draft effort during the Korean War. Dairyman Hubert Mendenhall led the group after first visiting Costa Rica in 1949. He was won over by the cool climate (hospitable to dairy farming), and the country’s lack of a standing army.
 
-[![Monteverde Waterfalls - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/07/Monteverde-Waterfalls-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Monteverde-Waterfalls-JoeBaur.jpg){: .img-fluid}
+[![Monteverde Waterfalls - JoeBaur]({{ site.url }}/assets/img/2015/07/Monteverde-Waterfalls-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Monteverde-Waterfalls-JoeBaur.jpg){: .img-fluid}
 
     My excitement for this hike tripled when I discovered my group was no more than a Tico guide and a Spanish couple. One of my favorite cheap thrills was to do tours exclusively in Spanish. It always felt like an accomplishment if I could understand more technical Spanish, describing our surroundings and the biodiversity. I can order food in German, but I don’t consider myself a German speaker, but I would if I could comprehend the language in the midst of a hiking tour that describes the local flora and fauna.
 
@@ -95,6 +95,6 @@ I left for Monteverde via a shuttle pickup from a chain hotel off the highway in
 
     Yeah, I could do that.
 
-[![Monteverde, Costa Rica Pinterest - JoeBaur](https://withoutapath.com/wp-content/uploads/2016/02/Monteverde-Costa-Rica-Pinterest-JoeBaur-200x300.png)](https://withoutapath.com/wp-content/uploads/2016/02/Monteverde-Costa-Rica-Pinterest-JoeBaur.png)
+[![Monteverde, Costa Rica Pinterest - JoeBaur]({{ site.url }}/assets/img/2016/02/Monteverde-Costa-Rica-Pinterest-JoeBaur.png)]({{ site.url }}/assets/img/2016/02/Monteverde-Costa-Rica-Pinterest-JoeBaur.png)
 
 **Disclaimer:** Accomodations and trip-planning were provided by [Gecko Trail Costa Rica](https://geckotrail.com/).

@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![BMC Granfondo Experience 2014 - Joe Baur](https://withoutapath.com/wp-content/uploads/2014/01/BMC-Granfondo-Experience-2014-Joe-Baur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/01/BMC-Granfondo-Experience-2014-Joe-Baur.jpg){: .img-fluid}
+[![BMC Granfondo Experience 2014 - Joe Baur]({{ site.url }}/assets/img/2014/01/BMC-Granfondo-Experience-2014-Joe-Baur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/01/BMC-Granfondo-Experience-2014-Joe-Baur.jpg){: .img-fluid}
 
 _My entry for [BMC's Ride like a Pro contest](http://www.bmctempo.com/gf/taking-on-flanders-joe-b/)._
 

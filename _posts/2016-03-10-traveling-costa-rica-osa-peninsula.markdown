@@ -34,19 +34,19 @@ _**Editor's Note:** The following is an excerpt from "[Talking Tico](https://jo
 
     Like Santa Teresa, Dominical was once upon a time a small fishing village before turning into a surfer mecca. The drive down is lined with African oil palm plantations that look spectacularly out of place, but it does at least change the scenery.
 
-[![a Rica Beach Walk - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/09/Dominical-Costa-Rica-Beach-Walk-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/09/Dominical-Costa-Rica-Beach-Walk-JoeBaur.jpg){: .img-fluid}
+[![a Rica Beach Walk - JoeBaur]({{ site.url }}/assets/img/2015/09/Dominical-Costa-Rica-Beach-Walk-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/09/Dominical-Costa-Rica-Beach-Walk-JoeBaur.jpg){: .img-fluid}
 
     Dominical is tiny and easy to miss off the highway if you’re not looking for it. We came in with Patrick following a mixture of GPS commands and recent memory. Again, like Santa Teresa, roads are more of a mixture of concrete and dirt here. A collection of restaurants made of wood and tin lined the road heading toward the beach where Patrick parked. Untouched trees separated civilization from the Pacific Ocean; a number of tents were planted within the woods on the edge of the sand. Some went completely minimalist, opting to camp by hammock.
 
     It was still the afternoon, so things were rather quiet. Those among the camping crowd we did see looked exactly as you’d expect. Men and women sported equally thin frames with the kind of unkempt hair one gets after days of saltwater, sand and sun. I imagined flashing a peace symbol would be all that was required for acceptance into the crowd. They’re the kind most across the political spectrum enjoy mocking—what with their free-spirited nature and complete disregard for how one is supposed to live their life. That is: graduate college, get a job, get married, vomit offspring, get a house and die. They appear to find enjoyment in experiences, not accumulated wealth and buying things to go with their things.
 
-![Dominical Costa Rica Beach Camping](https://withoutapath.com/wp-content/uploads/2015/09/Dominical-Costa-Rica-Beach-Camping-JoeBaur-1024x683.jpg){: .img-fluid}
+![Dominical Costa Rica Beach Camping]({{ site.url }}/assets/img/2015/09/Dominical-Costa-Rica-Beach-Camping-JoeBaur.jpg){: .img-fluid}
 
     For as much as I feel right at home teasing the likes of this crowd, I can likely relate with them far better than I can with those who do live a “normal life.” But dammit, knock it off with the drum circles!
 
     Playa Dominical felt like more of the same in terms of Costa Rican beaches. It was flat, though notably rockier than others. Nearby, a local was selling handcrafted jewelry. Melanie purchased a bracelet, and I got to impress someone with my Gringo Spanish. Admittedly, the bar probably isn't that high in a Gringo-populated surfer town.
 
-![Shelter From The Storm View Costa Rica](https://withoutapath.com/wp-content/uploads/2015/09/Shelter-From-The-Storm-View-JoeBaur-1024x683.jpg){: .img-fluid}
+![Shelter From The Storm View Costa Rica]({{ site.url }}/assets/img/2015/09/Shelter-From-The-Storm-View-JoeBaur.jpg){: .img-fluid}
 
     Ultimately, Dominical served its purpose as a way to break up the drive and allow us to stretch our legs before getting to the hotel.
 
@@ -64,7 +64,7 @@ _**Editor's Note:** The following is an excerpt from "[Talking Tico](https://jo
 
     That night we followed his recommendation for dinner. It was a long drive down a dark road that required close attention to directions. It was obvious when we found it. There wasn’t much else around, so it naturally stuck out, but left us wondering why the restaurateurs selected this location.
 
-![Marino Ballena National Park ](https://withoutapath.com/wp-content/uploads/2015/09/Ballena-National-Park-JoeBaur-1024x683.jpg){: .img-fluid}
+![Marino Ballena National Park ]({{ site.url }}/assets/img/2015/09/Ballena-National-Park-JoeBaur.jpg){: .img-fluid}
 
     Sitting outside on the front patio, enjoying the cozy decor and dim lighting that made for a relaxing atmosphere, our French hostess came by on several occasions to check in on us, though really my only question was, “why French?” I badly wanted to ask who she was, why they were there, and why this location, but we had all but melted into individual puddles by the time our plates were empty thanks to coastal Costa Rica’s infamous and punishing humidity. While I usually prefer the eco-friendly option, I was happy to slide into the rental, bask in the refreshing glow of air conditioning and drift off over the drive back to the hotel.
 
@@ -88,7 +88,7 @@ _**Editor's Note:** The following is an excerpt from "[Talking Tico](https://jo
 
     Despite the busy schedule Bosque del Cabo could offer, I was adamant about making a return to Puerto Jimenez for kayaking. Truth be told, I had it set in my head to visit Osa's Corcovado National Park for the very simple reason that it was Ugalde’s most cherished and we were right-freaking-there. Unfortunately the resort was at least a thirty-minute drive to Puerto Jimenez and the park even further on top of that. Nobody wanted to spend time in a car while in the pristine jungle and rainforest of the Osa Peninsula. Not that I of all people needed to be convinced against car travel, but it felt weird not to see Corcovado, like looking the other way when passing by Egypt’s pyramids.
 
-![Marino Ballena National Park ](https://withoutapath.com/wp-content/uploads/2015/09/Ballena-National-Park-JoeBaur-1024x683.jpg){: .img-fluid}
+![Marino Ballena National Park ]({{ site.url }}/assets/img/2015/09/Ballena-National-Park-JoeBaur.jpg){: .img-fluid}
 
     My consolation was to at least go kayaking. That was something we definitely couldn’t do at the lodge, and I had read rave reviews of kayaking in Golfo Dulce, the body of water separating Osa from Puntarenas on the mainland. With Corcovado no longer a possibility, I decided to remind myself that a few UPEACE friends had recently told me that Corcovado was a bit of a let down and instead focused on the kayaking.
 
@@ -104,7 +104,7 @@ _**Editor's Note:** The following is an excerpt from "[Talking Tico](https://jo
 
     “You know, it’s really not that exciting,” she continued. “Besides, I just always thought it silly to leave the resort.” My heart began to flutter in rage. Gee, wonder why the resort employee thinks it’s silly to leave the resort.
 
-![Bosque Del Cabo Costa Rica ](https://withoutapath.com/wp-content/uploads/2015/09/Bosque-Del-Cabo-Costa-Rica-JoeBaur-1024x683.jpg){: .img-fluid}
+![Bosque Del Cabo Costa Rica ]({{ site.url }}/assets/img/2015/09/Bosque-Del-Cabo-Costa-Rica-JoeBaur.jpg){: .img-fluid}
 
     Helen and Patrick appeared to be rethinking. I was fuming at the chef.
 
@@ -126,7 +126,7 @@ _**Editor's Note:** The following is an excerpt from "[Talking Tico](https://jo
 
     Without hesitation, I turned my back toward the waterfall to get ready for my first leap. The guide offered quick instruction on how to safely (and with control) rappel down the waterfall using the ropes attached to my harness. With his thumbs up, I made my first bound off the cliff toward a twenty-foot drop where another guide waited. The way the cliffs worked out, I was able to get something of a practice round before making the largest and final descent down a 200-foot-plus drop.
 
-![Rocky Osa Peninsula Costa Rica Beach](https://withoutapath.com/wp-content/uploads/2015/09/Rocky-Osa-Peninsula-Costa-Rica-Beach-JoeBaur-1024x683.jpg){: .img-fluid}
+![Rocky Osa Peninsula Costa Rica Beach]({{ site.url }}/assets/img/2015/09/Rocky-Osa-Peninsula-Costa-Rica-Beach-JoeBaur.jpg){: .img-fluid}
 
     I reached the break after just a few bounds off the waterfall. Besides some uncomfortable tightening in the groin (which we were warned about), all was well and I was eager to continue. The second leap was, of course, much more enjoyable. It was easy to slip into my cinematic imagination once I could no longer see the guide as I dipped deeper into the waterfall and the pounding water made it uncomfortable (if not impossible) to look up for an extended period of time.
 
@@ -138,4 +138,4 @@ _**Editor's Note:** The following is an excerpt from "[Talking Tico](https://jo
 
      Melanie followed second and worked her way down the waterfall with relative ease. She appeared to do quite well, if I (in my novice opinion) may say so, and despite my wanting more, it was an excellent cap to the Osa Peninsula.
 
-[![Traveling to the Osa Peninsula, Costa Rica](https://withoutapath.com/wp-content/uploads/2016/03/Traveling-to-the-Osa-Peninsula-Costa-Rica-200x300.png)](https://withoutapath.com/wp-content/uploads/2016/03/Traveling-to-the-Osa-Peninsula-Costa-Rica.png)
+[![Traveling to the Osa Peninsula, Costa Rica]({{ site.url }}/assets/img/2016/03/Traveling-to-the-Osa-Peninsula-Costa-Rica.png)]({{ site.url }}/assets/img/2016/03/Traveling-to-the-Osa-Peninsula-Costa-Rica.png)

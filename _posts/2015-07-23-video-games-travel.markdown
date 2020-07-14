@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![How Video Games Started My Itch For Travel - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/07/How-Video-Games-Started-My-Itch-For-Travel-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/How-Video-Games-Started-My-Itch-For-Travel-JoeBaur.jpg){: .img-fluid}
+[![How Video Games Started My Itch For Travel - JoeBaur]({{ site.url }}/assets/img/2015/07/How-Video-Games-Started-My-Itch-For-Travel-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/How-Video-Games-Started-My-Itch-For-Travel-JoeBaur.jpg){: .img-fluid}
 
 For better or worse, some of my fondest memories of childhood creativity go back to video games. The Legend of Zelda and Final Fantasy series especially tickled my imagination. On otherwise dull afternoons, I would find myself in a world of adventure, chasing the horizon or the next clue to solving a mystery.
 
@@ -25,6 +25,6 @@ Back to Ocarina Of Time, you could progress the story by searching for the next
 Finally, there's Tomb Raider. I would hardly call myself an ardent fan of the series, but I remember being heavily addicted to Tomb Raider 2 for the original Playstation. My brother bought it and I squeezed in turns whenever he wasn't playing. The game took you as the acrobatic Lara Croft through jungles and tombs you weren't supposed to go to. I can't help but find a connection to my current passion for traveling to places with strong history, but a reputation for not being travel-friendly largely because of how they're portrayed. If that game had anything to do with me getting to [El Salvador](https://withoutapath.com/category/travel/international/central-america/el-salvador/), even subconsciously, I owe those creators quite a bit.
 
 This may seem a bit convoluted or nonsensical to those with little history playing video games. It may even seem like a desperate attempt at a post in the midst of a [hectic book-writing schedule](https://withoutapath.com/twin-cities-outdoors/). Nevertheless, I remain excited about the storytelling possibilities of the gaming franchises that have embraced that adventurous spirit and how that can potentially influence gamers to explore the world a little deeper after putting the controller down. [
-](https://withoutapath.com/wp-content/uploads/2015/07/How-Video-Games-Started-My-Itch-For-Travel-JoeBaur.jpg){: .img-fluid}
+]({{ site.url }}/assets/img/2015/07/How-Video-Games-Started-My-Itch-For-Travel-JoeBaur.jpg){: .img-fluid}
 
 Photo: [techtimes.com](http://www.techtimes.com/articles/61723/20150618/this-is-why-zelda-wii-u-wasnt-at-e3-2015.htm)

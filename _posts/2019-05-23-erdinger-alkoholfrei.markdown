@@ -14,7 +14,7 @@ What is the deal with the alcohol-free beer before and after races in Germany?
 
 ## Düsseldorf Brückenlauf
 
-![Duesseldorf-Brueckenlauf-2017](https://withoutapath.com/wp-content/uploads/2019/05/Duesseldorf-Brueckenlauf-2017-1024x768.jpeg)If only we knew of the horror sneaking up behind us.
+![Duesseldorf-Brueckenlauf-2017]({{ site.url }}/assets/img/2019/05/Duesseldorf-Brueckenlauf-2017.jpeg){: .img-fluid}If only we knew of the horror sneaking up behind us.
 
 I first noticed it in the moments leading up to Düsseldorf's Brückenlauf (bridge run). It was a crisp, sunny spring race morning in the Altstadt. Walking around the start line, sliding in between the huddled crowds of runners waiting for the porta potties, I noticed tents set up by Erdinger--the world's largest wheat beer producer. They're based in Bavaria, where the style comes from, but you see them and their Hefeweizen competitors across the country. Most towns and cities have their own preferred style (Altbier in [Düsseldorf](https://withoutapath.com/things-to-do-in-dusseldorf/), Kölsch in Cologne, Export in [Dortmund](https://withoutapath.com/bergmann-brauerei/), Rauchbier in Bamberg), but an Erdinger is almost always on the menu alongside the local variety.
 

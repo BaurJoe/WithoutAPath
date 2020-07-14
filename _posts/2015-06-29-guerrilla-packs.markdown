@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Guerilla Packs - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/06/Guerilla-Packs-JoeBaur.png)](https://withoutapath.com/wp-content/uploads/2015/06/Guerilla-Packs-JoeBaur.png)
+[![Guerilla Packs - JoeBaur]({{ site.url }}/assets/img/2015/06/Guerilla-Packs-JoeBaur.png)]({{ site.url }}/assets/img/2015/06/Guerilla-Packs-JoeBaur.png)
 
 Backpacks aren't necessarily the most comfortable accessories in the world, but in backpacking they're essential. After all, your change of dry clothes, food, sleeping bag and other potential equipment aren't going to magically appear at your destination.
 

@@ -26,4 +26,4 @@ A multibillion-dollar worldwide industry, cultural tourism provides one of the m
 
 "SVT’s reality series The Great Swedish Adventure (Sweden) took home the prize for non-scripted entertainment, beating out Formata Producoes e Conteudo’s Adotada (Brazil), Studio Lambert’s Gogglebox (UK) and CJ E&M’s I Can See Your Voice (South Korea)."
 
-[![alexis-celeste-bunten-on-indigenous-tourism-and-how-to-help-standing-rock](https://withoutapath.com/wp-content/uploads/2016/11/Alexis-Celeste-Bunten-On-Indigenous-Tourism-and-How-to-Help-Standing-Rock.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/11/Alexis-Celeste-Bunten-On-Indigenous-Tourism-and-How-to-Help-Standing-Rock.jpg){: .img-fluid}
+[![alexis-celeste-bunten-on-indigenous-tourism-and-how-to-help-standing-rock]({{ site.url }}/assets/img/2016/11/Alexis-Celeste-Bunten-On-Indigenous-Tourism-and-How-to-Help-Standing-Rock.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/11/Alexis-Celeste-Bunten-On-Indigenous-Tourism-and-How-to-Help-Standing-Rock.jpg){: .img-fluid}

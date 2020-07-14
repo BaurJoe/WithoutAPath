@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![Inside Hamburg German Train Station](https://withoutapath.com/wp-content/uploads/2017/11/Inside-Hamburg-German-Train-Station-1024x683.jpg){: .img-fluid}
+![Inside Hamburg German Train Station]({{ site.url }}/assets/img/2017/11/Inside-Hamburg-German-Train-Station.jpg){: .img-fluid}
 
 You step aboard a bus, and a man or a woman at the wheel quietly greets you. On the subway or tram, you stand side-by-side people from all different backgrounds with unique, undoubtedly interesting stories. Teachers, students, young startup employees, developers, techies, grandmothers, grandfathers, kids, parents, immigrants, refugees, priests, athletes -- almost anyone you can think of is there at some point. Then on the weekend, this incredible, fascinatingly simple yet revolutionary machinery zips you out of the city and into the countryside where you're surrounded by some combination of rivers, streams, mountains, and forests.
 
@@ -38,7 +38,7 @@ Thinking this over is when I realized that I've likely seen more of Germany in l
 
 ## Appreciating The Green
 
-[caption id="attachment_6027" align="alignnone" width="1024"]![Eifel National Park Germany View](https://withoutapath.com/wp-content/uploads/2016/10/Eifel-National-Park-Germany-View-1024x683.jpg){: .img-fluid} [Eifel National Park](https://withoutapath.com/germany-hiking-eifel-national-park/)[/caption]
+[caption id="attachment_6027" align="alignnone" width="1024"]![Eifel National Park Germany View]({{ site.url }}/assets/img/2016/10/Eifel-National-Park-Germany-View.jpg){: .img-fluid} [Eifel National Park](https://withoutapath.com/germany-hiking-eifel-national-park/)[/caption]
 
 This all left me wondering: Does the poor state of public transit infrastructure and subsequent lack of connectivity to parks (for anyone without a car) coincide with a lesser-appreciation for protecting green spaces? Does it make us less empathetic toward one another if we don't share transport space regularly? I'm pretty sure it's a scientific fact that humans turn into homicidal maniacs behind the wheel of a car.
 
@@ -76,7 +76,7 @@ It's a sad fact that much of the way in which the United States has been develop
 
 ## This Litte Rhine of Mine
 
-![Lorch, Germany Rheinsteig Hiking Trail](https://withoutapath.com/wp-content/uploads/2017/08/Lorch-Germany-Rheinsteig-1024x683.jpg){: .img-fluid}
+![Lorch, Germany Rheinsteig Hiking Trail]({{ site.url }}/assets/img/2017/08/Lorch-Germany-Rheinsteig.jpg){: .img-fluid}
 
 One of the first things I noticed living in Düsseldorf is the easy access we have to the Rhine. The Rhine is a vastly important waterway in Europe, fed by its various tributaries in [the Netherlands](https://withoutapath.com/travel-guides/amsterdam/), cutting through western Germany and drawing the border with Frace along the Black Forest before plummeting into Switzerland and dumping into Lake Constance. (Recently, I even learned that a large portion of [my ancestry](https://withoutapath.com/23andme-dna-testing-review/) most likely originated here in Western Germany along the river.)
 

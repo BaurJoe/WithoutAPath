@@ -4,7 +4,7 @@ categories:
 - Trailblazers
 ---
 
-![Pendung Semurup Waterfalls](https://withoutapath.com/wp-content/uploads/2017/10/pendung-semurup-waterfalls-1024x683.jpg){: .img-fluid}
+![Pendung Semurup Waterfalls]({{ site.url }}/assets/img/2017/10/pendung-semurup-waterfalls.jpg){: .img-fluid}
 
 Off the beaten path travel is increasingly difficult to find as time marches on. Mass tourism is impacting everything from our favorite cities to the seas that surround them. All the while locals and the environment are often an afterthought. This series, [Trailblazers](http://withoutapath.com/category/trailblazers/), checks in with writers, photographers, filmmakers, activists and environmentalists who are passionate about off the beaten path travel.
 
@@ -20,7 +20,7 @@ In Sumatra specifically, with cheap flights replacing the overland routes that b
 
 With the problems of overtourism recently being in the news in places like Barcelona, Vienna, and [Thailand](https://withoutapath.com/thailand-tiger-temple-summer-travel/), and the conservation benefit that ecotourism can bring to the world’s remaining forests, now more than ever do we need those brave travelers willing to step out a bit into the unknown.
 
-![The Kerinci Valley and Lake Kerinci](https://withoutapath.com/wp-content/uploads/2017/10/the-kerinci-valley-and-lake-kerinci-seen-from-bukit-khayangan-1024x683.jpg){: .img-fluid}
+![The Kerinci Valley and Lake Kerinci]({{ site.url }}/assets/img/2017/10/the-kerinci-valley-and-lake-kerinci-seen-from-bukit-khayangan.jpg){: .img-fluid}
 
 **WAP **_Tell us about your ecotourism project._
 
@@ -36,7 +36,7 @@ I’m not too concerned about overwhelming this place with tourists any time soo
 
 We are also currently trying to think through and come up with solutions for the trash issue that sometimes plagues Mt. Kerinci, especially around local holidays. We do not want it to get like Mt. Rinjani, a much more popular climb for local and international tourists due to its proximity to Bali. The culture of “leave nothing but footprints” is still in its infancy in much of Southeast Asia, although I’m happy that the guides I work with and their guests take active steps to clean up after themselves and regularly after others as well.
 
-![Rice Terraces Sumatra](https://withoutapath.com/wp-content/uploads/2017/10/rice-terraces-1024x683.jpg){: .img-fluid}
+![Rice Terraces Sumatra]({{ site.url }}/assets/img/2017/10/rice-terraces.jpg){: .img-fluid}
 
 **WAP **_What’s been the biggest surprise you’ve experienced since getting started?_
 
@@ -52,7 +52,7 @@ We are also currently trying to think through and come up with solutions for the
 
 I feel one of the best ways to help areas impacted by mass tourism is to start to promote more off-the-beaten-path areas, like you’re doing. Most travel blogs and outbound tour operators continue to funnel people to the same spots when there is a wide world to explore filled with endless beauty and wonder.
 
-![Kenduri Sko Festival in Semurup](https://withoutapath.com/wp-content/uploads/2017/10/a-kenduri-sko-festival-in-semurup-1024x683.jpg){: .img-fluid}
+![Kenduri Sko Festival in Semurup]({{ site.url }}/assets/img/2017/10/a-kenduri-sko-festival-in-semurup.jpg){: .img-fluid}
 
 **WAP **_Could you offer a tip for readers who want to find off the beaten path travel destinations and travel responsibly?_
 

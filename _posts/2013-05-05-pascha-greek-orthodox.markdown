@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/Celebrating-Pascha-with-the-Greek-Orthodox-Church-JOE-BAUR.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Celebrating-Pascha-with-the-Greek-Orthodox-Church-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/Celebrating-Pascha-with-the-Greek-Orthodox-Church-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Celebrating-Pascha-with-the-Greek-Orthodox-Church-JOE-BAUR.jpg){: .img-fluid}
 
 _(Click [here](https://withoutapath.com/greek-orthodox-easter/) for part one of Greekster.)_
 
@@ -40,7 +40,7 @@ Next we made for the home of another relative in the clan to enjoy salad, avgole
 
 Melanie had prepped me for the eating of the lamb's head. Traditionally, this is in remembrance of those who broke their fast back in ancient times. For reasons unbeknownst to us, the Greeks of old started with the worst part of the lamb. Today, we honor this weirdness by plopping a cooked lamb's head on a plate for nobody to enjoy.
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/Pascha-Lambs-Head-JOE-BAUR-1024x764.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Pascha-Lambs-Head-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/Pascha-Lambs-Head-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Pascha-Lambs-Head-JOE-BAUR.jpg){: .img-fluid}
 
 I tried a piece of the jaw. It ultimately tasted fine, but nothing I'd fight anyone over. Uncle Tony, meanwhile, dined on the tongue, putting it in his mouth and pretending to lick the now-removed lamb's brain. Though Melanie had seemingly hoped I would be chased around and pestered to eat the brain, eyes or tongue in some sort of fraternity-esque hazing, I rest assured that everyone would chase after whoever seemed more grossed out. All agreed that would be Melanie, who ended up doing a few laps to escape one of the eyes before her cousin decided he would have a more desired effect on Melanie's disgust by simply eating the eye in front of her. He was right, and Melanie collapsed onto a nearby couch with pillows to protect her from mischievous teenagers.
 

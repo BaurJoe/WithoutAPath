@@ -6,7 +6,7 @@ categories:
 - Travel
 ---
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/First-Brewery-In-An-American-Museum-JOE-BAUR.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/First-Brewery-In-An-American-Museum-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/First-Brewery-In-An-American-Museum-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/First-Brewery-In-An-American-Museum-JOE-BAUR.jpg){: .img-fluid}
 
 Carillon Historical Park in Dayton, OH, is set to become the first museum in the United States that produces and sells its own beer using equipment and techniques from the mid-19th century. Costumed actors will demonstrate the historic process, producing wine, cider and cheese along with ample amounts of beer for patrons to enjoy.
 

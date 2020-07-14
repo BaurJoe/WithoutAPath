@@ -4,7 +4,7 @@ categories:
 - Food
 ---
 
-![](https://withoutapath.com/wp-content/uploads/2020/04/Creamy-Pasta-Finished.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2020/04/Creamy-Pasta-Finished.jpg){: .img-fluid}
 
 I love sun dried tomatoes. Sweet Christ, I love them.
 
@@ -16,7 +16,7 @@ So, I looked up some recipes and whipped together a nice dish. It became a part 
 
 Why?
 
-![Sun dried tomato pasta cooking](https://withoutapath.com/wp-content/uploads/2020/04/Creamy-Pasta-Cooking.jpg){: .img-fluid}
+![Sun dried tomato pasta cooking]({{ site.url }}/assets/img/2020/04/Creamy-Pasta-Cooking.jpg){: .img-fluid}
 
 Well, I suspect it's because the recipes I originally used called for cream and a shit ton of milk. The cream itself wasn't a problem. I could just never find the right quantity at the store and it'd go bad before I'd use it all.
 
@@ -24,7 +24,7 @@ Over that same period of time, I started switching to vegan-when-possible ingred
 
 The other night, I put it all to the test, mixing together vegetable stock and oat milk for the sauce. Melanie said it was the best batch I ever made and so now it shall forever be immortalized here. (Or until I forget to pay the hosting fee of the website and it all disappears overnight.)
 
-![Sun dried tomato sauce cooking](https://withoutapath.com/wp-content/uploads/2020/04/Creamy-Pasta-Sauce-Cooking.jpg){: .img-fluid}Cooking up some sun dried tomato sauce.
+![Sun dried tomato sauce cooking]({{ site.url }}/assets/img/2020/04/Creamy-Pasta-Sauce-Cooking.jpg){: .img-fluid}Cooking up some sun dried tomato sauce.
 
 This recipe obviously isn't vegan. But you could just as easily leave the parmesan cheese out and get it a step closer to vegan. You still have the greek yogurt to contend with. If that's an issue for you, there are vegan creams you can use to substitute it. But I'm not a vegan, so I didn't put the effort in for you. Sorry.
 

@@ -3,7 +3,7 @@ title: Cleveland
 permalink: /travel-guides/cleveland/
 ---
 
-[caption id="attachment_5585" align="aligncenter" width="2000"]![Cleveland Skyline](https://withoutapath.com/wp-content/uploads/2017/05/Cleveland-Skyline.jpg){: .img-fluid} Photo courtesy of [Lance Anderson](https://unsplash.com/photos/z-HJLvgd9FQ), [Unsplash](https://unsplash.com/license)[/caption]
+[caption id="attachment_5585" align="aligncenter" width="2000"]![Cleveland Skyline]({{ site.url }}/assets/img/2017/05/Cleveland-Skyline.jpg){: .img-fluid} Photo courtesy of [Lance Anderson](https://unsplash.com/photos/z-HJLvgd9FQ), [Unsplash](https://unsplash.com/license)[/caption]
 
 ## WHY CLEVELAND?
 
@@ -19,7 +19,7 @@ No neighborhood is changing as fast as Downtown, probably because it wasn’t ev
 
 ### OHIO CITY
 
-[caption id="attachment_5582" align="aligncenter" width="2000"]![West Side Market Cleveland](https://withoutapath.com/wp-content/uploads/2017/05/West-Side-Market-Cleveland.jpg){: .img-fluid} Photo courtesy of [Lance Anderson](https://unsplash.com/search/photos/cleveland?photo=_5MxZFAVgyE), [Unsplash](https://unsplash.com/license)[/caption]
+[caption id="attachment_5582" align="aligncenter" width="2000"]![West Side Market Cleveland]({{ site.url }}/assets/img/2017/05/West-Side-Market-Cleveland.jpg){: .img-fluid} Photo courtesy of [Lance Anderson](https://unsplash.com/search/photos/cleveland?photo=_5MxZFAVgyE), [Unsplash](https://unsplash.com/license)[/caption]
 
 This neighborhood just over the Cuyahoga River from Downtown comes up next because I lived here for a year and it’s probably my favorite part of town. Suburban elders like to tell stories about how their parents would have never let them go to Ohio City when they were a kid. Now? It’s the _cool_ neighborhood attracting new residents and a late-night crowd. First thing’s first, go to the West Side Market. I’m not just being a homer when I say this is one of the finest culinary institutions in the United States. Chefs and other respected personalities are beating the drum, too. Clevelanders come here for their shopping, but you can come to be gluttonous. While I could probably find something to munch on at every stand, I’ll suggest Crêpes de Luxe for breakfast and a falafel from Maha’s for lunch. If for some reason you are doing any cooking while in town, the ground chicken chorizo from Dionne’s Meats is hands down some of the most flavorful, damn delicious stuff I’ve ever put in a taco. Elsewhere in the neighborhood, you've got the Lebanese family-owned Nate's Deli (more falafel!), Bar Cento (squid ink pasta!), and Momocho (mod-Mex with _the best_ guacamole). Ohio City Burrito (think Chipotle, but better and sans E. coli) and Banana Blossom (Thai food) were also regular staples of my diet. When it comes to booze, craft beer joints just keep popping up. Great Lakes Brewing is the most established, doing business before craft beer was a cool thing to do. Market Garden Brewery came next and then it was just one right after the other. Nano Brew,  Brick and Barrel, Forest City Brewery, Hansa, and Platform Beer Company are all short walks from one another. We’re not even talking about the wine bars (Market Avenue Wine Bar) or the classy Velvet Tango Room (cocktails). Suffice it to say that you can get lit in Ohio City if that’s your bag.
 

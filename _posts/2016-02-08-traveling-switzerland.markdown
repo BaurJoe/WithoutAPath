@@ -19,7 +19,7 @@ Enjoy!
 
 ## "The Swiss Spelling"
 
-[![Lausanne Train Station in Switzerland](https://withoutapath.com/wp-content/uploads/2016/02/Lausanne-02.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/02/Lausanne-02.jpg){: .img-fluid}
+[![Lausanne Train Station in Switzerland]({{ site.url }}/assets/img/2016/02/Lausanne-02.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/02/Lausanne-02.jpg){: .img-fluid}
 
     Switzerland has dominated my imagination since I first discovered that Swiss blood runs through my veins. Of course, being a typical U.S. American mutt, it’s not purely Swiss. There’s British, Scottish, Irish, German (probably) — a conglomeration of the world’s most fair-skinned nation’s that compromise my DNA. The only deviation is a drop of Hungarian Jewish ancestry.
 
@@ -45,7 +45,7 @@ Enjoy!
 
 ## Living Car-Free
 
-[![View of Gruyere, Switzerland](https://withoutapath.com/wp-content/uploads/2016/02/Day-3-30.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/02/Day-3-30.jpg){: .img-fluid}
+[![View of Gruyere, Switzerland]({{ site.url }}/assets/img/2016/02/Day-3-30.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/02/Day-3-30.jpg){: .img-fluid}
 
     My relationship with cities didn’t change much when I attended Miami University in rural Oxford, Ohio. I drove, as I had everywhere since the incredibly young age of 16 like the rest of suburban America, but never to Cincinnati just 40 minutes or so away. Once I worked as a production hand on a reality show filming in Cincinnati and timidly asked my boss if the neighborhood was safe, as if a Los Angeles producer would know a thing about Cincinnati neighborhoods. All this really did was reveal my inner-ignorance and cowardice.
 
@@ -63,7 +63,7 @@ Enjoy!
 
 ## Furious
 
-[![Giessbach Waterfall Switzerland](https://withoutapath.com/wp-content/uploads/2016/02/Giessbach-Waterfall-Switzerland-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/02/Giessbach-Waterfall-Switzerland-JoeBaur.jpg){: .img-fluid}
+[![Giessbach Waterfall Switzerland]({{ site.url }}/assets/img/2016/02/Giessbach-Waterfall-Switzerland-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/02/Giessbach-Waterfall-Switzerland-JoeBaur.jpg){: .img-fluid}
 
     Unsurprisingly, my romance with Cleveland began to pass. It was inevitable. I fell into a rabbit hole of reading about urbanism and city planning. I began to learn that the way I wanted to live, car-free and not around cars, was antithetical to how my birth country had developed. Although I could live car-free, drivers in my neighborhood ensured that I couldn’t comfortably, refusing to obey pedestrian crossings and leaving their cars idling during rush hour, filling my lungs with untold amounts of poison all so they could sit comfortably in their climate controlled machine while they slowly navigated their return to the suburbs.
 
@@ -79,7 +79,7 @@ Enjoy!
 
 ## Finding The Baurs
 
-[![Lucerne, Switzerland](https://withoutapath.com/wp-content/uploads/2016/02/Lucerne-Switzerland-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/02/Lucerne-Switzerland-JoeBaur.jpg){: .img-fluid}
+[![Lucerne, Switzerland]({{ site.url }}/assets/img/2016/02/Lucerne-Switzerland-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/02/Lucerne-Switzerland-JoeBaur.jpg){: .img-fluid}
 
     Jumping back chronologically once more, I first learned of my Swiss roots at some point during my high school career. A family crest hung in our house with our surname stitched beneath a shield and roaring lions. This, I was told, was given to our family by a visiting Swiss relative on my father’s side years before I was born. Email not yet existing, we lost contact over the years as it was presumed that relatives passed away.
 
@@ -113,7 +113,7 @@ Enjoy!
 
 ## Meanwhile In Switzerland
 
-[![Aerial View of Bern, Switzerland](https://withoutapath.com/wp-content/uploads/2016/02/Meanwhile-In-Switzerland-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/02/Meanwhile-In-Switzerland-JoeBaur.jpg){: .img-fluid}
+[![Aerial View of Bern, Switzerland]({{ site.url }}/assets/img/2016/02/Meanwhile-In-Switzerland-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/02/Meanwhile-In-Switzerland-JoeBaur.jpg){: .img-fluid}
 
     Now the question returned to, if not moving abroad, at least finding an opportunity to visit. I was now working as a contract writer from home, nowhere near the financial bracket that could warrant a visit to one of the most expensive countries on Earth. Instead, I would count on my writing and luck.
 

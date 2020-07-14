@@ -13,6 +13,6 @@ categories:
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).
 <!-- more -->
 
-[![Pico Bonito, Honduras and using Snapchat while traveling](https://withoutapath.com/wp-content/uploads/2016/04/Pico-Bonito-Honduras-and-using-Snapchat-while-traveling.png)](https://withoutapath.com/wp-content/uploads/2016/04/Pico-Bonito-Honduras-and-using-Snapchat-while-traveling.png)
+[![Pico Bonito, Honduras and using Snapchat while traveling]({{ site.url }}/assets/img/2016/04/Pico-Bonito-Honduras-and-using-Snapchat-while-traveling.png)]({{ site.url }}/assets/img/2016/04/Pico-Bonito-Honduras-and-using-Snapchat-while-traveling.png)
 
 _**Disclaimer:** _I traveled to Honduras as a guest of [Prohotel International](http://www.prohotels.com/). As always, all opinions are my own.

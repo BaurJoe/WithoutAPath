@@ -1,4 +1,4 @@
 ---
 category: asia
-permalink: "/category/asia/"
+permalink: "/category/travel/asia/"
 ---

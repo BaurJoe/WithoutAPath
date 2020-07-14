@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![](https://withoutapath.com/wp-content/uploads/2013/05/Greek-Orthodox-Easter-2013-JOE-BAUR-1024x885.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/05/Greek-Orthodox-Easter-2013-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/Greek-Orthodox-Easter-2013-JOE-BAUR.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Greek-Orthodox-Easter-2013-JOE-BAUR.jpg){: .img-fluid}
 
 Let me begin with a simple explanation of what "Greekster" is, as I will be using it throughout for both convenience and because I believe the following holiday is worthy of its own shorthand unaffiliated with the more widely known version of Easter.
 

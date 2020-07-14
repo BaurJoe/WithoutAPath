@@ -2,9 +2,10 @@
 title: Parsha Emor | COVID promises an "eye for an eye"
 categories:
 - Essays
+homepage: false
 ---
 
-![Tourists wearing masks in Singapore during COVID 19 pandemic](https://withoutapath.com/wp-content/uploads/2020/05/victor-he-UXdDfd9ma-E-unsplash-1024x680.jpg){: .img-fluid}Photo by [Victor He](https://unsplash.com/@victorhwn725?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/lockdown?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![Tourists wearing masks in Singapore during COVID 19 pandemic]({{ site.url }}/assets/img/2020/05/victor-he-UXdDfd9ma-E-unsplash.jpg){: .img-fluid}Photo by [Victor He](https://unsplash.com/@victorhwn725?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/lockdown?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Tazria-Metzora, Leviticus 21:1 – 24:23. [Click here to read the previous portion, Parsha Achrei-Kedoshim.](https://withoutapath.com/parsha-tazria-metzora/)_
 

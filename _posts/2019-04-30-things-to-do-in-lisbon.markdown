@@ -4,7 +4,7 @@ categories:
 - Europe
 ---
 
-![Things to do in Lisbon](https://withoutapath.com/wp-content/uploads/2019/04/Lisbon-Trams-1024x731.jpg){: .img-fluid}
+![Things to do in Lisbon]({{ site.url }}/assets/img/2019/04/Lisbon-Trams.jpg){: .img-fluid}
 
 “By day Lisbon has a naive theatrical quality that enchants and captivates, but by night it is a fairy-tale city, descending over lighted terraces to the sea, like a woman in festive garments going down to meet her dark lover.” -- Erich Maria Remarque, _The Night In Lisbon_
 
@@ -26,7 +26,7 @@ Now to the actual things to do in Lisbon...
 
 ## Take a Walking Tour with We Hate Tourism Tours
 
-![](https://withoutapath.com/wp-content/uploads/2019/04/Lisbon-Street-Art-1024x768.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2019/04/Lisbon-Street-Art.jpg){: .img-fluid}
 
 After watching the aforementioned _You'll Soon Be Here_, I reached out to Lisbon Sustainable Tourism––an organization featured in the film. They connected me with We Hate Tourism Tours to book a responsible walking tour at just €35. The tour is scheduled for three hours, walking through lesser-traveled corners of the city and stopping at a couple of local joins along the way for a pastel de nata and green wine with a bifana (a Portuguese fast food pork sandwich). I won't tell you where they take you so you sign up for the tour because it's an absurdly good value considering everything you're getting. Ditch the free tours and put your money back into the local economy with We Hate Tourism Tours.
 
@@ -52,7 +52,7 @@ We Hate Tourism Tours starts their responsible walking tour at this viewpoint. W
 
 ## Wander Alfama
 
-![Alfama Lisbon Staircase with Art](https://withoutapath.com/wp-content/uploads/2019/04/Alfama-Lisbon-Staircase-with-Art.jpg){: .img-fluid}Staircase in Alfama
+![Alfama Lisbon Staircase with Art]({{ site.url }}/assets/img/2019/04/Alfama-Lisbon-Staircase-with-Art.jpg){: .img-fluid}Staircase in Alfama
 
 Alfama is the neighborhood at the top of anyone's Lisbon itinerary. But like [Venice](https://withoutapath.com/travel-guides/venice-italy/), it's surprisingly easy to ditch the crowds by turning off the main thoroughfares (probably with tram lines, in this case). Plus the more stairs and inclines you're willing to embrace, the more likely you are to find yourself completely alone, surrounded by history and street art. The general tourist crowd prefers the path of least resistance, so just keep your eyes open for opportunities to go against the grain.
 
@@ -114,7 +114,7 @@ If you walk through the city center and keep heading toward the water, you'll en
 
 ## Riding The 28 Tram?
 
-![Lisbon Streetcar Tourists](https://withoutapath.com/wp-content/uploads/2019/04/Lisbon-Streetcar-Tourists-Image-by-caligari77-from-Pixabay.jpg){: .img-fluid}A tourist takes a picture outside the window of the 28 tram, the same view you could get on foot. Image by [caligari77](https://pixabay.com/users/caligari77-183996/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1116096) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1116096).
+![Lisbon Streetcar Tourists]({{ site.url }}/assets/img/2019/04/Lisbon-Streetcar-Tourists-Image-by-caligari77-from-Pixabay.jpg){: .img-fluid}A tourist takes a picture outside the window of the 28 tram, the same view you could get on foot. Image by [caligari77](https://pixabay.com/users/caligari77-183996/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1116096) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1116096).
 
 The only thing I'd say to skip is riding the number 28 tram. Maybe you can find it running with a light crowd if you come at the height of the offseason in the winter, but it looked miserable to ride each time it passed by no matter the time of day. Our guide at We Hate Tourism Tours suggested trying it at night, but all I could think of was the line I saw waiting after dinner and the sweaty tourists squeezing themselves in with the kind of purpose one should reserve for getting people off a sinking ship.
 

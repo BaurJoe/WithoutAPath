@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[caption id="attachment_858" align="aligncenter" width="2592"][![Irish Rail - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/01/Irish-Rail-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/01/Irish-Rail-JoeBaur.jpg){: .img-fluid} What are these obscenely convenient objects?[/caption]
+[caption id="attachment_858" align="aligncenter" width="2592"][![Irish Rail - JoeBaur]({{ site.url }}/assets/img/2014/01/Irish-Rail-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/01/Irish-Rail-JoeBaur.jpg){: .img-fluid} What are these obscenely convenient objects?[/caption]
 
 The American Midwest is car country. Thousands of miles of asphalt blanket the nation from Ohio to Missouri like meadows and forests probably did before we came around to _improve_ things. Naturally our idea of “getting around” is slightly if not drastically different than our Western brethren in Europe who can crisscross their respective nations by bus, train or even foot (Camino De Santiago, anyone?).
 
@@ -41,7 +41,7 @@ It was around this point in our planning that we made the foolish mistake of pla
 
 Dumb. Dumb. Dumb.
 
-[caption id="attachment_859" align="aligncenter" width="4000"][![Belfast - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/01/Belfast-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/01/Belfast-JoeBaur.jpg){: .img-fluid} Oh hey there, Belfast! Photo: Robert Andrukat[/caption]
+[caption id="attachment_859" align="aligncenter" width="4000"][![Belfast - JoeBaur]({{ site.url }}/assets/img/2014/01/Belfast-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/01/Belfast-JoeBaur.jpg){: .img-fluid} Oh hey there, Belfast! Photo: Robert Andrukat[/caption]
 
 We spent the night and the next day in Belfast, a surprisingly beautiful and impressive city especially considering its bomb-related notoriety in previous decades. Then it was off to Dublin, where we spent another day-and-a-half wandering around from pub to pub along the River Liffey and surrounding Trinity College, crashing in a fairly standard hostel.
 
@@ -53,7 +53,7 @@ But there was another cheap bus coming, this time to Killarney, so we high-taile
 
 ###### **"You Have To Visit Galway!”**
 
-[caption id="attachment_861" align="aligncenter" width="2592"][![Killarney National Park - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/01/Killarney-National-Park-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/01/Killarney-National-Park-JoeBaur.jpg){: .img-fluid} Somebody was walking around here a long, long time ago.[/caption]
+[caption id="attachment_861" align="aligncenter" width="2592"][![Killarney National Park - JoeBaur]({{ site.url }}/assets/img/2014/01/Killarney-National-Park-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/01/Killarney-National-Park-JoeBaur.jpg){: .img-fluid} Somebody was walking around here a long, long time ago.[/caption]
 
 Killarney was a disappointment. Other than the beautiful and sprawling national park within walking distance of the town, the city seemed to be constructed in a way American tourists imagine Ireland to be. Not coincidentally, it was filled with drunken Americans slurring their way through sentences.
 
@@ -63,7 +63,7 @@ Again, the next morning, we were gone. This time on the first train out of Killa
 
 But of course that wasn’t true.
 
-[caption id="attachment_860" align="aligncenter" width="4000"][![Galway - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/01/Galway-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/01/Galway-JoeBaur.jpg){: .img-fluid} "I look AWESOME in my white suit." Photo: Robert Andrukat[/caption]
+[caption id="attachment_860" align="aligncenter" width="4000"][![Galway - JoeBaur]({{ site.url }}/assets/img/2014/01/Galway-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/01/Galway-JoeBaur.jpg){: .img-fluid} "I look AWESOME in my white suit." Photo: Robert Andrukat[/caption]
 
 "You’re not going to Galway?” different Irish men and women said to us throughout as if we were committing some grave error. "You have to visit Galway!”
 

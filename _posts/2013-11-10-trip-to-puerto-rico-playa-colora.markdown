@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![Puerto Rico's Hidden Beach - JoeBaur](https://withoutapath.com/wp-content/uploads/2013/11/Puerto-Ricos-Hidden-Beach-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/11/Puerto-Ricos-Hidden-Beach-JoeBaur.jpg){: .img-fluid}
+[![Puerto Rico's Hidden Beach - JoeBaur]({{ site.url }}/assets/img/2013/11/Puerto-Ricos-Hidden-Beach-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/11/Puerto-Ricos-Hidden-Beach-JoeBaur.jpg){: .img-fluid}
 
 The day was a bust. We were halfway through our trip to Puerto Rico and Melanie and I had spent hours trying to find the alleged beaches of Fajardo to no avail. We followed windy roads, the instructions of our hotel, and could only find luxury resorts promising pools bunkered off from the rest of the town.
 
@@ -108,7 +108,7 @@ Without much thought, as most of my stories happen, we shuffled into the woods f
 
 Remarkably on cue, we found an old sign, the kind you typically see on a highway, noting that Playa Colora was just up ahead. Moments later we stepped out of the woods onto the sandy paradise we had promised ourselves we'd find.
 
-[![Playa Colora - JoeBaur](https://withoutapath.com/wp-content/uploads/2013/11/Playa-Colora-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/11/Playa-Colora-JoeBaur.jpg){: .img-fluid}
+[![Playa Colora - JoeBaur]({{ site.url }}/assets/img/2013/11/Playa-Colora-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/11/Playa-Colora-JoeBaur.jpg){: .img-fluid}
 
 Indescribable blue waters as calm as a koala (they're calm, right?) were as far as the eye could see. It was a place rivaled only by Playa Flamenco in Culebra. Those tourists we had seen before were all here, but it was hardly overrun with people. 10 or so max. It was a small enough number that we could still pretend that this was our beach.
 

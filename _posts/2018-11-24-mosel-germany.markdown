@@ -5,7 +5,7 @@ categories:
 - Outdoors
 ---
 
-![Moselle River](https://withoutapath.com/wp-content/uploads/2018/11/Moselle-River.jpg){: .img-fluid}
+![Moselle River]({{ site.url }}/assets/img/2018/11/Moselle-River.jpg){: .img-fluid}
 
 I'll admit that I'd been mentally preparing myself to be underwhelmed by Burg Eltz thanks to its Instagram ubiquity. If you follow multiple German Instagram accounts, as I do, you see it rather constantly. There it is, in the fog. There it is from afar, in the fog. There it is, with a woman in a flowing dress standing on the bridge, in the fog.
 
@@ -15,9 +15,9 @@ With that in the back of my mind, I set off hiking from Moselkern, picking up a 
 
 Signage indicated I was close, but Burg Eltz managed to sneak up on me nonetheless, turning an uphill corner of the path to see the back of it peeking through the mix of trees both bare and holding onto their leaves for another day. Such a sight with those nebulous clouds swarming the scene makes it easy to understand why so many gory fairytales were inspired by these Germanic woods. Indeed, trekking up the stone steps alongside the castle to the Instagram (in)famous bridge and turning back to see those narrow spires, the entirety of the castle pulled straight from a children's pop-up book, the view of Burg Eltz peering through the mist brings to mind a canon of fluffy words I've all but banned from my travel writing vocabulary. Suffice it to say, few recent memories are as vivid as seeing Burg Eltz early on a fall morning towering over the Mosel.
 
-![Burg Eltz](https://withoutapath.com/wp-content/uploads/2018/11/Burg-Eltz.jpg){: .img-fluid}
+![Burg Eltz]({{ site.url }}/assets/img/2018/11/Burg-Eltz.jpg){: .img-fluid}
 
-![Burg Eltz Bridge](https://withoutapath.com/wp-content/uploads/2018/11/Burg-Eltz-Bridge.jpg){: .img-fluid}
+![Burg Eltz Bridge]({{ site.url }}/assets/img/2018/11/Burg-Eltz-Bridge.jpg){: .img-fluid}
 
 In retrospect, it's a tease of what's to come from the Mosel region as a whole. Okay, there's nothing quite as foreboding, as dramatic as Burg Eltz itself. Unless you're the one person with a strong aversion to castles, it really is the highlight of the region -- especially if you're a fellow wanderer.
 
@@ -29,7 +29,7 @@ I arranged my tour of the Mosel to take place by foot and boat, mainly because I
 
 ## To Beilstein
 
-[caption id="attachment_7549" align="aligncenter" width="1280"]![Cochem](https://withoutapath.com/wp-content/uploads/2018/11/Cochem.jpg){: .img-fluid} Cochem[/caption]
+[caption id="attachment_7549" align="aligncenter" width="1280"]![Cochem]({{ site.url }}/assets/img/2018/11/Cochem.jpg){: .img-fluid} Cochem[/caption]
 
 After Burg Eltz, we high-tailed it back to the Moselkern train station for a short ride to Cochem. Although our plan was to immediately board a boat, there was enough time to stand by the docks and admire the dense collection of timbered German buildings sitting underneath its own castle, traditional enough looking to satisfy any traveler coming [from outside of Europe](https://withoutapath.com/travel-europe-by-train/).
 
@@ -37,25 +37,25 @@ The boat is our lift to Beilstein, a place too small to even be called a town. T
 
 As promised, Beilstein is a striking sight. Truly, it looks like the towns of this region were constructed by some omnipresent being plugging in square, half-timbered buildings on the banks of the Mosel with quaint cobblestone streets in between. Beilstein is a hyper-dense version of this. You can cover the entire town in a meandering, 30-minute jaunt, but an overnight is worthwhile. No need to hurry here. Grab a _Kaffee und Kuchen_ (coffee and cake) from the chapel turned restaurant Klosterrestaurant & Café and catch the warm rays of the sunset striking down against the ruins of Burg Metternich above town.
 
-[caption id="attachment_7535" align="aligncenter" width="1280"]![Beilstein Germany](https://withoutapath.com/wp-content/uploads/2018/11/Beilstein-Germany.jpg){: .img-fluid} Beilstein on the Mosel[/caption]
+[caption id="attachment_7535" align="aligncenter" width="1280"]![Beilstein Germany]({{ site.url }}/assets/img/2018/11/Beilstein-Germany.jpg){: .img-fluid} Beilstein on the Mosel[/caption]
 
-[caption id="attachment_7537" align="aligncenter" width="1280"]![Beilstein](https://withoutapath.com/wp-content/uploads/2018/11/Beilstein.jpg){: .img-fluid} Beilstein[/caption]
+[caption id="attachment_7537" align="aligncenter" width="1280"]![Beilstein]({{ site.url }}/assets/img/2018/11/Beilstein.jpg){: .img-fluid} Beilstein[/caption]
 
 If you're thru-hiking on the Moselsteig, you can get to Beilstein easily by foot. Cochem to Beilstein is the preceding stage followed by Beilstein to Ediger-Eller -- both towns with easy rail access. I hiked the 16 kilometers from Beilstein to Cochem myself, a trail that instantly catapulted itself onto the top of my personal favorites. You've got the steep ascent from town to overlooks of the region, a strong reminder of the [Rheinsteig](https://withoutapath.com/germany-rheinsteig-trail/), followed by wide, winding crushed gravel trails. But then the trail surprises, slicing through vineyards spilling over the hillside and thick forests where the only thing you can hear is the sound of a trickling stream. In the end, the trail dumps you out onto a narrow dirt trail that you might second-guess is the right way until you see Cochem Castle in the distance.
 
-![Moselle Vineyards](https://withoutapath.com/wp-content/uploads/2018/11/Moselle-Vineyards.jpg){: .img-fluid}
+![Moselle Vineyards]({{ site.url }}/assets/img/2018/11/Moselle-Vineyards.jpg){: .img-fluid}
 
-![Cochem Castle](https://withoutapath.com/wp-content/uploads/2018/11/Cochem-Castle.jpg){: .img-fluid}
+![Cochem Castle]({{ site.url }}/assets/img/2018/11/Cochem-Castle.jpg){: .img-fluid}
 
 But my aunt isn't a hiker, so I took a bus from Cochem back over to Beilstein. Easy peasy. To continue onward toward Ediger-Eller, we had to cross the river. This affords us the opportunity to add yet another mode of transportation to our itinerary -- motorized raft. That's the best way I can describe it. There's a flatbed floating across the river, guided by lines that are tied down on both sides. How do you pick it up?
 
 "Just wave at them and they'll come," staff at Hotel Gute Quelle explained.
 
-[caption id="attachment_7550" align="aligncenter" width="1280"]![Beilstein Ferry](https://withoutapath.com/wp-content/uploads/2018/11/Beilstein-Ferry.jpg){: .img-fluid} Beilstein Ferry[/caption]
+[caption id="attachment_7550" align="aligncenter" width="1280"]![Beilstein Ferry]({{ site.url }}/assets/img/2018/11/Beilstein-Ferry.jpg){: .img-fluid} Beilstein Ferry[/caption]
 
 ## Ediger-Eller
 
-![Ediger-Eller from Moselsteig](https://withoutapath.com/wp-content/uploads/2018/11/Ediger-Eller-from-Moselsteig.jpg){: .img-fluid}
+![Ediger-Eller from Moselsteig]({{ site.url }}/assets/img/2018/11/Ediger-Eller-from-Moselsteig.jpg){: .img-fluid}
 
 [You can get wine](https://withoutapath.com/german-wine-tasting-food-mainz/) anywhere along the Mosel. A quick search will pull up vineyards throughout the region with family-run _Weinstubes_ in the respective towns proudly selling their wares. That said, I picked a stop in Ediger-Eller to serve as our official wine hub because it's home to the (or one of the) steepest vineyards in Europe. Offers to do a _Klettersteig_, basically a hike guided by ropes you have to hang on to, are advertised at the hotels in town. But this is where Melanie and Moses meet up with me. Seeing as a _Kletterseig_ isn't particularly Hund-friendly, we opt to stick with the Moselsteig, marching through the now-familiar forested trail.
 
@@ -63,7 +63,7 @@ The highlight on this stretch between Ediger-Eller and Neef is the Gipfelkreuz w
 
 Despite the best efforts of impatient travelers to literally blow the clouds away, it was clear they'd be there for a while. So, we marched onward, reaching the valley just in time for the clouds to fade.
 
-![Moselle Bend](https://withoutapath.com/wp-content/uploads/2018/11/Moselle-Bend.jpg){: .img-fluid}
+![Moselle Bend]({{ site.url }}/assets/img/2018/11/Moselle-Bend.jpg){: .img-fluid}
 
 ## Trier
 
@@ -73,15 +73,15 @@ But what's been more recently on Trier's mind is more contemporary history -- th
 
 Me, I'm not particularly drawn in by the history, as pleasant as it was to walk up the old, winding staircase of Porta Nigra and to wander aimlessly in the excavated floorplan of the Kaiserthermen. I'm drawn to just how pleasant, liveable Trier appears to be. My only lament was having to hop on the train back to Düsseldorf so quickly, missing out on the surrounding Moselsteig and [Eifelsteig trails](https://withoutapath.com/germany-hiking-eifel-national-park/) that criss-cross through the ancient city. Fortunately, considering Trier has made it this long, I suspect it'll be around for a while.
 
-[caption id="attachment_7551" align="aligncenter" width="1280"]![Fishing in Beilstein](https://withoutapath.com/wp-content/uploads/2018/11/Fishing-in-Beilstein.jpg){: .img-fluid} Fishing in Beilstein.[/caption]
+[caption id="attachment_7551" align="aligncenter" width="1280"]![Fishing in Beilstein]({{ site.url }}/assets/img/2018/11/Fishing-in-Beilstein.jpg){: .img-fluid} Fishing in Beilstein.[/caption]
 
-![Ellerer Höll](https://withoutapath.com/wp-content/uploads/2018/11/Ellerer-Höll.jpg){: .img-fluid}
+![Ellerer Höll]({{ site.url }}/assets/img/2018/11/Ellerer-Höll.jpg){: .img-fluid}
 
-![Moselsteig Rocks](https://withoutapath.com/wp-content/uploads/2018/11/Moselsteig-Rocks.jpg){: .img-fluid}
+![Moselsteig Rocks]({{ site.url }}/assets/img/2018/11/Moselsteig-Rocks.jpg){: .img-fluid}
 
-![Moselsteig Trail](https://withoutapath.com/wp-content/uploads/2018/11/Moselsteig-Trail.jpg){: .img-fluid}
+![Moselsteig Trail]({{ site.url }}/assets/img/2018/11/Moselsteig-Trail.jpg){: .img-fluid}
 
-[caption id="attachment_7555" align="aligncenter" width="1280"]![Mosel vineyard](https://withoutapath.com/wp-content/uploads/2018/11/Steep-Vineyard-Moselle.jpg){: .img-fluid} Mosel vineyard[/caption]
+[caption id="attachment_7555" align="aligncenter" width="1280"]![Mosel vineyard]({{ site.url }}/assets/img/2018/11/Steep-Vineyard-Moselle.jpg){: .img-fluid} Mosel vineyard[/caption]
 
 **For more information on the Moselsteig and Traumpfade, visit [moselsteig.de](https://moselsteig.de/) and [traumpfade.info](https://www.traumpfade.info/home/). For full-resolution photos from this trip, [click here](https://flic.kr/s/aHskJzdsc2).**
 

@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Manfrotto Befree Carbon Fiber Tripod - JoeBaur](/wp-content/uploads/2015/09/_d_improd_/Manfrotto-Befree-Carbon-Fiber-Tripod-JoeBaur_f_improf_616x561.png)](https://withoutapath.com/wp-content/uploads/2015/09/Manfrotto-Befree-Carbon-Fiber-Tripod-JoeBaur.png)
+[![Manfrotto Befree Carbon Fiber Tripod - JoeBaur](/wp-content/uploads/2015/09/_d_improd_/Manfrotto-Befree-Carbon-Fiber-Tripod-JoeBaur_f_improf_616x561.png)]({{ site.url }}/assets/img/2015/09/Manfrotto-Befree-Carbon-Fiber-Tripod-JoeBaur.png)
 
 I don't do much tripod work. Most of my stuff is constantly on-the-go travel, so I opt to go handheld and do the best I can to get a relatively steady shot.
 
@@ -12,7 +12,7 @@ But then an opportunity came up to shoot a little documentary short on [cycling 
 
 I went with this model for a couple of reasons. First, its reported weight of 1.1 kilograms (2.4 pounds) was appealing from a traveling perspective. The 100 percent carbon fiber legs promised a solid and transportable tripod. I don't care how much you hit the gym,you don't want a heavy tripod dragging you down when constantly on the move. Overuse injuries can become a risk not to mention the possibility of turning into a sweaty blob when forced to haul a heavy piece equipment across town. I'm not sure how you like conducting interviews, but showing up with giant pit stains is not the most professional look.
 
-[![Manfrotto Befree Carbon Fiber Tripod Folded - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/09/Manfrotto-Befree-Carbon-Fiber-Tripod-Folded-JoeBaur-e1441195749892.png)](https://withoutapath.com/wp-content/uploads/2015/09/Manfrotto-Befree-Carbon-Fiber-Tripod-Folded-JoeBaur-e1441195749892.png)
+[![Manfrotto Befree Carbon Fiber Tripod Folded - JoeBaur]({{ site.url }}/assets/img/2015/09/Manfrotto-Befree-Carbon-Fiber-Tripod-Folded-JoeBaur-e1441195749892.png)]({{ site.url }}/assets/img/2015/09/Manfrotto-Befree-Carbon-Fiber-Tripod-Folded-JoeBaur-e1441195749892.png)
 
 The second reason I was drawn to this model was the size. No, not talking about the weight again. Rather I'm talking about the actual length of the tripod, which has a folding length of only 40 centimeters (15.7 inches). At its maximum height it can hit about 142 centimeters (55.91 inches), meaning you're not sacrificing the ability to put together a proper setup based on its folding length.
 

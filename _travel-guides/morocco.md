@@ -30,7 +30,7 @@ I'm tired of shutting people down, thinking everyone is trying to rip me off bec
 
 Before I can even question if he's trying to play us, he tells us, "No charge. I promise." He's met an apprehensive tourist before.
 
-![Marrakech Souks](https://withoutapath.com/wp-content/uploads/2018/03/Moroccans-in-the-Souks-of-Marrakech-1024x683.jpg){: .img-fluid}
+![Marrakech Souks]({{ site.url }}/assets/img/2018/03/Moroccans-in-the-Souks-of-Marrakech.jpg){: .img-fluid}
 
 So we follow him, through the narrow streets of the Jewish Quarter and he shares a bit of his story. He studied French, English, and even a bit of Spanish in school. He comes to Marrakech every day for work but lives in a village near the Atlas Mountains some 90 minutes away. He seems to take pride in sharing a story of peaceful coexistence among Jews, Christians, and the dominant Muslims as we continue through the maze. Eventually, he invites us for tea, which happens to be near the palace. We agree, sensing that a swindle might be on the horizon, but he anticipates our hesitation again. "No charge."
 
@@ -58,7 +58,7 @@ Yes, we had been buttered up and slightly swindled to make a sale. But it doesn'
 
 ## Morocco Travel Guide -- Off The Beaten Path
 
-![The Riad Star Marrakech, Morocco](https://withoutapath.com/wp-content/uploads/2018/03/The-Riad-Star-Marrakech-Morocco-1024x706.jpg){: .img-fluid}
+![The Riad Star Marrakech, Morocco]({{ site.url }}/assets/img/2018/03/The-Riad-Star-Marrakech-Morocco.jpg){: .img-fluid}
 
 ## MARRAKECH
 
@@ -72,7 +72,7 @@ _**Disclosure:** The Riad Star hosted my wife and me for one of our three nights
 
 ### Things to do in Marrakech
 
-![](https://withoutapath.com/wp-content/uploads/2018/03/Jemaa-el-Fnaa-Square-Marrakech-Morocco-1024x683.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2018/03/Jemaa-el-Fnaa-Square-Marrakech-Morocco.jpg){: .img-fluid}
 
 **The Souks**
 
@@ -84,7 +84,7 @@ Eventually, the souks pour out to Jemaa el-Fnaa, a large square covered with hag
 
 **Koutoubia Mosque**
 
-![](https://withoutapath.com/wp-content/uploads/2018/03/Koutoubia-Mosque-Marrakech-1024x683.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2018/03/Koutoubia-Mosque-Marrakech.jpg){: .img-fluid}
 
 A real surprise was the gardens surrounding the Koutoubia Mosque. The mosque is the largest in Marrakech and is noted as a thing to do in Marrakech even though non-Muslims cannot go inside. But surrounding the mosque is a lovely manicured park with oranges growing on the trees. Here you see why Marrakech used to be considered one of the greenest cities of Morocco.
 
@@ -102,14 +102,14 @@ I read another blog post insisting that there aren't any good restaurants in Mor
 
 Splurge on your nice meal at [Le Fondouk](http://www.foundouk.com/?langue=en), just around the corner from the Riad Star. They're celebrated for their rooftop view of the city, but the atmospheric interior more than suffices if it's too chilly for outdoor dining. The cuisine is basically what you're going to get at a riad, right down to the Tangia Marrakchia -- a local Marrakech-take on the tangine with savory lamb dripping off the bone. You can also get some harira, a Moroccan lentil soup that I highly recommend. If you're one to imbibe and the thought of significant travel in a mostly dry country gives you the shakes -- fear not. A wine menu is available, though prices are going to be pricier than you might be used to.
 
-![Earth Cafe Marrakech, Morocco](https://withoutapath.com/wp-content/uploads/2018/03/Earth-Cafe-Marrakech-Morocco-1024x683.jpg){: .img-fluid}
+![Earth Cafe Marrakech, Morocco]({{ site.url }}/assets/img/2018/03/Earth-Cafe-Marrakech-Morocco.jpg){: .img-fluid}
 
 For lunch, we went to [Café de France](http://www.cafe-france-marrakech.com/) on the main square, Jemaa el-Fnaa. It felt a bit touristy, but the food was fine and you could get a nice overhead view of the square without having to be in the middle of it. Another option in the heart of the souks is the **Earth Café**. (You might see their signs around the souks.) Another solid dinner option will take you to [Le Jardin](https://lejardinmarrakech.com/) where you can change things up from the tangine and instead go for one of the pastillas -- a pastry pie thinly wrapped with veggies or your choice of meat (perhaps pigeon?) inside.
 
 If you want to save money, you can always dive back into the souks and look for street food. We enjoyed what we intended to be a snack before dinner with a street food vendor selling omelette sandwiches (dashed with a bit of spice) for about five dirhams a pop. Neither of us could believe how tasty it was. In true Moroccan fashion, the vendor tried to give them to us for free, as a _cadeau_ or gift, because we supposedly were not "tourists" by coming to his stand. (My limited French could understand him complaining about certain parts of town hoarding the tourist money for themselves.)  He pulled out two plastic seats for us so we could enjoy our sandwich seated (but we wondered if we were simultaneously serving as billboards for other tourists). Was it the best meal we had in Marrakech? Probably not, but it was the best meal we could have in that moment.
 
 ## Fez
-![Souks in Fez, Morocco](https://withoutapath.com/wp-content/uploads/2018/03/Fez-Morocco-Souks-1024x683.jpg){: .img-fluid}
+![Souks in Fez, Morocco]({{ site.url }}/assets/img/2018/03/Fez-Morocco-Souks.jpg){: .img-fluid}
 
 ### Where to Stay in Fez
 
@@ -125,7 +125,7 @@ The view of Fez can be a bit blinding in the morning hours because it sits right
 
 **Chouara Tannery**
 
-![](https://withoutapath.com/wp-content/uploads/2018/03/Chouara-Tannery-in-Fez-Morocco-1024x683.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2018/03/Chouara-Tannery-in-Fez-Morocco.jpg){: .img-fluid}
 
 For whatever reason, we were determined to find the tanneries on our own without signing up for a tour. What we didn't know beforehand is that you have to go into one of the businesses to get onto the rooftops for a view of the tanneries. Nor did we realize just how difficult it would be to even find the street, which is admittedly quite silly after having had a taste of the Moroccan medina in Marrakech.
 
@@ -141,7 +141,7 @@ After Garden Jnan sbil, we continued south to the Jewish neighborhood and to hav
 
 ### Fez Restaurants
 
-![Fez Morocco Street Food](https://withoutapath.com/wp-content/uploads/2018/03/Fez-Morocco-Street-Food-1024x683.jpg){: .img-fluid}
+![Fez Morocco Street Food]({{ site.url }}/assets/img/2018/03/Fez-Morocco-Street-Food.jpg){: .img-fluid}
 
 Outside of the riad, we ate at Cafe Clock where they offered seating on several floors. We ate on the rooftop for fresh air and a view, but the floor beneath featured live music that we were a bit bummed to miss out on. The food, per usual at this point for Morocco, was delicious. You can get the usual Moroccan staples here of harira, tangines, and other tempting dishes. A personal highlight of Fez eating, though, was the street food. For dinner one night, wanting to save money, we opted to head back into the souks near Bab Boujloud. We found one stall with quite literally a hole in the wall that was outfitted with a television playing soccer and picnic-style benches for a few people to have a seat. The batch of locals eating there intrigued us, so we ordered two chicken sandwiches. Like the omelette sandwich in Marrakech, neither of us could believe how good this simple-looking concoction was. So much so, it was our last stop in Fez the next day, grabbing a quick lunch before hopping on the train to Meknes.
 
@@ -153,7 +153,7 @@ Outside of the riad, we ate at Cafe Clock where they offered seating on several 
 
 ### Things to do in Meknes
 
-![Bab Mansour Laleuj in Meknes, Morocco](https://withoutapath.com/wp-content/uploads/2018/03/Bab-Mansour-Laleuj-in-Meknes-Morocco-1024x683.jpg){: .img-fluid}
+![Bab Mansour Laleuj in Meknes, Morocco]({{ site.url }}/assets/img/2018/03/Bab-Mansour-Laleuj-in-Meknes-Morocco.jpg){: .img-fluid}
 
 **Bab Mansour Laleuj**
 
@@ -168,7 +168,7 @@ We had our wine with dinner at [Le Collier de la Colombe](http://lecollierdelaco
 
 ## Tangier
 
-![Place Avril in Tangier, Morocco](https://withoutapath.com/wp-content/uploads/2018/03/Place-Avril-in-Tangier-Morocco-1024x683.jpg){: .img-fluid}
+![Place Avril in Tangier, Morocco]({{ site.url }}/assets/img/2018/03/Place-Avril-in-Tangier-Morocco.jpg){: .img-fluid}
 
 ### Where to Stay in Tangier
 
@@ -181,7 +181,7 @@ Before parting ways, we ended up with an invitation to a couscous lunch the next
 The experienced summed up why Tangier was my favorite stop in all of Morocco. That international flair it used to be known for is clearly on its way back -- if not already arrived.
 
 ### Things to do in Tangier
-![](https://withoutapath.com/wp-content/uploads/2018/03/Street-in-Tangier-Morocco-1024x683.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2018/03/Street-in-Tangier-Morocco.jpg){: .img-fluid}
 
 **Walking and Sunsets at the Kasbah**
 
@@ -195,7 +195,7 @@ This is when even a child-free traveler can realize the fundamental difference i
 
 In other words, come to the Phoenician Tombs for a bit of a pause to reflect back on the trip.
 
-![Kids Playing in Tangier](https://withoutapath.com/wp-content/uploads/2018/03/Kids-playing-in-Tangier-1024x683.jpg){: .img-fluid}
+![Kids Playing in Tangier]({{ site.url }}/assets/img/2018/03/Kids-playing-in-Tangier.jpg){: .img-fluid}
 
 **Uncle Sam at the American Legion**
 
@@ -211,7 +211,7 @@ Okay, at the risk of forgoing originality, this is another Bourdain feature from
 
 Café Baba is featured in the episode as another staple of Tangier life, but you get your meal across the street at, even more so than the place in Fez, a hole in the wall serving up egg sandwiches. The son of the owner, who was the one featured in the episode, noticed us hovering around and kicked a friend of his out of the seats to give them to us as his father cooked up the sandwiches. We had a chat with the owner and his son about their television appearance and went away with happy stomachs.
 
-![Tangier, Morocco Skyline](https://withoutapath.com/wp-content/uploads/2018/03/Tangier-Morocco-Skyline-1024x683.jpg){: .img-fluid}
+![Tangier, Morocco Skyline]({{ site.url }}/assets/img/2018/03/Tangier-Morocco-Skyline.jpg){: .img-fluid}
 
 ### Tangier Restaurants
 
@@ -227,7 +227,7 @@ I've yet to interact with a culture that doesn't take some joy, masochistic or o
 
 ## Transportation in Morocco
 
-![Marrakech Train Platform](https://withoutapath.com/wp-content/uploads/2018/03/Marrakech-Train-Platform-1024x601.jpg){: .img-fluid}
+![Marrakech Train Platform]({{ site.url }}/assets/img/2018/03/Marrakech-Train-Platform.jpg){: .img-fluid}
 
 Anecdotally, most seem to travel Morocco by signing up with some kind of tour operator, shuttling groups around in vans. This is certainly one way to do it, but I was plenty happy traveling Morroco by train. The train doesn't hit every popular Moroccan destination, most notably neither Chefchaouen or Essaouira, but it gets you everywhere else. Unfortunately, the stations aren't within walking distance to the riads in the respective medinas, so you'll most likely need to take a cab, but that's the only downside. The trains themselves are perfectly comfortable and allow you to take in the passing countryside without worrying about other drivers on the road. Want to know more about how to get tickets and what the travel times are like? Check out this post on [traveling Morocco by train](https://withoutapath.com/morocco-train-travel/).
 

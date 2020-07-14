@@ -31,7 +31,7 @@ Finally we escaped the city, leading to beautifully paved roads for nearly 100 k
 
 ## Dropped
 
-[![Cycling with BMC Switzerland in Belgium](https://withoutapath.com/wp-content/uploads/2014/04/BMC-Cyclists-JoeBaur.png)](https://withoutapath.com/wp-content/uploads/2014/04/BMC-Cyclists-JoeBaur.png)
+[![Cycling with BMC Switzerland in Belgium]({{ site.url }}/assets/img/2014/04/BMC-Cyclists-JoeBaur.png)]({{ site.url }}/assets/img/2014/04/BMC-Cyclists-JoeBaur.png)
 
 We all stayed together for the first 100 kilometers. "We" being the other five in the "granfondo experience" crew and a handful of BMC employees. After refueling, we'd start hitting the climbs and the more inexperienced would inevitably be dropped.
 
@@ -47,7 +47,7 @@ _Vaarwel_, you American clown.
 
 ## Gone and Kaput
 
-[caption id="attachment_982" align="aligncenter" width="600"][![Cycling a cobblestone climb in Belgium's Tour of Flanders](https://withoutapath.com/wp-content/uploads/2014/04/Ronde-van-Vlaanderen-25-JoeBaur-1024x680.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/04/Ronde-van-Vlaanderen-25-JoeBaur.jpg){: .img-fluid} Here I am avoiding the cobbles on a cobble hill.  
+[caption id="attachment_982" align="aligncenter" width="600"][![Cycling a cobblestone climb in Belgium's Tour of Flanders]({{ site.url }}/assets/img/2014/04/Ronde-van-Vlaanderen-25-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/04/Ronde-van-Vlaanderen-25-JoeBaur.jpg){: .img-fluid} Here I am avoiding the cobbles on a cobble hill.  
 Photo: Sportograf[/caption]
 
 The cobbles and I really did not get along. I said it before in regards to my training ride, but it bears repeating. Everything in my body vibrated. Things I didn't know could vibrate, vibrated. To put it graphically, I fear I will not be able to have children.
@@ -64,7 +64,7 @@ But of course, [the video](http://prod.chronorace.be/RVV/Tracking2014.aspx?event
 
 #### Finishing and Beer
 
-[![Tour of Flanders finish line at Oudenaard](https://withoutapath.com/wp-content/uploads/2014/04/Oudenaarde-JoeBaur.png)](https://withoutapath.com/wp-content/uploads/2014/04/Oudenaarde-JoeBaur.png)
+[![Tour of Flanders finish line at Oudenaard]({{ site.url }}/assets/img/2014/04/Oudenaarde-JoeBaur.png)]({{ site.url }}/assets/img/2014/04/Oudenaarde-JoeBaur.png)
 
 To be fair, I never doubted that I would finish. But it's infinitely more reassuring that you'll finish _after_ all the climbs than before the climbs, naturally, especially when you spend a considerable amount of time staring at the map as if it's your last will and testament.
 
@@ -76,7 +76,7 @@ Beer was most definitely consumed.
 
 ## Lucky
 
-[caption id="attachment_984" align="aligncenter" width="1000"][![BMC Swtizerland celebrating finish at Tour of Flanders](https://withoutapath.com/wp-content/uploads/2014/04/Tour-Of-Flanders-Finish-JoeBaur.png)](https://withoutapath.com/wp-content/uploads/2014/04/Tour-Of-Flanders-Finish-JoeBaur.png) #BMC_GF2014 cheering us home.[/caption]
+[caption id="attachment_984" align="aligncenter" width="1000"][![BMC Swtizerland celebrating finish at Tour of Flanders]({{ site.url }}/assets/img/2014/04/Tour-Of-Flanders-Finish-JoeBaur.png)]({{ site.url }}/assets/img/2014/04/Tour-Of-Flanders-Finish-JoeBaur.png) #BMC_GF2014 cheering us home.[/caption]
 
 If you're a cyclist, you can't skip this sportive. Beautiful country, great people, and beer that couldn't taste any better -- especially after 245 kilometers with cobblestones that will make you question your sanity and your capability of committing murder.
 

@@ -27,7 +27,7 @@ It wasn't all tragic history. In fact, the rest of our walk took a decidedly upb
 
 We continued through a line of food counters at Portal Fernández Concha, a popular spot for locals and travelers to stop for a quick bite, alongside the _Plaza de Armas _-- a common name for any city center park in a Latin American city.  A number of museums surround the park along with _Catedral de Santiago_. We made the obligatory stop into the church, marveling once more at the beauty one can find at seemingly every corner of the city. But for me, I could've spent the rest of the day sitting in the park, people watching, only moving to get another sandwich.
 
-![Catedral-de-Santiago-Chile](https://withoutapath.com/wp-content/uploads/2018/05/Catedral-de-Santiago-JoeBaur.jpg){: .img-fluid}
+![Catedral-de-Santiago-Chile]({{ site.url }}/assets/img/2018/05/Catedral-de-Santiago-JoeBaur.jpg){: .img-fluid}
 
 ### Cerro San Cristóbal
 
@@ -43,7 +43,7 @@ After giving our obligatory admiration every tourist must give to the giant stat
 
 ### Wine Country
 
-![Concha y Toro Vineyard in Chile](https://withoutapath.com/wp-content/uploads/2018/05/Concha-y-Toro-Vineyards-JoeBaur.jpg){: .img-fluid}
+![Concha y Toro Vineyard in Chile]({{ site.url }}/assets/img/2018/05/Concha-y-Toro-Vineyards-JoeBaur.jpg){: .img-fluid}
 
 Step outside of Santiago and you're in wine country. For us, it was [Concha y Toro](http://www.conchaytoro.com) -- the largest producer of wines in Latin America with one of the most respected brands in the world. I'm of course talking about Casillero del Diablo. The legend goes that more than 100 years ago, vineyard founder Don Melchor began noticing that some of his bottles of wine were disappearing. To scare off potential robbers, he started a legend that the wine cellar was inhabited by the devil himself. Thus the Devil's locker was born -- _casillero del diablo_.
 

@@ -2,6 +2,7 @@
 title: Parsha Bamidbar | Making sure you're counted
 categories:
 - Essays
+homepage: false
 ---
 ![](https://i2.wp.com/withoutapath.com/wp-content/uploads/2020/05/nick-hillier-yD5rv8_WzxA-unsplash-scaled.jpg?fit=1024%2C683&ssl=1)Photo by [Nick Hillier](https://unsplash.com/@nhillier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/numbers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

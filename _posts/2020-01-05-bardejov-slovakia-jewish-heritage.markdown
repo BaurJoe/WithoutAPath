@@ -5,7 +5,7 @@ categories:
 - Europe
 ---
 
-![Bardejov UNESCO City Center](https://withoutapath.com/wp-content/uploads/2020/01/Bardejov-UNESCO-City-Center.jpg){: .img-fluid}Bardejov's UNESCO City Center
+![Bardejov UNESCO City Center]({{ site.url }}/assets/img/2020/01/Bardejov-UNESCO-City-Center.jpg){: .img-fluid}Bardejov's UNESCO City Center
 
 _Sit tight, folks. You're in for a long one. This is a sample chapter I've put together on my self-made [Jewish heritage](https://withoutapath.com/jewish-heritage/) trip to Slovakia for a book I'll hopefully get to write._
 
@@ -33,7 +33,7 @@ Then, "It's not enjoyment," he added before throwing his hands up, amplified wit
 
 "I don't know what I'm doing,” he said with a sardonic chuckle.
 
-![Northeastern Slovakia Countryside](https://withoutapath.com/wp-content/uploads/2020/01/Northeastern-Slovakia-Countryside.jpg){: .img-fluid}Driving around rural northeastern Slovakia
+![Northeastern Slovakia Countryside]({{ site.url }}/assets/img/2020/01/Northeastern-Slovakia-Countryside.jpg){: .img-fluid}Driving around rural northeastern Slovakia
 
 And it’s not as if he had a special interest in heritage or ancestry. At least, that’s what he told me later on as we sped along country roads. I thought since he’d been helping people like me reconnect with their heritage, it would spark an interest in his own. But it didn’t and I ultimately wasn’t surprised. Most Europeans I’ve interacted with have shown relative indifference to their heritage, knowing that their family had been in the same country for centuries. Some had even gone so far as to admit jealousy of people from the Americas who know they’re the product of different heritages and can trace that ancestry back to faraway places.
 
@@ -43,7 +43,7 @@ The tragedy of it all was that after their meeting, Mark's American relative wen
 
 Mark's mysterious motives aside, it's clear that this is a thing he’s doing. He digs through archives looking for long lost records on request from searching families. He helped his son secure an €800,000 grant from the Norwegian, Icelandic, and Luxembourg governments to begin renovations on the synagogue complex in Bardejov. He's met with and become friends with Holocaust survivors, going so far as to call some "members of the family." It's a sentiment John later echoed.
 
-![Refurbished Synagogue in Bardejov](https://withoutapath.com/wp-content/uploads/2020/01/Refurbished-Synagogue-in-Bardejov.jpg){: .img-fluid}Result of synagogue renovations thanks in part to Mark's work
+![Refurbished Synagogue in Bardejov]({{ site.url }}/assets/img/2020/01/Refurbished-Synagogue-in-Bardejov.jpg){: .img-fluid}Result of synagogue renovations thanks in part to Mark's work
 
 And that's how Mark reels you in. He makes you think, "Maybe there are a few decent people left on this stupid little rock." After all, he spent his Friday night, most of Saturday, and his Sunday evening with me, a stranger, to show me around town, introduce me to people, and to escort me around the villages my ancestors came from, and I have every reason to believe that it's something he does with relative frequency––certainly more free labor you or I would likely ever offer a stranger.
 
@@ -73,7 +73,7 @@ The cemetery was just past the houses, surrounded on all sides by a white wall. 
 
 Walking through the gate, I was taken aback. It was practically empty; a square-field of flattened, overgrown grass that formed mushy, awkward lumps to walk over. The macabre section of my brain immediately flashed to horrific visions of me falling into one of the plots. _Wouldn't that be a twist in my ancestral journey?_ I thought. A horror version of Pixar’s Coco.
 
-![Jewish Cemetery Kurima, Slovakia](https://withoutapath.com/wp-content/uploads/2019/08/Jewish-Cemetery-Dubinne-Slovakia-1024x682.jpg){: .img-fluid}The desecrated cemetery of (probably) my ancestors in Kurima, Slovakia
+![Jewish Cemetery Kurima, Slovakia]({{ site.url }}/assets/img/2019/08/Jewish-Cemetery-Dubinne-Slovakia.jpg){: .img-fluid}The desecrated cemetery of (probably) my ancestors in Kurima, Slovakia
 
 In all, I counted three or four partial tombstones. Only one of them was completely intact, but the Old Hebrew characters would've been difficult for even the sharpest eye to decipher.
 
@@ -117,7 +117,7 @@ That's when I stopped asking questions. I usually try to allow for something to 
 
 "Gypsies, gypsies, gypsies," he'd say in a perplexed 'what are we going to do with you?' tone while driving past a Roma settlement. "Would you ever imagine this? In the 21st Century?" 
 
-![View of Roma Settlement from Afar](https://withoutapath.com/wp-content/uploads/2020/01/View-of-Roma-Settlement-from-Afar.jpg){: .img-fluid}Looking back at the Roma settlement near the trail to a hidden Jewish cemetery
+![View of Roma Settlement from Afar]({{ site.url }}/assets/img/2020/01/View-of-Roma-Settlement-from-Afar.jpg){: .img-fluid}Looking back at the Roma settlement near the trail to a hidden Jewish cemetery
 
 The scene was unexpected for me. Trash and plastic bottles were strewn about the makeshift homes and dirt paths leading to the road. It reminded me of a slum I visited with a local non-profit in San Jose, Costa Rica. But instead of challenging the system that would allow for such poverty, Mark seemed content to lay the blame entirely at the feet of these Roma folks. 
 
@@ -139,13 +139,13 @@ Of course, prejudice rarely makes sense.
 
 Someone with a larger Twitter following might have used the moment to tweet-shame the man with a deluge of self-righteous scorning and watch the retweets pour in, filling their stores of social media gratification like the Highlander absorbing the power of his victim. But I decided that despite some of his uncomfortable language, his heart was hovering around the right place.
 
-![Cigelka Orthodox Church](https://withoutapath.com/wp-content/uploads/2020/01/Cigelka-Orthodox-Church.jpg){: .img-fluid}Orthodox church in Cigelka
+![Cigelka Orthodox Church]({{ site.url }}/assets/img/2020/01/Cigelka-Orthodox-Church.jpg){: .img-fluid}Orthodox church in Cigelka
 
 We had driven by more Roma people on the way up to the church in Cigelka with the most scenic view of the village; the Orthodox church standing atop the hill and a gentle stream running downhill hill under the bridge to the church grounds. Mark said Roma make up the majority of Cigelka these days in a village I could more easily imagine as the 19th Century _shtetl_ (Jewish village) than Dubinné––the last record I have of my ancestors in the Old Country, with its nondescript road and homes on either side. 
 
 Few remnants of Jewish life remain in these villages. Mark could point out the pub in Kurima that used to be owned by a Jewish family. Chris noted the holes in the door frame to an abandoned home that likely used to hold a mezuzah. He paused as I took in the splintered wood and chipped paint where the holes were.
 
-![Jewish-Home-Kurima-Slovakia](https://withoutapath.com/wp-content/uploads/2019/08/Jewish-Home-Kurima-Slovakia-1024x682.jpg){: .img-fluid}A home in Kurima with holes leftover in the doorframe from a mezuzah.
+![Jewish-Home-Kurima-Slovakia]({{ site.url }}/assets/img/2019/08/Jewish-Home-Kurima-Slovakia.jpg){: .img-fluid}A home in Kurima with holes leftover in the doorframe from a mezuzah.
 
 If I appeared unmoved, it's because I was. I had no idea what a mezuzah was. He could've made the word up for all I knew. It did sound suspiciously like a kazoo and my brain, quickly trying to make sense of it all without revealing my embarrassing lack of Jewish knowledge, tried to imagine why nineteenth-century Jews, my ancestors, would post a musical instrument to their doors.
 
@@ -165,7 +165,7 @@ Inevitably, I forgot the word over the day as it morphed into variations of "zoo
 
 But in northeastern Slovakia, the mezuzahs were long gone. The only remnant of Jewish life in Dubinné was the oak tree, a remnant only because it would've been around before and after Jewish settlement. Now it's a front yard ‘attraction’ next to someone’s driveway with a red car parked in the garage.
 
-![Dubinne Oak Tree](https://withoutapath.com/wp-content/uploads/2020/01/Dubinne-Oak-Tree.jpg){: .img-fluid}The oak tree in Dubinné
+![Dubinne Oak Tree]({{ site.url }}/assets/img/2020/01/Dubinne-Oak-Tree.jpg){: .img-fluid}The oak tree in Dubinné
 
 This is hardly the first time that a host of mine had let their casual racism slip out unprompted. What baffles me is that these people are always aware that I'm a writer. I never try to hide it. You’ll never hear me offer some cover occupation like a CIA Agent who swears they're just an accountant. I often even give people a heads up that I'm likely to write about my experiences if I know my intentions beforehand. 
 
@@ -179,13 +179,13 @@ Some of you reading this probably have a relative like him at your Thanksgiving 
 
 After taking me to a hidden Jewish cemetery––unrelated to my story, just something he found one day and wanted to show me––we took another detour down a road that quickly turned to dirt. 
 
-![Hidden Jewish Cemetery in Northeastern Slovakia](https://withoutapath.com/wp-content/uploads/2020/01/Hidden-Jewish-Cemetery-in-Northeastern-Slovakia.jpg){: .img-fluid}Hidden Jewish cemetery in northeastern Slovakia
+![Hidden Jewish Cemetery in Northeastern Slovakia]({{ site.url }}/assets/img/2020/01/Hidden-Jewish-Cemetery-in-Northeastern-Slovakia.jpg){: .img-fluid}Hidden Jewish cemetery in northeastern Slovakia
 
 “I probably shouldn’t be on this,” he said with a masochistic grin as we bounced around the uneven path. I thought he was going to permanently bust up his vehicle.
 
 We ended up at an old holiday resort that he took his family to during the communist period. I watched as he stood at the edge of the dry lake his kids used to swim in and replay the fond memories in his head. I could sense a struggle to keep up with a changing world. Not that he missed the communist period. Far from it. But the opening of the borders has allowed young Slovaks to more easily leave and it’s created a brain drain of sorts to other European Union countries with better prospects. 
 
-![Former resort lake in Northeastern Slovakia](https://withoutapath.com/wp-content/uploads/2020/01/Former-resort-lake-in-Northeastern-Slovakia.jpg){: .img-fluid}What's left of the lake at the former resort
+![Former resort lake in Northeastern Slovakia]({{ site.url }}/assets/img/2020/01/Former-resort-lake-in-Northeastern-Slovakia.jpg){: .img-fluid}What's left of the lake at the former resort
 
 On more than one occasion, Mark lamented the lack of opportunity for young people in Bardejov and the corruption in local government––a point he emphasized by reminding me of the relatively recent news of a journalist, Ján Kuciak, who was killed for looking into such matters on a national scale. 
 
@@ -193,7 +193,7 @@ He was thoughtful and clearly cared about matters beyond himself. Although his e
 
 After two more detours––one to get coffee at the Slovakian equivalent of Target and another to visit a friend restoring an old church door he found––we were back at the Suburbium Synagogue complex in Bardejov, spending more time in the buildings yet to be restored with ongoing excavations. There were shopping carts and bags full of disheveled Hebrew text, original artwork reemerging from underneath stains of time and disuse. 
 
-![Excavations in Bardejov Synagogue](https://withoutapath.com/wp-content/uploads/2020/01/Excavations-in-Bardejov-Synagogue.jpg){: .img-fluid}Ongoing excavation at the Bardejov Synagogue
+![Excavations in Bardejov Synagogue]({{ site.url }}/assets/img/2020/01/Excavations-in-Bardejov-Synagogue.jpg){: .img-fluid}Ongoing excavation at the Bardejov Synagogue
 
 In a smaller room currently being used for storage, Mark explained that this is where many Jews were cramped together as they awaited transport to the camps. He pointed out where they’d scribbled their names on the wall, still visible, so they wouldn’t be forgotten.
 
@@ -239,11 +239,11 @@ In any event, this all felt relevant to me because Mark seemed oddly certain tha
 
 Only seven Jewish families survived through liberation in Bardejov. More than two-thirds of all Jews living in Slovakia had been murdered by the end of the Holocaust.
 
-![Bardejov Holocaust Memorial Star of David](https://withoutapath.com/wp-content/uploads/2020/01/Bardejov-Holocaust-Memorial-Star-of-David.jpg){: .img-fluid}The gate at Bardejov's Holocaust Memorial
+![Bardejov Holocaust Memorial Star of David]({{ site.url }}/assets/img/2020/01/Bardejov-Holocaust-Memorial-Star-of-David.jpg){: .img-fluid}The gate at Bardejov's Holocaust Memorial
 
 After sifting through some of the dusty documents of the synagogue, we stopped by the Holocaust memorial attached to the complex designed by an Israeli architect and survivor originally from nearby Presov. Mark pointed out some of the names on the wall that he’d just shown me scrawled in panicked handwriting in the storage room. The highlight of it all was a maroon-colored Star of David, rising out from under the train tracks that took millions of Jews to their deaths in concentration camps.
 
-![Train Tracks Holocaust Memorial in Bardejov](https://withoutapath.com/wp-content/uploads/2020/01/Train-Tracks-Holocaust-Memorial-in-Bardejov.jpg){: .img-fluid}
+![Train Tracks Holocaust Memorial in Bardejov]({{ site.url }}/assets/img/2020/01/Train-Tracks-Holocaust-Memorial-in-Bardejov.jpg){: .img-fluid}
 
 * * *
 
@@ -263,7 +263,7 @@ But at the same time, brilliant and hilarious if you could put up with his sense
 
 I stuck to their warning to keep my email address to myself, but it wouldn’t have mattered even if I did want to give it out. The man, something of a Slovakian Kosmo Kramer, would not (could not?) stop talking. It was a neurological exercise to try and keep up. His pauses only came for me to confirm American cultural references he learned by watching all of the movies and television shows produced in the United States.
 
-![Bardejov Buildings](https://withoutapath.com/wp-content/uploads/2020/01/Bardejov-Buildings.jpg){: .img-fluid}Historic buildings in Bardejov's city center
+![Bardejov Buildings]({{ site.url }}/assets/img/2020/01/Bardejov-Buildings.jpg){: .img-fluid}Historic buildings in Bardejov's city center
 
 We continued across the quiet cobblestones of Bardejov’s UNESCO city center in the dark, early evening hours in search of a bar with space for four and without clouds of cigarette smoke billowing up inside. After a couple of failed attempts, we ended up at Libresso Löwy––a bar Mark had taken me to the night before for a drink. There’s an “everyone knows everyone” vibe in Bardejov and I frequently saw it in action.
 
@@ -305,7 +305,7 @@ What does an Ashkenazi do? That sounds like the setup to a joke, but I really wa
 
 That’s when I realized that I was starting to make my own positive memories of being Ashkenazi just by being there, 150 years later, by meeting people I never would’ve met were it not for my heritage. Being a member of the tribe brought me to a corner of the world I’d never heard of a few months earlier, a place I would’ve never experienced had I just accepted myself as an American and nothing more. The tens of millions in the Irish diaspora end up on the same ancestral trail, swapping spit on the Blarney Stone with the millions who kissed it before them. I was in Bardejov, doing my own thing, sans spit.
 
-![Bardejov Historic Buildings](https://withoutapath.com/wp-content/uploads/2020/01/Bardejov-Historic-Buildings.jpg){: .img-fluid}A row of historic buildings in Bardejov's city center
+![Bardejov Historic Buildings]({{ site.url }}/assets/img/2020/01/Bardejov-Historic-Buildings.jpg){: .img-fluid}A row of historic buildings in Bardejov's city center
 
 There are no travel writers or influencers signing the praises of northeastern Slovakia as the next top travel destination. The last mention of Bardejov in The New York Times came, ironically enough (or perhaps not at all), in an ancestral story published in 1994. Reading the article, it doesn’t sound like much has changed. My Jewish ancestors took me someplace different, someplace unique, which is no easy feat in a world with a Google Streetview around almost every corner.
 
@@ -335,7 +335,7 @@ A small victory, but a victory nonetheless.
 
 I had one last beer with Mark the night before continuing onward to Krakow. He had called me up and said he had a present for me, promising to stop by the hotel later that night. Indeed, he came bearing a gift––a xerox copy of an Austro-Hungarian census document with members of the Feldman family in Dubinné. 
 
-![Dubinne Street](https://withoutapath.com/wp-content/uploads/2020/01/Dubinne-Street.jpg){: .img-fluid}Dubinné in March 2019
+![Dubinne Street]({{ site.url }}/assets/img/2020/01/Dubinne-Street.jpg){: .img-fluid}Dubinné in March 2019
 
 Nathan Feldman, my third-great-grandfather, is listed as the patriarch with my second-great-grandmother Anna underneath. Their religion was marked as “Moses,” which amuses me for some reason.
 

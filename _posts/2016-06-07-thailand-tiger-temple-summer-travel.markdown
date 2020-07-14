@@ -55,4 +55,4 @@ But conservation organizations and former temple workers have long accused the t
 
 The temple's monks have rejected accusations regarding their care of the tigers, saying they have done nothing wrong.
 
-[![Thailand's Tiger Temple tragedy and safe summer travel](https://withoutapath.com/wp-content/uploads/2016/06/Thailands-Tiger-Temple-tragedy-and-safe-summer-travel.png)](https://withoutapath.com/wp-content/uploads/2016/06/Thailands-Tiger-Temple-tragedy-and-safe-summer-travel.png)
+[![Thailand's Tiger Temple tragedy and safe summer travel]({{ site.url }}/assets/img/2016/06/Thailands-Tiger-Temple-tragedy-and-safe-summer-travel.png)]({{ site.url }}/assets/img/2016/06/Thailands-Tiger-Temple-tragedy-and-safe-summer-travel.png)

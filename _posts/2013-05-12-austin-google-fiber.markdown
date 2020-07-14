@@ -6,7 +6,7 @@ categories:
 - Travel
 ---
 
-[caption id="attachment_434" align="alignleft" width="600"][![](https://withoutapath.com/wp-content/uploads/2013/02/Lady-Bird-Lake-Kayaking-e1359823032620-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/02/Lady-Bird-Lake-Kayaking-e1359823032620.jpg){: .img-fluid} (Insert triumphant sounds of joy!)[/caption]
+[caption id="attachment_434" align="alignleft" width="600"][![]({{ site.url }}/assets/img/2013/02/Lady-Bird-Lake-Kayaking-e1359823032620.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/02/Lady-Bird-Lake-Kayaking-e1359823032620.jpg){: .img-fluid} (Insert triumphant sounds of joy!)[/caption]
 
 During a January trip to Austin, Texas, I partook in a brief [kayaking excursion around Lady Bird Lake](https://withoutapath.com/lady-bird-lake/). Like typical travelers bent on capturing every-moment-possible-on-camera, my friends and I posed for a picture, all of us side-by-side in our kayaks.
 

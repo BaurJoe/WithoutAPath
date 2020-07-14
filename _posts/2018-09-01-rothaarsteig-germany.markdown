@@ -5,7 +5,7 @@ categories:
 - Outdoors
 ---
 
-![Hiking in Germany Rothaarsteig](https://withoutapath.com/wp-content/uploads/2018/08/Hiking-in-Germany-Rothaarsteig-1024x766.jpeg)
+![Hiking in Germany Rothaarsteig]({{ site.url }}/assets/img/2018/08/Hiking-in-Germany-Rothaarsteig.jpeg)
 
 Germany is home to lots of _Steigs_. I should know, [I've now hiked](https://withoutapath.com/germany-rheinsteig-trail/) portions of four or five. The latest addition to my _Steig_-repertoire is the Rothaarsteig -- a 97-mile (156-kilometer) trail running south from Brilon in the Sauerland region. I had hiked in Sauerland before, a loop along the [Drei-Türme-Weg](https://withoutapath.com/hiking-in-germany-sauerland/) out of Hagen, which is more or less the gate into the Sauerland region coming from the west. The hike left me with fond memories of dense forests and actual elevation, a gift not to be forsaken coming from rather flat Düsseldorf. Needless to say, it left me longing for a return to the region and I was pleased to find yet another multi-stage trail in the Rothaarsteig.
 
@@ -15,13 +15,13 @@ With an upcoming empty weekend, I reached out to the folks who manage the trail,
 
 ## Hiking the Rothaarsteig
 
-![Rothaarsteig Hiking Trail in Germany](https://withoutapath.com/wp-content/uploads/2018/08/Rothaarsteig-Hiking-Trail-in-Germany-1024x1022.jpeg)
+![Rothaarsteig Hiking Trail in Germany]({{ site.url }}/assets/img/2018/08/Rothaarsteig-Hiking-Trail-in-Germany.jpeg)
 
 Allow me to cut to the chase. These were some of the most enjoyable trails I've hiked in two years of [living in Germany](https://withoutapath.com/travel-guides/germany/). They were diverse, challenging in both their distance and occasional ascents, and set apart from other trails with their isolation and the inherent beauty that comes with that. Often my wife and I would find ourselves truly alone, nothing but the sound of the passing breeze against the leaves.
 
 If you're looking for specifics, I can oblige. The hiking for the first seven kilometers was rather unremarkable. Starting in Brilon, typical smalltown Germany with its pedestrianized town center, and into trails that have been etched into the landscape alongside civilization. Around seven kilometers in, we came to Hiebammen Hütte for lunch and continued south toward Willingen where the trail really allowed you to envelope yourself in nature. Whether it was tiptoeing over a hilly, rooted trail or cutting through tall grasses in the plains, the region really felt relatively unspoiled.
 
-![View of Sauerland in Germany](https://withoutapath.com/wp-content/uploads/2018/08/View-of-Sauerland-in-Germany-1024x607.jpeg)
+![View of Sauerland in Germany]({{ site.url }}/assets/img/2018/08/View-of-Sauerland-in-Germany.jpeg)
 
 ## Down and Up Again
 
@@ -29,7 +29,7 @@ The only downside is that the first stage essentially ends at the border of Nort
 
 Once back at the border, we were practically already at the next highlight -- the highest point in the state of North Rhine-Westphalia at Langenberg, marked by a steel cross and various stacks of cairns (the modern variety, of course, which simply marks trails). Since we were already at the highest point, it was mostly downhill for the next 20-ish kilometers to Winterberg, with the exception of the occasional offshoot for a view, like at Clemensberg overlooking a quarry.
 
-![Langenberg Germany Highest Point in NRW](https://withoutapath.com/wp-content/uploads/2018/08/Langenberg-Germany-Highest-Point-in-NRW-1024x682.jpeg)
+![Langenberg Germany Highest Point in NRW]({{ site.url }}/assets/img/2018/08/Langenberg-Germany-Highest-Point-in-NRW.jpeg)
 
 ## Into the Ferienstadt
 

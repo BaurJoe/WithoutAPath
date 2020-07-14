@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![International Water Tasting - JoeBaur](https://withoutapath.com/wp-content/uploads/2014/02/International-Water-Tasting-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2014/02/International-Water-Tasting-JoeBaur.jpg){: .img-fluid}
+[![International Water Tasting - JoeBaur]({{ site.url }}/assets/img/2014/02/International-Water-Tasting-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2014/02/International-Water-Tasting-JoeBaur.jpg){: .img-fluid}
 
 Tomorrow I will be a guest judge at the 24th annual [International Water Tasting](http://berkeleysprings.com/water/about.htm) in Berkeley Springs, West Virginia -- a historic spa town near the Maryland border.
 

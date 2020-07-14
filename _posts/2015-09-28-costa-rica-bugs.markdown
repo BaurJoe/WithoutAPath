@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![Costa Rica Spider - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/09/Costa-Rica-Spider-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/09/Costa-Rica-Spider-JoeBaur.jpg){: .img-fluid}
+[![Costa Rica Spider - JoeBaur]({{ site.url }}/assets/img/2015/09/Costa-Rica-Spider-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/09/Costa-Rica-Spider-JoeBaur.jpg){: .img-fluid}
 
 There was always the question of bugs, insects, spiders when considering the move to Costa Rica. For all its utopic promises, there was never escaping the reality that paradise is also a draw for creepy crawlers. Beasts of the underworld. What we humans find preferable in our weather is pretty much also agreed upon in the world of horrific, nightmarish creatures that bring out our most murderous instincts.<!-- more -->
 

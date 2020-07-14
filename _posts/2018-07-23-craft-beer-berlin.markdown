@@ -6,7 +6,7 @@ tags:
 - Berlin
 ---
 
-![Berlin Street Art](https://withoutapath.com/wp-content/uploads/2018/07/Berlin-Street-Art-1024x575.jpg){: .img-fluid}
+![Berlin Street Art]({{ site.url }}/assets/img/2018/07/Berlin-Street-Art.jpg){: .img-fluid}
 
 _**Disclaimer:** Visit Berlin supported this trip with lodging and the [WelcomeCard](https://www.visitberlin.de/en/berlin-welcome-card) covering public transportation within the city for 78 hours. As always, all opinions are my own._
 
@@ -22,13 +22,13 @@ There’s no denying that this has resulted in some reliably fantastic German be
 
 ## Craft Beer Berlin
 
-![Maria Bonita Mexican Bistro Berlin Burrito](https://withoutapath.com/wp-content/uploads/2018/07/Maria-Bonita-Mexican-Bistro-Berlin-Burrito.jpeg)
+![Maria Bonita Mexican Bistro Berlin Burrito]({{ site.url }}/assets/img/2018/07/Maria-Bonita-Mexican-Bistro-Berlin-Burrito.jpeg)
 
 First, I set a caloric base by returning to [Maria Bonita Mexican Bistro](http://www.mariabonita.de/) in Prenzlauer Berg – an all-around charming neighborhood I explicitly wanted to base myself in for the public transit connectivity (less than 20 minutes to the main train station) and for its walkable access to several craft beer bars. I then followed a fellow beer drinker’s tip to start at [Mikkeller](http://mikkeller.dk) on Torstraße on the edge of Mitte and Prenzlauer Berg. Mikkeller is the brainchild of Copenhagen-based brewers Mikkel Borg Bjergsø and Kristian Klarup Keller. They don't operate an official brewery, but instead produce experimental, one-off beers and collaborate with local brewers.
 
 Mikkeller has the distinct ambiance of a neighborhood craft beer bar. Minimalistic décor, an obligatory, modestly-sized TV tossed up in the corner, and the beer is front and center as soon as you walk through the entrance. On a sunny Saturday afternoon (with the third-place World Cup match underway), it was an especially pleasant, if not buzzy, way to spend a couple of hours with my new friends – the Berlinreberg Pale Ale, Mitte Brown Mikkeller, and War Pigs Mikkeller.
 
-![Mikkeller Berlin Beer](https://withoutapath.com/wp-content/uploads/2018/07/Mikkeller-Berlin-Beer.jpeg)We followed this stop by heading down to [Berliner Marcus Bräu](https://berliner-marcus-brau.business.site/) just north of Alexanderplatz. A black lettering on white background “CRAFT BEER” sign looked as if it were stapled next to the logo, not entirely unlike a “GARAGE SALE” posting on a telephone pole. My sense was that Marcus is actually a traditional German brewery, plain and simple, hoping to trick some passersby in with the craft beer sign.
+![Mikkeller Berlin Beer]({{ site.url }}/assets/img/2018/07/Mikkeller-Berlin-Beer.jpeg)We followed this stop by heading down to [Berliner Marcus Bräu](https://berliner-marcus-brau.business.site/) just north of Alexanderplatz. A black lettering on white background “CRAFT BEER” sign looked as if it were stapled next to the logo, not entirely unlike a “GARAGE SALE” posting on a telephone pole. My sense was that Marcus is actually a traditional German brewery, plain and simple, hoping to trick some passersby in with the craft beer sign.
 
 Because who would be pretentious enough to drink beer only if it had the word “craft” ahead of it?
 
@@ -46,7 +46,7 @@ Settling in at Birra after placing our orders, I spotted a familiar sign on the 
 
 ## A Modern Beer Garden
 
-![BRLO Beer Garden Berlin](https://withoutapath.com/wp-content/uploads/2018/07/BRLO-Beer-Garden.jpeg)
+![BRLO Beer Garden Berlin]({{ site.url }}/assets/img/2018/07/BRLO-Beer-Garden.jpeg)
 
 Having sufficiently gotten our fix of craft beer in Berlin, we scheduled only one additional stop for the Sunday afternoon over at [BRLO](http://www.brlo.de/en/). BRLO is a Berlin-based craft brewery with a setting that might be more familiar to craft beer drinkers who hail from industrial cities in the United States. They’re based right outside the Gleisdreieck station. The scene is quiet and unremarkable until you turn the corner past the black chainlink fence, following the signs pointing to BRLO with its shipping container box design that screams, “WE ARE A CRAFT BREWERY!”
 

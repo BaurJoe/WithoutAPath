@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![Arizona](https://withoutapath.com/wp-content/uploads/2014/04/Arizona-1024x684.jpg){: .img-fluid}
+![Arizona]({{ site.url }}/assets/img/2014/04/Arizona.jpg){: .img-fluid}
 
 I landed at Phoenix's SkyHarbor airport straight from [Belgium](https://withoutapath.com/tour-of-flanders-cyclo/). If you want a jarring juxtaposition of American life versus European, fly straight from a city with roots in the Middle Ages to a state just finished celebrating their centennial. The differences are unavoidable, stabbing you in the eyes with every turn.
 

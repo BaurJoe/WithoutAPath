@@ -13,7 +13,7 @@ Embarrassingly, it took me until adulthood to realize how indescribably silly it
 
 Boy, how wrong I was about [Pittsburgh](https://withoutapath.com/pittsburgh-photography/).
 
-[![Pittsburgh Steel City](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Steel-City-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Steel-City-JoeBaur.jpg){: .img-fluid}
+[![Pittsburgh Steel City]({{ site.url }}/assets/img/2015/07/Pittsburgh-Steel-City-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Pittsburgh-Steel-City-JoeBaur.jpg){: .img-fluid}
 
 Truth is, Cleveland and Pittsburgh are siblings in the Eastern Rust Belt family that stretches to Detroit, Buffalo, and Youngstown in between. There are far more similarities that bond the cities than separate them.
 
@@ -25,7 +25,7 @@ So what better way to celebrate this new American Dream than by traveling to Pit
 
 ## Next Stop, Pittsburgh
 
-[![Pittsburgh Point State Park](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Point-State-Park-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Point-State-Park-JoeBaur.jpg){: .img-fluid}
+[![Pittsburgh Point State Park]({{ site.url }}/assets/img/2015/07/Pittsburgh-Point-State-Park-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Pittsburgh-Point-State-Park-JoeBaur.jpg){: .img-fluid}
 
 My wife Melanie and I came into Pittsburgh on the [Greyhound](https://withoutapath.com/riding-greyhound) -- that beacon of mid-20th Century American travel.
 
@@ -41,7 +41,7 @@ While my _finely tuned_ architectural sensibilities could spend hours appreciat
 
 ## Bike Pittsburgh
 
-![Pittsburgh Train ](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Train-JoeBaur-1024x683.jpg){: .img-fluid}
+![Pittsburgh Train ]({{ site.url }}/assets/img/2015/07/Pittsburgh-Train-JoeBaur.jpg){: .img-fluid}
 
 Did you know Pittsburgh has trains? I didn't until I killed a night watching Russell Crowe's _The Next Three Days_ where Mr. Gladiator outruns the bad guys by ducking in and out of the Pittsburgh "T."
 
@@ -51,7 +51,7 @@ Donna Bour, Director of Development and Communications at Venture Outdoors, met 
 
 Jennifer took the lead with Donna trailing in the back, leaving us Pittsburgh novices protected in the middle of our small pack. [The Eliza Furnace Trial](http://friendsoftheriverfront.org/) picks up right from the bike rental, though we quickly hopped on the Smithfield Street Bridge to pedal south over the Monongahela River to Station Square and along the edge of the river to more industrial corners of the city. This, now the South Side Riverfront Trail, runs right through South Side Riverfront Park with the occasional shade of forestry planted adjacent to the paved path. It surely makes for an interesting juxtaposition when in less than a mile you go from industrial decay to something that feels removed from the city.
 
-[![Pittsburgh Skyline from Hot Metal Bridge](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Skyline-from-Hot-Metal-Bridge-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Skyline-from-Hot-Metal-Bridge-JoeBaur.jpg){: .img-fluid}
+[![Pittsburgh Skyline from Hot Metal Bridge]({{ site.url }}/assets/img/2015/07/Pittsburgh-Skyline-from-Hot-Metal-Bridge-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Pittsburgh-Skyline-from-Hot-Metal-Bridge-JoeBaur.jpg){: .img-fluid}
 
 After a pit stop on the Hot Metal Street Bridge for Jennifer's favorite view of the remarkable Pittsburgh skyline -- her favorite because it's lesser known, even to locals -- we returned downtown to take advantage of the recently christened Penn Ave. protected bike lane. It's worth noting that [Pittsburgh has been at the forefront among American cities](https://nextcity.org/daily/entry/cities-bike-lanes-bike-safety-pittsburgh-peduto) of promoting and implementing cycling infrastructure. Their mayor, Bill Peduto, actually cycles himself and has said he wants to "[Copenhagenize](http://www.treehugger.com/bikes/pittsburghs-mayor-wants-copenhagenize-his-city-video.html)" Pittsburgh, a reference to Copenhagen, Denmark -- arguably the cycling capital of the world.
 
@@ -59,7 +59,7 @@ Indeed, I can say without hesitation that Pittsburgh instantly became a personal
 
 ## Pittsburgh Drinks
 
-[![Pittsburgh Maggie's Farm Rum](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Maggies-Farm-Rum-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Maggies-Farm-Rum-JoeBaur.jpg){: .img-fluid}
+[![Pittsburgh Maggie's Farm Rum]({{ site.url }}/assets/img/2015/07/Pittsburgh-Maggies-Farm-Rum-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Pittsburgh-Maggies-Farm-Rum-JoeBaur.jpg){: .img-fluid}
 
 There were other things on our agenda besides cycling. To be honest, cycling was to an extent merely a means to an end. That end being getting our hands on some local booze.
 
@@ -69,7 +69,7 @@ As if more booze were needed, Jennifer led us to a final stop at [Maggie's Farm
 
 ## Car-Free City
 
-[![Pittsburgh Roberto Clemente Bridge Party](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Roberto-Clemente-Bridge-Party-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Roberto-Clemente-Bridge-Party-JoeBaur.jpg){: .img-fluid}
+[![Pittsburgh Roberto Clemente Bridge Party]({{ site.url }}/assets/img/2015/07/Pittsburgh-Roberto-Clemente-Bridge-Party-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Pittsburgh-Roberto-Clemente-Bridge-Party-JoeBaur.jpg){: .img-fluid}
 
 I won't travel for football or basketball, but I will for the right baseball stadium. Pittsburgh, one can easily argue, has one of the best stadiums in major league baseball. It also just so happened that Cleveland was in town for a game, allowing us the full game day experience.
 
@@ -79,13 +79,13 @@ So far, Pittsburgh was shaping up to be a preeminent car-free city in the United
 
 Adding, or perhaps even cementing the argument, was the fact that [Pittsburgh closes off to traffic on game day the iconic Roberto Clemente Bridge](http://pittsburgh.pirates.mlb.com/pit/ballpark/information/index.jsp?content=overview) that leads right to the ballpark. This means people, bikes, food trucks, and small shops instead of a mess of 5,000-pound metal death machines blowing poison into your lungs. Why doesn't every city do this?
 
-[![Pittsburgh Market Square](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Market-Square-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Market-Square-JoeBaur.jpg){: .img-fluid}
+[![Pittsburgh Market Square]({{ site.url }}/assets/img/2015/07/Pittsburgh-Market-Square-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Pittsburgh-Market-Square-JoeBaur.jpg){: .img-fluid}
 
 Celebrations continued after the game over at [Las Velas Mexican Restaurant](http://www.lasvelasmex.com) on the pedestrianized Market Square, complete with live music and more happy faces. Suffice it to say Las Velas provided the sufficient, tasty calorie boost we needed to get back to Roberto Clemente Bridge for the night's firework display.
 
 ## Rust Belt Envy
 
-[![Pittsburgh Monongahela Incline ](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Monongahela-Incline-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Pittsburgh-Monongahela-Incline-JoeBaur.jpg){: .img-fluid}
+[![Pittsburgh Monongahela Incline ]({{ site.url }}/assets/img/2015/07/Pittsburgh-Monongahela-Incline-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Pittsburgh-Monongahela-Incline-JoeBaur.jpg){: .img-fluid}
 
 Opting for the afternoon return to Cleveland, we decided to spend our morning with a ride up the Monongahela Incline up to Mount Washington. Besides the opportunity to walk around this historic Pittsburgh neighborhood, it's also the place to go for those postcard shots of the Pittsburgh skyline. Though it's never been a notably large city, Pittsburgh lucked out on geography that demands density, so you see less of the heinous sprawl here that plagues so many other corners of the country.
 

@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![Eisenach Germany Streetview](https://withoutapath.com/wp-content/uploads/2017/04/Eisenach-Germany-Streetview-1024x644.jpg){: .img-fluid}
+![Eisenach Germany Streetview]({{ site.url }}/assets/img/2017/04/Eisenach-Germany-Streetview.jpg){: .img-fluid}
 
 On Sunday, I head to Germany for a week's worth of travel through [Berlin](https://withoutapath.com/berlin-germany/), [Hamburg](https://withoutapath.com/cycling-hamburg-germany/), and Frankfurt to cover the Berlin Wall cycling trail, sustainable transportation, and German wine respectively. When traveling, it's important to me to submerge myself into where I'm heading as much as possible before arriving. For Germany, it meant digging into some 20th Century history, modern music, and of course, to try and learn German.
 

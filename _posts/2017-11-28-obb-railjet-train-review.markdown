@@ -8,7 +8,7 @@ tags:
 - Verona
 ---
 
-![OBB Railjet Train Hauptbahnhof](https://withoutapath.com/wp-content/uploads/2017/11/Railjet-Train-Hauptbahnhof-1024x682.jpg){: .img-fluid}
+![OBB Railjet Train Hauptbahnhof]({{ site.url }}/assets/img/2017/11/Railjet-Train-Hauptbahnhof.jpg){: .img-fluid}
 
 **The train is already waiting on the platform when I arrive at the Munich Hauptbahnhof** on chilly November Monday morning. Today I'm taking the Österreichische Bundesbahnen (ÖBB) Railjet to Italy -- a relatively new addition to the Austrian rail network.
 
@@ -22,7 +22,7 @@ The fact that I'll be arriving in Verona, Italy after just 10 hours of train tra
 
 ## Through The Austrian Alps
 
-![OBB Railjet Train Alps](https://withoutapath.com/wp-content/uploads/2017/11/OBB-Railjet-Train-Alps-1024x682.jpg){: .img-fluid}
+![OBB Railjet Train Alps]({{ site.url }}/assets/img/2017/11/OBB-Railjet-Train-Alps.jpg){: .img-fluid}
 
 I eagerly hop on board and happen upon a cabin full of compartments with three seats on each side facing one another and a sliding door that leads to the hallway between wagons. Despite the substantial train travel I've done in the past year since [moving to Europe](https://withoutapath.com/moving-to-germany/), **I've never done any serious time in the luxurious quiet of a compartment**, so I find one with no reservations, toss my blue duffel bag in, and slide my camera bag underneath a seat. I whip open my laptop, as I'm never more productive in my writing than when on a train, and find to my surprise there's Internet. I log on with ease and am led to a map where I can see the status of my train, like a rail addition of chutes and ladders. Our train icon sat still at zero kilometers per hour.
 
@@ -40,7 +40,7 @@ Suffice it to say, this route quickly ranks high up there in personal train jour
 
 ## The Brenner Pass
 
-![OBB Railjet Train Close Up](https://withoutapath.com/wp-content/uploads/2017/11/OBB-Railjet-Train-Close-Up-1024x767.jpg){: .img-fluid}
+![OBB Railjet Train Close Up]({{ site.url }}/assets/img/2017/11/OBB-Railjet-Train-Close-Up.jpg){: .img-fluid}
 
 As the five-hour journey continues, we pause for 15 minutes before the Brenner Pass. Evidence exists that the Brenner Pass has been in use since the most recent Ice Age. Fast forward a bit, and you get to the Holy Roman Empire and the High Middle Ages when it was the crucial "Via Imperil" -- an imperial road connecting the Kingdom of Germany and used for Otto the Great's March of Verona, which captured today's northern Italy for the empire. **(My intentions for traveling into Verona from Germany, of course, vary substantially.)**
 
@@ -56,7 +56,7 @@ Even when we pull into Verona Porta Nuova, my stop, I still don't feel like I'm 
 
 ## Back To Munich
 
-![OBB Railjet Train Passing By](https://withoutapath.com/wp-content/uploads/2017/11/OBB-Railjet-Train-Passing-By-1024x682.jpg){: .img-fluid}
+![OBB Railjet Train Passing By]({{ site.url }}/assets/img/2017/11/OBB-Railjet-Train-Passing-By.jpg){: .img-fluid}
 
 **I’m doubly fortunate, because I return to Munich on a positively gloomy day**, giving me an entirely different view of the region. The mountains, still with their fall colors, seem ghostly in a way that fascinates me to the point that I start mentally planning a trip to Innsbruck, Bolzano, and Trento. I’m also pleased to have another busy but quiet passenger sharing the compartment with me. She first found me, asking if I knew how to read her ticket in German. She was looking for her seat. I took one quick glance and noticed no seat reservation (you have to pay extra for the courtesy) and I expertly translate “Klasse 2” to “Second Class” and I inform her she’s in the right spot. She thanks me, to which I respond, "Prego."
 

@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-![](https://withoutapath.com/wp-content/uploads/2019/08/Jewish-Home-Kurima-Slovakia-1024x682.jpg){: .img-fluid}A former Jewish home in Kurima, Slovakia
+![]({{ site.url }}/assets/img/2019/08/Jewish-Home-Kurima-Slovakia.jpg){: .img-fluid}A former Jewish home in Kurima, Slovakia
 
 Thanks to the boom of DNA kits promising to reveal your ancestry, people are starting to identify some surprises within their heritage. A common one is finding Ashkenazi Jewish ancestry.
 

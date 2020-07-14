@@ -1,11 +1,13 @@
 ---
 title: An Athens Food Tour Where You Eat Like Gods
+image: /assets/img/2020/06/IMG_1073.jpg
 categories:
 - Europe
 - Food
+featured: true
 ---
 
-![Acropolis Athens Greece](https://withoutapath.com/wp-content/uploads/2020/06/IMG_1073.jpg){: .img-fluid}
+![Acropolis Athens Greece]({{ site.url }}/assets/img/2020/06/IMG_1073.jpg){: .img-fluid}
 
 There's something inherently special about eating in Athens that I can't quite put my finger on or find the words to describe. But I think of tucking into a piping hot bite of moussaka in a clay pot with the Acropolis lit up like a movie star ahead of me. This scene, this blend of ancient human history with classic Greek cuisine is objectively extraordinary.
 
@@ -17,7 +19,7 @@ Some of that is true but it doesn't make up for how wrong I was.
 
 ## Tasting Athens
 
-![Athens View](https://withoutapath.com/wp-content/uploads/2020/06/IMG_1078.jpg){: .img-fluid}
+![Athens View]({{ site.url }}/assets/img/2020/06/IMG_1078.jpg){: .img-fluid}
 
 Contemporary Athens is a baby of a city when compared to its European brethren. It's only in relatively recent history that the population of the Greek capital exploded to what it is today, expanding far beyond the Acropolis. As recent as 1833, the population was just around 4,000. To put that in perspective, Rome around the same period was just under 200,000.
 
@@ -29,7 +31,7 @@ No objections here.
 
 ## Unappreciated
 
-![Greek food shop](https://withoutapath.com/wp-content/uploads/2020/06/IMG_1100.jpg){: .img-fluid}
+![Greek food shop]({{ site.url }}/assets/img/2020/06/IMG_1100.jpg){: .img-fluid}
 
 I find Greek food to be considerably unappreciated. It's in a weird spot. Sure, there are countless Greek restaurants, but ask anyone with Greek heritage (like my wife), and they'll tell you that the only Greek food worth eating is at home with your yiayia (grandmother). But people who don't know that go to the occasional Greek restaurant and think they know what Greek food is. So without a yiayia on hand, the next best way to learn about Greek food is to go to the source.
 
@@ -41,21 +43,21 @@ A question we never had to ask was, "Can we get something to eat?" If you do an 
 
 ## Eat Like A God
 
-![Greek Baklava](https://withoutapath.com/wp-content/uploads/2020/06/IMG_1094.jpg){: .img-fluid}
+![Greek Baklava]({{ site.url }}/assets/img/2020/06/IMG_1094.jpg){: .img-fluid}
 
 Now, I don't want to spoil the tour in case you want to sign up yourself. But I'm no saint. I'm more than happy to humble brag about what we got to eat and derive a bit of food envy.
 
 There was baklava, an assortment of cheeses and cured meats with ouzo (Greek paint remover), souvlaki with minced chicken, veggies, potatoes, and a dollop of tzatziki wrapped into fast food heaven. This, for a mere mortal, would've been enough. But Athens and Greece itself are shrouded in legends of mighty Gods, so you must eat on. 
 
-![Athens souvlaki](https://withoutapath.com/wp-content/uploads/2020/06/IMG_1106.jpg){: .img-fluid}Souvlaki
+![Athens souvlaki]({{ site.url }}/assets/img/2020/06/IMG_1106.jpg){: .img-fluid}Souvlaki
 
 Later, there was a Greek coffee (human motor oil) to fire up our engines again so we didn't slip into a food coma. Then before we knew it, it was time for another snack. This time, it was koulouria––chewy bread rings with sesame seeds and a hint of sweetness. From there, the eats just got heavier. 
 
-![Greek coffee fortune](https://withoutapath.com/wp-content/uploads/2020/06/IMG_1110.jpg){: .img-fluid}Supposedly the remaining grounds tell you your fortune. Mine looks... Good?
+![Greek coffee fortune]({{ site.url }}/assets/img/2020/06/IMG_1110.jpg){: .img-fluid}Supposedly the remaining grounds tell you your fortune. Mine looks... Good?
 
 We teed ourselves up for a sugar high with some bougatsa (a custard pie with phyllo) from the kind of traditional place where you can see the guy making them at breakneck speed before diving into more Greek staples, like stuffed peppers and sarma (cabbage rolls with minced meat). It was an afternoon of gluttony, so we topped it off with some loukoumades––Greek donuts with an outer shell soaked in honey before lurching home for a nap like a bludgeoned boxer who only won out of a technicality.
 
-![Bougatsa in Athens](https://withoutapath.com/wp-content/uploads/2020/06/IMG_1119.jpg){: .img-fluid}Bougatsa in progress.
+![Bougatsa in Athens]({{ site.url }}/assets/img/2020/06/IMG_1119.jpg){: .img-fluid}Bougatsa in progress.
 
 Somehow it was all over within a brisk two or three hours. In retrospect, it might seem absurd to consider how much food you've consumed in the span of a Martin Scorcese movie. But in the end, I felt like I knew Athens a little better, which of course was just enough to know that it wasn't at all what I expected and I still had a lot to learn.
 

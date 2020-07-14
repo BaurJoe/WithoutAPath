@@ -19,7 +19,7 @@ Suffice it to say, we were right. Panama City is many things. But _dead_ is not
 
 ## Panama City's Cinta Costera
 
-[![Panama City Cinta Costera ](https://withoutapath.com/wp-content/uploads/2015/07/Panama-City-Cinta-Costera-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Panama-City-Cinta-Costera-JoeBaur.jpg){: .img-fluid}
+[![Panama City Cinta Costera ]({{ site.url }}/assets/img/2015/07/Panama-City-Cinta-Costera-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Panama-City-Cinta-Costera-JoeBaur.jpg){: .img-fluid}
 
 After over six months of boutique hotels and bed and breakfasts, we wanted a gargantuan, big city hotel. There's something that fires me up about staying in a skyscraper of a hotel when visiting a vibrant city. That's how I felt about [Toronto](https://withoutapath.com/traveling-toronto-canada/), that's how I felt about Panama City. So we ended up at the [Hilton](http://www3.hilton.com/en/hotels/panama/hilton-panama-PTYHFHH/index.html) on Avenida Balboa, right in the heart of the city with the Pacific Ocean a stone's throw away. More importantly for us was our proximity to Cinta Costera_, _a 64-acre land reclamation project along the Pacific Coast extending approximately eight kilometers. Looking back, I can easily call this one of the most impressive coastal park spaces I've ever seen in any city.
 
@@ -31,7 +31,7 @@ If you walk slowly, it's manageable and actually quite pleasant. Panama City sh
 
 Point, Panama City.
 
-[![Panama City Market](https://withoutapath.com/wp-content/uploads/2015/07/Panama-City-Market-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Panama-City-Market-JoeBaur.jpg){: .img-fluid}
+[![Panama City Market]({{ site.url }}/assets/img/2015/07/Panama-City-Market-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Panama-City-Market-JoeBaur.jpg){: .img-fluid}
 
 Melanie and I continued our little trek through Mercado del Marisco, a renowned fish market right on Cinta Costera that we first saw on an episode of Anthony Bourdain's _No Reservations_. The unmistakable, pungent smell of fish loomed in the air well before and after the market. Platoons of modest fishing boats floated in rows along the coast and the docks. Looking back toward the ultramodern Panama City skyline -- something out of a [Mega Man video game](http://1.bp.blogspot.com/-7JYmaakj3WI/UD7yeAq_ywI/AAAAAAAAK1A/lUqv5uZYm8w/s640/mega-man-landscape-pixel-art.png), I thought -- offered an interesting contrast.
 
@@ -39,13 +39,13 @@ We continued toward the colonial neighborhood, which jumps back and forth betwee
 
 ## The Old Quarter
 
-[![Casco Viejo View in Panama City](https://withoutapath.com/wp-content/uploads/2015/07/Casco-Viejo-View-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Casco-Viejo-View-JoeBaur.jpg){: .img-fluid}
+[![Casco Viejo View in Panama City]({{ site.url }}/assets/img/2015/07/Casco-Viejo-View-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Casco-Viejo-View-JoeBaur.jpg){: .img-fluid}
 
 Casco is the "Old Quarter" of Panama, hastily developed between 1671 and 1673 after the annihilation of Panama Viejo by pirates. (More on that later.) This charming colonial neighborhood has since received World Heritage Site honors and the busy sound of renovation continues throughout the red brick streets. Some of the development has even creeped over into neighboring El Chorrillo, which the travel guides will generally tell you is a no-go neighborhood. Yes, there's crime and it looked a bit rough. But people are understandably a bit pissed off over an excessive U.S. bombing campaign that left the neighborhood in shambles during the whole Noriega fiasco of the late 80s. (You might be more familiar with the bizarre ending when U.S. forces blasted rock music at a Vatican mission where the dictator had taken refuge.)
 
 People in the States tend to forget about that. Lord knows I had no idea. But yeah, we invaded Panama. And murals in El Chorrillo indicated that they haven't forgotten about it.
 
-[![Panama City Casco Viejo](https://withoutapath.com/wp-content/uploads/2015/07/Panama-City-Casco-Viejo-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Panama-City-Casco-Viejo-JoeBaur.jpg){: .img-fluid}
+[![Panama City Casco Viejo]({{ site.url }}/assets/img/2015/07/Panama-City-Casco-Viejo-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Panama-City-Casco-Viejo-JoeBaur.jpg){: .img-fluid}
 
 Awkward transition to happier thoughts, Casco immediately felt like a place we could live. It was walkable, dressed with interesting architecture, and had no shortage of cafés that poured out onto the sidewalk. There was even a _cervecería_ (brewery) in [La Rana Dorada](http://laranadorada.com/) to fulfill our spoiled U.S. craft beer needs. I was perfectly content spending the afternoon in a shaded corner of the centralized Plaza de la Independencia with the towering Catedral Metropolitana de Nuestra Señora de la Asunción facing me. I took note of the hollowed out buildings being remodeled alongside the freshly restored apartments, imagining myself sticking my head out through the long balcony windows for an aerial view of this 17th Century playground.
 

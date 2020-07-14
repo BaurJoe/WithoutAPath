@@ -4,7 +4,7 @@ categories:
 - Trailblazers
 ---
 
-![Trailblazers Chris Backe One Weird Globe Interview](https://withoutapath.com/wp-content/uploads/2017/11/Trailblazers-Chris-Backe-One-Weird-Globe-Interview-1024x732.jpg){: .img-fluid}
+![Trailblazers Chris Backe One Weird Globe Interview]({{ site.url }}/assets/img/2017/11/Trailblazers-Chris-Backe-One-Weird-Globe-Interview.jpg){: .img-fluid}
 
 Off the beaten path travel is increasingly difficult to find as time marches on. Mass tourism is impacting everything from our favorite cities to the seas that surround them. All the while locals and the environment are often an afterthought. This series, [Trailblazers](http://withoutapath.com/category/trailblazers/), checks in with writers, photographers, filmmakers, activists and environmentalists who are passionate about off the beaten path travel.
 
@@ -26,7 +26,7 @@ The good news: Because it's increasingly popular, tours and offerings are spring
 
 **CB** As has often happened, I began to get bored. South Korea is a wonderful country, but it's only about the size of Portugal or Indiana. Traveling somewhere new almost every weekend for years meant I was running out of known, interesting places. That's when the search for the offbeat began. This would have been around 2011. I'm three years into an awesome life in Korea, and I've begun to scour everything I can get my hands on. Korea was at a crossroads when it came to tourism, still trying to figure out the best way to market themselves and their destinations. (I'd argue they still are now, but that's a different story.) The nation, the province, the city, and the national levels of government were all producing brochures and content, and the lack of coordination was obvious. That actually works to your advantage, though, since each level of government ended up talking about different places instead of the same ones. Read all the levels and you'll discover a lot of interesting places along the way.
 
-![Chris Backe One Weird Globe](https://withoutapath.com/wp-content/uploads/2017/11/Chris-Backe-One-Weird-Globe-1024x730.jpg){: .img-fluid}
+![Chris Backe One Weird Globe]({{ site.url }}/assets/img/2017/11/Chris-Backe-One-Weird-Globe.jpg){: .img-fluid}
 
 **WAP** _What’s been the biggest surprise you’ve experienced since you've started traveling off the beaten path?_
 

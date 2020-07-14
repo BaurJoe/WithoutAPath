@@ -6,7 +6,7 @@ categories:
 - There Must Be Order
 ---
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Seestrasse-Dresden-Germany.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Seestrasse-Dresden-Germany.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Seestrasse-Dresden-Germany.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Seestrasse-Dresden-Germany.jpg){: .img-fluid}
 
 _**Disclaimer:** I traveled as a guest of the [German National Tourist Office](http://www.germany.travel/en/index.html) and [Visit Dresden](http://www.dresden.de/en/tourism/tourism.php). As always, all opinions are my own._
 
@@ -50,37 +50,37 @@ Before I could follow the chants, I had a meeting with Sascha and Claudia of the
 
 Dresden was firmly East German territory following the end of World War II. Soviet philosophy didn’t care much for the past. Much of the remaining rubble from the firebombing was either swiftly removed or left as dusty, daily reminders of the war. So it goes.
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Ibis-Hotels-Dresden-Germany.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Ibis-Hotels-Dresden-Germany.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Ibis-Hotels-Dresden-Germany.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Ibis-Hotels-Dresden-Germany.jpg){: .img-fluid}
 
 In place of those modern ruins, East Germans built massive block structures that epitomize Soviet architecture. Claudia took me up to the 14th floor of the [Pullman Hotel](http://www.pullman-hotel-dresden.de/en/) for a perfectly communist view of the three Ibis hotels lining Pragerstraße. These were all state-run hotels back in the day.
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Dresden-Striezelmarkt-Christmas-Market.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Dresden-Striezelmarkt-Christmas-Market.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Dresden-Striezelmarkt-Christmas-Market.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Dresden-Striezelmarkt-Christmas-Market.jpg){: .img-fluid}
 
 •  •  •
 
 An institution that did survive the horrors of 20th Century Germany was the German Christmas market or Weihnachtsmarkt. Specific to Dresden, the Striezelmarkt. This year Dresdners are celebrating the 582nd incarnation. Indeed, Dresden sticks out among the pack in a country that already celebrates Christmas like no other. Even on the ugliest of days, Dresdners (and tourists, I'm sure) were out in impressive numbers, enjoying a hot cup of Glühwein or any number of food stalls. The blast and spectacle of the Christmas colors surrounding the countless makeshift log cabins are a sight to see in and of themselves.
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Striezelmarkt-Dresden-Christmast-Market-03.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Striezelmarkt-Dresden-Christmast-Market-03.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Striezelmarkt-Dresden-Christmast-Market-03.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Striezelmarkt-Dresden-Christmast-Market-03.jpg){: .img-fluid}
 
 Susanne met us at the hotel to start our evening walk around Dresden. We skipped quickly past the market outside of our hotel, something Claudia had called the more American of the city's offerings due to its commercial surroundings. Susanne shared photos of how this area looked before and after the fire bombing. The city's impressive architecture and history were gone in the blink of an eye. Nothing but green pastures with ghostly roads crossing through. So it goes.
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Syrian-Aleppo-Protest-Dresden-Germany.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Syrian-Aleppo-Protest-Dresden-Germany.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Syrian-Aleppo-Protest-Dresden-Germany.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Syrian-Aleppo-Protest-Dresden-Germany.jpg){: .img-fluid}
 
 We found the protesting Syrians at the front of this "American" Christmas Market on Pragerstraße. Candles lit on the ground spelled out, "ALEPPO." One held a sign in German that read, "We are humans, right?" The crowd of 50 or so chanted something similar. "We are Aleppo! We are humans!" Other chants unified the protestors against the "Krieg" or "war." So it goes.
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Syrian-Aleppo-Protest-Dresden-Germany-02.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Syrian-Aleppo-Protest-Dresden-Germany-02.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Syrian-Aleppo-Protest-Dresden-Germany-02.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Syrian-Aleppo-Protest-Dresden-Germany-02.jpg){: .img-fluid}
 
 A number of Germans (and perhaps tourists) paused to watch the demonstration or take pictures. Most continued their stroll along Pragerstraße where, to Claudia's point, commercial name brands line the pedestrian thoroughfare. Primark, H&M, Superdry. Not much further there was another group chanting, but for funds to celebrate prom.
 
 For Susanne the comparison between Dresden and Aleppo was obvious. She shared photos throughout our walk of once grand structures leveled to dust. It was Aleppo, but in black and white. So it goes.
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Zwinger-Entrance-Dresden-Germany.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Zwinger-Entrance-Dresden-Germany.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Zwinger-Entrance-Dresden-Germany.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Zwinger-Entrance-Dresden-Germany.jpg){: .img-fluid}
 
 •  •  •
 
 These Dresden ruins were left mostly untouched until the fall of the German Democratic Republic in 1990. "The past times," as so many Dresdners call it. It's really been in just the last 15 years that rebuilding has begun and been completed. The Zwinger was the rare exception—a Rococo-style palace that served as an exhibition gallery and festival space. East Germans, with support from the Soviet military administration, insisted on rebuilding this staple of Dresden history. Reconstruction began the same year as the bombing and was largely completed by 1963.
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Inside-Zwinger-Dresden-Germany.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Inside-Zwinger-Dresden-Germany.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Inside-Zwinger-Dresden-Germany.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Inside-Zwinger-Dresden-Germany.jpg){: .img-fluid}
 
 "We're lucky it was done during the time of the GDR," Susanne added. "Nobody could afford it today," the cost of living and wages being much lower in the GDR days.
 
@@ -88,11 +88,11 @@ These Dresden ruins were left mostly untouched until the fall of the German Demo
 
 Elegant churches, like the tourist favorite Frauenkirche, are once again a staple at the city's Altmarkt. Dresden's city center again has the feel of a typically old European city with construction plans mirroring old photographs prior to the bombing.
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Disneyland-Dresden-Germany.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Disneyland-Dresden-Germany.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Disneyland-Dresden-Germany.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Disneyland-Dresden-Germany.jpg){: .img-fluid}
 
 Some, like Danilo, call this area "Disneyland." Their heart lies further north in Neustadt, the "cool neighborhood" full of college students and older freethinkers who are happy to dive right into a philosophical discussion.
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Semperoper-Dresden-Germany.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Semperoper-Dresden-Germany.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Semperoper-Dresden-Germany.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Semperoper-Dresden-Germany.jpg){: .img-fluid}
 
 We first met Danilo at the heart of Disneyland, right in front of the King John statue outside of the [Semperoper](https://www.semperoper.de/)–an opera house and architectural favorite of incoming tourists. Danilo was to lead us on a [Kurt Vonnegut tour](http://kurtvonnegut-tour.com/) through Dresden where the famous American author was held as a prisoner of war and gained some of his inspiration for _Slaughterhouse-Five_.
 
@@ -104,7 +104,7 @@ Danilo sprinkled some of his own philosophy and philosophical questions througho
 
 Clouds of air burst out of his mouth with every agitated annunciation in the thick of the Dresden cold. He chastised addiction to mobile devices, money, and he waved to the sky to offer a greeting to the NSA. This conversation proved more memorable than some of the history, which at times had the tendency to go in one ear and out the other. (Perhaps that’s why we seem continuously doomed to repeat it. So it goes.)
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Kurt-Vonnegut-Slaughterhouse-Five-Tour-Dresden-Germany.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Kurt-Vonnegut-Slaughterhouse-Five-Tour-Dresden-Germany.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Kurt-Vonnegut-Slaughterhouse-Five-Tour-Dresden-Germany.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Kurt-Vonnegut-Slaughterhouse-Five-Tour-Dresden-Germany.jpg){: .img-fluid}
 
 Much of the tour’s focus is placed on the firebombing itself. Namely, was it justified? Historians continue to argue over this. For some, we were at war and had to obliterate Nazism. For others, Dresden served no military purpose and the war was all but won by the Allies by the time British bombers took flight. All we know for sure is that it happened and tens of thousands of civilians lost their lives in the initial attack and the ensuing days as the city burned.
 
@@ -114,13 +114,13 @@ So it goes.
 
 •  •  •
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Watzke-Brauhaus-Dresden-Germany.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Watzke-Brauhaus-Dresden-Germany.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Watzke-Brauhaus-Dresden-Germany.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Watzke-Brauhaus-Dresden-Germany.jpg){: .img-fluid}
 
 I don't think we appreciate how far Germany has come since those darkest chapters of the 20th Century. Living and traveling in Germany today, it's practically inconceivable to me that this place I happily call home remained a dark spot on the globe through the early days of my life. Even the simplest of life's pleasures are now back in Dresden. Namely, good alcohol.
 
 Dresden is not the epicenter of [German beer](https://withoutapath.com/craft-beer-berlin/) culture, but you could’ve told me it was after visiting Watzke Brauhaus in nearby Pieschen. Watzke had the feel of any other German brewery I’ve visited. Warm lighting, hearty meals, and a 19th-century ambiance in its wooden construction. The beer is what changes the most from region to region. This is Pilsen territory, which is all well and good, but the waitress gave me an Alt Pieschner after I asked for a recommendation. It had an amber body with a hint of the hops I had been missing from the States.
 
-![](https://withoutapath.com/wp-content/uploads/2016/12/Watzke-Brewery-Dresden-Germany.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2016/12/Watzke-Brewery-Dresden-Germany.jpg){: .img-fluid}
 
 A Watzke employee met us for a tour of the brewery. Our conversation quickly turned away from technical functionality and towards the brewery's survival through the GDR days. The communists weren't ideologically opposed to beer, but they weren't very good at making it.
 
@@ -128,13 +128,13 @@ A Watzke employee met us for a tour of the brewery. Our conversation quickly tur
 
 •  •  •
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Hebedas-Neustadt-Dresden-Germany.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Hebedas-Neustadt-Dresden-Germany.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Hebedas-Neustadt-Dresden-Germany.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Hebedas-Neustadt-Dresden-Germany.jpg){: .img-fluid}
 
 Danilo met us again, this time for a [Dresden Nightwalk](http://www.nightwalk-dresden.de/) through his neighborhood–Neustadt. Temperatures plummeted considerably with the sun long beneath the horizon. Danilo wore tall tan boots with his jeans tucked in and a furry brown sweater that looked like it was ripped right off a brown bear's body. I imagined him as a general in a dystopian future after nuclear fallout divides remaining mankind into savage warring factions. So it goes.
 
 A young woman from Hamburg and a middle-aged couple from Aachen joined the tour as well. Street art covered almost every wall and alleyway as soon as we made the turn onto Alaunstraße. Red anarchy "As" were on the lower-end of the creativity spectrum while intricate displays of artistic ability were just as popular.
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Kuntshofpassage-Dresden-Germany-Pipe-Art.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Kuntshofpassage-Dresden-Germany-Pipe-Art.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Kuntshofpassage-Dresden-Germany-Pipe-Art.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Kuntshofpassage-Dresden-Germany-Pipe-Art.jpg){: .img-fluid}
 
 "Architects take resources from the Earth and don't give back. Street artists do nothing but give people something to enjoy and yet they're the criminals," said Danilo, continuing his philosophical lecture from earlier in the day.
 
@@ -146,7 +146,7 @@ He slapped onto the table a passport consisted of ragged pieces of laminated pap
 
 This was the passport of the Bunte Republik Neustadt (or the Colorful Republic of Neustadt), represented by a smiling Mickey Mouse head on the German flag. The Mickey Mouse was meant to be an ironic admission of the reality that is modern-day consumerism... I think. We really needed Danilo to explain the flag.
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Bunte-Republik-Neustadt-Dresden-Germany.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Bunte-Republik-Neustadt-Dresden-Germany.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Bunte-Republik-Neustadt-Dresden-Germany.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Bunte-Republik-Neustadt-Dresden-Germany.jpg){: .img-fluid}
 
 "We acknowledge that it's there," he said, referencing the evils of consumerism. "But we don't like it."
 
@@ -154,7 +154,7 @@ Their primary mission seemed to be to stem the flow of unfettered capitalism in 
 
 •  •  •
 
-[![](https://withoutapath.com/wp-content/uploads/2016/12/Striezelmarkt-Dresden-Christmast-Market-02.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Striezelmarkt-Dresden-Christmast-Market-02.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2016/12/Striezelmarkt-Dresden-Christmast-Market-02.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Striezelmarkt-Dresden-Christmast-Market-02.jpg){: .img-fluid}
 
 The sun rose as much as we could tell through the thick tide of gray clouds. The Christmas markets were already opening as we left for the train station. Passersby were already helping themselves to a Thüringer Bratwurst—the kind of bratwurst we typically think of in the States.
 

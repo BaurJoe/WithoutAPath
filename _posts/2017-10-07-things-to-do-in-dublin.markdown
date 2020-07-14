@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-![Dublin Ireland Grafton Street](https://withoutapath.com/wp-content/uploads/2017/10/Dublin-Ireland-Grafton-Street-1024x679.jpg){: .img-fluid}
+![Dublin Ireland Grafton Street]({{ site.url }}/assets/img/2017/10/Dublin-Ireland-Grafton-Street.jpg){: .img-fluid}
 
 You'll never be hard-pressed to find things to do in Dublin. Visiting the Irish capital is always a treat and I arrived for my first visit five-and-a-half years ago during my first European trip – which, incidentally, was less of a European trip and more a trip around the island of Ireland. I’ve always been intrigued by its history, both those chapters of tragedy and triumph. Though I do have Irish ancestry, I came in search of something different rather than exploring my roots. Dublin, indeed, introduced me to what I now appreciate most in Europe over any other part of the globe – the urban planning.
 
@@ -14,7 +14,7 @@ I appreciate chaos, serendipity, and spontaneity as much as the next traveler, b
 
 ## Things to do in Dublin: Breakfast and Trinity College
 
-![Outside Trinity College Dublin Ireland](https://withoutapath.com/wp-content/uploads/2017/10/Outside-Trinity-College-Dublin-Ireland-1024x683.jpg){: .img-fluid}
+![Outside Trinity College Dublin Ireland]({{ site.url }}/assets/img/2017/10/Outside-Trinity-College-Dublin-Ireland.jpg){: .img-fluid}
 
 Whereas in most well-traveled tourist cities you have to push and shove your way through crowds to see the highlights, Dublin makes seeing the sights an easy task during a city-wide stroll. I proved this point by navigating my wife – a first-time traveler to Dublin – through the main sights after a bit of avocado toast and pour over coffee for breakfast at [3fe](https://www.3fe.com/).
 
@@ -24,7 +24,7 @@ From 3fe it’s a scenic 15-minute or so walk to Trinity College. This is where 
 
 ## Easter Rising and Tolerating Temple Bar
 
-![Dublin Ireland City Center](https://withoutapath.com/wp-content/uploads/2017/10/Dublin-Ireland-City-Center-1024x683.jpg){: .img-fluid}
+![Dublin Ireland City Center]({{ site.url }}/assets/img/2017/10/Dublin-Ireland-City-Center.jpg){: .img-fluid}
 
 The bridge crossing over the River Liffey into central Dublin is quite possibly the most crowded point of the walk. That said, it’s worth it to pay one’s respects to the revolutionaries of the 1916 Easter Rising who stoked Ireland’s successful run for true independence at the post office in central Dublin. Bullet holes can still be seen in the giant columns and a museum is attached to the post office, if you’re so inclined. (I for one preferred viewing the films _Michael Collins_, _The Wind That Shakes The Barley_, and the mini-series _Revolution_.)
 
@@ -36,7 +36,7 @@ Cross over the pedestrian-only Ha'penny Bridge to get back to the southern side 
 
 ## Dublin Castle and Chorizo at St. George's Market
 
-![Dublin Castle](https://withoutapath.com/wp-content/uploads/2017/10/Dublin-Castle-1024x683.jpg){: .img-fluid}
+![Dublin Castle]({{ site.url }}/assets/img/2017/10/Dublin-Castle.jpg){: .img-fluid}
 
 Continue south of here to Dublin Castle. I’ll admit I was more impressed with the castle during my first visit when it was the only European castle I had seen in person. ([Germany](https://withoutapath.com/travel-guides/germany/) has truly spoiled me.) Still, I’ve walked around the inner courtyard three times now and I still find myself snapping pictures. This is also where Michael Collins took control from the British Empire in 1922. You can see the scene dramatized in the film _Michael Collins_ with Liam Neeson’s character tells a whiny British officer, chastising him for being late to the ceremony, “You've kept us waiting 700 years. You can have your seven minutes.” Bad. Ass.
 
@@ -60,7 +60,7 @@ Tours of the distillery are available, but if you're just coming for a drink, yo
 
 ## Craft Beer, Speakeasy Cocktails, and St. Stephen's Green
 
-![Dublin Ireland St. Stephen's Green Park](https://withoutapath.com/wp-content/uploads/2017/10/Dublin-Ireland-St.-Stephens-Green-Park-1024x683.jpg){: .img-fluid}
+![Dublin Ireland St. Stephen's Green Park]({{ site.url }}/assets/img/2017/10/Dublin-Ireland-St.-Stephens-Green-Park.jpg){: .img-fluid}
 
 That about covers the main tourist sites of Dublin. If you do this exact walk or something similar, then you’ll actually spend most of your time having a look at the city than you will at the sites themselves – which is a fantastic thing and why Dublin ranks high on my list of favorite pedestrian cities. Plus with that sightseeing out of the way, you can make time for more eating and drinking. Here’s what I recommend.
 

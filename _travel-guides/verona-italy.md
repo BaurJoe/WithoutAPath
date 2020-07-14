@@ -5,7 +5,7 @@ permalink: /travel-guides/verona-italy/
 
 ## **Things To Do In Verona Off The Beaten Path**
 
-![View of Verona from Castel San Pietro](https://withoutapath.com/wp-content/uploads/2018/01/view-from-castel-san-pietro-in-verona-1024x683.jpg){: .img-fluid}
+![View of Verona from Castel San Pietro]({{ site.url }}/assets/img/2018/01/view-from-castel-san-pietro-in-verona.jpg){: .img-fluid}
 
 Verona, Italy. Maybe you've heard of it? If you have, you've likely seen something about how it's the city that inspired Shakespeare's Rome and Juliet. Perhaps you read somewhere that it's a UNESCO World Heritage city. However you ended up on Verona, the important next step is that you make plans to visit.
 
@@ -15,7 +15,7 @@ I stayed in Verona for the better part of a week in November, snatching up an a
 
 Below, we'll run through some things to do in Verona, how to get around, and what to do before you visit Verona.
 
-![Verona Arena Colosseum](https://withoutapath.com/wp-content/uploads/2018/01/verona-arena-colosseum-1024x683.jpg){: .img-fluid}
+![Verona Arena Colosseum]({{ site.url }}/assets/img/2018/01/verona-arena-colosseum.jpg){: .img-fluid}
 
 ## Walk Verona
 
@@ -25,7 +25,7 @@ First thing's first -- walk. Verona is a walking city. You might not initially 
 
 Continuing with the walking theme, drop your bags at your hotel, head across the pedestrian-only Ponte Pietra, and hike up to Castel San Pietro. It's a bit of a climb that'll get the heart pumping, but nothing overly strenuous for anyone in relatively good shape. Once you're at the top, you'll get arguably the best aerial view of Verona and see for yourself why it's a UNESCO-protected city. Heading to Castel San Pietra from the train station will take you through the city and from this vantage point, you can get a better sense of the city.
 
-![Walking up to Castel San Pietro in Verona](https://withoutapath.com/wp-content/uploads/2018/01/walking-up-to-castel-san-pietro-in-verona-1024x683.jpg){: .img-fluid}
+![Walking up to Castel San Pietro in Verona]({{ site.url }}/assets/img/2018/01/walking-up-to-castel-san-pietro-in-verona.jpg){: .img-fluid}
 
 ### Shopping in Verona
 
@@ -43,7 +43,7 @@ Now for some actual restaurants, I started off at **La Pizzeria Nazionale** foll
 
 Nearby you'll also find **Osteria Sottoriva**, which I found right on the gorgeous Via Sottoriva just steps away from my AirBnB. There are a number of small, low-key restaurants on this cobblestone thoroughfare and I went in on a whim. If you're looking for that quiet, dimly lit, romantic Italian ambiance, this is it. It's a small joint with just a handful of tables illuminated by candlelight. Add a glass of Valpolicella (Veronese wine) to the mix and it doesn't get more idyllic than that.
 
-![Piano player on Ponte Pietra in Verona](https://withoutapath.com/wp-content/uploads/2018/01/piano-player-on-ponte-pietra-in-verona-1024x683.jpg){: .img-fluid}
+![Piano player on Ponte Pietra in Verona]({{ site.url }}/assets/img/2018/01/piano-player-on-ponte-pietra-in-verona.jpg){: .img-fluid}
 
 **Osteria Dogana Vecia** felt especially off the beaten path in a city where ditching the tourists isn't a given. That's probably because it's a bit isolated as the only restaurant within a few blocks. Though in the grand scheme of Verona, it's just an eight-minute walk away from the tourist hub of the Verona Arena.
 
@@ -59,7 +59,7 @@ Bigoi Verona I came up on looking for a lunch spot and was surprised to find a q
 
 Right next to it is Piadineria Artigiana Bacchabundus Cavour, which I ended up at with a couple of locals showing me around. I suppose the best comparison is something of an Italian take on Chipotle, but the food takes a bit longer to prepare.
 
-![Market in Verona Italy](https://withoutapath.com/wp-content/uploads/2018/01/verona-italy-market-1024x683.jpg){: .img-fluid}
+![Market in Verona Italy]({{ site.url }}/assets/img/2018/01/verona-italy-market.jpg){: .img-fluid}
 
 ### Verona Nightlife
 
@@ -75,7 +75,7 @@ Though the Fall can be characterized as cold and rainy in northern Italy, I thou
 
 ## Transport in Verona
 
-![Verona Porta Nuova Train Station](https://withoutapath.com/wp-content/uploads/2018/01/verona-porta-nuova-train-station-1024x683.jpg){: .img-fluid}
+![Verona Porta Nuova Train Station]({{ site.url }}/assets/img/2018/01/verona-porta-nuova-train-station.jpg){: .img-fluid}
 
 Italy might not have the reputation for trains and public transportation of its [Germanic neighbors](https://withoutapath.com/travel-guides/germany/), but northern Italy is actually one of the most well-connected rail regions I've ever traveled. Not to mention tickets are generally affordable thanks to Tren Italia purposefully keeping fares low to encourage train travel. (Granted it does come at an absurd financially loss for the public company, but that's not your problem.)
 

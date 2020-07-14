@@ -2,9 +2,10 @@
 title: Parsha Tzav | Sourdough Starter and Sacrifice
 categories:
 - Essays
+homepage: false
 ---
 
-![sourdough bread](https://withoutapath.com/wp-content/uploads/2020/03/sourdough-bread-jonathan-pielmayer-j1gr2w10EtQ-unsplash.jpg){: .img-fluid}Photo by [Jonathan Pielmayer](https://unsplash.com/@jonathanpielmayer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sourdough?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![sourdough bread]({{ site.url }}/assets/img/2020/03/sourdough-bread-jonathan-pielmayer-j1gr2w10EtQ-unsplash.jpg){: .img-fluid}Photo by [Jonathan Pielmayer](https://unsplash.com/@jonathanpielmayer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sourdough?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Tzav, Leviticus 6:1 – 8:36. [Click here to read last week’s, Parsha Vayikra.](https://withoutapath.com/parsha-vayikra/)_
 

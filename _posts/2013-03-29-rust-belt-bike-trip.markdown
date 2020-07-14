@@ -35,7 +35,7 @@ Introducing, Tour de Rust Belt.
 
 ## A Rust Belt Bike Trip
 
-[![](https://withoutapath.com/wp-content/uploads/2013/03/Tour-De-Rust-Belt-JOE-BAUR.png)](https://withoutapath.com/wp-content/uploads/2013/03/Tour-De-Rust-Belt-JOE-BAUR.png)
+[![]({{ site.url }}/assets/img/2013/03/Tour-De-Rust-Belt-JOE-BAUR.png)]({{ site.url }}/assets/img/2013/03/Tour-De-Rust-Belt-JOE-BAUR.png)
 
 For context's sake, the Tour de France is approximately 2,131 miles. This hastily charted route is 2,062 miles, traveling in the following order: Cleveland, Buffalo, Youngstown, Pittsburgh, Cincinnati, St. Louis, through South Chicago, Milwaukee, Detroit, Toledo, Cleveland.
 

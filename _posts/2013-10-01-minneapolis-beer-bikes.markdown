@@ -19,7 +19,7 @@ This trip revolved once again around visiting craft breweries and establishments
 
 ###### Beer Me That Beer
 
-[![Indeed Brewing - JoeBaur](https://withoutapath.com/wp-content/uploads/2013/10/Indeed-Brewing-JoeBaur.png)](https://withoutapath.com/wp-content/uploads/2013/10/Indeed-Brewing-JoeBaur.png)
+[![Indeed Brewing - JoeBaur]({{ site.url }}/assets/img/2013/10/Indeed-Brewing-JoeBaur.png)]({{ site.url }}/assets/img/2013/10/Indeed-Brewing-JoeBaur.png)
 
 First, we visited [Fulton](http://fultonbeer.com/) nearby where the Twins were conveniently losing to our hometown Tribe in the midst of a playoff run. Though the proprietors might not have loved serving fans dressed in a different kind of red and blue, I was more than happy to partake in a glass of Sweet Child of Vine IPA. Plus I'm a fan of the, surprise-surprise, warehouse feel of the brewery.
 
@@ -35,7 +35,7 @@ Biking is where the Twin Cities kick most American metros squarely in their over
 
 ###### Beer and Beards
 
-[![Dangerous Man Brewing - JoeBaur](https://withoutapath.com/wp-content/uploads/2013/10/Dangerous-Man-Brewing-JoeBaur.png)](https://withoutapath.com/wp-content/uploads/2013/10/Dangerous-Man-Brewing-JoeBaur.png)
+[![Dangerous Man Brewing - JoeBaur]({{ site.url }}/assets/img/2013/10/Dangerous-Man-Brewing-JoeBaur.png)]({{ site.url }}/assets/img/2013/10/Dangerous-Man-Brewing-JoeBaur.png)
 
 Dangerous Man is a proud supporter of good beer and beards. The logo itself is a man with a beard. One of the walls is dressed with a fish (a muskie?) boasting a beard of its own.
 
@@ -51,7 +51,7 @@ For dinner we settled at [Kindee Thai Restaurant](http://www.thairestaurant-minn
 
 ###### Hallelujah, No Cars!
 
-[![Minneapolis- Beer and Bikes](https://withoutapath.com/wp-content/uploads/2013/10/Minneapolis-Beer-and-Bikes-200x300.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2013/10/Minneapolis-Beer-and-Bikes.jpg){: .img-fluid}After a weekend of beer after beer (research as a beer writer), I needed to feel better about myself with a bit of a run. Because Minneapolis is a city that seems to prioritize people over rolling inanimate objects, I didn't have to go far to find a trail. In fact, my brother's backyard is essentially a park with a riverfront trail just around the corner that follows alongside the Mississippi before turning away to circle the entire city. With rowers, cyclists, and runners out, it felt like a metropark back home except in the heart of the city. The Stone Arch Bridge itself, an architecturally beautiful bridge for pedestrians and cyclists only (hallelujah, no cars!) with an incredible view of the mighty Mississippi, should be the envy of any city.
+[![Minneapolis- Beer and Bikes]({{ site.url }}/assets/img/2013/10/Minneapolis-Beer-and-Bikes.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/10/Minneapolis-Beer-and-Bikes.jpg){: .img-fluid}After a weekend of beer after beer (research as a beer writer), I needed to feel better about myself with a bit of a run. Because Minneapolis is a city that seems to prioritize people over rolling inanimate objects, I didn't have to go far to find a trail. In fact, my brother's backyard is essentially a park with a riverfront trail just around the corner that follows alongside the Mississippi before turning away to circle the entire city. With rowers, cyclists, and runners out, it felt like a metropark back home except in the heart of the city. The Stone Arch Bridge itself, an architecturally beautiful bridge for pedestrians and cyclists only (hallelujah, no cars!) with an incredible view of the mighty Mississippi, should be the envy of any city.
 
 Following the run I refueled at [Haute Dish](http://hatue-dish.com) with the appropriately named Landfill -- a bastion of all things you could possibly want in a breakfast. Simply imagining it as I write this leaves me with the kind of yearning advertisers hope you get after a light beer ad featuring some scantily clad woman. Except the Landfill does not leave you sad and alone. Instead, you're left in a state of egg, cheese, potato and bacon -- oh sweet God of Pigs, the bacon! -- bliss.
 

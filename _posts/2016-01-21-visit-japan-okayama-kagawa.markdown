@@ -11,7 +11,7 @@ Few words can properly articulate my excitement when I was invited to visit Ja
 
 I arrived to Okayama in late November, thrilled not only to be in Japan but also to be starting in two regions I had previously never heard of. My first thought was on the infrastructure. The narrow roads, signs, and rails struck me as very European compared to other Asian countries I had traveled. The most obvious difference being the postcard Japanese architecture apparent in nearly every building -- home, shop or office -- that wasn't a high-rise.
 
-![A Japanese Wooden Bridge at Okayama Castle](https://withoutapath.com/wp-content/uploads/2015/11/A-Japanese-Wooden-Bridge-at-Okayama-Castle-1024x510.jpg){: .img-fluid}
+![A Japanese Wooden Bridge at Okayama Castle]({{ site.url }}/assets/img/2015/11/A-Japanese-Wooden-Bridge-at-Okayama-Castle.jpg){: .img-fluid}
 
 Touring with three U.S.-based travel agents and our Japanese hosts, we began in [Okayama Castle](http://okayama-kanko.net/ujo/english/) and its surrounding park grounds. _What better place to start_? I said to myself as that quintessential Japanese architecture in Okayama Castle peered over us. The castle's history stretches back to the 16th Century, nicknamed the Crow Castle for its black exterior. U.S. forces destroyed the original incarnation during World War II, but it has since been replicated to such a meticulous degree that an amateur eye could hardly tell the difference.
 
@@ -25,13 +25,13 @@ Apparently, _we_ were the event. It was local Japanese media covering the travel
 
 Of course these cameras followed us as we were offered the opportunity to try on traditional samurai attire. I hope it made whoever edited that piece in the newsroom laugh, seeing the likes of my very not-Japanese self-shuffle out in a bald cap and wooden sword.
 
-![Tea Room Okayama Castle Japan](https://withoutapath.com/wp-content/uploads/2015/11/Tea-Room-Okayama-Castle-Japan-1024x683.jpg){: .img-fluid}
+![Tea Room Okayama Castle Japan]({{ site.url }}/assets/img/2015/11/Tea-Room-Okayama-Castle-Japan.jpg){: .img-fluid}
 
 The cameras did, however, wait outside as we were ushered into a small, wooden building that looked like it could've been centuries old. I marveled at the interior design typical of Japanese buildings, namely the comfort of those tatami mats against my feet. Somehow in my romanticized of Japan, I had forgotten about these traditional accouterments _inside_ buildings.
 
 The four of us sat over red carpet as green tea was served to us in an official Japanese tea ceremony. Zen Buddhism was an early influence of the ceremony in which drinking is turned into an art form involving slight twists and turns of the cup. If nothing else, drinking (and later eating) in the Japanese style taught me to slow down and enjoy the moment as opposed to my typical ravenous style. Speaking of food, it was time for my first meal at nearby Arate Saryo. I had a difficult time keeping up with the names of everything we were eating, but suffice it to say Japanese cuisine more than lived up to its hype.
 
-[![Kurashiki Japan - JoeBaur](/wp-content/uploads/2015/11/_d_improd_/Kurashiki-Japan-JoeBaur-1024x683_f_improf_672x448.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/11/Kurashiki-Japan-JoeBaur.jpg){: .img-fluid}
+[![Kurashiki Japan - JoeBaur](/wp-content/uploads/2015/11/_d_improd_/Kurashiki-Japan-JoeBaur-1024x683_f_improf_672x448.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/11/Kurashiki-Japan-JoeBaur.jpg){: .img-fluid}
 
 The evening ended with a stroll through Kurashiki. As trite as it is to say, it did strike me as having appeared out of nowhere. Moments before we were moving along relatively drab city streets that appeared to have sacrificed character for getting modern buildings up. Then, we were at the entrance of Kurashiki's main thoroughfare. And to my great joy, it was pedestrians only.
 
@@ -45,7 +45,7 @@ That night the whole of our group threw on some yukatas for dinner. I was admitt
 
 ## Bizen, Japan
 
-![Samurai Sword Making in Okayama, Japan](https://withoutapath.com/wp-content/uploads/2015/11/Samurai-Sword-Making-in-Okayama-Japan-1024x683.jpg){: .img-fluid}
+![Samurai Sword Making in Okayama, Japan]({{ site.url }}/assets/img/2015/11/Samurai-Sword-Making-in-Okayama-Japan.jpg){: .img-fluid}
 
 What better way to start your day than by forging some swords? That's precisely what we did as we headed out to the [Bizen Osafune Japanese Sword Museum](https://www.jetro.go.jp/en/ind_tourism/bizen_osafune_japanese_sword_museum.html).
 
@@ -59,7 +59,7 @@ It was a very dull sound, smacking the hammer straight against the ground as if 
 
 Our workout out of the way, we then made way for the [Shizutani school](http://www.jnto.go.jp/eng/location/spot/histarch/shizutanischool.html). It was easy to see how it got its name, shizutani meaning "quiet and peaceful valley" in Japanese. Like Okayama Castle, this visit sufficed for a relaxing walk among beautiful surroundings. Here our host noted that the leaves would usually be dying this time of year, but instead, we were being treated to a late turning of color.
 
-![Old Shizutani School entrance in Okayama Japan](https://withoutapath.com/wp-content/uploads/2015/11/Old-Shizutani-School-entrance-in-Okayama-Japan-1024x683.jpg){: .img-fluid}
+![Old Shizutani School entrance in Okayama Japan]({{ site.url }}/assets/img/2015/11/Old-Shizutani-School-entrance-in-Okayama-Japan.jpg){: .img-fluid}
 
 Lucky, indeed.
 

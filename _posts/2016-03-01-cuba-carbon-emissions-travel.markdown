@@ -10,4 +10,4 @@ U.S. Americans are flocking to Cuba, but you still can't go for purely tourist r
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![Carbon emissions from flying](https://withoutapath.com/wp-content/uploads/2016/03/Carbon-emissions-from-flying-200x300.png)](https://withoutapath.com/wp-content/uploads/2016/03/Carbon-emissions-from-flying.png)
+[![Carbon emissions from flying]({{ site.url }}/assets/img/2016/03/Carbon-emissions-from-flying.png)]({{ site.url }}/assets/img/2016/03/Carbon-emissions-from-flying.png)

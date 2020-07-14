@@ -9,4 +9,4 @@ Instagram and social media as a whole have changed the way we create and even th
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).
 <!-- more -->
 
-[![What you need to know about travel photography and Instagram](https://withoutapath.com/wp-content/uploads/2016/05/What-you-need-to-know-about-travel-photography-and-Instagram.png)](https://withoutapath.com/wp-content/uploads/2016/05/What-you-need-to-know-about-travel-photography-and-Instagram.png)
+[![What you need to know about travel photography and Instagram]({{ site.url }}/assets/img/2016/05/What-you-need-to-know-about-travel-photography-and-Instagram.png)]({{ site.url }}/assets/img/2016/05/What-you-need-to-know-about-travel-photography-and-Instagram.png)

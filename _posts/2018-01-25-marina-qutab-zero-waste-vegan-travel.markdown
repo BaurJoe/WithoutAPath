@@ -4,7 +4,7 @@ categories:
 - Trailblazers
 ---
 
-![Marina Qutab Zero Waste Vegan Travel](https://withoutapath.com/wp-content/uploads/2018/01/Marina-Qutab-Zero-Waste-Vegan-Travel-Interview-1024x682.jpg){: .img-fluid}
+![Marina Qutab Zero Waste Vegan Travel]({{ site.url }}/assets/img/2018/01/Marina-Qutab-Zero-Waste-Vegan-Travel-Interview.jpg){: .img-fluid}
 
 _Off the beaten path travel is increasingly difficult to find as time marches on. Mass tourism is impacting everything from our favorite cities to the seas that surround them. All the while locals and the environment are often an afterthought. This series, [Trailblazers](https://withoutapath.com/category/trailblazers), checks in with writers, photographers, filmmakers, activists and environmentalists who are passionate about off the beaten path travel._
 
@@ -18,7 +18,7 @@ She motivates thousands of conscious lifestyle seekers from around the world to 
 
 **Without A Path **_[Socially-conscious travel](https://withoutapath.com/embrace-green-travel/) seems to be increasingly popular. What are your impressions?_
 
-**![Marina Qutab talks Zero Waste Vegan Travel](https://withoutapath.com/wp-content/uploads/2018/01/Marina-Qutab-talks-Zero-Waste-Vegan-Travel.jpg){: .img-fluid}Marina Qutab **When I hear the words “socially-conscious” and “travel” in the same sentence, my eyes, heart and mind light up. This way of traveling is not just a trendy, do-good activity. It is a way of navigating the world in a more fulfilling, authentic, and mindful way.
+**![Marina Qutab talks Zero Waste Vegan Travel]({{ site.url }}/assets/img/2018/01/Marina-Qutab-talks-Zero-Waste-Vegan-Travel.jpg){: .img-fluid}Marina Qutab **When I hear the words “socially-conscious” and “travel” in the same sentence, my eyes, heart and mind light up. This way of traveling is not just a trendy, do-good activity. It is a way of navigating the world in a more fulfilling, authentic, and mindful way.
 
 In our fast-paced society, travel is an essential part of our everyday lives. And with modern technology, traveling has never been more affordable and convenient. As a deep green environmentalist, who exercises the zero waste vegan lifestyle daily and can fit nearly a year’s worth of my trash in a single mason jar, I questioned how sustainable and doable my wanderlust was.
 
@@ -48,7 +48,7 @@ I began breaking down their obstacles, addressing their challenges and eliminati
 
 I began publicising through social media how happy and fulfilled this lifestyle made me feel. This “walk the talk” mechanism illustrated value. It made the lifestyle seem more attainable and desirable. And alas, the “well if she can do it, I can do it!” mindset is born. You see this over and over again.
 
-![Zero Waste Vegan Travel](https://withoutapath.com/wp-content/uploads/2018/01/Zero-Waste-Vegan-Travel-1024x683.jpg){: .img-fluid}
+![Zero Waste Vegan Travel]({{ site.url }}/assets/img/2018/01/Zero-Waste-Vegan-Travel.jpg){: .img-fluid}
 
 **WAP** _[Food is ingrained into cultures](https://withoutapath.com/jordanian-food-a-piece-of-jordan/) around the world and in many places, it’s considered rude not to accept an offering of food. How do you handle that situation without offending your hosts?_
 
@@ -70,7 +70,7 @@ Every person can adopt changes that are possible and accessible in their lives. 
 
 **MQ **My favorite vegan travel destination thus far is where I am living now, naturally: Southern California. The amount of fresh, local and seasonal produce is to _live _for. Plus, there is an abundance of plant-based restaurants. My favorites include Café Gratitude, Peace Pies, and Kindred. Then there’s the plant-based fast-food restaurant for when you have the munchies, Plant Power.
 
-![Zero Waste Vegan Travel items](https://withoutapath.com/wp-content/uploads/2018/01/Zero-Waste-Vega-Travel-items-1024x683.jpg){: .img-fluid}
+![Zero Waste Vegan Travel items]({{ site.url }}/assets/img/2018/01/Zero-Waste-Vega-Travel-items.jpg){: .img-fluid}
 
 **WAP** _How can the travel industry decrease its waste and help those areas that have been negatively impacted by mass tourism?_
 
@@ -88,7 +88,7 @@ Ad­ven­ture-tour operators can arrange green modes of travel and adventuring, 
 
 In the big picture, travel companies can make a commitment to no new development that does not have a positive impact on ecosystems. Sure, they can prohibit the use of straws and plastic lids at resorts to protect marine life, but the biggest positive effect will come from travel companies encouraging ecotourism. This kind of tourism is a responsible way of traveling to natural areas that conserves the environment, sustains the well-being of the local people, and involves interpretation and education. Ecotourism is about uniting communities, conservation, and sustainable travel. This means that those who implement, participate in and market ecotourism activities should adopt the following ecotourism principles: Build cultural and environmental awareness and respect; Provide positive experiences for both visitors and hosts; Provide direct financial benefits for conservation; Minimize social, physical, behavioral, and psychological impacts; Create financial benefits for both local people and private industry; Construct, design and operate low-impact facilities; Deliver memorable interpretative experiences to travelers that help raise sensitivity to host countries' environmental, social and political climates; Recognize the spiritual beliefs and rights of the Indigenous People in the community travelers visit, and work in partnership with them to create empowerment.
 
-![Marina Qutab Interview](https://withoutapath.com/wp-content/uploads/2018/01/Marina-Qutab-Interview-1024x682.jpg){: .img-fluid}
+![Marina Qutab Interview]({{ site.url }}/assets/img/2018/01/Marina-Qutab-Interview.jpg){: .img-fluid}
 
 **WAP** _Could you offer a tip for readers who want to travel more responsibly in general?_
 

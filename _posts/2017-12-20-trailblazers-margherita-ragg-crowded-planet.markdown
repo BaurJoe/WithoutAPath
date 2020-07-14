@@ -4,7 +4,7 @@ categories:
 - Trailblazers
 ---
 
-![Margherita Ragg The Crowded Planet](https://withoutapath.com/wp-content/uploads/2017/12/Margherita-Ragg-The-Crowded-Planet.jpg){: .img-fluid}
+![Margherita Ragg The Crowded Planet]({{ site.url }}/assets/img/2017/12/Margherita-Ragg-The-Crowded-Planet.jpg){: .img-fluid}
 
 Off the beaten path travel is increasingly difficult to find as time marches on. Mass tourism is impacting everything from our favorite cities to the seas that surround them. All the while locals and the environment are often an afterthought. This series, [Trailblazers](http://withoutapath.com/category/trailblazers/), checks in with writers, photographers, filmmakers, activists and environmentalists who are passionate about off the beaten path travel.
 
@@ -20,7 +20,7 @@ Margherita Ragg is the co-founder of [The Crowded Planet](http://thecrowdedplane
 
 **MR **We started The Crowded Planet as a way to share what we are passionate about, namely hiking, adventure, nature, unusual destinations, and photography. I also work as a freelance journalist and The Crowded Planet has become an outlet for stories we wanted to tell, but we couldn’t find an outlet for, like our Grindadrap in the Faroe Islands piece, which has attracted [a fair bit of controversy](https://www.thecrowdedplanet.com/faroe-islands-grindadrap-faroese-perspective/).
 
-![Margherita Ragg The Crowded Planet Hiking](https://withoutapath.com/wp-content/uploads/2017/12/Margherita-Ragg-The-Crowded-Planet-Hiking-1024x684.jpg){: .img-fluid}
+![Margherita Ragg The Crowded Planet Hiking]({{ site.url }}/assets/img/2017/12/Margherita-Ragg-The-Crowded-Planet-Hiking.jpg){: .img-fluid}
 
 **WAP** _What inspired you to get more involved in writing about sustainable travel?_
 
@@ -36,7 +36,7 @@ Margherita Ragg is the co-founder of [The Crowded Planet](http://thecrowdedplane
 
 In terms of travel in general, it’s how quickly a destination can move from being unknown to becoming overwhelmed with tourists. We saw that happen in Svaneti, Georgia, and Jericoacoara, Brazil. What were once small villages became hot destinations, overrun with tourists in a matter of years, upsetting the balance of local life.
 
-![Margherita Ragg The Crowded Planet Horseback Riding](https://withoutapath.com/wp-content/uploads/2017/12/Margherita-Ragg-The-Crowded-Planet-Horseback-Riding-1024x684.jpg){: .img-fluid}
+![Margherita Ragg The Crowded Planet Horseback Riding]({{ site.url }}/assets/img/2017/12/Margherita-Ragg-The-Crowded-Planet-Horseback-Riding.jpg){: .img-fluid}
 
 **WAP** _Do you have a favorite off the beaten path travel destination?_
 

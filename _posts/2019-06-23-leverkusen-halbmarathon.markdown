@@ -5,7 +5,7 @@ categories:
 - Outdoors
 ---
 
-![](https://withoutapath.com/wp-content/uploads/2019/06/EFL-HM_Highlight_web_sf-photo_035-1024x683.jpg){: .img-fluid}Photo by Stefan Brüggemann via [EVL-Halbmarathon](https://www.leverkusen-halbmarathon.de/index.php?id=159)
+![]({{ site.url }}/assets/img/2019/06/EFL-HM_Highlight_web_sf-photo_035.jpg){: .img-fluid}Photo by Stefan Brüggemann via [EVL-Halbmarathon](https://www.leverkusen-halbmarathon.de/index.php?id=159)
 
 I've been in a bit of a running kick as of late, so much so that I've been signing up for half-marathons left and right––at least one per month since April. (That makes it sound like it's more than three, but... it's three.) Looking for one more to do before heading back to the States for a 10-day family visit, I spotted the EVL-Halbmarathon Leverkusen. 
 
@@ -15,7 +15,7 @@ After doing the [VIVAWEST-Halbmarathon](https://www.strava.com/activities/237951
 
 ## Leverkusen Bound
 
-![](https://withoutapath.com/wp-content/uploads/2019/06/EFL-HM_Highlight_web_sf-photo_019-1024x683.jpg){: .img-fluid}Photo by Stefan Brüggemann via [EVL-Halbmarathon](https://www.leverkusen-halbmarathon.de/index.php?id=159)
+![]({{ site.url }}/assets/img/2019/06/EFL-HM_Highlight_web_sf-photo_019.jpg){: .img-fluid}Photo by Stefan Brüggemann via [EVL-Halbmarathon](https://www.leverkusen-halbmarathon.de/index.php?id=159)
 
 I made the retrospectively silly mistake of assuming the race started in Leverkusen Mitte, which is the easiest connection from Düsseldorf and what I took for the city center.  Ya know, "Mitte" or "middle." Center, right?
 
@@ -35,19 +35,19 @@ By the time I came out of Landrat-Lucas-Gymnasium, the square had livened up a b
 
 ## The Course
 
-![](https://withoutapath.com/wp-content/uploads/2019/06/EFL-HM_Highlight_web_sf-photo_027-1024x683.jpg){: .img-fluid}Photo by Stefan Brüggemann via [EVL-Halbmarathon](https://www.leverkusen-halbmarathon.de/index.php?id=159)
+![]({{ site.url }}/assets/img/2019/06/EFL-HM_Highlight_web_sf-photo_027.jpg){: .img-fluid}Photo by Stefan Brüggemann via [EVL-Halbmarathon](https://www.leverkusen-halbmarathon.de/index.php?id=159)
 
 I decided to try running without music, my phone, or headphones to see if it made any difference in my running. In the end, I'm hesitant to say one way or the other, but the course was plenty interesting to keep me interested, perhaps even more so than had I been listening to the Black Keys for 90-plus minutes, my usual racing companions. 
 
 The sun was out, so I was a little concerned about overheating. In Gelsenkirchen, my last half-marathon, I felt like I was sweating bullets through my tech tee, and welcomed the opportunity to pour cold water down my back at every aid station. But the course kept us runners more or less out of direct sunlight for a majority of the race. I'd say 80/20 if I had to ballpark it.
 
-![Leverkusen Halbmarathon Running](https://withoutapath.com/wp-content/uploads/2019/06/Leverkusen-Halbmarathon-Running-683x1024.jpg){: .img-fluid}The fun before the pain.
+![Leverkusen Halbmarathon Running]({{ site.url }}/assets/img/2019/06/Leverkusen-Halbmarathon-Running.jpg){: .img-fluid}The fun before the pain.
 
 The biggest surprise was the bit of trail running in the course. Nothing grandiose, but the wide dirt paths through splashes of forests were a nice diversion from the monotony of the road. Another nice addition, one that I duly noted in an earlier study of the course, was running around the pitch at BayArena where Bayer Leverkusen play, one of the top teams in the Bundesliga. And then the final surprise came with a jaunt around Neuland Park with its manicured gardens and colorful spring flowers of yellow and purple. I barely noticed that the sun was melting me.
 
 ## Getting The PR
 
-![Leverkusen Halbmarathon Running](https://withoutapath.com/wp-content/uploads/2019/06/Leverkusen-Germany-Half-Marathon-Runner-680x1024.jpg){: .img-fluid}Getting a PR isn't always pretty looking.
+![Leverkusen Halbmarathon Running]({{ site.url }}/assets/img/2019/06/Leverkusen-Germany-Half-Marathon-Runner.jpg){: .img-fluid}Getting a PR isn't always pretty looking.
 
 With a few kilometers to go to the finish, I glanced at my watch and realized I was within reach of a PR. That meant grinding it out despite not knowing if a hill was waiting for me ahead that would crush any hope of reaching my sudden goal. Hills are few and far between in this corner of Rhine country, but it only takes one to flatten the tires and rip the air out of your lungs. I was taught that lesson most recently in Gelsenkirchen and purposely started integrating more plyometrics into my training to make up for some sorry-looking climbing.
 
@@ -57,7 +57,7 @@ With the hill behind me, I glanced again at my watch and realized I'd be golden 
 
 ## Post-Race
 
-![Leverkusen Half Marathon After Race](https://withoutapath.com/wp-content/uploads/2019/06/EFL-HM_Highlight_web_sf-photo_061-1024x683.jpg){: .img-fluid}Photo by Stefan Brüggemann via [EVL-Halbmarathon](https://www.leverkusen-halbmarathon.de/index.php?id=159)
+![Leverkusen Half Marathon After Race]({{ site.url }}/assets/img/2019/06/EFL-HM_Highlight_web_sf-photo_061.jpg){: .img-fluid}Photo by Stefan Brüggemann via [EVL-Halbmarathon](https://www.leverkusen-halbmarathon.de/index.php?id=159)
 
 Again, points for ease of organization. Whereas criticism of Düsseldorf's clothing dropoff had reached local papers, I simply strolled in, waited behind just one runner to read off my numbers, and got my bag back in less than a minute. Then, I headed back out to Opladen Marktplatz where announcers were congratulation race winners to a crowded audience. 
 

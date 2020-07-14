@@ -15,7 +15,7 @@ So, I purposely traveled to Alaska for a _[Matador Network](http://matadornetwor
 
 ## Anchorage
 
-[![Alaska's Chugach Mountains](https://withoutapath.com/wp-content/uploads/2016/02/08Joe_Baur_Alaska_ChugachMountains.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/02/08Joe_Baur_Alaska_ChugachMountains.jpg){: .img-fluid}
+[![Alaska's Chugach Mountains]({{ site.url }}/assets/img/2016/02/08Joe_Baur_Alaska_ChugachMountains.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/02/08Joe_Baur_Alaska_ChugachMountains.jpg){: .img-fluid}
 
 I had little idea of what to expect, my Alaskan knowledge based solely on a reading of _One Man's Wilderness_, Richard Proenneke's diary-turned travelogue on his 16 months building a cabin and surviving in the, as the name suggests, Alaskan wilderness. Oh, and I knew Chris McCandless of _Into The Wild_ fame died up there.
 
@@ -25,7 +25,7 @@ Driving into Anchorage, Jeannete started giving a basic background on Alaska and
 
 One of the first things I noticed on that short drive into Anchorage was a bumper sticker protesting the controversial Pebble Mine. I would've known nothing of the controversy had I not just watched [PBS Frontline's piece on the matter](http://www.pbs.org/wgbh/frontline/film/alaska-gold/). In short, it would have been the world's largest mine causing unspeakable environmental damage by the estimation of most experts. For now, the project has been put on hold after losing its funding base, marking the rare win for indigenous and environmental groups in this world.
 
-[![Anchorage, Alaska Town Square Park Ice Sculptures](https://withoutapath.com/wp-content/uploads/2016/03/11Joe_Baur_Alaska_Anchorage.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/03/11Joe_Baur_Alaska_Anchorage.jpg){: .img-fluid}
+[![Anchorage, Alaska Town Square Park Ice Sculptures]({{ site.url }}/assets/img/2016/03/11Joe_Baur_Alaska_Anchorage.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/03/11Joe_Baur_Alaska_Anchorage.jpg){: .img-fluid}
 
 Anchorage is tiny. You can walk it easily within 30 minutes, an hour if you stop to look at some things. One of those things to look at in the winter are the ice sculptures in Town Square Park, left behind by professionals of that craft following ice carving championships. Otherwise, given the cold, most aren't toddling around. Others, however, are out running and cycling regardless of the temperature.
 
@@ -33,7 +33,7 @@ Now speaking of the temperature, it really isn't that bad in Anchorage. It's on 
 
 ## Fat Tire Cycling
 
-[![Fat Tire Cycling Alaska with Dan McDonough](https://withoutapath.com/wp-content/uploads/2016/03/19Joe_Baur_Alaska_FatTireCycling.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/03/19Joe_Baur_Alaska_FatTireCycling.jpg){: .img-fluid}
+[![Fat Tire Cycling Alaska with Dan McDonough]({{ site.url }}/assets/img/2016/03/19Joe_Baur_Alaska_FatTireCycling.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/03/19Joe_Baur_Alaska_FatTireCycling.jpg){: .img-fluid}
 
 Dan McDonough of [Lifetime Adventures](http://www.lifetimeadventure.net/) met me for an hour ride around Winner Creek. Granted said ride started late as I spent a solid 30 minutes layering up in the park restroom, grunting like a 300-pound man suffering from constipation as I sat on the toilet, sweating through feeble attempts to pull my skin-tight bike kit over my long johns.
 
@@ -41,7 +41,7 @@ Fat tire cycling was a thrill. It combined the aspects of mountain biking I enjo
 
 Most novel of all was cycling _on top _of the frozen creek itself. Dan assured me we were perfectly safe, though we did eventually make a turn for dirt trail when the ice seemed oddly thin. Sadly (yet unsurprisingly), Anchorage and the whole of Alaska have been suffering from climate change, experiencing temperatures far warmer than typical for the season. Several locals shared that the prior year had been the warmest winter for Anchorage on record with this year's shaping up to be the second warmest.
 
-[![Fat tire cycling in Alaska](https://withoutapath.com/wp-content/uploads/2016/02/GoPro1.png)](https://withoutapath.com/wp-content/uploads/2016/02/GoPro1.png)
+[![Fat tire cycling in Alaska]({{ site.url }}/assets/img/2016/02/GoPro1.png)]({{ site.url }}/assets/img/2016/02/GoPro1.png)
 
 All told, we only covered two miles within our hour together, including time to stop for some photos of the surrounding mountains and snow-covered forests. But I learned that fat tire cycling in Alaska is something I would enjoy doing for hours at a time through the remote countryside. Dan, who has directed fat tire races such as the [Iditarod Trail Invitational](http://iditarodtrailinvitational.com/), assured me that I could come back and shuffle across the landscape from cabin to cabin.
 
@@ -49,7 +49,7 @@ It struck me as a romantic notion, being alone in the Alaskan wilderness with no
 
 ## Alyeska
 
-[![Hiking at the Alyeska Resort in Alaska](https://withoutapath.com/wp-content/uploads/2016/02/14Joe_Baur_Alaska_AlyeskaResort.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/02/14Joe_Baur_Alaska_AlyeskaResort.jpg){: .img-fluid}
+[![Hiking at the Alyeska Resort in Alaska]({{ site.url }}/assets/img/2016/02/14Joe_Baur_Alaska_AlyeskaResort.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/02/14Joe_Baur_Alaska_AlyeskaResort.jpg){: .img-fluid}
 
 With a morning of fat tire cycling under my belt, I meandered through the rest of my day with stops at the Anchorage Museum and Anchorage Distillery. In between, I caught a cloudy sunset over the Chugach Mountains that dominated the Anchorage skyline.
 
@@ -61,7 +61,7 @@ Ice aside, it was nice for this city guy to get back-to-back retreats into the w
 
 ## Alaskan Beer
 
-[![Great Alaska Beer and Barley Wine Festival](https://withoutapath.com/wp-content/uploads/2016/02/14Joe_Baur_Alaska_GreatAlaskaBeerAndBarleyWineFestival.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/02/14Joe_Baur_Alaska_GreatAlaskaBeerAndBarleyWineFestival.jpg){: .img-fluid}
+[![Great Alaska Beer and Barley Wine Festival]({{ site.url }}/assets/img/2016/02/14Joe_Baur_Alaska_GreatAlaskaBeerAndBarleyWineFestival.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/02/14Joe_Baur_Alaska_GreatAlaskaBeerAndBarleyWineFestival.jpg){: .img-fluid}
 
 That night, it was time for something truly only available in the winter when traveling to Alaska. I'm talking of course about the [Great Alaska Beer & Barley Wine Festival](http://auroraproductions.net/beer-barley.html).
 

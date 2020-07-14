@@ -6,7 +6,7 @@ categories:
 - Travel
 ---
 
-[![Central Kortrijk, Belgium](https://withoutapath.com/wp-content/uploads/2016/03/Belgium-52-1024x768.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/03/Belgium-52.jpg){: .img-fluid}
+[![Central Kortrijk, Belgium]({{ site.url }}/assets/img/2016/03/Belgium-52.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/03/Belgium-52.jpg){: .img-fluid}
 
 How should you respond to the attacks in Brussels and Ankara? For one, if you can, travel to Brussels and Ankara.<!-- more -->
 
@@ -78,4 +78,4 @@ But it's not just about living without fear, it's how we respond as a global soc
 
 How will we meet the events of Paris, Beirut, Ankara and Brussels? I for one am fresh off a trip to England, on my way to Honduras in April and Jordan in May.
 
-[![How to respond to the terrorist attacks in Brussels and Ankara](https://withoutapath.com/wp-content/uploads/2016/03/How-to-respond-to-the-terrorist-attacks-in-Brussels-and-Ankara-200x300.png)](https://withoutapath.com/wp-content/uploads/2016/03/How-to-respond-to-the-terrorist-attacks-in-Brussels-and-Ankara.png)
+[![How to respond to the terrorist attacks in Brussels and Ankara]({{ site.url }}/assets/img/2016/03/How-to-respond-to-the-terrorist-attacks-in-Brussels-and-Ankara.png)]({{ site.url }}/assets/img/2016/03/How-to-respond-to-the-terrorist-attacks-in-Brussels-and-Ankara.png)

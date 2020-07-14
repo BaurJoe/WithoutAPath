@@ -2,9 +2,10 @@
 title: Parsha Vayera | Sodom, Gomorrah, and Biblical Incest
 categories:
 - Essays
+homepage: false
 ---
 
-![sodom and gomorrah fire](https://withoutapath.com/wp-content/uploads/2019/11/sodom-and-gomorrah-stephen-radford-hLUTRzcVkqg-unsplash-1024x680.jpg){: .img-fluid}Photo by [Stephen Radford](https://unsplash.com/@steve228uk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/destruction?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![sodom and gomorrah fire]({{ site.url }}/assets/img/2019/11/sodom-and-gomorrah-stephen-radford-hLUTRzcVkqg-unsplash.jpg){: .img-fluid}Photo by [Stephen Radford](https://unsplash.com/@steve228uk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/destruction?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Vayera, Genesis 18:1 - 22:24. [Click here to read last week's Parsha Lech-Lecha](https://withoutapath.com/parsha-lech-lecha/)._
 

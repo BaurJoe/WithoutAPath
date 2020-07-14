@@ -17,7 +17,7 @@ I met with [Benjamin Granucci](https://twitter.com/BLGranucci) of [AirlineReport
 
 We started near the Palacio de la Moneda, the capital building of Chile where the U.S.-supported coups of Allende happened just a few decades ago. Fittingly a statue of Allende stands just outside of the capitol with the caption, "Tengo fe en chile y su destino" _(I have faith in Chile and its destiny)_ from Allende's final radio address on September 11.
 
-[![Catedral de Santiago - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/07/Catedral-de-Santiago-JoeBaur-1024x668.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Catedral-de-Santiago-JoeBaur.jpg){: .img-fluid}
+[![Catedral de Santiago - JoeBaur]({{ site.url }}/assets/img/2015/07/Catedral-de-Santiago-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Catedral-de-Santiago-JoeBaur.jpg){: .img-fluid}
 
 It wasn't all tragic history. In fact, the rest of our walk took a decidedly upbeat turn following _La Moneda_ as we turned down pedestrian-only thoroughfares surrounded by buildings with incredible attention to detail in their architecture. This is what North American travelers are told to expect of Europe, not South America.
 
@@ -37,7 +37,7 @@ After giving our obligatory admiration every tourist must give to the giant stat
 
 ###### Wine Country
 
-[![Concha y Toro Vineyards - JoeBaur](https://withoutapath.com/wp-content/uploads/2015/07/Concha-y-Toro-Vineyards-JoeBaur-1024x683.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/Concha-y-Toro-Vineyards-JoeBaur.jpg){: .img-fluid}
+[![Concha y Toro Vineyards - JoeBaur]({{ site.url }}/assets/img/2015/07/Concha-y-Toro-Vineyards-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Concha-y-Toro-Vineyards-JoeBaur.jpg){: .img-fluid}
 
 Step outside of Santiago and you're in wine country. For us, it was [Concha y Toro](http://www.conchaytoro.com) -- the largest producer of wines in Latin America with one of the most respected brands in the world. I'm of course talking about Casillero del Diablo. Legend goes that more than 100 years ago, vineyard founder Don Melchor began noticing that some of his bottles of wine were disappearing. To scare off potential robbers, he started a legend that the wine cellar was inhabited by the devil himself. Thus the Devil's locker was born -- _casillero del diablo_.
 

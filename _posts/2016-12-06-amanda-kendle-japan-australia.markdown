@@ -31,4 +31,4 @@ Enough of me. I’m not the only one who has ever visited Japan, and in this epi
 
 [Go Cultural Aboriginal Tours & Experiences](http://gocultural.com.au)
 
-[![amanda-kendle-talks-travels-in-japan-and-australia](https://withoutapath.com/wp-content/uploads/2016/12/Amanda-Kendle-Talks-Travels-in-Japan-and-Australia.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2016/12/Amanda-Kendle-Talks-Travels-in-Japan-and-Australia.jpg){: .img-fluid}
+[![amanda-kendle-talks-travels-in-japan-and-australia]({{ site.url }}/assets/img/2016/12/Amanda-Kendle-Talks-Travels-in-Japan-and-Australia.jpg){: .img-fluid}]({{ site.url }}/assets/img/2016/12/Amanda-Kendle-Talks-Travels-in-Japan-and-Australia.jpg){: .img-fluid}

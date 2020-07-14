@@ -3,7 +3,7 @@ title: Tenerife Sur, Spain
 permalink: /travel-guides/tenerife-sur-spain/
 ---
 
-![Volcano-Teide-and-Llano-de-Ucanca-in-Tenerife-Spain-1](https://withoutapath.com/wp-content/uploads/2017/04/Volcano-Teide-and-Llano-de-Ucanca-in-Tenerife-Spain-1-1024x683.jpg){: .img-fluid}
+![Volcano-Teide-and-Llano-de-Ucanca-in-Tenerife-Spain-1]({{ site.url }}/assets/img/2017/04/Volcano-Teide-and-Llano-de-Ucanca-in-Tenerife-Spain-1.jpg){: .img-fluid}
 
 ## **WHY TENERIFE SUR?**
 
@@ -15,7 +15,7 @@ In other words, **Tenerife Sur can be whatever you make of it** for whatever kin
 
 ### **LOS CRISTIANOS**
 
-![Los-Cristianos-Paseo-in-Tenerife-Spain](https://withoutapath.com/wp-content/uploads/2017/04/Los-Cristianos-Paseo-in-Tenerife-Spain-1024x683.jpg){: .img-fluid}
+![Los-Cristianos-Paseo-in-Tenerife-Spain]({{ site.url }}/assets/img/2017/04/Los-Cristianos-Paseo-in-Tenerife-Spain.jpg){: .img-fluid}
 
 **Los Cristianos is a tourist city.** There's no getting around it, so better to embrace it going in than to be disappointed. If you're looking for a sunny hotel along the southern coast, then this is the place to go. The [Arona Gran Hotel](http://www.springhoteles.com/en/arona-gran-hotel-tenerife) served our needs perfectly in that regard. Walking the paseo or boardwalk will yield a number of large restaurants with hosts pleading for you to come in. You know the routine if you've done any kind of traveling in tourists towns before.
 
@@ -24,38 +24,38 @@ In other words, **Tenerife Sur can be whatever you make of it** for whatever kin
 
 Anecdotally, **Los Cristianos appeared to be something of a geriatric utopia**. Rascal drivers swerve in and out of pedestrian crowds like Mario chasing down his evil cousin Wario for dropping that koopa shell back during the first lap. Multitudes gathered around the bocce ball court with admirers watching on, making it clear this was **the senior citizen take on Miami's muscle beach.**
 
-![Bocce-Ball-Players-in-Los-Cristianos-Tenerife](https://withoutapath.com/wp-content/uploads/2017/04/Bocce-Ball-Players-in-Los-Cristianos-Tenerife-1024x683.jpg){: .img-fluid}
+![Bocce-Ball-Players-in-Los-Cristianos-Tenerife]({{ site.url }}/assets/img/2017/04/Bocce-Ball-Players-in-Los-Cristianos-Tenerife.jpg){: .img-fluid}
 
 If none of this sounds like your speed, fear not. **Los Cristianos still is a great geographic location for starting off a trip to Tenerife Sur and it is possible to get off the tourist trek.** First off, it's a short 20-30 minutes by bus from the Tenerife Sur airport. Most other major cities will be a further hull. It's also home of **Montaña de Guaza**, an environmentally protected area great for some [uphill trekking](https://www.strava.com/activities/870515537).
 You can also meet up with [Cycling In Tenerife](http://cyclingintenerife.com/) for a [bike ride](https://www.strava.com/activities/869576487) around the area suitable for everyone ranging from tourists to professional training cyclists. Besides the great workout, you'll get **unspoiled vistas of the southern coastline as you climb over a thousand meters above sea level and roll across streets most tourists never see**. You'll also stop in Chío at Snack Bar Parada for lunch, owned by a Canarian who's a cyclist himself and has designed his modest restaurant with that theme in mind.
 
 Eating off the tourist trek is admittedly difficult due to the aforementioned paseo. While not necessarily off the tourist trek, the [UNION Café Bar](https://www.facebook.com/UnionCafeBarLosCristianos/) is a short walk away from the Arona Gran Hotel and is great for patio snacks. **Their chorizo and chickpea combo was as great an introduction to Canarian cuisine as anyone could ask for.** There's also Restaurante Raymond on Avenida Los Playeros with reputedly **the best paella in Los Cristianos** if reception at the hotel is to be believed. Indeed, it did not disappoint, and with a mostly Spanish-speaking crowd, it at least gave the feeling that this is a local favorite. (The tourist traffic picks up heavily again just west of here past the church.)
 
-[![](https://withoutapath.com/wp-content/uploads/2017/03/Los-Cristianos-Beach-in-Tenerife-Spain.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/03/Los-Cristianos-Beach-in-Tenerife-Spain.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/03/Los-Cristianos-Beach-in-Tenerife-Spain.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/03/Los-Cristianos-Beach-in-Tenerife-Spain.jpg){: .img-fluid}
 
 When all is said and done, **Los Cristianos is a great compromise for traveling couples who are split between wanting to relax in the sun and those looking for a physical challenge.**
 
-![Rascals-Los-Cristianos-Paseo-Tenerife](https://withoutapath.com/wp-content/uploads/2017/04/Rascals-Los-Cristianos-Paseo-Tenerife-1024x683.jpg){: .img-fluid}
+![Rascals-Los-Cristianos-Paseo-Tenerife]({{ site.url }}/assets/img/2017/04/Rascals-Los-Cristianos-Paseo-Tenerife.jpg){: .img-fluid}
 
 ### **TEIDE NATIONAL PARK**
 
-![Alto-de-Guajara-Hiking-Trail-Teide-National-Park](https://withoutapath.com/wp-content/uploads/2017/04/Alto-de-Guajara-Hiking-Trail-Teide-National-Park-1024x683.jpg){: .img-fluid}
+![Alto-de-Guajara-Hiking-Trail-Teide-National-Park]({{ site.url }}/assets/img/2017/04/Alto-de-Guajara-Hiking-Trail-Teide-National-Park.jpg){: .img-fluid}
 
 **For me, this was the highlight of the trip to Tenerife Sur.** The park is dead center on the island, but the portion of the park covered in this guide is at the southern entrance and is just an hour bus ride from Los Cristianos.
 
 [Teide National Park](https://www.volcanoteide.com/en/national_park) is home to Spain's tallest mountain, which admittedly seems like an odd claim to fame considering Tenerife is further from mainland Spain than Okinawa from Honshu in Japan. National flags aside, it's high enough that you'll start to feel the altitude at the base of Teide Volcano, and the temperature drops significantly. **If you're spending time on the coast and in the park, you'll need to pack for two very different trips.**
 
-![Mars-and-the-Milky-Way-in-Teide-National-Park-Tenerife](https://withoutapath.com/wp-content/uploads/2017/04/Mars-and-the-Milky-Way-in-Teide-National-Park-Tenerife-1024x683.jpg){: .img-fluid}
+![Mars-and-the-Milky-Way-in-Teide-National-Park-Tenerife]({{ site.url }}/assets/img/2017/04/Mars-and-the-Milky-Way-in-Teide-National-Park-Tenerife.jpg){: .img-fluid}
 
 The best decision we made on this trip was to stay at [Parador de Las Cañadas del Teide](http://www.parador.es/en/paradores/parador-de-las-canadas-del-teide), the only hotel in the national park. Public transport drops off right at the hotel with many travelers making a day trip out of it. Except with a day trip, you're stuck taking the 4 p.m. bus back into town. Not only will you be rushed, but you'll miss out on the stars at night. **I for one have never seen stars like I did right outside of this hotel.** The Milk Way, Mars, and pick your constellation were clearly visible with the naked eye. This is no surprise because Teide is known as [one of the best places in the world for stargazing](http://www.smithsonianmag.com/travel/worlds-best-stargazing-destinations-180955159/) and is home to the [Teide Observatory](http://www.iac.es/eno.php?op1=3&lang=en) on the eastern side of the park.
 
-![Alto-de-Guajara-Sunset-in-Teide-National-Park-Tenerife-Spain](https://withoutapath.com/wp-content/uploads/2017/04/Alto-de-Guajara-Sunset-in-Teide-National-Park-Tenerife-Spain-1024x683.jpg){: .img-fluid}
+![Alto-de-Guajara-Sunset-in-Teide-National-Park-Tenerife-Spain]({{ site.url }}/assets/img/2017/04/Alto-de-Guajara-Sunset-in-Teide-National-Park-Tenerife-Spain.jpg){: .img-fluid}
 
 A number of hiking trails surround the hotel, too, with direct access from the hotel property. A favorite is to [hike up to the Alto de Guajara](https://www.strava.com/activities/872313811), approximately 11 kilometers round trip with 650 meters of climbing. (_**Tip:** Hike this loop starting south if you prefer descending gradually on the return.)_ The most difficult option takes you up the side of Teide and is rated as the most difficult hike in the area surrounding the hotel. Again, pack warm if you're going even further up. If you have aspirations of getting to the peak, you'll need to plan ahead and [get a permit](https://www.reservasparquesnacionales.es/real/ParquesNac/usu/html/Previo-inicio-reserva-oapn.aspx?ii=6ENG&cen=2&act=%201). It's free, but only 200 people per day can go to the peak due to environmental concerns. Naturally, these permits go quickly. You could also through the national park and [pay for a guide](https://www.volcanoteide.com/en/national_park).
 
 Speaking of the park, they run a number of tours around the area. We joined for the [Sunset and Stars](https://www.volcanoteide.com/en/volcano_teide/sunset_and_stars/sunset_and_stars_on_teide) option, itching to see some stars. The package gets you the sunset on Teide (reached by cable car), snacks, dinner, and stargazing by telescope. (Note that the sunset viewpoint will be moved if weather conditions make the cable car unsafe.)
 
-![Teide-National-Park-Sunset-in-Tenerife-Spain](https://withoutapath.com/wp-content/uploads/2017/04/Teide-National-Park-Sunset-in-Tenerife-Spain-1024x683.jpg){: .img-fluid}
+![Teide-National-Park-Sunset-in-Tenerife-Spain]({{ site.url }}/assets/img/2017/04/Teide-National-Park-Sunset-in-Tenerife-Spain.jpg){: .img-fluid}
 
 The tour was all well and good, especially meeting with like-minded company from all over the world. I especially enjoyed the 80-some-year-old Belgian tourist who thought one way to deal with Tenerife's mass tourism problem is to screen people based on their interests. Those looking to hikes and embracing the natural sciences will move to the front of the permit line.
 
@@ -73,7 +73,7 @@ Also, take note of TITSA's limited availability for certain routes. If you're he
 
 ## BONUS TIPS
 
-![Volcano-Teide-Milky-Way](https://withoutapath.com/wp-content/uploads/2017/04/Volcano-Teide-Milky-Way-1024x683.jpg){: .img-fluid}
+![Volcano-Teide-Milky-Way]({{ site.url }}/assets/img/2017/04/Volcano-Teide-Milky-Way.jpg){: .img-fluid}
 
 If you're not interested in lounging by the pool and generally detest all things touristic, then just **get the long haul from the airport to the national park over with on day one.** Doing it directly from the airport to Parador de Las Cañadas del Teide will take a little over two hours. But again, you'd need to make sure you catch that morning bus to the park.
 
@@ -87,4 +87,4 @@ If you're not interested in lounging by the pool and generally detest all things
 
 There are a number of local publications and bloggers you could check out for additional information. [The Real Tenerife](http://therealtenerife.com/) is probably your number one source followed by the Spanish blogging couple at [Tenerfelicidad](http://www.tenerifelicidad.net/es/). The latter provided the tip to download the Guachapp for information on where the island's guachinches are popping up complete with ratings. Unfortunately, this required creating a new Apple ID to associate it with the Spanish Apple Store, but it's worth it when you consider the opportunities it opens up. After downloading it, you'll notice that an overwhelming majority of the establishments are located in the north.
 
-![](https://withoutapath.com/wp-content/uploads/2017/04/Tenerife-Sur-Travel-Guide-683x1024.jpg){: .img-fluid}
+![]({{ site.url }}/assets/img/2017/04/Tenerife-Sur-Travel-Guide.jpg){: .img-fluid}

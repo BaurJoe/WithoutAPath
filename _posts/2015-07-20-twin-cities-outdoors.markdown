@@ -5,7 +5,7 @@ categories:
 - Outdoors
 ---
 
-[![ColdwaterMinnehaha 22](https://withoutapath.com/wp-content/uploads/2015/07/ColdwaterMinnehaha-22-1024x684.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/ColdwaterMinnehaha-22.jpg){: .img-fluid}
+[![ColdwaterMinnehaha 22]({{ site.url }}/assets/img/2015/07/ColdwaterMinnehaha-22.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/ColdwaterMinnehaha-22.jpg){: .img-fluid}
 
 About a year ago I pitched the idea of a new series to the fine folks at [Falcon Guides](http://www.falcon.com/) -- the very same publisher that allowed me to write my first solo book project, _Best Hikes Near Cleveland_. (Coincidentally that books still exists and [you can still buy it](http://www.amazon.com/Best-Hikes-Near-Cleveland/dp/0762791594/ref=sr_1_1?ie=UTF8&qid=1437404051&sr=8-1&keywords=best+hikes+near+cleveland&pebp=1437404089829&perid=0BPB27Y4BKGKWYP8MADB).) The new series being one that takes a combination of outdoor activities and mixes them into one guide. We're talking hiking (both urban and parkland), cycling (road and mountain), paddling, and a few honorable mentions, like cross-country skiing and rock climbing.<!-- more -->
 
@@ -19,7 +19,7 @@ Problem is, I don't live in the Twin Cities and I'm still playing catchup with 
 
 David Baur.
 
-[caption id="attachment_2090" align="aligncenter" width="604"][![This picture of David as Ralphie in his Easter Bunny costume was taken in February. He really likes A Christmas Story.](https://withoutapath.com/wp-content/uploads/2015/07/David-Baur-Lost-Caws-JoeBaur.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2015/07/David-Baur-Lost-Caws-JoeBaur.jpg){: .img-fluid} This picture of David as Ralphie in his Easter Bunny costume was taken in February. He really likes A Christmas Story.[/caption]
+[caption id="attachment_2090" align="aligncenter" width="604"][![This picture of David as Ralphie in his Easter Bunny costume was taken in February. He really likes A Christmas Story.]({{ site.url }}/assets/img/2015/07/David-Baur-Lost-Caws-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/David-Baur-Lost-Caws-JoeBaur.jpg){: .img-fluid} This picture of David as Ralphie in his Easter Bunny costume was taken in February. He really likes A Christmas Story.[/caption]
 
 Yep. My brother who also writes words and actually lives in the Twin Cities will be co-authoring _Best Hikes Near Minneapolis and Saint Paul_. He traditionally writes over at [Lost Caws](http://www.lostcaws.com/) and also authored a guide on the Twin Cities' culture and music scene, which was available exclusively at the 2014 Baur family Christmas.**
 

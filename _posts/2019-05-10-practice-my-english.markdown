@@ -5,7 +5,7 @@ categories:
 - There Must Be Order
 ---
 
-![silhouette of a man in blacka nd white](https://withoutapath.com/wp-content/uploads/2019/04/I-Will-Practice-My-English-With-You-1024x620.jpg){: .img-fluid}Photo by [Fortyozsteak](https://unsplash.com/photos/dLij9K4ObYY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/scary?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![silhouette of a man in blacka nd white]({{ site.url }}/assets/img/2019/04/I-Will-Practice-My-English-With-You.jpg){: .img-fluid}Photo by [Fortyozsteak](https://unsplash.com/photos/dLij9K4ObYY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/scary?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _The following is a chapter from an upcoming memoir on moving to and living in Germany. [Read more here](https://withoutapath.com/category/essays/there-must-be-order/)._
 

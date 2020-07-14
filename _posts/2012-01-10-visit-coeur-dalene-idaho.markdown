@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/IMG_06911-1024x765.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/IMG_06911.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/05/IMG_06911.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/IMG_06911.jpg){: .img-fluid}
 
 Idaho has always been a bit of a mystery to me, having grown up in Northeast Ohio. They’re the ones with the potatoes, right? Next to Washington State? Luckily, I was able to make a stop in Coeur d’Alene, in the Northern Idaho panhandle. Suffice it to say, I found there is much more to Idaho than growing Ireland’s favorite famine- fighting food.<!-- more -->
 
@@ -23,13 +23,13 @@ Having arrived at night, I was left without much of an impression of little ole 
 
 ## **I Demand Sustenance**
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/IMG_07000-1024x765.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/IMG_07000.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/05/IMG_07000.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/IMG_07000.jpg){: .img-fluid}
 
 The next morning I awoke with the rising sun to crystal-clear, blue skies. Beautiful. But surprisingly, it was a brisk 40-some degrees outside. Not what I would expect in the middle of a Canadian summer, much less within one of our very own 48 continental states. It didn’t matter, though. I was in Idaho. The northern panhandle of Idaho. A place as recently as a month prior I would’ve never imagined I’d get to travel to without burning a bunch of cash on some grand, middle-of-nowhere expedition. Because truth be told, there isn’t much up there in the way of major cities. I’m personally okay with that, but it doesn’t make for a cheap trip coming from a couple time zones over. But enough contemplating my luck, I had been awake for an entire 10 minutes and hadn’t begun eating my breakfast. I demand sustenance!
 
 **Jimmy's Down The Street**
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/IMG_06933-1024x765.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/IMG_06933.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/05/IMG_06933.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/IMG_06933.jpg){: .img-fluid}
 
 Down the street was the aptly named diner Jimmy’s Down The Street for a filling, delicious breakfast. Jimmy’s is clearly a local’s establishment adhering to the positive stereotype that extreme kindness emanates from small towns. These are the kind of people politicians use when making their "Real America” arguments. But what those assholes don’t realize is these people would never want to be a part of such an asinine argument. They’re too damn nice!
 
@@ -41,7 +41,7 @@ And there it was: Lake Coeur d’Alene surrounded by pine trees, a park, and siz
 
 I spent a solid 30-60 minutes walking along the beachfront, admiring the view and melodic sounds of the incoming tide. I even found a pile of rocks that for some reason caught my attention, so much so that I decided to steal one for that rock collection I don’t have. Something about this piece of igneous (I don’t actually know if it was igneous) begged me to take it with me. So apologies to any eco-warrior I may have offended. Hopefully, the Earth’s ecosystem doesn’t suddenly collapse on account of my rock-robbery, like the hijinks that ensue in a cartoon time-travel episode where one of the characters touches something in the past and completely alters the future so dinosaurs or Cher’s popularity still exist.
 
-[![](https://withoutapath.com/wp-content/uploads/2017/05/IMG_07034-1024x765.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/05/IMG_07034.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/05/IMG_07034.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/05/IMG_07034.jpg){: .img-fluid}
 
 Before turning back to the car, I noticed something off in the distance. Was that… a resort? No offense to my newfound Idaho friends, but I don’t think anyone in the world thinks of Idaho as having a resort town, much less in the panhandle. Something about panhandles has always screamed, “stay away,” in my opinion. Florida has the MTV clusterfuck of Panama City, Texas has a steady stream of slaughterhouses, but Idaho quickly became the exception to the rule. Now I’m seeing a freakin’ resort hotel!
 

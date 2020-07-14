@@ -10,4 +10,4 @@ Sally Elbassir of [Passport & Plates](http://passportandplates.com/) bills herse
 
 Subscribe to [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2).<!-- more -->
 
-[![](https://withoutapath.com/wp-content/uploads/2017/01/Sally-Elbassir-Confronts-Stereotypes-as-a-Muslim-Traveler.jpg){: .img-fluid}](https://withoutapath.com/wp-content/uploads/2017/01/Sally-Elbassir-Confronts-Stereotypes-as-a-Muslim-Traveler.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2017/01/Sally-Elbassir-Confronts-Stereotypes-as-a-Muslim-Traveler.jpg){: .img-fluid}]({{ site.url }}/assets/img/2017/01/Sally-Elbassir-Confronts-Stereotypes-as-a-Muslim-Traveler.jpg){: .img-fluid}
