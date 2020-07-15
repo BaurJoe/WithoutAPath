@@ -1,5 +1,5 @@
 ---
-title: Landing, Walking San Jose and Hiking El Rodeo
+title: Landing, Walking San José and Hiking El Rodeo
 categories:
 - Central America
 - Travel

@@ -13,7 +13,7 @@ The famous Sandals Resorts, of which there are seven on the tiny island nation, 
 
 Afterward, we became masochistically curious about what a Sandals Resort actually entails. Based on a quick perusal of their website, it appears Sandals might have an image problem.
 
-[![Captura de pantalla 2014-11-24 a la(s) 2.41.59 PM](/wp-content/uploads/2014/11/_d_improd_/Captura-de-pantalla-2014-11-24-a-las-2.41.59-PM-1024x445_f_improf_600x260.png)]({{ site.url }}/assets/img/2014/11/Captura-de-pantalla-2014-11-24-a-las-2.41.59-PM.png)
+[![Captura de pantalla 2014-11-24 a la(s) 2.41.59 PM]({{ site.url }}/assets/img/2014/11/_d_improd_/Captura-de-pantalla-2014-11-24-a-las-2.41.59-PM-1024x445_f_improf_600x260.png)]({{ site.url }}/assets/img/2014/11/Captura-de-pantalla-2014-11-24-a-las-2.41.59-PM.png)
 
 To open, we find a slideshow of images. First a thinner Chris Hemsworth cheers (maybe?) Cameron Diaz over a romantic seasdie dinner. Next we find two couples enjoying their slice of sandy paradise as they're brought drinks by a black man.
 
@@ -33,11 +33,11 @@ Let's look at Sandals Jamaica, specifically only images where people are shown.
 
 Either Jamaicans look awfully Scandanavian or we're not off to a great start.
 
-[![Sandals Montego Bay - JoeBaur ](/wp-content/uploads/2014/11/_d_improd_/Captura-de-pantalla-2014-11-24-a-las-2.59.34-PM_f_improf_370x472.png)]({{ site.url }}/assets/img/2014/11/Captura-de-pantalla-2014-11-24-a-las-2.59.34-PM.png)
+[![Sandals Montego Bay - JoeBaur ]({{ site.url }}/assets/img/2014/11/_d_improd_/Captura-de-pantalla-2014-11-24-a-las-2.59.34-PM_f_improf_370x472.png)]({{ site.url }}/assets/img/2014/11/Captura-de-pantalla-2014-11-24-a-las-2.59.34-PM.png)
 
 Nope and nope.
 
-[![Sandals Negril - JoeBaur](/wp-content/uploads/2014/11/_d_improd_/Captura-de-pantalla-2014-11-24-a-las-3.00.14-PM_f_improf_448x346.png)]({{ site.url }}/assets/img/2014/11/Captura-de-pantalla-2014-11-24-a-las-3.00.14-PM.png)
+[![Sandals Negril - JoeBaur]({{ site.url }}/assets/img/2014/11/_d_improd_/Captura-de-pantalla-2014-11-24-a-las-3.00.14-PM_f_improf_448x346.png)]({{ site.url }}/assets/img/2014/11/Captura-de-pantalla-2014-11-24-a-las-3.00.14-PM.png)
 
 Still no.
 

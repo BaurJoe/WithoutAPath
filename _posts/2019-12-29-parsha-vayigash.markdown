@@ -5,7 +5,7 @@ categories:
 homepage: false
 ---
 
-![](https://i0.wp.com/withoutapath.com/wp-content/uploads/2019/12/tyler-nix-V3dHmb1MOXM-unsplash.jpg?fit=1024%2C682&ssl=1)Photo by [Tyler Nix](https://unsplash.com/@jtylernix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/family?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![](https://i0.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/12/tyler-nix-V3dHmb1MOXM-unsplash.jpg?fit=1024%2C682&ssl=1)Photo by [Tyler Nix](https://unsplash.com/@jtylernix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/family?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Vayigash, Genesis 44:18 - 47:27. [Click here to read last week’s, Parsha Miketz.](https://withoutapath.com/parsha-miketz/)_
 

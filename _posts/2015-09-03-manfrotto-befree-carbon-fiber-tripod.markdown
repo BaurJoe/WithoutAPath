@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Manfrotto Befree Carbon Fiber Tripod - JoeBaur](/wp-content/uploads/2015/09/_d_improd_/Manfrotto-Befree-Carbon-Fiber-Tripod-JoeBaur_f_improf_616x561.png)]({{ site.url }}/assets/img/2015/09/Manfrotto-Befree-Carbon-Fiber-Tripod-JoeBaur.png)
+[![Manfrotto Befree Carbon Fiber Tripod - JoeBaur]({{ site.url }}/assets/img/2015/09/_d_improd_/Manfrotto-Befree-Carbon-Fiber-Tripod-JoeBaur_f_improf_616x561.png)]({{ site.url }}/assets/img/2015/09/Manfrotto-Befree-Carbon-Fiber-Tripod-JoeBaur.png)
 
 I don't do much tripod work. Most of my stuff is constantly on-the-go travel, so I opt to go handheld and do the best I can to get a relatively steady shot.
 

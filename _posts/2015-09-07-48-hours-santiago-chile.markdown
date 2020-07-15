@@ -27,7 +27,7 @@ We continued through a line of food counters at Portal Fernández Concha, a popu
 
 My only sense that Santiago would be a more traditional, planned city came from [Plataforma Urbana,](http://www.plataformaurbana.cl/) an urbanism publication out of Santiago that I had been keeping tabs on for some months before I even knew I'd be traveling there. After Central America, my thought was that any kind of cycling infrastructure would be a rarity if it even existed at all. Santiago proved me wrong. I was thrilled to see separated, protected bike lanes lined throughout the city. Yes, I really could live here.
 
-One of the said bike lanes traveled near Mercado Central, filled with an array of delicious-looking seafood. The strong smells and character of the stands reminded me San Jose, Costa Rica's central market only with fewer people owing to the time of day we were visiting.
+One of the said bike lanes traveled near Mercado Central, filled with an array of delicious-looking seafood. The strong smells and character of the stands reminded me San José, Costa Rica's central market only with fewer people owing to the time of day we were visiting.
 
 Next we made our way up to Cerro San Cristóbal, part of the Cordillera de los Andes standing about 300 meters over Santiago. The winding road serves as a popular climb for cyclists, especially on select days _sin carros_ (without cars) where pedestrians and two-wheel travelers can conquer the hill without worrying about inhaling the poison left from the mufflers of passing cars. You can see that Santiago could, perhaps, use more days without cars, not just at the hill, but across the city.*
 

@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![](/wp-content/uploads/2013/05/_d_improd_/Ocean-Overlook-JOE-BAUR-1024x768_f_improf_600x450.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Ocean-Overlook-JOE-BAUR.jpg){: .img-fluid}
+[![]({{ site.url }}/assets/img/2013/05/_d_improd_/Ocean-Overlook-JOE-BAUR-1024x768_f_improf_600x450.jpg){: .img-fluid}]({{ site.url }}/assets/img/2013/05/Ocean-Overlook-JOE-BAUR.jpg){: .img-fluid}
 
 I knew next to nothing about Hilton Head, South Carolina when I was told some months back by Melanie that I would be joining her family for a vacation on the Lowcountry island. Is a tourist trap? Is it anything like I've heard of historic Charleston? Will their be barbecue? All these questions and more were answered over the past week.
 

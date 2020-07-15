@@ -36,7 +36,7 @@ Now enjoy.
 
 ## Sun dried tomato pasta
 
-	![](https://i1.wp.com/withoutapath.com/wp-content/uploads/2020/04/Creamy-Pasta-Finished.jpg?resize=150%2C150&ssl=1)	
+	![](https://i1.wp.com/withoutapath.com{{ site.url }}/assets/img/2020/04/Creamy-Pasta-Finished.jpg?resize=150%2C150&ssl=1)	
 
 		
 

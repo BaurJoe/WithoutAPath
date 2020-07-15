@@ -20,7 +20,7 @@ What's also great about this recipe is you're bound to be overloaded with leftov
 
 ## Spicy Vegetarian Cholent (Vegan Easy)
 
-	![](https://i2.wp.com/withoutapath.com/wp-content/uploads/2020/04/Spicy-Vegetarian-Cholent-Finished.jpg?resize=150%2C150&ssl=1)	
+	![](https://i2.wp.com/withoutapath.com{{ site.url }}/assets/img/2020/04/Spicy-Vegetarian-Cholent-Finished.jpg?resize=150%2C150&ssl=1)	
 
 		
 

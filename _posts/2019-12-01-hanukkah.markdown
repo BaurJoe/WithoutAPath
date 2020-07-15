@@ -4,7 +4,7 @@ categories:
 - Essays
 ---
 
-![](https://i1.wp.com/withoutapath.com/wp-content/uploads/2019/12/Hanukkah-Menorah-element5-digital-UD1Y-kE-4RQ-unsplash.jpg?fit=1024%2C678&ssl=1)Photo by [Element5 Digital](https://unsplash.com/@element5digital?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/menorah?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![](https://i1.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/12/Hanukkah-Menorah-element5-digital-UD1Y-kE-4RQ-unsplash.jpg?fit=1024%2C678&ssl=1)Photo by [Element5 Digital](https://unsplash.com/@element5digital?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/menorah?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Hanukkah is that Jewish Christmas with the candles on the menorah, commemorating a time when some oil lasted for eight days. And Adam Sandler has a song about it._
 

@@ -4,7 +4,7 @@ permalink: /talking-tico-costa-rica-travel-book-trashed/
 published: false
 ---
 
-![Talking-Tico-Misadventures-of-a-Gringo-in-and-Around-Costa-Rica-Book-Cover-Joe-Baur](https://joebaur.com/wp-content/uploads/2015/12/Talking-Tico-Misadventures-of-a-Gringo-in-and-Around-Costa-Rica-Book-Cover-Joe-Baur.jpg){: .img-fluid}
+![Talking-Tico-Misadventures-of-a-Gringo-in-and-Around-Costa-Rica-Book-Cover-Joe-Baur](https://joebaur.com/wp-content/uploads/assets/img/2015/12/Talking-Tico-Misadventures-of-a-Gringo-in-and-Around-Costa-Rica-Book-Cover-Joe-Baur.jpg){: .img-fluid}
 
 ## A Costa Rica Travel Book
 

@@ -14,9 +14,9 @@ _**Editor's Note:** The following is an excerpt from "[Talking Tico](https://jo
 
     I should clarify that not all of Costa Rica’s species are all that exciting. Most think of the various monkeys, whales, and reptilian predators when hearing the word “species,” but it’s a term that accounts for just about everything—700 species of trees, more than 365 species of birds (you’ll find your endemic crowd here), 117 reptiles, and here’s where some may need a wastebasket—over 10,000 species of insects.
 
-    Not all that sexy, I grant you, but biodiversity accounts for all living things from microorganisms to their ecosystems. In this crazy circle of life, the less exciting trees and nightmarish insects make the more attractive elements of life possible. In other words, you don’t get that cute picture of the monkey without everything else coming together just right. And that’s why people have been, in increasingly greater numbers, finding their way to the southwestern peninsula several hours drive or bus from San Jose.
+    Not all that sexy, I grant you, but biodiversity accounts for all living things from microorganisms to their ecosystems. In this crazy circle of life, the less exciting trees and nightmarish insects make the more attractive elements of life possible. In other words, you don’t get that cute picture of the monkey without everything else coming together just right. And that’s why people have been, in increasingly greater numbers, finding their way to the southwestern peninsula several hours drive or bus from San José.
 
-    Melanie and I, however, found our way to Osa using a combination of bus and car. Helen and Patrick landed in San Jose, rented a car, and went directly to Manuel Antonio. We offered to catch up, because we didn’t necessarily feel like we needed another overnight at Manuel Antonio.
+    Melanie and I, however, found our way to Osa using a combination of bus and car. Helen and Patrick landed in San José, rented a car, and went directly to Manuel Antonio. We offered to catch up, because we didn’t necessarily feel like we needed another overnight at Manuel Antonio.
 
     Since we just visited two months prior, the return to Manuel Antonio was my first time traveling in years where I didn’t feel the incessant need to constantly click away on my camera and turn the trip into work.
 

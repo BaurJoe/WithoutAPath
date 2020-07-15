@@ -21,7 +21,7 @@ After living in [Costa Rica and traveling around Central America](https://joebau
 
 [caption id="attachment_1840" align="aligncenter" width="672"][![The heart of Tres Marías, arguably Peru's finest pisco sour.]({{ site.url }}/assets/img/2015/05/Tres-Marias-Pisco-Peru-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Tres-Marias-Pisco-Peru-JoeBaur.jpg){: .img-fluid} The heart of Tres Marías, arguably Peru's finest pisco sour.[/caption]
 
-[caption id="attachment_1837" align="aligncenter" width="672"][![Christian from Peru RoadTrip happy to be right where he is in Tres Marías.](/wp-content/uploads/2015/05/_d_improd_/Peru-RoadTrip-JoeBaur-1024x683_f_improf_672x448.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Peru-RoadTrip-JoeBaur.jpg){: .img-fluid} Christian from [Peru RoadTrip](http://peruroadtrip.com/) happy to be right where he is in Tres Marías.[/caption]
+[caption id="attachment_1837" align="aligncenter" width="672"][![Christian from Peru RoadTrip happy to be right where he is in Tres Marías.]({{ site.url }}/assets/img/2015/05/_d_improd_/Peru-RoadTrip-JoeBaur-1024x683_f_improf_672x448.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Peru-RoadTrip-JoeBaur.jpg){: .img-fluid} Christian from [Peru RoadTrip](http://peruroadtrip.com/) happy to be right where he is in Tres Marías.[/caption]
 
 [caption id="attachment_1844" align="aligncenter" width="672"][![The countryside of southern Peru.]({{ site.url }}/assets/img/2015/05/Peru-Countryside-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/05/Peru-Countryside-JoeBaur.jpg){: .img-fluid} The countryside of southern Peru.[/caption]
 

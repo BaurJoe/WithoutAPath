@@ -7,7 +7,6 @@ categories:
 featured: true
 ---
 
-![Acropolis Athens Greece]({{ site.url }}/assets/img/2020/06/IMG_1073.jpg){: .img-fluid}
 
 There's something inherently special about eating in Athens that I can't quite put my finger on or find the words to describe. But I think of tucking into a piping hot bite of moussaka in a clay pot with the Acropolis lit up like a movie star ahead of me. This scene, this blend of ancient human history with classic Greek cuisine is objectively extraordinary.
 
@@ -23,7 +22,7 @@ Some of that is true but it doesn't make up for how wrong I was.
 
 Contemporary Athens is a baby of a city when compared to its European brethren. It's only in relatively recent history that the population of the Greek capital exploded to what it is today, expanding far beyond the Acropolis. As recent as 1833, the population was just around 4,000. To put that in perspective, Rome around the same period was just under 200,000.
 
-So no, you don't get the kind of aesthetic you might imagine from Italy, France or Spain. In fact, much of Athens reminds me of San Jose, Costa Rica or bombed out corners of Berlin where buildings were hastily built up to meet demand. They didn't have the luxury of time or budgets to pay attention to whether or not the face or railing were inspiring or whatever.
+So no, you don't get the kind of aesthetic you might imagine from Italy, France or Spain. In fact, much of Athens reminds me of San José, Costa Rica or bombed out corners of Berlin where buildings were hastily built up to meet demand. They didn't have the luxury of time or budgets to pay attention to whether or not the face or railing were inspiring or whatever.
 
 But none of that particularly mattered to me. At least, not as much as it usually would. Because when you're in the center of such monumental history, you don't need a plaque to remind you. You feel it. And in Athens, it's strongly encouraged that you go ahead and taste it as well.
 

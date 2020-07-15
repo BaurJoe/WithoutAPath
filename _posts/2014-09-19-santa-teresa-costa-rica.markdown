@@ -11,7 +11,7 @@ The decision to travel to Santa Teresa, Costa Rica was a last minute one. We kne
 
 Decision made.<!-- more -->
 
-We joined 12 others for an early morning shuttle from Ciudad Colon to Puntarenas. The drive was like any other along a national highway system. Cool, early-morning weather was afoot. The rain came just as we approached Puntarenas and was steady as we parted ways with our shuttle for the ferry.
+We joined 12 others for an early morning shuttle from Ciudad Colón to Puntarenas. The drive was like any other along a national highway system. Cool, early-morning weather was afoot. The rain came just as we approached Puntarenas and was steady as we parted ways with our shuttle for the ferry.
 
 On board we found seats along the side of the ferry, looking out onto the Pacific Ocean. Just as we set off, a group of schoolchildren came running along the coast, meeting with a small fisherman's boat at the rocky coast. A few kids were escorted onto the boat and suddenly there was raucous applause. Something to do with the next day's independence celebrations, we guessed.
 

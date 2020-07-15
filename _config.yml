@@ -72,8 +72,14 @@ cloudinary:
 
 # jekyll-feed
 feed:
-  path: atom.xml
-  excerpt_only: true
+  excerpt_only: false
+  posts_limit: 20
+
+#albolia search 
+algolia:
+  application_id: 1234
+  index_name: 1234
+  search_only_api_key: 1234
 
 include:
  - _pages

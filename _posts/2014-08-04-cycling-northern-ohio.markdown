@@ -17,7 +17,7 @@ In order to avoid simply repeating the entire route back, I threw in a little lo
 
 Riding along Lake Erie is filled with plenty of bright greens, especially on a summer day that seemed handcrafted by the powers that be for cycling. Houses are naturally charming considering the prime lakeside real estate, but sometimes overly massive. At least they weren't the cookie cutter nonsense you'll find more inland within some God awful suburban housing complex named something along the lines of, "Flowery Waves."
 
-[caption id="" align="alignright" width="300"]![Lorain Bridge - JoeBaur](/wp-content/uploads/2014/08/_d_improd_/Lorain-Bridge-JoeBaur-300x168_f_improf_300x168.png) Lift bridge heading west into downtown Lorain[/caption]
+[caption id="" align="alignright" width="300"]![Lorain Bridge - JoeBaur]({{ site.url }}/assets/img/2014/08/_d_improd_/Lorain-Bridge-JoeBaur-300x168_f_improf_300x168.png) Lift bridge heading west into downtown Lorain[/caption]
 
 We reached the city of Lorain just under 20 miles into our ride. The view was underwhelming, especially
 after crossing a promising, scenic lift bridge with views of the Black River, boats and Lake Erie. This didn't seem to be much of a downtown, so we continued on without much hesitation toward Vermilion, myself thinking that we would perhaps see more during our return from the south.

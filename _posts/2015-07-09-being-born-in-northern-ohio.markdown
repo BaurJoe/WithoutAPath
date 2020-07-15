@@ -5,7 +5,7 @@ categories:
 - Travel
 ---
 
-[![Cycling the Remains of Northern Ohio Towns - JoeBaur](/wp-content/uploads/2014/08/_d_improd_/Cycling-the-Remains-of-Northern-Ohio-Towns-JoeBaur-1024x575_f_improf_672x377.png)]({{ site.url }}/assets/img/2014/08/Cycling-the-Remains-of-Northern-Ohio-Towns-JoeBaur.png)
+[![Cycling the Remains of Northern Ohio Towns - JoeBaur]({{ site.url }}/assets/img/2014/08/_d_improd_/Cycling-the-Remains-of-Northern-Ohio-Towns-JoeBaur-1024x575_f_improf_672x377.png)]({{ site.url }}/assets/img/2014/08/Cycling-the-Remains-of-Northern-Ohio-Towns-JoeBaur.png)
 
 ## You have to explain that Ohio isn’t West Virginia.
 

@@ -1,5 +1,5 @@
 ---
-title: Khristós Anésti, Lamb's Head, and the Beginning of Pascha
+title: Khristós Anesti, Lamb's Head, and the Beginning of Pascha
 categories:
 - Travel
 ---

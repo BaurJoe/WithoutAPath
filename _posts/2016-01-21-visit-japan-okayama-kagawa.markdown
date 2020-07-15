@@ -31,7 +31,7 @@ The cameras did, however, wait outside as we were ushered into a small, wooden b
 
 The four of us sat over red carpet as green tea was served to us in an official Japanese tea ceremony. Zen Buddhism was an early influence of the ceremony in which drinking is turned into an art form involving slight twists and turns of the cup. If nothing else, drinking (and later eating) in the Japanese style taught me to slow down and enjoy the moment as opposed to my typical ravenous style. Speaking of food, it was time for my first meal at nearby Arate Saryo. I had a difficult time keeping up with the names of everything we were eating, but suffice it to say Japanese cuisine more than lived up to its hype.
 
-[![Kurashiki Japan - JoeBaur](/wp-content/uploads/2015/11/_d_improd_/Kurashiki-Japan-JoeBaur-1024x683_f_improf_672x448.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/11/Kurashiki-Japan-JoeBaur.jpg){: .img-fluid}
+[![Kurashiki Japan - JoeBaur]({{ site.url }}/assets/img/2015/11/_d_improd_/Kurashiki-Japan-JoeBaur-1024x683_f_improf_672x448.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/11/Kurashiki-Japan-JoeBaur.jpg){: .img-fluid}
 
 The evening ended with a stroll through Kurashiki. As trite as it is to say, it did strike me as having appeared out of nowhere. Moments before we were moving along relatively drab city streets that appeared to have sacrificed character for getting modern buildings up. Then, we were at the entrance of Kurashiki's main thoroughfare. And to my great joy, it was pedestrians only.
 

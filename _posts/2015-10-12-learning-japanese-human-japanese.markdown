@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![I THINK I'M LEARNING JAPANESE - JoeBaur](/wp-content/uploads/2015/10/_d_improd_/I-THINK-IM-LEARNING-JAPANESE-JoeBaur-1024x768_f_improf_672x504.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/10/I-THINK-IM-LEARNING-JAPANESE-JoeBaur.jpg){: .img-fluid}
+[![I THINK I'M LEARNING JAPANESE - JoeBaur]({{ site.url }}/assets/img/2015/10/_d_improd_/I-THINK-IM-LEARNING-JAPANESE-JoeBaur-1024x768_f_improf_672x504.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/10/I-THINK-IM-LEARNING-JAPANESE-JoeBaur.jpg){: .img-fluid}
 
 _I think I'm learning Japanese, I think I'm learning Japanese, I really think so!*_
 

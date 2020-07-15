@@ -46,7 +46,7 @@ Walk down Rua das Portas de Santo Antão and step into this gorgeous building wi
 
 ## Get a City View at Miradouro da Nossa Senhora do Monte
 
-![](https://i0.wp.com/withoutapath.com/wp-content/uploads/2019/04/Miradouro-da-Nossa-Senhora-do-Monte-Largo-Monte-in-Lisbon-Portugal.jpg?fit=1024%2C768&ssl=1)
+![](https://i0.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/04/Miradouro-da-Nossa-Senhora-do-Monte-Largo-Monte-in-Lisbon-Portugal.jpg?fit=1024%2C768&ssl=1)
 
 We Hate Tourism Tours starts their responsible walking tour at this viewpoint. Warning: It's a hell of a walk getting up tot his spot if you're starting closer to the city center. But all that climbing does get you above the city and offers you a pretty damn fine view in a quieter corner of Lisbon.
 
@@ -58,7 +58,7 @@ Alfama is the neighborhood at the top of anyone's Lisbon itinerary. But like [Ve
 
 ## Eat All The _Pastéis de Nata_
 
-![](https://i2.wp.com/withoutapath.com/wp-content/uploads/2019/04/Pastel-de-Nata-felix-kolthoff-1380326-unsplash.jpg?fit=1024%2C682&ssl=1)Photo by [Felix Kolthoff](https://unsplash.com/photos/oTGyZevCqtY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/pastel-de-nata?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![](https://i2.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/04/Pastel-de-Nata-felix-kolthoff-1380326-unsplash.jpg?fit=1024%2C682&ssl=1)Photo by [Felix Kolthoff](https://unsplash.com/photos/oTGyZevCqtY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/pastel-de-nata?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 Pastel de nata (_pastéis _for the plural) is a custard treat that's all the rage these days and has in many ways become the brand of Portugal. The story goes that Catholic monks at the Jerónimos Monastery first made them in the Belém neighborhood of Lisbon, sometime before the 18th century.
 
@@ -66,7 +66,7 @@ I couldn't help but notice that the bus I was taking to the Lx Factory was full 
 
 ## Drink Portuguese Craft Beer
 
-![](https://i0.wp.com/withoutapath.com/wp-content/uploads/2019/04/Cerveteca-Lisboa-Craft-Beer.jpg?fit=1024%2C768&ssl=1)Cerveteca Lisboa
+![](https://i0.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/04/Cerveteca-Lisboa-Craft-Beer.jpg?fit=1024%2C768&ssl=1)Cerveteca Lisboa
 
 Search "craft beer" over Lisbon and you'll find a number of options. In my limited time there, I ended up at Cerveja Canil and Cerveteca Lisboa. Both have a nice offering of booze with slightly different vibes. At Canil, I had their Russian Imperial Stout while watching their run of old Pearl Jam and Foo Fighters videos. 
 
@@ -100,7 +100,7 @@ Like I said, I also ate at some traditional joints around town with the We Hate 
 
 ## Watch Live Fado Music
 
-![](https://i2.wp.com/withoutapath.com/wp-content/uploads/2019/04/Fado-1-Visit-Lisboa.jpg?fit=1024%2C682&ssl=1)Photo courtesy of Visit Lisboa
+![](https://i2.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/04/Fado-1-Visit-Lisboa.jpg?fit=1024%2C682&ssl=1)Photo courtesy of Visit Lisboa
 
 Gonzi, my We Hate Tourism Tours guide, suggested just walking around Alfama and listening for Fado music coming out of a restaurant instead of playing to attend a theater performance. For the record, both are an option. If you prefer planning, you can find plenty of places, especially in Alfama, offering up scheduled Fado performance for which you can buy tickets. 
 

@@ -32,11 +32,17 @@ layout: default
 
         <article class="entry entry-single">
 
+          {% if page.image %}
+          <div class="entry-img">
+            <img src="{{ site.url }}{{ page.image }}" alt="{{ page.title }}" class="img-fluid">
+          </div>
+          {% endif %}
+
           <h2 class="entry-title">{{ page.title | capitalize }}</h2>
 
           <div class="entry-meta">
             <ul>
-              <li class="d-flex align-items-center"><i class="icofont-user"></i> {% assign author = site.authors | where: 'short_name', page.author | first %}{{ author.name | camelcase }}</li>
+              <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="{{ site.url }}/about/">{% assign author = site.authors | where: 'short_name', page.author | first %}{{ author.name | camelcase }}</a></li>
               <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <time datetime="{{ page.date | date:"%B %e, %Y" }}">{{ page.date | date:"%B %e, %Y" }}</time></li>
               <li class="d-flex align-items-center"><i class="icofont-comment"></i> <a href="{{ page.url }}#disqus_thread">0 Comments</a></li>
             </ul>
@@ -50,7 +56,7 @@ layout: default
               <ul class="cats">
                 {% assign sortedCategories = page.categories %}
                 {% for category in sortedCategories limit:1 %}
-                <li><a href="{{ site.url }}/category/">{{ category | capitalize }}</a></li>
+                <li><a href="{{ site.url }}/category/{{ category | slugify }}/">{{ category | camelcase }}</a></li>
                 {% endfor %}
               </ul>
 
@@ -58,15 +64,14 @@ layout: default
               <ul class="tags">
                 {% assign sortedTags = page.tags %}
                 {% for tag in sortedTags limit:5 %}
-                <li><a href="{{ site.url }}/category/">{{ tag | capitalize }}</a></li>
+                <li><a href="{{ site.url }}/tag/{{ tag | slugify }}/">{{ tag | camelcase }}</a></li>
                 {% endfor %}
               </ul>
             </div>
 
             <div class="float-right share">
-              <a href="https://twitter.com/intent/tweet?text=Hello%20world" class ="twitter-share-button" title="Share on Twitter"><i class="icofont-twitter"></i></a>
-              <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}&amp;src=sdkpreparse" title="Share on Facebook"><i class="icofont-facebook"></i></a>
-              <a href="" title="Share on Instagram"><i class="icofont-instagram"></i></a>
+              <a href="https://twitter.com/intent/tweet?text=I just read '{{ page.title | cgi_escape }}' on {{ site.title }}. Check it out: {{ site.url }}{{ page.url }}" title="Share on Twitter"><i class="icofont-twitter"></i></a>
+              <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&amp;src=sdkpreparse" title="Share on Facebook"><i class="icofont-facebook"></i></a>
             </div>
 
           </div>

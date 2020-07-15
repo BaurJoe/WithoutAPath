@@ -5,7 +5,7 @@ categories:
 homepage: false
 ---
 
-![](https://i2.wp.com/withoutapath.com/wp-content/uploads/2020/04/bruce-mars-Q_iJuyRdy4c-unsplash-scaled.jpg?fit=1024%2C683&ssl=1)Photo by [bruce mars](https://unsplash.com/@brucemars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bath?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![](https://i2.wp.com/withoutapath.com{{ site.url }}/assets/img/2020/04/bruce-mars-Q_iJuyRdy4c-unsplash-scaled.jpg?fit=1024%2C683&ssl=1)Photo by [bruce mars](https://unsplash.com/@brucemars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bath?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Tazria-Metzora, Leviticus 12:1 – 15:33. [Click here to read the previous Parsha, Parsha Shemini](https://withoutapath.com/parsha-tzav/)[.](https://withoutapath.com/parsha-shemini/)_
 

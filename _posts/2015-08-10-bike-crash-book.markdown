@@ -4,7 +4,7 @@ categories:
 - Travel
 ---
 
-[![Before Surgery - JoeBaur](/wp-content/uploads/2015/08/_d_improd_/Before-Surgery-JoeBaur-e1439217372708-1024x884_f_improf_672x580.jpeg)]({{ site.url }}/assets/img/2015/08/Before-Surgery-JoeBaur-e1439217372708.jpeg)
+[![Before Surgery - JoeBaur]({{ site.url }}/assets/img/2015/08/_d_improd_/Before-Surgery-JoeBaur-e1439217372708-1024x884_f_improf_672x580.jpeg)]({{ site.url }}/assets/img/2015/08/Before-Surgery-JoeBaur-e1439217372708.jpeg)
 
 _Update 2017: Best Outdoor Adventures Near Minneapolis and Saint Paul [is now available](http://a.co/0P7T0S2)._
 

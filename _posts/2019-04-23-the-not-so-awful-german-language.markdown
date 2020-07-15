@@ -5,7 +5,7 @@ categories:
 - There Must Be Order
 ---
 
-![](https://i1.wp.com/withoutapath.com/wp-content/uploads/2019/04/Mark-Twain-Pixabay.jpg?fit=1024%2C677&ssl=1)_Image courtesy of [Pixabay](https://pixabay.com/photos/mark-twain-vintage-author-humorist-391120/)_
+![](https://i1.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/04/Mark-Twain-Pixabay.jpg?fit=1024%2C677&ssl=1)_Image courtesy of [Pixabay](https://pixabay.com/photos/mark-twain-vintage-author-humorist-391120/)_
 
 _The following is a chapter from an upcoming memoir on moving to and living in Germany. [Read more here](https://withoutapath.com/category/essays/there-must-be-order/)._  
 

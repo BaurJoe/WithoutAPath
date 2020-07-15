@@ -13,7 +13,7 @@ I left for Monteverde via a shuttle pickup from a chain hotel off the highway in
 
     Our driver did share one concern — carretera 606. The winding, northerly road that connects the Central Valley and coastal Puntarenas to elevated Monteverde had been under construction. If we arrived at the wrong time, we’d be stopped and have to wait as one-way traffic passed us by.
 
-    We lucked out on any road delays thanks to some heavy rain that reminded me of the so-called _green season_ back home in Ciudad Colon. Nobody wanted to be working in that mess. But as we approached the final few kilometers to Monteverde, mud started to cover the road where construction workers had taken over the rare piece of flat land to keep unused equipment. Our driver paused as he observed the road ahead. A hole separated us from our final stretch into Monteverde.
+    We lucked out on any road delays thanks to some heavy rain that reminded me of the so-called _green season_ back home in Ciudad Colón. Nobody wanted to be working in that mess. But as we approached the final few kilometers to Monteverde, mud started to cover the road where construction workers had taken over the rare piece of flat land to keep unused equipment. Our driver paused as he observed the road ahead. A hole separated us from our final stretch into Monteverde.
 
 [![Monteverde Costa Rica - JoeBaur]({{ site.url }}/assets/img/2015/07/Monteverde-Costa-Rica-JoeBaur.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/07/Monteverde-Costa-Rica-JoeBaur.jpg){: .img-fluid}
 

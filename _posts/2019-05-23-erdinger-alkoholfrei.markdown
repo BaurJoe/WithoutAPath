@@ -36,7 +36,7 @@ First of all, I struggle to understand the purpose of alcohol-free beer. Is it l
 
 But why is this a thing _before_ the race? If it's about the carbs, I don't think it scientifically checks out that an alcohol-free beer can give you a carb-boast minutes before running a 10K. I can't recall ever seeing men or women line up in Boston, savoring that last drop of alcohol-free Sam Adams before the gun goes off. Maybe Klaus is on to something, but I doubt it.
 
-![](https://i1.wp.com/withoutapath.com/wp-content/uploads/2019/05/Duesseldorf-Brueckenlauf.jpg?fit=1024%2C446&ssl=1)The bridge run goes over, well, bridges.
+![](https://i1.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/05/Duesseldorf-Brueckenlauf.jpg?fit=1024%2C446&ssl=1)The bridge run goes over, well, bridges.
 
 I put the Alkoholfrei nonsense out of my mind for the duration of my run, which for posterity, [I completed in](https://www.strava.com/activities/954367044) 44:48, running at a 4:26/km pace. I remember feeling pleased with myself, because I hadn't been really training for anything, so the decent time gave me that, "Hey, you still got it" feeling where you wink to yourself in the mirror, momentarily feeling good about yourself until the next breaking news alert comes through your phone.
 

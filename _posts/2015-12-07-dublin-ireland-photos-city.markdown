@@ -15,7 +15,7 @@ I was in [Ireland](https://withoutapath.com/category/travel/international/europe
 
 Looking down off Grafton Street in Dublin.
 
-[![Mickey Monroe Dublin - JoeBaur](/wp-content/uploads/2015/09/_d_improd_/Mickey-Monroe-Dublin-JoeBaur-1024x683_f_improf_672x448.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/09/Mickey-Monroe-Dublin-JoeBaur.jpg){: .img-fluid}
+[![Mickey Monroe Dublin - JoeBaur]({{ site.url }}/assets/img/2015/09/_d_improd_/Mickey-Monroe-Dublin-JoeBaur-1024x683_f_improf_672x448.jpg){: .img-fluid}]({{ site.url }}/assets/img/2015/09/Mickey-Monroe-Dublin-JoeBaur.jpg){: .img-fluid}
 
 Mickey and Marilyn Monroe morph into one.
 

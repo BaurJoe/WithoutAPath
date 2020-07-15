@@ -4,7 +4,7 @@ categories:
 - Europe
 ---
 
-![Visit Auschwitz train tracks](https://i2.wp.com/withoutapath.com/wp-content/uploads/2019/04/Visit-Auschwitz-filippo-bonadiman-1387216-unsplash.jpg?fit=1024%2C678&ssl=1)Photo by [Filippo Bonadiman](https://unsplash.com/photos/FGnNunrxH3M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![Visit Auschwitz train tracks](https://i2.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/04/Visit-Auschwitz-filippo-bonadiman-1387216-unsplash.jpg?fit=1024%2C678&ssl=1)Photo by [Filippo Bonadiman](https://unsplash.com/photos/FGnNunrxH3M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 [I visited Auschwitz in March of 2019](https://withoutapath.com/auschwitz-instagram/) and was surprised to see just how many people had made the trip. Later I did a little research and found that over two million tourists visited in 2018, a record for the memorial and museum. I was fortunate to find out early on that visiting Auschwitz takes a bit of planning if you're doing it without a travel service and don't want to stress out about the details at the last minute. 
 

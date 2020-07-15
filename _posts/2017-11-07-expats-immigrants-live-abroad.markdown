@@ -8,7 +8,7 @@ categories:
 
 ### Managing Editor at The Tico Times and Author of _Love In Translation: Letters To My Costa Rican Daughter_
 
-Katherine Stanley Obando used to be my boss. We met over three years ago in [San Jose, Costa Rica](https://withoutapath.com/carpe-chepe-costa-rica/) when I was looking for an opportunity to [write at The Tico Times](http://www.ticotimes.net/2014/11/13/4-ways-san-jose-excels-in-urbanism-no-thats-not-a-typo), Central America's largest English-speaking publication. She grew up mostly in New Hampshire, taught in Arizona with Teach For America, and followed that up in 2004 with a move to Costa Rica where she's worked in journalism and the public and non-profit sectors.
+Katherine Stanley Obando used to be my boss. We met over three years ago in [San José, Costa Rica](https://withoutapath.com/carpe-chepe-costa-rica/) when I was looking for an opportunity to [write at The Tico Times](http://www.ticotimes.net/2014/11/13/4-ways-san-jose-excels-in-urbanism-no-thats-not-a-typo), Central America's largest English-speaking publication. She grew up mostly in New Hampshire, taught in Arizona with Teach For America, and followed that up in 2004 with a move to Costa Rica where she's worked in journalism and the public and non-profit sectors.
 
 Katherine joins [Without A Path](https://itunes.apple.com/us/podcast/without-a-path/id1037475413?l=es&mt=2) to talk about what's kept her in Costa Rica, her thoughts on the debate between who gets to be called an "expat" versus an immigrant, and why Americans should travel or live abroad.
 

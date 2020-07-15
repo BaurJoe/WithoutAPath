@@ -15,7 +15,7 @@ Cuando pienso en mi tiempo viviendo en Costa Rica, pienso primero en el aire. Hu
 
 ![]({{ site.url }}/assets/img/2017/05/Ciudad-Colon-Farmers-Market-JoeBaur.jpg){: .img-fluid}
 
-El pueblito Ciudad Colon también fue fantástico. Siempre voy a preferir vivir en una ciudad, pero ya no puedo esperar a pasar una semana de vacaciones en el hotel, justo una cuadra arriba de la calle desde vivimos. Igualmente, no puedo esperar a visitar a nuestra mamá y nuestro padre Ticos, quien han dado bienvenida a los extranjeros en su propiedad por muchos años.
+El pueblito Ciudad Colón también fue fantástico. Siempre voy a preferir vivir en una ciudad, pero ya no puedo esperar a pasar una semana de vacaciones en el hotel, justo una cuadra arriba de la calle desde vivimos. Igualmente, no puedo esperar a visitar a nuestra mamá y nuestro padre Ticos, quien han dado bienvenida a los extranjeros en su propiedad por muchos años.
 
 Ellos estaban siempre dispuesto a ayudarnos con cualquier cosa y nos invitaron muchos veces a su casa para tomar cerveza y pasar tiempo con la familia. Nunca voy a olvidar que veíamos un partido de fútbol americano con ellos y mis suegros de visita, mi papá Tico mirando cerca a la pantalla, tratando con todos de sus esfuerzos entender el deporte. Después de que ha pasado como una hora, él decía, "No entiendo." Bueno, fue más chistoso en el momento que ahora, supongo.
 

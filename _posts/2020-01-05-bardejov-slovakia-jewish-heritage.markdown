@@ -119,7 +119,7 @@ That's when I stopped asking questions. I usually try to allow for something to 
 
 ![View of Roma Settlement from Afar]({{ site.url }}/assets/img/2020/01/View-of-Roma-Settlement-from-Afar.jpg){: .img-fluid}Looking back at the Roma settlement near the trail to a hidden Jewish cemetery
 
-The scene was unexpected for me. Trash and plastic bottles were strewn about the makeshift homes and dirt paths leading to the road. It reminded me of a slum I visited with a local non-profit in San Jose, Costa Rica. But instead of challenging the system that would allow for such poverty, Mark seemed content to lay the blame entirely at the feet of these Roma folks. 
+The scene was unexpected for me. Trash and plastic bottles were strewn about the makeshift homes and dirt paths leading to the road. It reminded me of a slum I visited with a local non-profit in San José, Costa Rica. But instead of challenging the system that would allow for such poverty, Mark seemed content to lay the blame entirely at the feet of these Roma folks. 
 
 In that respect, it actually isn’t unlike when your suburban born-and-raised relative’s only experience with people of color in the United States is driving through their neighbors on highways. They see a disheveled house and assume they did something wrong. “Why don’t they fix up their house?” they’ll ask, condescendingly in the same breath as, “Why don’t they just get a better job?” as if either of these things is ripe for the picking.
 
