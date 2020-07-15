@@ -26,10 +26,10 @@ jobs:
     - name: FTP Deploy
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        ftp-server: sftp://domain.com/home/user/html_public/
-        ftp-username: dh_tq72ky
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
-        known-hosts: domain.com ssh-rsa ${{ secrets.SSH_KNOWN }} 
+        ftp-server: ftp.withoutapath.com
+        ftp-username: info@withoutapath.com
+        ftp-password: p6L6<}?MAz\:mWXn
+        known-hosts: 
       env:
         GIT_TRACE: 1
         GIT_CURL_VERBOSE: 1
