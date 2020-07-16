@@ -13,9 +13,9 @@ permalink: /search/
       <span class="post-meta">{{ post.date | date: date_format }}</span>
 
       <h2>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <a class="post-link" href="{{ site.url }}{{ post.url }}">{{ post.title | escape }}</a>
       </h2>
-      <div class="post-snippet">{{ post.excerpt }}</div>
+      <div class="post-snippet">{{ post.excerpt | strip_html }}</div>
     </div>
   {% endfor %}
 </div>

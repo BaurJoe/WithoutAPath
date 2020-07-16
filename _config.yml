@@ -26,7 +26,7 @@ twitter:
   username: BaurJoe
   card: summary_large_image
 facebook:
-  app_id: 1234
+  app_id: 724033991719152
   publisher: 1234
   admins: 1234
 social:
@@ -77,9 +77,9 @@ feed:
 
 #albolia search 
 algolia:
-  application_id: 1234
-  index_name: 1234
-  search_only_api_key: 1234
+  application_id: SI1WCX3GH6
+  index_name: Without A Path
+  search_only_api_key: 98f196107753a99f5f29dc5f64aa0c94
 
 include:
  - _pages
