@@ -3,18 +3,19 @@
 
   <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
+    <!-- 
     <ol class="carousel-indicators" id="hero-carousel-indicators">
-      {% for post in site.posts %}
-      {% if post.featured %}
-      <li data-target="#heroCarousel" data-slide-to="{% if forloop.first %}0{% else%}{{ forloop.index0 }}{% endif %}"{% if forloop.first %} class="active"{% endif %}></li>
-      {% endif %}
+      {% assign filtered_posts = site.posts | where: 'featured', 'true' %}
+      {% for post in filtered_posts %}
+      <li data-target="#heroCarousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
       {% endfor %}
     </ol>
+    -->
 
     <div class="carousel-inner" role="listbox">
-      {% for post in site.posts %}
-      {% if post.featured %}
-      <div class="carousel-item{% if forloop.first %} active{% endif %}" style="background-image: url({{ site.url }}/{{ post.image }})">
+      {% assign filtered_posts = site.posts | where: 'featured', 'true' %}
+      {% for post in filtered_posts %}
+       <div class="carousel-item{% if forloop.first %} active{% endif %}" style="background-image: url({{ site.url }}/{{ post.image }})">
         <div class="carousel-container">
           <div class="container">
             <h2 class="animate__animated animate__fadeInDown">{{ post.title }}</h2>
@@ -23,7 +24,6 @@
           </div>
         </div>
       </div>
-      {% endif %}
       {% endfor %}
     </div>
 
