@@ -2,10 +2,10 @@
 title: Parsha Vaera | God, The Vindictive Magician
 categories:
 - Essays
+image: /assets/img/2020/01/Parsha-Vaera-jack-hamilton-EP_OHkgn1JI-unsplash.jpg
 homepage: false
 ---
 
-![Parsha Vaera]({{ site.url }}/assets/img/2020/01/Parsha-Vaera-jack-hamilton-EP_OHkgn1JI-unsplash.jpg){: .img-fluid}Photo by [Jack Hamilton](https://unsplash.com/@jacc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/frog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Vaera, Exodus 6:2 – 9:35. [Click here to read last week’s, Parsha Shemot.](https://withoutapath.com/parsha-shemot/)_
 

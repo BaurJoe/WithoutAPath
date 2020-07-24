@@ -2,10 +2,10 @@
 title: Parsha Shemot | Moses and the Burning Bush
 categories:
 - Essays
+image: /assets/img/2020/01/simon-matzinger-boyXZfqpwpU-unsplash.jpg
 homepage: false
 ---
 
-![]({{ site.url }}/assets/img/2020/01/simon-matzinger-boyXZfqpwpU-unsplash.jpg){: .img-fluid}Photo by [Simon Matzinger](https://unsplash.com/@8moments?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/egypt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Shemot, Exodus 1:1 – 6:1. [Click here to read last week’s, Parsha Vayechi.](https://withoutapath.com/parsha-vayechi/)_
 

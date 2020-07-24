@@ -2,7 +2,9 @@
 title: 18 Things to Do in Düsseldorf From a Local
 categories:
 - Europe
+image: /assets/img/2017/09/Düsseldorf-Germany-Rathaus.jpeg
 ---
+
 
 This list of 18 things to do in Düsseldorf was compiled to give travelers like yourself an easy, digestible overview of what unique and popular sights you can find across the city I've been fortunate enough to call home. To go more in-depth on traveling in Germany, check out my list of [things to do in Germany](https://withoutapath.com/things-to-do-in-germany/) and the [off the beaten path guide](https://withoutapath.com/travel-guides/germany/). If you’re interested in something more literary, [you can read a few chapters](https://withoutapath.com/category/essays/there-must-be-order/) from my upcoming book on moving to and living in Germany. Have more questions about traveling to Germany? [Contact me](mailto:joe@joebaur.com) to set up a consultation.
 

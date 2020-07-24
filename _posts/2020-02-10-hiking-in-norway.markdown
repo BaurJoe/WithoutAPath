@@ -3,9 +3,9 @@ title: 'Hiking in Norway: Something to Keep in Mind'
 categories:
 - Europe
 - Outdoors
+image: /assets/img/2020/02/Haukeli-Norway-Hike.jpg
 ---
 
-![Haukeli Norway Hike]({{ site.url }}/assets/img/2020/02/Haukeli-Norway-Hike.jpg){: .img-fluid}
 
 You go to [France](https://withoutapath.com/marseille-travel-guide/) for the food and wine, you go to Norway for the hiking. Thems just the facts.
 

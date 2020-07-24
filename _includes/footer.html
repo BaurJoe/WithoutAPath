@@ -6,51 +6,55 @@
 
         <div class="col-lg-3 col-md-6">
           <div class="footer-info">
-            <h3>Without A Path</h3>
-            <p>
-              A108 Adam Street <br>
-              NY 535022, USA<br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> joe@joebaur.com<br>
+            <h3>{{ site.title }}</h3>
+            <p>{% if site.address %}{{ site.address }}<br><br>{% endif %}
+              {% if site.phone %}<strong>Phone:</strong> {{ site.phone }}<br>{% endif %}
+              {% if site.email %}<strong>Email:</strong> {{ site.email }}<br>{% endif %}
             </p>
             <div class="social-links mt-3">
-              <a href="https://twitter.com/BaurJoe" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="https://www.facebook.com/BaurJoe" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="https://instagram.com/BaurJoe" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="http://www.youtube.com/user/MildlyRelevant/" class="youtube"><i class="bx bxl-youtube"></i></a>
-              <a href="http://soundcloud.com/without-a-path" class="soundcloud"><i class="bx bxl-soundcloud"></i></a>
+              {% include social-buttons.html %}
             </div>
           </div>
         </div>
 
         <div class="col-lg-2 col-md-6 footer-links">
-          <h4>Top Pages</h4>
+          <h4>Top Topics</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Travel</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Outdoors</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Podcast</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Talking Tico</a></li>
+          {% assign sortedTags = site.tags %}  
+            {% if sortedTags.first[0] == null %}
+              {% for tag in sortedTags limit:5 %} 
+                <li><i class="bx bx-chevron-right"></i> <a href="{{ site.url }}/tag/{{ tag | slugify }}/">{{ tag | camelcase }}</a></li>
+              {% endfor %}
+            {% else %}
+              {% for tag in sortedTags limit:5 %} 
+                <li><i class="bx bx-chevron-right"></i> <a href="{{ site.url }}/tag/{{ tag[0] | slugify }}/">{{ tag[0] | camelcase }}</a></li>
+              {% endfor %}
+            {% endif %}
+          {% assign sortedTags = nil %}
           </ul>
         </div>
 
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Top Categories</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">North America</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Asia</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Germany</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Caribbean</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Europe</a></li>
+          {% assign sortedCategories = site.categories %}  
+            {% if sortedCategories.first[0] == null %}
+              {% for category in sortedCategories limit:5 %} 
+                <li><i class="bx bx-chevron-right"></i> <a href="{{ site.url }}/category/{{ category | slugify }}/">{{ category | camelcase }}</a></li>
+              {% endfor %}
+            {% else %}
+              {% for category in sortedCategories limit:5 %} 
+                <li><i class="bx bx-chevron-right"></i> <a href="{{ site.url }}/category/{{ category[0] | slugify }}/">{{ category[0] | camelcase }}</a></li>
+              {% endfor %}
+            {% endif %}
+          {% assign sortedCategories = nil %}
           </ul>
         </div>
 
         <div class="col-lg-4 col-md-6 footer-newsletter">
           <h4>Newsletter</h4>
-          <p>Sign up to Without A Path</p>
-          <form action="" method="post">
-            <input type="email" name="email"><input type="submit" value="Subscribe">
-          </form>
+          <p>Sign up to {{ site.title }}</p>
+          {% include mailchimp.html %}
 
         </div>
 

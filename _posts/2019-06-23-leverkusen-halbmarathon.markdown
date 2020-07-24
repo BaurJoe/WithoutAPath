@@ -3,9 +3,9 @@ title: 'Leverkusen Halbmarathon: Running Through City Streets and Forest Paths'
 categories:
 - Europe
 - Outdoors
+image: /assets/img/2019/06/EFL-HM_Highlight_web_sf-photo_035.jpg
 ---
 
-![]({{ site.url }}/assets/img/2019/06/EFL-HM_Highlight_web_sf-photo_035.jpg){: .img-fluid}Photo by Stefan Brüggemann via [EVL-Halbmarathon](https://www.leverkusen-halbmarathon.de/index.php?id=159)
 
 I've been in a bit of a running kick as of late, so much so that I've been signing up for half-marathons left and right––at least one per month since April. (That makes it sound like it's more than three, but... it's three.) Looking for one more to do before heading back to the States for a 10-day family visit, I spotted the EVL-Halbmarathon Leverkusen. 
 

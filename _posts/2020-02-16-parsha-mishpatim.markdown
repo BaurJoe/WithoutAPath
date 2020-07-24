@@ -2,10 +2,10 @@
 title: Parsha Mishpatim | In the Habit of Goring
 categories:
 - Essays
+image: /assets/img/2020/02/Parsha-Mishpatim-ana-cernivec-ZzFUHsc9PCo-unsplash.jpg
 homepage: false
 ---
 
-![Parsha Mishpatim ana-cernivec-ZzFUHsc9PCo-unsplash]({{ site.url }}/assets/img/2020/02/Parsha-Mishpatim-ana-cernivec-ZzFUHsc9PCo-unsplash.jpg){: .img-fluid}Photo by [Ana Cernivec](https://unsplash.com/@the_equanimous?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/ox?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Mishpatim, Exodus 21:1 - 24:18. [Click here to read last week’s, Parsha Yitro](https://withoutapath.com/parsha-yitro/)._
 

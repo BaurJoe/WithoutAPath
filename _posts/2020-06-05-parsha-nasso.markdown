@@ -2,10 +2,10 @@
 title: Parsha Nasso | Guilt, Confession, and Restitution
 categories:
 - Essays
+image: /assets/img/2020/06/frankie-cordoba-CpY4uT20sC8-unsplash.jpg
 homepage: false
 ---
 
-![Black Lives Matter protest]({{ site.url }}/assets/img/2020/06/frankie-cordoba-CpY4uT20sC8-unsplash.jpg){: .img-fluid}Photo by [frankie cordoba](https://unsplash.com/@byfoul?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/george-floyd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Nasso, Numbers 4:21 – 7:89. [Click here to read the previous portion, Parsha Bamidbar.](https://withoutapath.com/parsha-bamidbar/)_
 

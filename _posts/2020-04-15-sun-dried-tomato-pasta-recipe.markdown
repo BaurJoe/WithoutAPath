@@ -2,17 +2,15 @@
 title: Sun Dried Tomato Pasta That's Nearly Vegan, If You Care
 categories:
 - Food
+image: /assets/img/2020/04/Creamy-Pasta-Finished.jpg
 ---
 
-![]({{ site.url }}/assets/img/2020/04/Creamy-Pasta-Finished.jpg){: .img-fluid}
 
 I love sun dried tomatoes. Sweet Christ, I love them.
 
 One day, about a month or so after I got interested in cooking, I started to crave sun dried tomatoes. Nothing else would do.
 
 So, I looked up some recipes and whipped together a nice dish. It became a part of my weekly cooking repertoire for a while. But over time, it left my menu.
-
-<!-- more -->
 
 Why?
 
@@ -32,54 +30,28 @@ In terms of portions, my wife and I can clean this up easily. But if we had a si
 
 Now enjoy.
 
-	
-
 ## Sun dried tomato pasta
 
-	![](https://i1.wp.com/withoutapath.com{{ site.url }}/assets/img/2020/04/Creamy-Pasta-Finished.jpg?resize=150%2C150&ssl=1)	
-
-		
+![]({{ site.url }}/assets/img/2020/04/Creamy-Pasta-Finished.jpg?resize=150%2C150&ssl=1)	
 
 A sun dried tomato recipe that can easily be made vegan.
 
-	
+* 3/4 cup chopped sun dried tomatoes
+* 1/2 cup chopped fresh basil
+* 1/4 cup greek yogurt
+* 3/4 cup vegetable stock
+* 3/4 cup oat milk
+* 1 tbsp tomato paste
+* 1/4 cup parmesan cheese, grated (leave out to make vegan)
+* 1/2 tsp salt
+* 1/2 tsp pepper
+* 300 g pasta (about half a bag) (I prefer a flat egg noodle)
+* 2 garlic cloves
+* 1 small-medium onion
+* 4 cups spinach
 
-	
-
-		
-
-  * 3/4 cup chopped sun dried tomatoes
-  * 1/2 cup chopped fresh basil
-  * 1/4 cup greek yogurt
-  * 3/4 cup vegetable stock
-  * 3/4 cup oat milk
-  * 1 tbsp tomato paste
-  * 1/4 cup parmesan cheese, grated (leave out to make vegan)
-  * 1/2 tsp salt
-  * 1/2 tsp pepper
-  * 300 g pasta (about half a bag) (I prefer a flat egg noodle)
-  * 2 garlic cloves
-  * 1 small-medium onion
-  * 4 cups spinach
-	
-
-	
-
-		
-
-  1. Take the ingredients for your sauce (sun dried tomatoes, basil, yogurt, vegetable stock, oat milk, tomato paste, parmasean cheese, salt) and mix them in a pot Turn up the heat slightly so it reduces but mix every now and again to stop the yogurt from curdling.
-
-  2. Heat a large pan with olive oil and sautee your onions. When ready, throw in your garlic and spinach. Your spinach should shrivel up. Once that happens, throw the sauce in and continue reducing.
-
-  3. While that's cooking, throw your pasta in a boiling pot of water. Once the noodles are cooked, scoop out about a 1/2cup of pasta water (or a ladel full) and toss it into your sauce.
-
-  4. Drain the noodles and move them into the pan with your sauce. Add the noodles little by little, mixing them in evenly.
-
-  5. Take it off the stove once everything is mixed together nicely. You can add a little more parmesan cheese on top or leave it out if you're going vegan.
-
-	
-
-	
-
-			
-
+1. Take the ingredients for your sauce (sun dried tomatoes, basil, yogurt, vegetable stock, oat milk, tomato paste, parmasean cheese, salt) and mix them in a pot Turn up the heat slightly so it reduces but mix every now and again to stop the yogurt from curdling.
+2. Heat a large pan with olive oil and sautee your onions. When ready, throw in your garlic and spinach. Your spinach should shrivel up. Once that happens, throw the sauce in and continue reducing.
+3. While that's cooking, throw your pasta in a boiling pot of water. Once the noodles are cooked, scoop out about a 1/2cup of pasta water (or a ladel full) and toss it into your sauce.
+4. Drain the noodles and move them into the pan with your sauce. Add the noodles little by little, mixing them in evenly.
+5. Take it off the stove once everything is mixed together nicely. You can add a little more parmesan cheese on top or leave it out if you're going vegan.

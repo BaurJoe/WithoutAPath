@@ -2,9 +2,9 @@
 title: 'Hermanns Highway: A Weekend Getaway to Bielefeld and Teutoburger Wald'
 categories:
 - Europe
+image: /assets/img/2019/01/Hermannshoehen-Hiking-Trail-in-Winter.jpg
 ---
 
-![Hermannshoehen Hiking Trail in Winter]({{ site.url }}/assets/img/2019/01/Hermannshoehen-Hiking-Trail-in-Winter.jpg){: .img-fluid}
 
 A monstrous, dirty white telecommunications tower poked through the naked winter forest. It looked like a space ship, the kind you might find in cheesy sci-fi films from the 70s, had been stabbed by a pike. (An ominous warning to future spaceships, perhaps?) We crunched our way up the frosted, leaf-covered trail to have a closer look. A sign promised that the tower -- the Fernmeldeturm Hünenburg -- was open, but it looked as quiet as a Sunday morning in a German village.
 

@@ -2,10 +2,10 @@
 title: Parsha Noach | The Oopsie Poopsie Flood and the Tower of Babbel
 categories:
 - Essays
+image: /assets/img/2019/10/Parsha-Noach-Flood-chris-gallagher-4zxp5vlmvnI-unsplash.jpg
 homepage: false
 ---
 
-![](https://i0.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/10/Parsha-Noach-Flood-chris-gallagher-4zxp5vlmvnI-unsplash.jpg?fit=1024%2C683&ssl=1)Photo by [Chris Gallagher](https://unsplash.com/@chriswebdog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/flood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Noach, Genesis 6:9 - 11:32. [Click here to read last week's Parsha Bereshit](https://withoutapath.com/parsha-bereshit/)._
 

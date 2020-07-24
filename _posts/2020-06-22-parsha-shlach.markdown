@@ -3,9 +3,9 @@ title: Parsha Sh’lach | Keeping The Faith
 categories:
 - Essays
 homepage: false
+image: /assets/img/2020/06/sergiu-nista-ew3-7k3sl-g-unsplash.jpg
 ---
 
-![]({{ site.url }}/assets/img/2020/06/sergiu-nista-ew3-7k3sl-g-unsplash.jpg){: .img-fluid}Photo by [Sergiu Nista](https://unsplash.com/@sergiunista?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@sergiunista?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Sh'lach, Numbers 13:1 – 15:41. [Click here to read the previous portion, Parsha Beha'alotcha.](https://withoutapath.com/parsha-behaalotcha/)_
 

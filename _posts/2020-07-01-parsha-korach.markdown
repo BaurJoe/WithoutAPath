@@ -3,17 +3,14 @@ title: Parsha Korach | God Doesn't Have A Complaints Department
 categories:
 - Essays
 homepage: false
+image: /assets/img/2020/07/rsz_ybrayym-esenov-eiwvoa9zb10-unsplash.jpg
 ---
-
-![]({{ site.url }}/assets/img/2020/07/rsz_ybrayym-esenov-eiwvoa9zb10-unsplash.jpg){: .img-fluid}Photo by [Ybrayym Esenov](https://unsplash.com/@ibrhyme?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/hell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Korach, Numbers 16:1 – 18:32. [Click here to read the previous portion, Parsha Sh'lach.](https://withoutapath.com/parsha-shlach/)_
 
 The Israelites have been wandering, and in case you've missed the last couple of Parshas, they're getting impatient. A Levite among them, Korach, descendant of Reuben (not the sandwich), rises up against Moses alongside 250 others. We're talking chieftains and other "men of repute."
 
 Moses, as is a theme with Biblical figures in the Torah, gets pissed.
-
-<!-- more -->
 
 "You have gone too far!" he says. "For all the community are holy, all of them, and the Lord is in their midst. Why then do you raise yourselves above the Lord's congregation?"
 
@@ -48,4 +45,3 @@ At the end of it all, over 14,000 people died starting from the Korach rebellion
 _Or else...._
 
 _Onward with [Parsha Cukat-Balak](https://withoutapath.com/parsha-chukat-balak/)._
-

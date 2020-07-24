@@ -2,9 +2,10 @@
 title: Parsha Bamidbar | Making sure you're counted
 categories:
 - Essays
+image: /assets/img/2020/05/nick-hillier-yD5rv8_WzxA-unsplash-scaled.jpg
 homepage: false
 ---
-![](https://i2.wp.com/withoutapath.com{{ site.url }}/assets/img/2020/05/nick-hillier-yD5rv8_WzxA-unsplash-scaled.jpg?fit=1024%2C683&ssl=1)Photo by [Nick Hillier](https://unsplash.com/@nhillier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/numbers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Bamidbar, Numbers 1:1 – 4:20. [Click here to read the previous portion, Parsha Behar-Bechukotai.](https://withoutapath.com/parsha-behar-bechukotai/)_
 

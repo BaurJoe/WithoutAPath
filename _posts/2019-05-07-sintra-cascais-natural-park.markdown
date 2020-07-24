@@ -3,9 +3,9 @@ title: 'Sintra-Cascais Natural Park: Hiking to the End of the World'
 categories:
 - Europe
 - Outdoors
+image: /assets/img/2019/05/HikingTrailtoCabodaRocaPortugal.jpg
 ---
 
-![Sintra to Cabo da Roca Hiking Trail]({{ site.url }}/assets/img/2019/05/HikingTrailtoCabodaRocaPortugal.jpg){: .img-fluid}
 
 "Lo! Cintra's glorious Eden intervenes in variegated maze of mount and glen." --  Lord Byron, _Childe Harolde's Pilgrimage_
 

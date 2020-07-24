@@ -2,10 +2,10 @@
 title: Parsha Vayeshev |Always Look On The Bright Side Of Life
 categories:
 - Essays
+image: /assets/img/2019/12/parsha-vayeshev-denny-muller-uwyedergxgu-unsplash.jpg
 homepage: false
 ---
 
-![parsha vayeshev]({{ site.url }}/assets/img/2019/12/parsha-vayeshev-denny-muller-uwyedergxgu-unsplash.jpg){: .img-fluid}Photo by [Denny Müller](https://unsplash.com/@redaquamedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/prison?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Vayishlach, Genesis 37:1 – 40:23. [Click here to read last week’s, Parsha Vayishlach.](https://withoutapath.com/parsha-vayishlach/)_
 

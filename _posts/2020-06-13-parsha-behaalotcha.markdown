@@ -3,9 +3,9 @@ title: Parsha Beha’alotcha | One Law For Everyone
 categories:
 - Essays
 homepage: false
+image: /assets/img/2020/06/bill-oxford-OXGhu60NwxU-unsplash.jpg
 ---
 
-![court gavel]({{ site.url }}/assets/img/2020/06/bill-oxford-OXGhu60NwxU-unsplash.jpg){: .img-fluid}Photo by [Bill Oxford](https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Beha’alotcha, Numbers 8:1 – 12:16. [Click here to read the previous portion, Parsha Nasso.](https://withoutapath.com/parsha-nasso/)_
 

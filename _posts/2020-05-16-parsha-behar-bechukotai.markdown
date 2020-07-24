@@ -2,10 +2,10 @@
 title: Parsha Behar-Bechukotai | Torah God lays down the hammer
 categories:
 - Essays
+image: /assets/img/2020/05/thom-masat-fOKaK7EjydM-unsplash-scaled.jpg
 homepage: false
 ---
 
-![](https://i1.wp.com/withoutapath.com{{ site.url }}/assets/img/2020/05/thom-masat-fOKaK7EjydM-unsplash-scaled.jpg?fit=1024%2C683&ssl=1)Torah God seen here after going on a bender. Photo by [thom masat](https://unsplash.com/@tomterifx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Behar-Bechukotai, Leviticus 25:1 – 27:34. [Click here to read the previous portion, Parsha Emor.](https://withoutapath.com/parsha-emor/)_
 

@@ -2,10 +2,10 @@
 title: Parsha Vayetzei | Heading Home with Sister Wives
 categories:
 - Essays
+image: /assets/img/2019/12/Parsha-Vayetzei-trevor-cole-UQJP4eEqRV0-unsplash.jpg
 homepage: false
 ---
 
-![Parsha Vayetzei]({{ site.url }}/assets/img/2019/12/Parsha-Vayetzei-trevor-cole-UQJP4eEqRV0-unsplash.jpg){: .img-fluid}Photo by [Trevor Cole](https://unsplash.com/@trevcole?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/camel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Vayetzei, Genesis 28:10 - 32:3. [Click here to read last week’s, Parsha Toldot](https://withoutapath.com/parsha-toldot/)._
 

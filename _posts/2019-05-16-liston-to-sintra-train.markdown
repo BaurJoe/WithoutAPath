@@ -2,9 +2,9 @@
 title: Lisbon to Sintra Train and the Transit Angel
 categories:
 - Europe
+image: /assets/img/2019/05/SintraPortugalView.jpg
 ---
 
-![Sintra Portugal View]({{ site.url }}/assets/img/2019/05/SintraPortugalView.jpg){: .img-fluid}
 
 The direct train from [Lisbon](https://withoutapath.com/things-to-do-in-lisbon/) to [Sintra](https://withoutapath.com/sintra-cascais-natural-park/) runs every half hour and lasts between 37 to 41 minutes. It's the last stop on the green line (Linha de Sintra), so you can't miss it.
 

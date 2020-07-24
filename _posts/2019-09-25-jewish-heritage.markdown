@@ -3,9 +3,9 @@ title: So You've Just Found Out You're Jewish. What's Next?
 categories:
 - Essays
 - Travel
+image: /assets/img/2019/08/Jewish-Home-Kurima-Slovakia.jpg
 ---
 
-![]({{ site.url }}/assets/img/2019/08/Jewish-Home-Kurima-Slovakia.jpg){: .img-fluid}A former Jewish home in Kurima, Slovakia
 
 Thanks to the boom of DNA kits promising to reveal your ancestry, people are starting to identify some surprises within their heritage. A common one is finding Ashkenazi Jewish ancestry.
 

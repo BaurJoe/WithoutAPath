@@ -2,10 +2,10 @@
 title: Parsha Bo | Bye Bye Firstborn
 categories:
 - Essays
+image: /assets/img/2020/01/parsha-bo-gaurav-d-lathiya-I74RH4XeHlA-unsplash.jpg
 homepage: false
 ---
 
-![]({{ site.url }}/assets/img/2020/01/parsha-bo-gaurav-d-lathiya-I74RH4XeHlA-unsplash.jpg){: .img-fluid}Photo by [Gaurav D Lathiya](https://unsplash.com/@gaurav_81?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pyramid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Bo, Exodus 10:1 – 13:16. [Click here to read last week’s, Parsha Vaera.](https://withoutapath.com/parsha-vaera/)_
 

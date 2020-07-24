@@ -3,17 +3,15 @@ title: A Loop Through Löcknitzer Forest
 categories:
 - Europe
 - Outdoors
+image: /assets/img/2020/05/Müggelspree-Trail.jpg
 ---
 
-![Müggelspree Trail in Löcknitzer Forest]({{ site.url }}/assets/img/2020/05/Müggelspree-Trail.jpg){: .img-fluid}
 
 I've been on the record as saying that what I'd miss most about living in Düsseldorf is access to the Rhineland. Düsseldorf is as flat as Berlin, but you can get some scenic elevation in [Siebengebirge](https://withoutapath.com/hiking-siebengebirge-schloss-drachenburg-christmas-market/) and the trails along the [Rhine](https://withoutapath.com/germany-rheinsteig-trail/), [Mosel](https://withoutapath.com/mosel-germany/), and [Ahr](https://withoutapath.com/ahrtal/) rivers.
 
 Not so much with Berlin and surrounding Brandenburg. There are cartoon characters underneath ACME anvils with more topography than Brandenburg. So my expectations for finding a good hike around here were about on par with getting a burrito dripping with Cholula in Minsk. Fortunately, as with most things in life, I was quickly proven wrong.
 
 Enter, the Löcknitzer Forest.
-
-<!-- more -->
 
 ## "I really don't give a damn"
 

@@ -48,6 +48,9 @@ google-analytics: UA-24585508-2
 # post permalinks
 permalink: /:title/
 
+# Instagram feed by https://github.com/stevenschobert/instafeed.js/
+instafeed-app: https://judsonlmoore-com-instafeed-js.herokuapp.com/token.js
+
 # jekyll-cloudinary
 cloudinary:
   cloud_name: withoutapath
@@ -82,8 +85,8 @@ algolia:
   search_only_api_key: 98f196107753a99f5f29dc5f64aa0c94
 
 include:
- - _pages
- - _travel-guides
+  - _pages
+  - _travel-guides
 
 # defaults
 defaults:
@@ -140,6 +143,11 @@ pagination:
   per_page: 9
   permalink: '/page-:num/'
   title: ':title'
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
 
 # contact info 
 email: joe@joebaur.com
@@ -147,3 +155,11 @@ address: A108 Adam Street, New York, NY 535022
 phone: +1 559 554 8855
 google-maps-embed: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d77672.07668705504!2d13.334068693876274!3d52.52886744871557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sde!4v1594751666546!5m2!1sen!2sde
 formspree: mbjzpoqw
+mailchimp-list: 1234
+social:
+  twitter: BaurJoe
+  facebook: BaurJoe
+  instagram: BaurJoe
+  youtube: MildlyRelevant
+  soundcloud: without-a-path
+  linkedin: 

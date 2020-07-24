@@ -8,7 +8,6 @@ categories:
 featured: true
 ---
 
-![View of Ahrtal from the AhrSteig]({{ site.url }}/assets/img/2019/07/Ahrtal-View-from-AhrSteig.jpg){: .img-fluid}
 
 "Fuck this. I'm never doing this again. No more running."
 

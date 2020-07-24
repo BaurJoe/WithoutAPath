@@ -6,7 +6,6 @@ categories:
 featured: true
 ---
 
-![Hydra From Hiking Trail]({{ site.url }}/assets/img/2020/06/Hydra-From-Hiking-Trail.jpg){: .img-fluid}
 
 _Like a bird on the wire.  
 Like a drunk in a midnight choir.  

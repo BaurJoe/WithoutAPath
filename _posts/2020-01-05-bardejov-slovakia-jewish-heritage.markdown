@@ -3,9 +3,9 @@ title: Finding My Jewish Roots in Bardejov, Slovakia
 categories:
 - Essays
 - Europe
+image: /assets/img/2020/01/Bardejov-UNESCO-City-Center.jpg
 ---
 
-![Bardejov UNESCO City Center]({{ site.url }}/assets/img/2020/01/Bardejov-UNESCO-City-Center.jpg){: .img-fluid}Bardejov's UNESCO City Center
 
 _Sit tight, folks. You're in for a long one. This is a sample chapter I've put together on my self-made [Jewish heritage](https://withoutapath.com/jewish-heritage/) trip to Slovakia for a book I'll hopefully get to write._
 

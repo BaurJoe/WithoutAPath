@@ -2,10 +2,10 @@
 title: Parsha Terumah | God Goes IKEA for the Tabernacle
 categories:
 - Essays
+image: /assets/img/2020/02/niklas_hamann-Pe4gh8a8mBY-unsplash.jpg
 homepage: false
 ---
 
-![]({{ site.url }}/assets/img/2020/02/niklas_hamann-Pe4gh8a8mBY-unsplash.jpg){: .img-fluid}Me, bored and reading Parsha Terumah // Photo by [niklas_hamann](https://unsplash.com/@hamann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bored?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Terumah, Exodus 25:1 – 27:19. [Click here to read last week’s, Parsha Mishpatim](https://withoutapath.com/parsha-mishpatim/)._
 

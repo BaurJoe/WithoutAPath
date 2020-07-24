@@ -3,9 +3,9 @@ title: 'Ahrtal Adventures: Wine, History, and Hikes Galore'
 categories:
 - Europe
 - Outdoors
+image: /assets/img/2019/07/Walporzheim-Germany-Sunset.jpg
 ---
 
-![Walporzheim Germany Sunset]({{ site.url }}/assets/img/2019/07/Walporzheim-Germany-Sunset.jpg){: .img-fluid}Sunset in Walporzheim.
 
 "Where are we?" I said to Melanie. "How have I not heard about this place before?"
 

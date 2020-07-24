@@ -4,26 +4,4 @@ permalink: /travel-guides/
 ---
 
 
-[![Amsterdam-Travel-Guide-Without-A-Path]({{ site.url }}/assets/img/2017/02/Amsterdam-Travel-Guide-Without-A-Path.jpg){: .img-fluid}]({{ site.url }}/travel-guides/amsterdam)
-
-[![Cleveland Travel Guide]({{ site.url }}/assets/img/2017/02/Cleveland-Travel-Guide.jpg){: .img-fluid}]({{ site.url }}/travel-guides/cleveland)
-
-[![Costa Rica Travel Guide Without A Path]({{ site.url }}/assets/img/2017/02/Costa-Rica-Travel-Guide-Without-A-Path.jpg){: .img-fluid}]({{ site.url }}/travel-guides/costa-rica)
-
-[![Germany Travel Guide Without A Path]({{ site.url }}/assets/img/2017/02/Germany-Travel-Guide-Without-A-Path.jpg){: .img-fluid}]({{ site.url }}/travel-guides/germany)
-
-[![]({{ site.url }}/assets/img/2018/04/jordan-travel-guide.jpg){: .img-fluid}]({{ site.url }}/travel-guides/jordan)
-
-[![Places To Visit In Morocco]({{ site.url }}/assets/img/2018/03/things-to-do-in-morocco-off-the-beaten-path.jpg){: .img-fluid}]({{ site.url }}/travel-guides/morocco)
-
-[![Rust Belt Travel Guide Without A Path]({{ site.url }}/assets/img/2017/11/Rust-Belt-Travel-Guide-Without-A-Path.jpg){: .img-fluid}]({{ site.url }}/travel-guides/rust-belt)
-
-[![]({{ site.url }}/assets/img/2018/04/Tenerife-Sur-Spain-Travel-Guide.jpg){: .img-fluid}]({{ site.url }}/travel-guides/tenerife-sur-spain)
-
-[![]({{ site.url }}/assets/img/2018/04/Thuringia-Germany-Travel-Guide-Without-A-Path.jpg){: .img-fluid}]({{ site.url }}/travel-guides/thuringia-germany)
-
-[![]({{ site.url }}/assets/img/2018/04/Venice-Italy-Travel-Guide.jpg){: .img-fluid}]({{ site.url }}/travel-guides/venice-italy)
-
-[![things to do in verona off the beaten path]({{ site.url }}/assets/img/2018/04/things-to-do-in-verona-off-the-beaten-travel-guide.jpg){: .img-fluid}]({{ site.url }}/travel-guides/verona-italy)
-
-[![Warsaw Travel Guide]({{ site.url }}/assets/img/2017/02/Warsaw-Travel-Guide.jpg){: .img-fluid}]({{ site.url }}/travel-guides/warsaw-poland)
+[![Amsterdam-Travel-Guide-Without-A-Path]({{ site.url }}/assets/img/2017/02/Amsterdam-Travel-Guide-Without-A-Path.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/amsterdam) [![Cleveland Travel Guide]({{ site.url }}/assets/img/2017/02/Cleveland-Travel-Guide.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/cleveland) [![Costa Rica Travel Guide Without A Path]({{ site.url }}/assets/img/2017/02/Costa-Rica-Travel-Guide-Without-A-Path.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/costa-rica) [![Germany Travel Guide Without A Path]({{ site.url }}/assets/img/2017/02/Germany-Travel-Guide-Without-A-Path.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/germany) [![]({{ site.url }}/assets/img/2018/04/jordan-travel-guide.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/jordan) [![Places To Visit In Morocco]({{ site.url }}/assets/img/2018/03/things-to-do-in-morocco-off-the-beaten-path.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/morocco) [![Rust Belt Travel Guide Without A Path]({{ site.url }}/assets/img/2017/11/Rust-Belt-Travel-Guide-Without-A-Path.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/rust-belt) [![]({{ site.url }}/assets/img/2018/04/Tenerife-Sur-Spain-Travel-Guide.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/tenerife-sur-spain) [![]({{ site.url }}/assets/img/2018/04/Thuringia-Germany-Travel-Guide-Without-A-Path.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/thuringia-germany) [![]({{ site.url }}/assets/img/2018/04/Venice-Italy-Travel-Guide.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/venice-italy) [![things to do in verona off the beaten path]({{ site.url }}/assets/img/2018/04/things-to-do-in-verona-off-the-beaten-travel-guide.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/verona-italy) [![Warsaw Travel Guide]({{ site.url }}/assets/img/2017/02/Warsaw-Travel-Guide.jpg){: .img-fluid .w-25}]({{ site.url }}/travel-guides/warsaw-poland)

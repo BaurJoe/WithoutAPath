@@ -2,9 +2,9 @@
 title: Günter Blömer's Mühlenmuseum in Bergisches Land
 categories:
 - Europe
+image: /assets/img/2019/05/RoadtotheMuhlenmuseuminOdenthal.jpg
 ---
 
-![Road to the Muhlenmuseum in Bergisches Land]({{ site.url }}/assets/img/2019/05/RoadtotheMuhlenmuseuminOdenthal.jpg){: .img-fluid}
 
 _This story was produced in cooperation with [Tourismus NRW](https://www.nrw-tourism.com/). As always, all opinions are my own._
 

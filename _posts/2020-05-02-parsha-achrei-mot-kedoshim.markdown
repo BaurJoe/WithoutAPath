@@ -2,10 +2,10 @@
 title: Parsha Achrei Mot-Kedoshim | Feed the Poor and Care for the Stranger
 categories:
 - Essays
+image: /assets/img/2020/05/glenn-carstens-peters-piNf3C4TViA-unsplash.jpg
 homepage: false
 ---
 
-![Crop field with sunlight]({{ site.url }}/assets/img/2020/05/glenn-carstens-peters-piNf3C4TViA-unsplash.jpg){: .img-fluid}Photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/crop-field?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Tazria-Metzora, Leviticus 16:1 - 20:27. [Click here to read the previous portion, Parsha Tazria-Metzora](https://withoutapath.com/parsha-tazria-metzora/)[.](https://withoutapath.com/parsha-shemini/)_
 

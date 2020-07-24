@@ -2,9 +2,9 @@
 title: Bergmann Brauerei and the Dortmund Beer Festival
 categories:
 - Europe
+image: /assets/img/2019/05/Bergmann-Brewery-at-the-Dortund-Beer-Festival.jpg
 ---
 
-![Bergmann Brauerei at the Dortmund Beer Festival]({{ site.url }}/assets/img/2019/05/Bergmann-Brewery-at-the-Dortund-Beer-Festival.jpg){: .img-fluid}
 
 _This story was produced in cooperation with [Dortmund Tourismus](https://www.dortmund-tourismus.de/en). As always, all opinions are my own._
 

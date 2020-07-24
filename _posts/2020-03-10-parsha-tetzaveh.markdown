@@ -2,6 +2,7 @@
 title: Parsha Tetzaveh | Dress to Impress and Slaughter Your Bull
 categories:
 - Essays
+image: /assets/img/2020/03/denis-oliveira-_12PwFpWZZ0-unsplash.jpg
 homepage: false
 ---
 

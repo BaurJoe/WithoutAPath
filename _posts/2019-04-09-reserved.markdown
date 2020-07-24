@@ -3,9 +3,9 @@ title: Reserved
 categories:
 - Europe
 - There Must Be Order
+image: /assets/img/2017/11/Inside-Hamburg-German-Train-Station.jpg
 ---
 
-![Inside Hamburg German Train Station]({{ site.url }}/assets/img/2017/11/Inside-Hamburg-German-Train-Station.jpg){: .img-fluid}
 
 _The following is a chapter from an upcoming memoir on moving to and living in Germany. [Read more here](https://withoutapath.com/category/essays/there-must-be-order/)._  
 

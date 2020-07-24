@@ -8,16 +8,11 @@
     </div>
 
   	<div class="row">
-      {% for post in paginator.post limit:6 %}
-      {% if post.homepage == false %}
+      {% assign filtered_posts = site.posts | where: 'homepage', nil %}
+      {% for post in filtered_posts limit:6 %}
       {% include postbox-vertical.html %}
-      {% endif %}
       {% endfor %}
     </div>
-
-    {% include pagination.html %}
-
-    <div class="text-center"><a class="btn btn-primary" href="{{ site.url }}/blog/" role="button">Read More on the Blog</a></div>
 
   </div>
 </section>

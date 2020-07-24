@@ -2,10 +2,10 @@
 title: Parsha Vayikra | Pleasing Odors for the Lord
 categories:
 - Essays
+image: /assets/img/2020/03/ruslan-zh-t0ZfzT8FopE-unsplash.jpg
 homepage: false
 ---
 
-![]({{ site.url }}/assets/img/2020/03/ruslan-zh-t0ZfzT8FopE-unsplash.jpg){: .img-fluid}Photo by [Ruslan Zh](https://unsplash.com/@chupzzz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/smell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Vayikra, Leviticus 1:1 – 5:26. [Click here to read last week’s, Parsha Vayakhel-Pekudei.](https://withoutapath.com/parsha-vayakhel-pekudei/)_
 

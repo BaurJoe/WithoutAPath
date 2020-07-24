@@ -2,11 +2,10 @@
 title: Parsha Vayishlach | The Birth of an Israel
 categories:
 - Essays
+image: /assets/img/2019/12/Parsha-Vayishlach-Wrestling-bob-fisher-unsplash.jpg
 homepage: false
 ---
 
-![Parsha-Vayishlach-Wrestling]({{ site.url }}/assets/img/2019/12/Parsha-Vayishlach-Wrestling-bob-fisher-unsplash.jpg){: .img-fluid}Jacob wrestles with an angel of God.  
-Photo by [Bob Fisher](https://unsplash.com/@hkbobfsh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/wrestling?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Vayishlach, Genesis 32:4 – 36:43. [Click here to read last week’s, Parsha Vayetzei.](https://withoutapath.com/parsha-vayetzei/)_
 

@@ -2,10 +2,10 @@
 title: Parsha Miketz | Egypt's Famine is Our Climate Crisis
 categories:
 - Essays
+image: /assets/img/2019/12/marek-studzinski-E-Ft8d9HMTU-unsplash.jpg
 homepage: false
 ---
 
-![Parsha Miketz Silver Goblet]({{ site.url }}/assets/img/2019/12/marek-studzinski-E-Ft8d9HMTU-unsplash.jpg){: .img-fluid}Photo by [Marek Studzinski](https://unsplash.com/@jccards?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/goblet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Miketz, Genesis 41:1 - 44:17. [Click here to read last week’s, Parsha Vayeshev.](https://withoutapath.com/parsha-vayeshev/)_
 

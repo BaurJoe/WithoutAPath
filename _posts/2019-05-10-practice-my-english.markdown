@@ -3,9 +3,9 @@ title: '"I Will Practice My English With You"'
 categories:
 - Europe
 - There Must Be Order
+image: /assets/img/2019/04/I-Will-Practice-My-English-With-You.jpg
 ---
 
-![silhouette of a man in blacka nd white]({{ site.url }}/assets/img/2019/04/I-Will-Practice-My-English-With-You.jpg){: .img-fluid}Photo by [Fortyozsteak](https://unsplash.com/photos/dLij9K4ObYY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/scary?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _The following is a chapter from an upcoming memoir on moving to and living in Germany. [Read more here](https://withoutapath.com/category/essays/there-must-be-order/)._
 
@@ -47,7 +47,7 @@ We watched on in silence as his core processor deciphered the zeros and ones.
 
 Despite the uneasy scene, this man was the spitting image of Bunsen Honeydew, Beaker’s straightlaced partner in medicine from _The Muppets_. There was the round-shaped head put sideways like an egg lying on the kitchen counter and the same puffy cheeks. All that was missing were the glasses and the lab coat.
 
-There was an unintended creepiness to it all. (Dear God, I hope it was unintended.) The way he said, “I _vill _practice my English with you” must have been similar in tone to what the witch in _Hansel & Gretel _said to herself when she selected her victims. “Yes. You will do.”
+There was an unintended creepiness to it all. (Dear God, I hope it was unintended.) The way he said, “I _vill_ practice my English with you” must have been similar in tone to what the witch in _Hansel & Gretel_ said to herself when she selected her victims. “Yes. You will do.”
 
 He left the matter with no discussion, his operating system had already determined our intertwined futures. I felt a sense of premonition as his toothy smile grew wider, like the Grinch when he realizes his wonderful, awful idea.
 
@@ -55,7 +55,7 @@ Suddenly I could see myself in a dry well, trapped below the basement floor as A
 
 Then Hannibal Myers’ voice, bubbling with joy from above.
 
-“It conjugates the verbs within unless it _vants _the hose again.”
+“It conjugates the verbs within unless it _vants_ the hose again.”
 
 Though I could see this harrowing future, I was caught too far off my guard to respond rationally. That’s why I gave in to his demands so easily as he rattled them off.
 
@@ -85,7 +85,7 @@ A savvy woman would have known how to confidently enter in a fake phone number. 
 
 My brush off game had since gotten rusty. I punched in my digits and Chris followed suit.
 
-“_Exzellent_,” Hannibal Myers said. “I _vill _practice my English with you.”
+“_Exzellent_,” Hannibal Myers said. “I _vill_ practice my English with you.”
 
 Chris and I managed to leave, but we knew he wouldn’t take us hostage in a public setting anyway. By the time we sat down for some greasy pizza to soak up the booze and sober us up, a series of messages had come in.
 

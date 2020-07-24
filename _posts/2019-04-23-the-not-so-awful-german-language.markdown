@@ -3,9 +3,9 @@ title: The (Not So) Awful German Language
 categories:
 - Europe
 - There Must Be Order
+image: /assets/img/2019/04/Mark-Twain-Pixabay.jpg
 ---
 
-![](https://i1.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/04/Mark-Twain-Pixabay.jpg?fit=1024%2C677&ssl=1)_Image courtesy of [Pixabay](https://pixabay.com/photos/mark-twain-vintage-author-humorist-391120/)_
 
 _The following is a chapter from an upcoming memoir on moving to and living in Germany. [Read more here](https://withoutapath.com/category/essays/there-must-be-order/)._  
 
@@ -71,7 +71,7 @@ Many things can be said (and have been) about German. But that it’s an energyl
 
 Twain does make an accurate observation that “The Germans do not seem to be afraid to repeat a word when it is the right one.” This remains true. Twain gives the example of the German “_Also_” used as an equivalent to our “so” (as in, “So what do you think?”).  
 
-But that’s just the tip of the iceberg. _Genau––_exactly––is the language’s bass drum, keeping the beat of the conversation.  
+But that’s just the tip of the iceberg. _Genau_––exactly––is the language’s bass drum, keeping the beat of the conversation.  
 
 “First, we’ll go to the store…”  
 
@@ -107,7 +107,7 @@ _“TSCHÜSS!”_
 
 Essentially, “Have a nice day. Likewise! Yes, you as well! BYE! BYE!”   
 
-German speakers or even astute readers such as yourself might question the use of “you as well!” right after a “likewise!” I agree it’s perplexing, but I swear I’ve heard this exchange hundreds of times inadvertently eavesdropping while waiting outside of the grocery store with Moses as two friends part ways before delivering that final, delightfully cooing _tschüss!––_the linguistic version of the chime of a small town church bell. Even the burliest of men reveal themselves to be angelic fairytale creatures when they part ways with a friend.  
+German speakers or even astute readers such as yourself might question the use of “you as well!” right after a “likewise!” I agree it’s perplexing, but I swear I’ve heard this exchange hundreds of times inadvertently eavesdropping while waiting outside of the grocery store with Moses as two friends part ways before delivering that final, delightfully cooing _tschüss!_––the linguistic version of the chime of a small town church bell. Even the burliest of men reveal themselves to be angelic fairytale creatures when they part ways with a friend.  
 
 Twain leaves these charming details out as he focuses his ire on what is, as I’ve admitted, some pretty complex grammar. He does, however, manage to brush over the fact that he only “devoted upward of nine full weeks” of study before determining the language’s awfulness. Nine weeks. A blip in an American presidential election. The assumption, regardless if overstated for the sake of humor, that one could master something in less time than a season of television––let alone be expert enough to levy serious criticisms and remedies––is the kind of insultingly white male American attitude society only recently decided to challenge. It reminds me of the oh-so-many Americans I’ve encountered in my country’s oh-so-many homogeneous suburbs, ready to offer their diagnosis of how African-Americans can pull themselves out of poverty, their qualification being that the five-lane highway they take to work goes through predominantly African-American neighborhoods and there’s a black guy at the office they like with proper sports opinions.  
 

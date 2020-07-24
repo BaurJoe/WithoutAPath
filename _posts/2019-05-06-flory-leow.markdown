@@ -3,9 +3,9 @@ title: 'Trailblazers Q&A: Flory Leow Takes Readers Inside Japanese Culture'
 categories:
 - Asia
 - Trailblazers
+image: /assets/img/2019/05/FLORYLEOW.jpg
 ---
 
-![]({{ site.url }}/assets/img/2019/05/FLORYLEOW.jpg){: .img-fluid}
 
 _[Trailblazers](https://withoutapath.com/category/trailblazers) checks in with creatives from around the world to share their story. On this edition, we welcome Flory Leow of [Adventures of Furochan](http://furochan.substack.com/)._
 

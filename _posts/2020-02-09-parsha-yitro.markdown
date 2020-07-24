@@ -2,10 +2,10 @@
 title: Parsha Yitro | God Promises Guilt and Moses Speaks The Ten Commandments
 categories:
 - Essays
+image: /assets/img/2020/02/jens-johnsson-qFYBki6u3Ik-unsplash.jpg
 homepage: false
 ---
 
-![]({{ site.url }}/assets/img/2020/02/jens-johnsson-qFYBki6u3Ik-unsplash.jpg){: .img-fluid}Photo by [Jens Johnsson](https://unsplash.com/@jens_johnsson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/smoke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _Explore [Jewish heritage](https://withoutapath.com/jewish-heritage/) with an amateur Jew’s commentary on Parsha Yitro, Exodus 18:1 – 20:23. [Click here to read last week’s, Parsha Beshalach](https://withoutapath.com/parsha-beshalach/)._
 

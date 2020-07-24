@@ -3,9 +3,9 @@ title: On Visiting Auschwitz in the Age of Instagram and Mass Tourism
 categories:
 - Essays
 - Europe
+image: /assets/img/2019/04/Visit-Auschwitz-filippo-bonadiman-1387216-unsplash.jpg
 ---
 
-![visit auschwitz]({{ site.url }}/assets/img/2019/04/Visit-Auschwitz-filippo-bonadiman-1387216-unsplash.jpg){: .img-fluid}Photo by [Filippo Bonadiman](https://unsplash.com/photos/FGnNunrxH3M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 _The following is part of my ongoing writing about exploring my Jewish heritage and ancestry through travel, religion, history, language, and food._
 
@@ -17,7 +17,7 @@ Language simply lacks the proper vocabulary for what a contemporary traveler is 
 
 But where’s that website? It took hours of hammering away at my keyboard, trying a smorgasbord of phrases until I finally found the answer from a local member of Krakow’s CouchSurfing community. Someone who’s not a resilient, frequent traveler might give up and either rent a car, something I refuse to do, or throw money at a travel agency to plan private transportation. But that in itself seems disrespectful. Over a million people died at Auschwitz and you want me to stretch my legs out in a climate-controlled environment? Then again, taking a train—the literal transport of death—can seem like an odd choice as well. I mean, I'm sure it'd raise some eyebrows if Buddy Holly's next of kin insisted on traveling by Beechcraft Bonanza aircraft.
 
-![](https://i1.wp.com/withoutapath.com{{ site.url }}/assets/img/2019/08/Jewish-Home-Kurima-Slovakia.jpg?fit=1024%2C682&ssl=1)Jewish home in Kurima, Slovakia
+![]({{ site.url }}/assets/img/2019/08/Jewish-Home-Kurima-Slovakia.jpg)Jewish home in Kurima, Slovakia
 
 I was on my way to the death camp as a continuation of my self-made Jewish heritage tour. DNA results from 23andMe left me looking at my Ashkenazi ancestry in a new light, following the paper trail back to modern-day Dubinné, Slovakia where some of my Jewish ancestors left in 1884 to emigrate to the United States. [I planned a trip to visit the village just outside of Bardejov](https://withoutapath.com/bardejov-slovakia-jewish-heritage/), extending my trip to Krakow and Auschwitz to follow an alternative narrative. That is, had my ancestors not left, they likely would’ve ended up there or someplace similar. A local Slovakian researcher who helped me visit my ancestral village was already fairly certain that I would’ve had some relatives who stayed behind and quite possibly ended up in Auschwitz.
 
