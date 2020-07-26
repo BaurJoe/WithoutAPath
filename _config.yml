@@ -1,12 +1,7 @@
 title: Without A Path
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://withoutapath.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  BaurJoe
-disqus: "withoutapath"
 locale: en_US
 
 kramdown:
@@ -49,7 +44,7 @@ google-analytics: UA-24585508-2
 permalink: /:title/
 
 # Instagram feed by https://github.com/stevenschobert/instafeed.js/
-instafeed-app: https://judsonlmoore-com-instafeed-js.herokuapp.com/token.js
+instafeed-app: https://xxx.herokuapp.com/token.js
 
 # jekyll-cloudinary
 cloudinary:
@@ -156,6 +151,8 @@ phone: +1 559 554 8855
 google-maps-embed: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d77672.07668705504!2d13.334068693876274!3d52.52886744871557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sde!4v1594751666546!5m2!1sen!2sde
 formspree: mbjzpoqw
 mailchimp-list: 1234
+github_username:  BaurJoe
+disqus: "withoutapath"
 social:
   twitter: BaurJoe
   facebook: BaurJoe
@@ -163,3 +160,12 @@ social:
   youtube: MildlyRelevant
   soundcloud: without-a-path
   linkedin: 
+
+compress_html:  
+  clippings: all  
+  comments: ["<!-- ", " -->"] 
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th] 
+  profile: false 
+  blanklines: false 
+  ignore: 
+    envs: []
