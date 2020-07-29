@@ -2,6 +2,8 @@
 
 Welcome to the exciting world of Jekyll! It's not as visual as WordPress but it's a whole lot faster and fancier. Here are some notes to refer to as you go down this journey.
 
+The nonprod url on Github Pages is [https://baurjoe.github.io/WithoutAPath/](https://baurjoe.github.io/WithoutAPath/)
+
 ## Common commands
 
 To rebuild the site `jekyll build`
