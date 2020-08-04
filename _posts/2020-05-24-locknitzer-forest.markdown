@@ -1,9 +1,9 @@
 ---
-title: A Loop Through Löcknitzer Forest
+title: A Loop Through Loecknitzer Forest
 categories:
 - Europe
 - Outdoors
-image: /assets/img/2020/05/Müggelspree-Trail.jpg
+image: /assets/img/2020/05/Mueggelspree-Trail.jpg
 ---
 
 
@@ -43,7 +43,7 @@ Jokes aside, I really do appreciate the extensive memory culture in Germany and 
 
 ## All things trout
 
-![Müggelspree Pond]({{ site.url }}/assets/img/2020/05/Müggelspree-Pond.jpg){: .img-fluid}
+![Müggelspree Pond]({{ site.url }}/assets/img/2020/05/Mueggelspree-Pond.jpg){: .img-fluid}
 
 From the monument, it's about five kilometers of hiking to Klein Wall through fairytale forest with tall trees and pillow-soft trails under your feet. We passed only a handful of hiking groups, no more than four at a time, leaving us feeling like we were truly alone in the forest, especially as we trudged deeper into the forest and could no longer hear passing trains or traffic.
 

@@ -2,16 +2,16 @@
   <article class="entry">
 
     <div class="entry-img">
-      <img src="{{ site.url }}{{ post.image }}" alt="{{ post.title }}" class="img-fluid">
+      {% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" %}
     </div>
 
     <h2 class="entry-title">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
     </h2>
 
     <div class="entry-meta">
       <ul>
-        <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="#">{% assign author = site.authors | where: 'short_name', page.author | first %}{{ author.name | camelcase }}</a></li>
+        <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="{{ site.url }}/about/">{% assign author = site.authors | where: 'short_name', page.author | first %}{{ author.name | camelcase }}</a></li>
         <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <time datetime="{{ post.date | date:"%B %e, %Y" }}">{{ post.date | date:"%B %e, %Y" }}</time></li>
       </ul>
     </div>
@@ -21,7 +21,7 @@
         {{ post.excerpt | strip_html | truncatewords:20 }}
       </p>
       <div class="read-more">
-        <a href="{{ site.url }}/{{ post.url }}">Read More</a>
+        <a href="{{ site.url }}{{ post.url }}">Read More</a>
       </div>
     </div>
 

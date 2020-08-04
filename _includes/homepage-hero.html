@@ -3,6 +3,8 @@
 
   <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
+    {% assign filtered_posts = site.posts | where: 'featured', 'true' %}
+
     <ol class="carousel-indicators" id="hero-carousel-indicators">
       {% assign filtered_posts = site.posts | where: 'featured', 'true' %}
       {% for post in filtered_posts %}
@@ -10,9 +12,14 @@
     </ol>
 
     <div class="carousel-inner" role="listbox">
-      {% assign filtered_posts = site.posts | where: 'featured', 'true' %}
       {% for post in filtered_posts %}
-       <div class="carousel-item{% if forloop.first %} active{% endif %}" style="background-image: url({{ site.url }}/{{ post.image }})">
+      <div class="carousel-item{% if forloop.first %} active{% endif %}" style="background-image: url(
+        {% if jekyll.environment == "production" %}
+        https://res.cloudinary.com/friendsofkyrgyzstan/image/fetch/c_limit,f_auto,q_auto,w_1000/{{ site.url }}{{ post.image }}
+        {% else %}
+        {{ site.url }}/{{ post.image }}
+        {% endif %}
+      )">
         <div class="carousel-container">
           <div class="container">
             <h2 class="animate__animated animate__fadeInDown">{{ post.title }}</h2>

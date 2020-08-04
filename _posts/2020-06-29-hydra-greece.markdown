@@ -25,9 +25,7 @@ And on the spot, Cohen decided to head down to Greece. He was in [Athens](https:
 
 ## The Bird on the Wire
 
-{% cloudinary {{ site.url }}/assets/img/2020/06/Hydra-Harbor-Sunny.jpg alt="Hydra Harbor Sunny" caption="Hydra Harbor Sunny" %}
-
-![Hydra Harbor Sunny]({{ site.url }}/assets/img/2020/06/Hydra-Harbor-Sunny.jpg){: .img-fluid}
+{% cloudinary /assets/img/2020/06/Hydra-Harbor-Sunny.jpg alt="Hydra Harbor Sunny" caption="Hydra Harbor Sunny" %}
 
 Leonard Cohen arrived in Greece on April 13, 1960, and continued south, hopping on a ship for a five-hour journey to the island of Hydra where electricity was a novelty and there wasn't a car in sight. Months later, six days after his twenty-six birthday, Cohen used some money left to him from his grandmother to purchase a home in Hydra for $1,500. It's from this home, a few minutes walk down to the port, that Cohen wrote the opening lines to "Bird on the Wire."
 

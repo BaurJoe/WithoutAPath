@@ -50,6 +50,7 @@ instafeed-app: https://xxx.herokuapp.com/token.js
 cloudinary:
   cloud_name: withoutapath
   verbose: false
+  only_prod: true
   presets:
     default:
       min_width: 250
