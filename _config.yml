@@ -74,8 +74,14 @@ cloudinary:
 
 # jekyll-feed
 feed:
-  excerpt_only: false
-  posts_limit: 20
+  path: atom.xml
+  excerpt_only: true
+  collections:
+    posts:
+      path: "/posts.xml"
+      posts_limit: false
+
+
 
 #albolia search 
 algolia:
