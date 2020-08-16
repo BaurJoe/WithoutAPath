@@ -81,8 +81,6 @@ feed:
       path: "/posts.xml"
       posts_limit: false
 
-
-
 #albolia search 
 algolia:
   application_id: SI1WCX3GH6
